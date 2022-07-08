@@ -5,6 +5,7 @@ import reset from "styled-reset"
 // import { Footer } from "../footer/Footer"
 import { Section, Container } from "./Boxes"
 import { NavBar } from "../../navBar/NavBar"
+import { Footer } from "../../footer/Footer";
 
 const GlobalStyle = createGlobalStyle`
   ${reset}
@@ -51,6 +52,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
           <Container></Container>
         </Section>
         <Section>{children}</Section>
+        <Footer />
       </ThemeProvider>
     </>
   )
