@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
@@ -13,6 +14,8 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+        name: `locale`,
+        path: `${__dirname}/src/locales`,
       },
     },
     `gatsby-transformer-sharp`,
@@ -29,6 +32,21 @@ module.exports = {
         // theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: "gatsby-plugin-react-i18next",
+      options: {
+        localeJsonSourceName: "locale",
+        languages: ["pt", "en", "es"],
+        defaultLanguage: "pt",
+      },
+      i18nextOptions: {
+        interpolation: {
+          escapeValue: false
+        },
+        keySeparator: false,
+        nsSeparator: false
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

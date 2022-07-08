@@ -1,0 +1,10 @@
+{
+    "nav": {
+        "home": "home",
+        "about": "sobre",
+        "designers": "designers",
+        "products": "produtos",
+        "finishes": "acabamentos",
+        "contact": "contato"
+    }
+}
