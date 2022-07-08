@@ -6,25 +6,20 @@ const LanguagesContainer = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 200px;
+  width: 90px;
+`
+const LanguageLink = styled(Link)`
+  color: ${props => props.theme.colors.darkGrey};
 `
 
 export const LanguageSelect = () => {
-  const { languages, changeLanguage } = useI18next()
-    console.log({languages});
+  const { languages, originalPath } = useI18next()
   return (
     <LanguagesContainer>
       {languages.map(language => (
-        <a
-          key={language}
-          href="#"
-          onClick={(e) => {
-            e.preventDefault();
-            changeLanguage(language)
-          }}
-        >
+        <LanguageLink to={originalPath} language={language}>
           {language}
-        </a>
+        </LanguageLink>
       ))}
     </LanguagesContainer>
   )

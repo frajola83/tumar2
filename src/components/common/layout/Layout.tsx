@@ -1,10 +1,10 @@
 import React from "react"
-import { theme } from "../../theme"
+import { theme } from "../../../../theme"
 import { createGlobalStyle, ThemeProvider } from "styled-components"
 import reset from "styled-reset"
-import { NavBar } from "../base/NavBar"
-import { Footer } from "../footer/Footer"
+// import { Footer } from "../footer/Footer"
 import { Section, Container } from "./Boxes"
+import { NavBar } from "../../navBar/NavBar"
 
 const GlobalStyle = createGlobalStyle`
   ${reset}
@@ -36,7 +36,7 @@ const GlobalStyle = createGlobalStyle`
 `
 
 interface LayoutProps {
-  children: JSX.Element
+  children?: JSX.Element | JSX.Element[]
 }
 
 export const Layout: React.FC<LayoutProps> = ({ children }) => {
@@ -44,13 +44,13 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
     <>
       <GlobalStyle />
       <ThemeProvider theme={theme}>
+        <Container>
+          <NavBar />
+        </Container>
         <Section style={{ background: "#fff" }}>
-          <Container>
-            <NavBar />
-          </Container>
+          <Container></Container>
         </Section>
         <Section>{children}</Section>
-        <Footer />
       </ThemeProvider>
     </>
   )

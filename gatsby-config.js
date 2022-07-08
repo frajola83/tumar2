@@ -43,10 +43,20 @@ module.exports = {
       },
       i18nextOptions: {
         interpolation: {
-          escapeValue: false
+          escapeValue: false,
         },
         keySeparator: false,
-        nsSeparator: false
+        nsSeparator: false,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `raleway\:300;500;900`,
+          //`source sans pro\:300,400,400i,700` // you can also specify font weights and styles
+        ],
+        display: "swap",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
