@@ -6,5 +6,35 @@
         "products": "produtos",
         "finishes": "acabamentos",
         "contact": "contato"
+    },
+    "footer": {
+        "institutional": {
+            "title": "institucional",
+            "links": {
+                "about": "a tumar",
+                "designers": "designers",
+                "privacyPolicy": "política de privacidade",
+                "restrictedArea": "área restrita"
+            }
+        },
+        "contact": {
+            "title": "fale conosco",
+            "links": {
+                "contact": "contato"
+            }
+        },
+        "products": {
+            "title": "produtos",
+            "links": {
+                "stools": "banquetas",
+                "chairs": "cadeiras",
+                "tables": "mesas de jantar",
+                "sideAndCoffeeTables": "mesas laterais e de centro",
+                "armchairs": "poltronas",
+                "benchesAndOttoman": "bancos e puffs",
+                "lighting": "luminárias",
+                "barCart": "carros bar"
+            }
+        }
     }
 }

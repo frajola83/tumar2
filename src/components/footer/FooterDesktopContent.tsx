@@ -5,6 +5,7 @@ import styled from "styled-components"
 import { FooterLogo } from "./FooterLogo"
 import { Container } from "../common/layout/Boxes"
 import {Flex} from "../common/Flex"
+import { useTranslation } from "react-i18next"
 
 interface FooterDesktopContentProps { }
 
@@ -55,6 +56,9 @@ const ListsContainer = styled.div`
 `
 
 export const FooterDesktopContent: React.FC<FooterDesktopContentProps> = ({ }) => {
+
+    const {t} = useTranslation();
+
     return (
         <Holder>
             <Flex>
@@ -62,13 +66,13 @@ export const FooterDesktopContent: React.FC<FooterDesktopContentProps> = ({ }) =
             </Flex>
             <ListsContainer>
                 <Flex direction="column">
-                    <FooterListTitle>institucional</FooterListTitle>
+                    <FooterListTitle>{t("footer.institutional.title")}</FooterListTitle>
                     <FooterList>
                         <FooterListItem>
-                            <FooterListLink to="/sobre-a-tumar">a tumar</FooterListLink>
+                            <FooterListLink to="/sobre-a-tumar">{t("footer.institutional.links.about")}</FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
-                            <FooterListLink to="/designers">designers</FooterListLink>
+                            <FooterListLink to="/designers">{t("footer.institutional.links.designers")}</FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/politica-de-privacidade">

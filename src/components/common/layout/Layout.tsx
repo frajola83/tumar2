@@ -45,11 +45,10 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
     <>
       <GlobalStyle />
       <ThemeProvider theme={theme}>
-        <Container>
-          <NavBar />
-        </Container>
         <Section style={{ background: "#fff" }}>
-          <Container></Container>
+          <Container>
+            <NavBar />
+          </Container>
         </Section>
         <Section>{children}</Section>
         <Footer />

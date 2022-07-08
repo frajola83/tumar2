@@ -9,12 +9,12 @@
     },
 
     "footer": {
-        "institutional" {
-            "title": "institucional",
+        "institutional": {
+            "title": "institutional",
             "links": {
-                "about": "a tumar",
+                "about": "about tumar",
                 "designers": "designers",
-                "privacyPolicy": "política de privacidade",
+                "privacyPolicy": "privacy policy",
                 "restrictedArea": "área restrita"
             }
         },
