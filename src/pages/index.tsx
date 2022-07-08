@@ -5,10 +5,13 @@ import styled from "styled-components"
 import { LanguageSelect } from "../components/common/LanguageSelect"
 import { Link, Trans, useTranslation } from "gatsby-plugin-react-i18next"
 import Layout from "../components/common/layout/Layout"
+import { GalugaSlider } from "../components/slider/GalugaSlider"
 
 const IndexPage = () => {
   const { t } = useTranslation()
-  return <Layout></Layout>
+  return <Layout>
+    <GalugaSlider />
+  </Layout>
 } 
 
 export default IndexPage
