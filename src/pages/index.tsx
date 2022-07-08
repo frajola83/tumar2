@@ -1,19 +1,14 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import Layout from "../components/layout"
 import styled from "styled-components"
 import { LanguageSelect } from "../components/common/LanguageSelect"
-import {Link, Trans, useTranslation} from 'gatsby-plugin-react-i18next';
+import { Link, Trans, useTranslation } from "gatsby-plugin-react-i18next"
+import Layout from "../components/common/layout/Layout"
 
 const IndexPage = () => {
-    const {t} = useTranslation();
-    return (
-        <Layout>
-            <LanguageSelect />
-            <h1>{t("nav.about")}</h1>
-        </Layout>
-    )
+  const { t } = useTranslation()
+  return <Layout></Layout>
 } 
 
 export default IndexPage
