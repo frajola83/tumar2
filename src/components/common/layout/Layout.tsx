@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
   ${reset}
   body {
     background-color: ${theme.colors.sand};
-    font-family: Raleway, "Arial Narrow", Arial, sans-serif;
+    font-family: Raleway, "Arial Narrow", Arial, sans-serif!important;
     font-size: 16px;
     font-weight: normal;
   }
