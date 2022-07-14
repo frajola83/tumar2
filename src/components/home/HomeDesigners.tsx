@@ -4,6 +4,7 @@ import styled from "styled-components"
 import { Flex } from "../common/Flex"
 import { LinkCta } from "../common/Buttons"
 import { ImgProvider } from "../common/ImgGraph"
+import { useTranslation } from "react-i18next"
 
 const Holder = styled(Flex)`
   gap: ${props => props.theme.gap * 2}px;
@@ -42,6 +43,7 @@ const Inner = styled(Flex)`
 `
 
 export const HomeDesigners: React.FC = ({}) => {
+  const {t} = useTranslation();
   return (
     <Holder>
       <Flex direction="column" align="center" justify="center">
@@ -52,10 +54,9 @@ export const HomeDesigners: React.FC = ({}) => {
         />
         <TextContainer>
           <Inner>
-            <Title>Designers</Title>
+            <Title>{t("pages.home.designers.title")}</Title>
             <Text>
-              Conheça os grandes nomes que trabalham ao nosso lado e explore
-              suas criações.
+              {t("pages.home.designers.text")}
             </Text>
             <LinkCta to="/designers" style={{ alignSelf: "flex-end" }}>
               Conheça
@@ -71,11 +72,9 @@ export const HomeDesigners: React.FC = ({}) => {
         />
         <TextContainer>
           <Inner>
-            <Title>A Tumar</Title>
+          <Title>{t("pages.home.about.title")}</Title>
             <Text>
-              A Tumar atua no mercado de mobiliário desde 1992, tornando-se
-              referência de qualidade no segmento e conquistando, desta forma,
-              muita credibilidade junto a seus clientes.
+              {t("pages.home.about.text")}
             </Text>
             <LinkCta to="/sobre-a-tumar" style={{ alignSelf: "flex-end" }}>
               Saiba mais

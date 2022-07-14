@@ -14,26 +14,26 @@
                 "about": "about tumar",
                 "designers": "designers",
                 "privacyPolicy": "privacy policy",
-                "restrictedArea": "área restrita"
+                "restrictedArea": "restricted area"
             }
         },
         "contact": {
-            "title": "fale conosco",
+            "title": "contact us",
             "links": {
-                "contact": "contato"
+                "contact": "contact"
             }
         },
         "products": {
-            "title": "produtos",
+            "title": "products",
             "links": {
-                "stools": "banquetas",
-                "chairs": "cadeiras",
-                "tables": "mesas de jantar",
-                "sideAndCoffeeTables": "mesas laterais e de centro",
-                "armchairs": "poltronas",
-                "benchesAndOttoman": "bancos e puffs",
-                "lighting": "luminárias",
-                "barCart": "carros bar"
+                "stools": "stools",
+                "chairs": "chairs",
+                "tables": "tables",
+                "sideAndCoffeeTables": "side and coffee tables",
+                "armchairs": "armchairs",
+                "benchesAndOttoman": "benches and ottoman",
+                "lighting": "lighting",
+                "barCart": "bar cart"
             }
         }
     },
@@ -41,29 +41,30 @@
         "home": {
             "designers": {
                 "title": "Designers",
-                "text": "Conheça os grandes nomes que trabalham ao nosso lado e explore suas criações."
+                "text": "Meet the big names that work alongside us and explore their creations."
             },
             "about": {
-                "title": "A Tumar",
-                "text": "A Tumar atua no mercado de mobiliário desde 1992, tornando-se referência de qualidade no segmento e conquistando, desta forma, muita credibilidade junto a seus clientes."
+                "title": "Tumar",
+                "text": "Tumar has been operating in the furniture market since 1992, becoming a quality reference in the segment and, in this way, gaining a lot of credibility with its customers."
             }
         },
         "about": {
             "title": "Tumar",
-            "subtitle": "Uma trama perfeita entre qualidade e design."
+            "subtitle": "A perfect blend of <br />quality and design.",
+            "text": "The passion for producing furniture with quality has always been present at Tumar since its foundation in 1992. Founded in Serra Gaúcha, a region colonized by Italians, where doing well is something strongly rooted in the local culture, Tumar has been growing rapidly thanks to this way of thinking and working. In constant evolution, Tumar gradually realized that its public wanted more than quality products. The clients also wanted beauty, functionality and differentiation. Basically, they wanted design. For this reason, Tumar has been improving and investing both in the technology and people's talent and creativity, developing products with its internal design studio or in partnership with renowned Brazilian designers. Today Tumar is a recognized brand that delivers quality and design products to the increasingly exigent universe of Brazilian decoration. Tumar is very proud of its trajectory so far, made with a lot of work, investments and always vision for the future."
         },
         "designers": {
             "title": "Designers"
         },
         "products": {
-            "title": "produtos"
+            "title": "products"
         },
         "finishes": {
-            "title": "acabamentos"
+            "title": "finishes"
         },
         "contact": {
-            "title": "contato",
-            "text": "Para conhecer melhor nossos produtos, solicitar informações ou enviar sugestões, preencha o formulário. Nossa equipe está sempre pronta para atendê-lo."
+            "title": "contact",
+            "text": "To learn more about our products, request information or send suggestions, fill out the form. Our team is always ready to serve you."
         }
     }
 }

@@ -3,6 +3,7 @@ import styled from "styled-components"
 import { breakpoints } from "../../utils/styledResponsive"
 import { ImgProvider } from "../common/ImgGraph"
 import { Container } from "../common/layout/Boxes"
+import { useTranslation } from "react-i18next"
 
 interface BlockProps {
   basis?: string
@@ -57,14 +58,13 @@ const TextContainer = styled.div`
 `
 
 export const SobrePage: React.FC = ({ }) => {
+  const {t} = useTranslation();
+
   return (
     <Container>
       <TitleContainer>
-        <Title style={{ textTransform: "uppercase" }}>Tumar.</Title>
-        <SubTitle>
-          Uma trama perfeita entre <br />
-          qualidade e design.
-        </SubTitle>
+        <Title style={{ textTransform: "uppercase" }}>{t("pages.about.title")}</Title>
+        <SubTitle>{t("pages.about.subtitle")}</SubTitle>
       </TitleContainer>
 
       <TextContainer>

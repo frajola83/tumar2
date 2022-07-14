@@ -6,11 +6,12 @@ import { LanguageSelect } from "../components/common/LanguageSelect"
 import { Link, Trans, useTranslation } from "gatsby-plugin-react-i18next"
 import Layout from "../components/common/layout/Layout"
 import { GalugaSlider } from "../components/slider/GalugaSlider"
+import { HomePage } from "../components/home/HomePage"
 
 const IndexPage = () => {
   const { t } = useTranslation()
   return <Layout>
-    <GalugaSlider />
+    <HomePage></HomePage>
   </Layout>
 } 
 
