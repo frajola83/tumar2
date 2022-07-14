@@ -63,7 +63,7 @@ export const SobrePage: React.FC = ({ }) => {
   return (
     <Container>
       <TitleContainer>
-        <Title style={{ textTransform: "uppercase" }}>{t("pages.about.title")}</Title>
+        <Title style={{ textTransform: "uppercase" }}>{t("pages.home.about.title")}</Title>
         <SubTitle>{t("pages.about.subtitle")}</SubTitle>
       </TitleContainer>
 

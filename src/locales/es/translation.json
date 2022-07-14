@@ -1,70 +1,70 @@
 {
-    "nav": {
-        "home": "inicio",
-        "about": "acerca de",
+  "nav": {
+    "home": "inicio",
+    "about": "acerca de",
+    "designers": "diseñadores",
+    "products": "productos",
+    "finishes": "acabados",
+    "contact": "contacto"
+  },
+  "footer": {
+    "institutional": {
+      "title": "institucional",
+      "links": {
+        "about": "tumar",
         "designers": "diseñadores",
-        "products": "productos",
-        "finishes": "acabados",
+        "privacyPolicy": "política de privacidad",
+        "restrictedArea": "área restringida"
+      }
+    },
+    "contact": {
+      "title": "hable con nosotros",
+      "links": {
         "contact": "contacto"
+      }
     },
-    "footer": {
-        "institutional": {
-            "title": "institucional",
-            "links": {
-                "about": "tumar",
-                "designers": "diseñadores",
-                "privacyPolicy": "política de privacidad",
-                "restrictedArea": "área restringida"
-            }
-        },
-        "contact": {
-            "title": "hable con nosotros",
-            "links": {
-                "contact": "contacto"
-            }
-        },
-        "products": {
-            "title": "productos",
-            "links": {
-                "stools": "taburetes",
-                "chairs": "sillas",
-                "tables": "mesas de comedor",
-                "sideAndCoffeeTables": "mesas auxiliares y de centro",
-                "armchairs": "sillón",
-                "benchesAndOttoman": "bancos y pufs",
-                "lighting": "lámparas",
-                "barCart": "carro bar"
-            }
-        }
-    },
-    "pages": {
-        "home": {
-            "designers": {
-                "title": "diseñadores",
-                "text": "Conoce a los grandes nombres que trabajan con nosotros y explora sus creaciones."
-            },
-            "about": {
-                "title": "Tumar",
-                "text": "Tumar actúa en el mercado de muebles desde 1992, convirtiéndose en una referencia de calidad en el segmento y, de esa forma, ganando mucha credibilidad con sus clientes."
-            }
-        },
-        "about": {
-            "title": "Tumar",
-            "subtitle": "Una mezcla perfecta entre <br />calidad y diseño.",
-            "text": "La pasión por producir con calidad siempre estuvo presente en Tumar desde su fundación, en 1992. Nacida en  la Serra Gaúcha, una región colonizada por italianos y donde el 'hacer bien' es algo fuertemente arraigado en la cultura local, Tumar creció rápidamente gracias a esta forma de pensar y trabajar. En constante evolución, Tumar poco a poco se dio cuenta de que su público quería más que productos de calidad. También quería belleza, funcionalidad y diferenciación. Básicamente quería diseño. Así, Tumar mejoró y comenzó a invertir tanto en la tecnología de su parque industrial como en el talento y creatividad de las personas, desarrollando productos internamente o en alianza con reconocidos diseñadores nacionales. Hoy Tumar es una marca reconocida, que entrega productos con calidad y diseño para el universo cada vez más exigente de la decoración brasileña. Tumar se siente muy orgullosa de su trayectoria hasta el momento, hecha con trabajo, inversión y visión de futuro."
-        },
-        "designers": {
-            "title": "diseñadores"
-        },
-        "products": {
-            "title": "productos"
-        },
-        "finishes": {
-            "title": "acabados"
-        },
-        "contact": {
-            "title": "contacto",
-            "text": "Para conocer más sobre nuestros productos, solicitar información o enviar sugerencias, rellene el formulario. Nuestro equipo está siempre listo para servirle."
-        }
+    "products": {
+      "title": "productos",
+      "links": {
+        "stools": "taburetes",
+        "chairs": "sillas",
+        "tables": "mesas de comedor",
+        "sideAndCoffeeTables": "mesas auxiliares y de centro",
+        "armchairs": "sillón",
+        "benchesAndOttoman": "bancos y pufs",
+        "lighting": "lámparas",
+        "barCart": "carro bar"
+      }
     }
+  },
+  "pages": {
+    "home": {
+      "designers": {
+        "title": "diseñadores",
+        "text": "Conoce a los grandes nombres que trabajan con nosotros y explora sus creaciones."
+      },
+      "about": {
+        "title": "Tumar",
+        "text": "Tumar actúa en el mercado de muebles desde 1992, convirtiéndose en una referencia de calidad en el segmento y, de esa forma, ganando mucha credibilidad con sus clientes."
+      }
+    },
+    "about": {
+      "title": "Tumar",
+      "subtitle": "Una mezcla perfecta entre \n calidad y diseño.",
+      "text": "La pasión por producir con calidad siempre estuvo presente en Tumar desde su fundación, en 1992. Nacida en  la Serra Gaúcha, una región colonizada por italianos y donde el 'hacer bien' es algo fuertemente arraigado en la cultura local, Tumar creció rápidamente gracias a esta forma de pensar y trabajar. En constante evolución, Tumar poco a poco se dio cuenta de que su público quería más que productos de calidad. También quería belleza, funcionalidad y diferenciación. Básicamente quería diseño. Así, Tumar mejoró y comenzó a invertir tanto en la tecnología de su parque industrial como en el talento y creatividad de las personas, desarrollando productos internamente o en alianza con reconocidos diseñadores nacionales. Hoy Tumar es una marca reconocida, que entrega productos con calidad y diseño para el universo cada vez más exigente de la decoración brasileña. Tumar se siente muy orgullosa de su trayectoria hasta el momento, hecha con trabajo, inversión y visión de futuro."
+    },
+    "designers": {
+      "title": "diseñadores"
+    },
+    "products": {
+      "title": "productos"
+    },
+    "finishes": {
+      "title": "acabados"
+    },
+    "contact": {
+      "title": "contacto",
+      "text": "Para conocer más sobre nuestros productos, solicitar información o enviar sugerencias, rellene el formulario. Nuestro equipo está siempre listo para servirle."
+    }
+  }
 }
