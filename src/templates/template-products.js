@@ -13,7 +13,7 @@ export default function Template({ data }) {
 
 export const pageQuery = graphql`
   query($slug: String!) {
-    allProductJson(filter: { category_slug: { eq: $slug } }) {
+    allProductEsJson(filter: { category_slug: { eq: $slug } }) {
       nodes {
         cover_img
         slug

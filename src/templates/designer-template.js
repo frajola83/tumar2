@@ -4,6 +4,9 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/Layout"
 
 export default function Template({ data }) {
+
+  const context = React.useContext(I18nextContext);
+
   return (
     <Layout>
       <DesignerPageTemplate data={data} />
@@ -11,8 +14,9 @@ export default function Template({ data }) {
   )
 }
 
+
 export const pageQuery = graphql`
-  query($id: String!) {
+  query($id: String!, language) {
     allDesignersJson(filter: { id: { eq: $id } }) {
       nodes {
         coverImg
