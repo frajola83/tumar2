@@ -1,7 +1,9 @@
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
   // const templateDesigners = require.resolve("./src/templates/template-desiners")
-  const templateProducts = require.resolve("./src/templates/template-products")
+  const templateProductsPt = require.resolve("./src/templates/template-products-pt")
+  const templateProductsEs = require.resolve("./src/templates/template-products-es")
+  const templateProductsEn = require.resolve("./src/templates/template-products-en")
 
   const languages = [
     { lang: "pt", slug: "" },
@@ -35,45 +37,53 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
   `)
 
-  if (result.errror) {
+  if (result.error) {
     reporter.panickOnBuild("Error loading GraphQl")
+    console.log(result.error)
   }
 
-  languages.forEach(language => {
-    if (language === "pt") {
-      result.data.allCategoryPtJson.nodes.forEach(({ slug }) => {
-        createPage({
-          path: "/produtos/" + slug,
-          component: templateProducts,
-          context: {
-            language,
-          },
-        })
+  console.log(JSON.stringify(result))
+
+  try {
+      languages.forEach(language => {
+        console.log(JSON.stringify(result.data));
+        if (language === "pt") {
+          result.data.allCategoryPtJson.nodes.forEach(({ slug }) => {
+            createPage({
+              path: "/produtos/" + slug,
+              component: templateProductsPt,
+              context: {
+                language,
+              },
+            })
+          })
+        }
+        if (language === "en") {
+          result.data.allCategoryPtJson.nodes.forEach(({ slug }) => {
+            createPage({
+              path: "/produtos/" + slug,
+              component: templateProductsEn,
+              context: {
+                language,
+              },
+            })
+          })
+        }
+        if (language === "es") {
+          result.data.allCategoryPtJson.nodes.forEach(({ slug }) => {
+            createPage({
+              path: "/produtos/" + slug,
+              component: templateProductsEs,
+              context: {
+                language,
+              },
+            })
+          })
+        }
       })
-    }
-    if (language === "en") {
-      result.data.allCategoryPtJson.nodes.forEach(({ slug }) => {
-        createPage({
-          path: "/produtos/" + slug,
-          component: templateProducts,
-          context: {
-            language,
-          },
-        })
-      })
-    }
-    if (language === "es") {
-      result.data.allCategoryPtJson.nodes.forEach(({ slug }) => {
-        createPage({
-          path: "/produtos/" + slug,
-          component: templateProducts,
-          context: {
-            language,
-          },
-        })
-      })
-    }
-  })
+  } catch (error) {
+    constole.log({error})
+  }
 
   // createPage({
   //   path: "/using-dsg",

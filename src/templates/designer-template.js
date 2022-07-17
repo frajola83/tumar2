@@ -16,7 +16,7 @@ export default function Template({ data }) {
 
 
 export const pageQuery = graphql`
-  query($id: String!, language) {
+  query($id: String!) {
     allDesignersJson(filter: { id: { eq: $id } }) {
       nodes {
         coverImg
