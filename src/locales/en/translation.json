@@ -57,11 +57,15 @@
                 "text": "Tumar has been operating in the furniture market since 1992, becoming a quality reference in the segment and, in this way, gaining a lot of credibility with its customers.",
                 "btn": "know more"
             }
-        },
+        }, 
         "about": {
             "title": "Tumar",
-            "subtitle": "A perfect blend of <br />quality and design.",
-            "text": "The passion for producing furniture with quality has always been present at Tumar since its foundation in 1992. Founded in Serra Gaúcha, a region colonized by Italians, where doing well is something strongly rooted in the local culture, Tumar has been growing rapidly thanks to this way of thinking and working. In constant evolution, Tumar gradually realized that its public wanted more than quality products. The clients also wanted beauty, functionality and differentiation. Basically, they wanted design. For this reason, Tumar has been improving and investing both in the technology and people's talent and creativity, developing products with its internal design studio or in partnership with renowned Brazilian designers. Today Tumar is a recognized brand that delivers quality and design products to the increasingly exigent universe of Brazilian decoration. Tumar is very proud of its trajectory so far, made with a lot of work, investments and always vision for the future."
+            "subtitle": "A perfect blend of \n quality and design.",
+            "text": "The passion for producing furniture with quality has always been present at Tumar since its foundation in 1992. Founded in Serra Gaúcha, a region colonized by Italians,where doing well is something strongly rooted in the local culture, Tumar has been growing rapidly thanks to this way of thinking and working.",
+            "text2": "In constant evolution, Tumar gradually realized that its public wanted more than quality products. The clients also wanted beauty, functionality and differentiation. Basically, they wanted design.",
+            "text3": "For this reason, Tumar has been improving and investing both in the technology and peoples talent and creativity, developing products with its internal design studio or in partnership with renowned Brazilian designers.",
+            "text4": "Today Tumar is a recognized brand that delivers quality and design products to the increasingly exigent universe of Brazilian decoration.",
+            "text5": "Tumar is very proud of its trajectory so far, made with a lot of work, investments and always vision for the future."
         },
         "designers": {
             "title": "Designers"
