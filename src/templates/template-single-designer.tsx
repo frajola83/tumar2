@@ -1,7 +1,7 @@
 import React from "react"
 import { DesignerPageTemplate } from "../components/designers/DesignersPageTemplate"
 import { graphql } from "gatsby"
-import Layout from "../components/layout/Layout"
+import {Layout} from "../components/common/layout/Layout"
 
 export default function Template({ data }) {
   return (

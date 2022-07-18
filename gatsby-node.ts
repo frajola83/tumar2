@@ -50,58 +50,19 @@ export const createPages: GatsbyNode["createPages"] = async ({
   const { createPage } = actions
   const result: { error?: any; data?: GraphQlDataResult } = await graphql(`
     query AllData {
-      allCategoryEnJson {
+      allDesignerEnJson {
         nodes {
           slug
-          name
-          coverImg
         }
       }
-      allCategoryEsJson {
+      allDesignerEsJson {
         nodes {
           slug
-          name
-          coverImg
         }
       }
-      allCategoryPtJson {
+      allDesignerPtJson {
         nodes {
           slug
-          name
-          coverImg
-        }
-      }
-      allProductPtJson {
-        nodes {
-          slug
-          category_slug
-        }
-      }
-      allProductEnJson {
-        nodes {
-          slug
-          category_slug
-        }
-      }
-      allProductEsJson {
-        nodes {
-          slug
-          category_slug
-        }
-      }
-      allDesignersEnJson {
-        nodes {
-          id
-        }
-      }
-      allDesignersEsJson {
-        nodes {
-          id
-        }
-      }
-      allDesignersPtJson {
-        nodes {
-          id
         }
       }
     }
@@ -115,49 +76,54 @@ export const createPages: GatsbyNode["createPages"] = async ({
   const langs = Object.keys(Languages)
 
   langs.forEach(lang => {
+    
     const currentLanguage = Languages[lang]
     switch (currentLanguage) {
-      case "en":
+      case "en": {
         result.data?.allDesignerEnJson.nodes.forEach(node => {
-          createPage({
-            path: "en/designers/" + node.slug,
-            component: require.resolve(
-              "./src/templates/template-single-designer"
+          const options = {
+            path: currentLanguage + node.slug,
+            component: resolve(__dirname, 
+              "./src/templates/template-single-designer.tsx"
             ),
             context: {
               slug: node.slug,
-              language: "en",
+              language: currentLanguage,
             },
-          })
+          }
+          return createPage(options);
         })
         break
-      case "es":
+      }
+      case "en": {
         result.data?.allDesignerEsJson.nodes.forEach(node => {
-          createPage({
-            path: "es/designers/" + node.slug,
-            component: require.resolve(
-              "./src/templates/template-single-designer"
+          const options = {
+            path: currentLanguage + node.slug,
+            component: resolve(__dirname, 
+              "./src/templates/template-single-designer.tsx"
             ),
             context: {
               slug: node.slug,
-              language: "es",
+              language: currentLanguage,
             },
-          })
+          }
+          return createPage(options);
         })
         break
-
+      }
       default:
-        result.data?.allDesignerEnJson.nodes.forEach(node => {
-          createPage({
-            path: "designers/" + node.slug,
-            component: require.resolve(
-              "./src/templates/template-single-designer"
+        result.data?.allDesignerPtJson.nodes.forEach(node => {
+          const options = {
+            path: node.slug,
+            component: resolve(__dirname, 
+              "./src/templates/template-single-designer.tsx"
             ),
             context: {
               slug: node.slug,
-              language: "en",
+              language: currentLanguage,
             },
-          })
+          }
+          return createPage(options);
         })
         break
     }
