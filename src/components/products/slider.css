@@ -1,0 +1,6 @@
+.carousel-root {
+  flex: 1;
+}
+.carousel .slide {
+  background-color: #FEF9F5;
+}

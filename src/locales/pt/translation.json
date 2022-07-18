@@ -63,6 +63,9 @@
         "products": {
             "title": "produtos"
         },
+        "productSingle": {
+            "title": "produtos tumar"
+          },
         "finishes": {
             "title": "acabamentos"
         },
