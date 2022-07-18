@@ -1,12 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layout/Layout"
+import Layout from "../components/common/layout/Layout";
 import { ProductsPageTemplate } from "../components/products/ProductsPageTemplate"
 
 export default function Template({ data }) {
   return (
     <Layout>
-      <ProductsPageTemplate data={data.allProductJson.nodes} />
+      <ProductsPageTemplate data={data.allProductEnJson.nodes} />
     </Layout>
   )
 }

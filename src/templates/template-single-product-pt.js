@@ -1,19 +1,19 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layout/Layout"
 import { SingleProcuctPage } from "../components/products/SingleProductPageTemplate"
+import Layout from "../components/common/layout/Layout"
 
 export default function Template({ data }) {
   return (
     <Layout>
-      <SingleProcuctPage data={data.productJson} />
+      <SingleProcuctPage data={data.productPtJson} />
     </Layout>
   )
 }
 
 export const pageQuery = graphql`
   query($slug: String!) {
-    productJson(slug: { eq: $slug }) {
+    productPtJson(slug: { eq: $slug }) {
       ref
       slug
       name
