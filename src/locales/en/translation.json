@@ -39,13 +39,23 @@
     },
     "pages": {
         "home": {
+            "gallery": {
+                "stools": "stools",
+                "chairs": "chairs",
+                "tables": "tables",
+                "benchesAndOttomans": "benches and ottomans",
+                "armchairs": "armchairs"
+            },
+            "btnMoreProducts": "More products",
             "designers": {
                 "title": "Designers",
-                "text": "Meet the big names that work alongside us and explore their creations."
+                "text": "Meet the big names that work alongside us and explore their creations.",
+                "btn": "know more"
             },
             "about": {
                 "title": "Tumar",
-                "text": "Tumar has been operating in the furniture market since 1992, becoming a quality reference in the segment and, in this way, gaining a lot of credibility with its customers."
+                "text": "Tumar has been operating in the furniture market since 1992, becoming a quality reference in the segment and, in this way, gaining a lot of credibility with its customers.",
+                "btn": "know more"
             }
         },
         "about": {
@@ -60,7 +70,11 @@
             "title": "products"
         },
         "productSingle": {
-            "title": "tumar products"
+            "title": "tumar products",
+            "description": "description",
+            "measurements": "measurements",
+            "measurementsCaption": "measurements in inches",
+            "ambientsWith": "ambients with"
           },
         "finishes": {
             "title": "finishes"

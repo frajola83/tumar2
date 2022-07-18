@@ -1,6 +1,7 @@
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import React from "react"
+import { useTranslation } from "react-i18next"
 import styled from "styled-components"
 import { theme } from "../../../theme"
 import { breakpoints } from "../../utils/styledResponsive"
@@ -69,17 +70,17 @@ const Gallery = styled.div`
   margin-top: ${props => props.theme.gap * 2}px;
   margin-bottom: ${props => props.theme.gap * 2}px;
   ${breakpoints("margin-bottom", [
-  `${theme.gap * 2}px`,
-  `${theme.gap * 2}px`,
-  `${theme.gap * 3}px`,
-  `${theme.gap * 4}px`,
-])}
+    `${theme.gap * 2}px`,
+    `${theme.gap * 2}px`,
+    `${theme.gap * 3}px`,
+    `${theme.gap * 4}px`,
+  ])}
   ${breakpoints("margin-top", [
-  `${theme.gap * 2}px`,
-  `${theme.gap * 2}px`,
-  `${theme.gap * 3}px`,
-  `${theme.gap * 4}px`,
-])}
+    `${theme.gap * 2}px`,
+    `${theme.gap * 2}px`,
+    `${theme.gap * 3}px`,
+    `${theme.gap * 4}px`,
+  ])}
 `
 const GalleryGroup = styled.div`
   display: flex;
@@ -118,26 +119,34 @@ const titleStyles = {
 }
 
 export const HomeGallery: React.FC = () => {
+  const { t } = useTranslation()
+
   return (
     <Gallery>
       <GalleryGroup>
         <Banquetas>
           <Link to="/produtos/banquetas">
             <ImageContainerTitle style={titleStyles.topRight}>
-              Banquetas
+              {t("pages.home.gallery.stools")}
             </ImageContainerTitle>
             <ImgInner>
-              <StaticImage src="../../images/home/tie-home.jpg" alt="Banquetas" />
+              <StaticImage
+                src="../../images/home/tie-home.jpg"
+                alt="Banquetas"
+              />
             </ImgInner>
           </Link>
         </Banquetas>
         <Cadeiras>
           <Link to="/produtos/cadeiras">
             <ImageContainerTitle style={titleStyles.topRight}>
-              Cadeiras
+              {t("pages.home.gallery.chairs")}
             </ImageContainerTitle>
             <ImgInner>
-              <StaticImage src="../../images/home/sela-home.jpg" alt="Banquetas" />
+              <StaticImage
+                src="../../images/home/sela-home.jpg"
+                alt="Banquetas"
+              />
             </ImgInner>
           </Link>
         </Cadeiras>
@@ -146,10 +155,13 @@ export const HomeGallery: React.FC = () => {
         <Mesas>
           <Link to="/produtos/mesas-de-jantar">
             <ImageContainerTitle style={titleStyles.topLeft}>
-              Mesas
+              {t("pages.home.gallery.tables")}
             </ImageContainerTitle>
             <ImgInner>
-              <StaticImage src="../../images/home/nebula-home.jpg" alt="Banquetas" />
+              <StaticImage
+                src="../../images/home/nebula-home.jpg"
+                alt="Banquetas"
+              />
             </ImgInner>
           </Link>
         </Mesas>
@@ -158,26 +170,32 @@ export const HomeGallery: React.FC = () => {
         <Bancos>
           <Link to="/produtos/bancos-e-puffs">
             <ImageContainerTitle style={titleStyles.topLeft}>
-              Bancos e puffs
+              {t("pages.home.gallery.benchesAndOttomans")}
             </ImageContainerTitle>
             <ImgInner>
-            <StaticImage src="../../images/home/blu-home.jpg" alt="Banquetas" />blu-home.jp
+              <StaticImage
+                src="../../images/home/blu-home.jpg"
+                alt="Banquetas"
+              />
             </ImgInner>
           </Link>
         </Bancos>
         <Poltronas>
           <Link to="/produtos/poltronas">
             <ImageContainerTitle style={titleStyles.topRight}>
-              Poltronas
+              {t("pages.home.gallery.armchairs")}
             </ImageContainerTitle>
             <ImgInnerPoltrona>
-              <StaticImage src="../../images/home/abbraccio-home.jpg" alt="Banquetas" />
+              <StaticImage
+                src="../../images/home/abbraccio-home.jpg"
+                alt="Banquetas"
+              />
             </ImgInnerPoltrona>
           </Link>
         </Poltronas>
       </GalleryGroup>
       <CtaContainer>
-        <LinkCta to="/produtos">Mais produtos</LinkCta>
+        <LinkCta to="/produtos">{t("pages.home.btnMoreProducts")}</LinkCta>
       </CtaContainer>
     </Gallery>
   )

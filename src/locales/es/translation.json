@@ -39,13 +39,23 @@
   },
   "pages": {
     "home": {
+      "gallery": {
+        "stools": "Taburetes",
+        "chairs": "sillas",
+        "tables": "mesas",
+        "benchesAndOttomans": "bancos y puffs",
+        "armchairs": "sillónes"
+    },
+    "btnMoreProducts": "Más productos",
       "designers": {
         "title": "diseñadores",
-        "text": "Conoce a los grandes nombres que trabajan con nosotros y explora sus creaciones."
+        "text": "Conoce a los grandes nombres que trabajan con nosotros y explora sus creaciones.",
+        "btn": "conozca"
       },
       "about": {
         "title": "Tumar",
-        "text": "Tumar actúa en el mercado de muebles desde 1992, convirtiéndose en una referencia de calidad en el segmento y, de esa forma, ganando mucha credibilidad con sus clientes."
+        "text": "Tumar actúa en el mercado de muebles desde 1992, convirtiéndose en una referencia de calidad en el segmento y, de esa forma, ganando mucha credibilidad con sus clientes.",
+        "btn": "conozca más"
       }
     },
     "about": {
@@ -60,7 +70,11 @@
       "title": "productos"
     },
     "productSingle": {
-      "title": "productos tumar"
+      "title": "productos tumar",
+      "description": "descripción",
+      "measurements": "mediciones",
+      "measurementsCaption": "mediciones en centimetros",
+      "ambientsWith": "ambientes con"
     },
     "finishes": {
       "title": "acabados"

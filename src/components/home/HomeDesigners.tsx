@@ -43,7 +43,7 @@ const Inner = styled(Flex)`
 `
 
 export const HomeDesigners: React.FC = ({}) => {
-  const {t} = useTranslation();
+  const { t } = useTranslation()
   return (
     <Holder>
       <Flex direction="column" align="center" justify="center">
@@ -55,11 +55,9 @@ export const HomeDesigners: React.FC = ({}) => {
         <TextContainer>
           <Inner>
             <Title>{t("pages.home.designers.title")}</Title>
-            <Text>
-              {t("pages.home.designers.text")}
-            </Text>
+            <Text>{t("pages.home.designers.text")}</Text>
             <LinkCta to="/designers" style={{ alignSelf: "flex-end" }}>
-              Conheça
+              {t("pages.home.designers.btn")}
             </LinkCta>
           </Inner>
         </TextContainer>
@@ -72,12 +70,10 @@ export const HomeDesigners: React.FC = ({}) => {
         />
         <TextContainer>
           <Inner>
-          <Title>{t("pages.home.about.title")}</Title>
-            <Text>
-              {t("pages.home.about.text")}
-            </Text>
+            <Title>{t("pages.home.about.title")}</Title>
+            <Text>{t("pages.home.about.text")}</Text>
             <LinkCta to="/sobre-a-tumar" style={{ alignSelf: "flex-end" }}>
-              Saiba mais
+              {t("pages.home.about.btn")}
             </LinkCta>
           </Inner>
         </TextContainer>

@@ -136,18 +136,18 @@ export const SingleProcuctPageTemplate: React.FC<
                 </DesignerContainer>
               ) : null}
             </ProductTitleContainerDesktop>
-            <DescriptionTitle>Descrição</DescriptionTitle>
+            <DescriptionTitle>{t("pages.productSingle.description")}</DescriptionTitle>
             <DescriptionText>{description}</DescriptionText>
-            <MeasurementsSubTitle>Medidas</MeasurementsSubTitle>
+            <MeasurementsSubTitle>{t("pages.productSingle.measurements")}</MeasurementsSubTitle>
             {measurements.map((item: string) => (
               <MeasurementsText key={item}>{item}</MeasurementsText>
             ))}
-            <MeasurementHelp>Medidas em milímetros.</MeasurementHelp>
+            <MeasurementHelp>{t("pages.productSingle.measurementsCaption")}.</MeasurementHelp>
           </InfoContainer>
         </TopWrapper>
         {ambients.length ? (
            <AmbientsWrapper>
-             <AmbientsTitle>Ambientes com {name}</AmbientsTitle>
+             <AmbientsTitle>{t("pages.productSingle.ambientsWith")} {name}</AmbientsTitle>
              <GalleryWrapper>
                <RenderAmbients product={translatedData} />
              </GalleryWrapper>
