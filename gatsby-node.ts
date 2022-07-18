@@ -1,46 +1,6 @@
 import { GatsbyNode } from "gatsby"
 import { resolve } from "path"
-
-enum Languages {
-  Portuguese = "pt",
-  Spanish = "es",
-  English = "en",
-}
-
-type DesignerNode = {
-  slug: string
-}
-
-type AllCategoryJson = {
-  nodes: {
-    slug: string
-    name: string
-    coverImg: string
-  }
-}
-
-type AllDesignerJson = {
-  nodes: DesignerNode[]
-}
-
-type AllProductJson = {
-  nodes: {
-    slug: string
-    category_slug: string
-  }
-}
-
-export interface GraphQlDataResult {
-  allCategoryEnJson: AllCategoryJson
-  allCategoryEsJson: AllCategoryJson
-  allCategoryPtJson: AllCategoryJson
-  allProductEnJson: AllProductJson
-  allProductEsJson: AllProductJson
-  allProductPtJson: AllProductJson
-  allDesignerEnJson: AllDesignerJson
-  allDesignerEsJson: AllDesignerJson
-  allDesignerPtJson: AllDesignerJson
-}
+import { GraphQlDataResult, Languages } from "./create-page-helpers"
 
 export const createPages: GatsbyNode["createPages"] = async ({
   actions,
@@ -65,6 +25,45 @@ export const createPages: GatsbyNode["createPages"] = async ({
           slug
         }
       }
+      allCategoryEnJson {
+        nodes {
+          slug
+          name
+          coverImg
+        }
+      }
+      allCategoryEsJson {
+        nodes {
+          slug
+          name
+          coverImg
+        }
+      }
+      allCategoryPtJson {
+        nodes {
+          slug
+          name
+          coverImg
+        }
+      }
+      allProductPtJson {
+        nodes {
+          slug
+          category_slug
+        }
+      }
+      allProductEnJson {
+        nodes {
+          slug
+          category_slug
+        }
+      }
+      allProductEsJson {
+        nodes {
+          slug
+          category_slug
+        }
+      }
     }
   `)
 
@@ -76,14 +75,14 @@ export const createPages: GatsbyNode["createPages"] = async ({
   const langs = Object.keys(Languages)
 
   langs.forEach(lang => {
-    
     const currentLanguage = Languages[lang]
     switch (currentLanguage) {
       case "en": {
         result.data?.allDesignerEnJson.nodes.forEach(node => {
           const options = {
             path: currentLanguage + node.slug,
-            component: resolve(__dirname, 
+            component: resolve(
+              __dirname,
               "./src/templates/template-single-designer.tsx"
             ),
             context: {
@@ -91,7 +90,35 @@ export const createPages: GatsbyNode["createPages"] = async ({
               language: currentLanguage,
             },
           }
-          return createPage(options);
+          return createPage(options)
+        })
+        result.data?.allCategoryEnJson.nodes.forEach(node => {
+          const options = {
+            path: currentLanguage + "/" + node.slug,
+            component: resolve(
+              __dirname,
+              "./src/templates/template-products-index.tsx"
+            ),
+            context: {
+              slug: node.slug,
+              language: currentLanguage,
+            },
+          }
+          return createPage(options)
+        })
+        result.data?.allProductEnJson.nodes.forEach(node => {
+          const options = {
+            path: currentLanguage + "/" + node.category_slug + "/" + node.slug,
+            component: resolve(
+              __dirname,
+              "./src/templates/template-products-index.tsx"
+            ),
+            context: {
+              slug: node.slug,
+              language: currentLanguage,
+            },
+          }
+          createPage(options)
         })
         break
       }
@@ -99,7 +126,8 @@ export const createPages: GatsbyNode["createPages"] = async ({
         result.data?.allDesignerEsJson.nodes.forEach(node => {
           const options = {
             path: currentLanguage + node.slug,
-            component: resolve(__dirname, 
+            component: resolve(
+              __dirname,
               "./src/templates/template-single-designer.tsx"
             ),
             context: {
@@ -107,7 +135,35 @@ export const createPages: GatsbyNode["createPages"] = async ({
               language: currentLanguage,
             },
           }
-          return createPage(options);
+          return createPage(options)
+        })
+        result.data?.allCategoryEsJson.nodes.forEach(node => {
+          const options = {
+            path: currentLanguage + "/" + node.slug,
+            component: resolve(
+              __dirname,
+              "./src/templates/template-products-index.tsx"
+            ),
+            context: {
+              slug: node.slug,
+              language: currentLanguage,
+            },
+          }
+          return createPage(options)
+        })
+        result.data?.allProductEsJson.nodes.forEach(node => {
+          const options = {
+            path: currentLanguage + "/" + node.category_slug + "/" + node.slug,
+            component: resolve(
+              __dirname,
+              "./src/templates/template-products-index.tsx"
+            ),
+            context: {
+              slug: node.slug,
+              language: currentLanguage,
+            },
+          }
+          createPage(options)
         })
         break
       }
@@ -115,7 +171,8 @@ export const createPages: GatsbyNode["createPages"] = async ({
         result.data?.allDesignerPtJson.nodes.forEach(node => {
           const options = {
             path: node.slug,
-            component: resolve(__dirname, 
+            component: resolve(
+              __dirname,
               "./src/templates/template-single-designer.tsx"
             ),
             context: {
@@ -123,7 +180,35 @@ export const createPages: GatsbyNode["createPages"] = async ({
               language: currentLanguage,
             },
           }
-          return createPage(options);
+          return createPage(options)
+        })
+        result.data?.allCategoryPtJson.nodes.forEach(node => {
+          const options = {
+            path: node.slug,
+            component: resolve(
+              __dirname,
+              "./src/templates/template-products-index.tsx"
+            ),
+            context: {
+              slug: node.slug,
+              language: currentLanguage,
+            },
+          }
+          return createPage(options)
+        })
+        result.data?.allProductPtJson.nodes.forEach(node => {
+          const options = {
+            path: node.category_slug + "/" + node.slug,
+            component: resolve(
+              __dirname,
+              "./src/templates/template-products-index.tsx"
+            ),
+            context: {
+              slug: node.slug,
+              language: currentLanguage,
+            },
+          }
+          createPage(options)
         })
         break
     }

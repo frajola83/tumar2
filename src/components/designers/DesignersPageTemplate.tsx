@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 import { Container } from "../common/layout/Boxes"
 import { Gallery } from "../gallery/Gallery"
 import { Designer } from "../../interfaces/designerInterfaces"
-import { I18nextContext } from "gatsby-plugin-react-i18next"
+import { I18nextContext, useTranslation } from "gatsby-plugin-react-i18next"
 
 interface DesignerPageTemplateProps {
   data: DesignerData
@@ -62,6 +62,7 @@ export const DesignerPageTemplate: React.FC<DesignerPageTemplateProps> = ({
   data,
 }) => {
   const context = useContext(I18nextContext)
+  const { t } = useTranslation()
   let translatedData: Designer | null = null
 
   switch (context.language) {
@@ -102,7 +103,9 @@ export const DesignerPageTemplate: React.FC<DesignerPageTemplateProps> = ({
           </TextContainer>
         </FlexContainer>
       </TopContainer>
-      <BottomTitle>{title} para Tumar</BottomTitle>
+      <BottomTitle>
+        {title} {t("pages.designerSingle.forTumar")}
+      </BottomTitle>
       <Gallery data={products} />
     </Container>
   )

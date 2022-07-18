@@ -1,10 +1,9 @@
-import React from "react"
-import { breakpoints } from "../../utils/styledResponsive"
-import styled from "styled-components"
-import { ImgProvider } from "../common/ImgGraph"
 import { Link } from "gatsby"
-import { useContext } from "react"
-import { I18nextContext } from "gatsby-plugin-react-i18next"
+import React from "react"
+import styled from "styled-components"
+import { Product } from "../../interfaces/productInterfaces"
+import { breakpoints } from "../../utils/styledResponsive"
+import { ImgProvider } from "../common/ImgGraph"
 
 const ImgInner = styled.div`
   width: 100%;
@@ -52,22 +51,18 @@ const Title = styled.h3`
     width: 80%;
   }
 `
-interface ProductComponentProps {
-  slug: string
-  cover_img: string
-  category_slug: string
-  name: string
-}
 
-export const ProductComponent: React.FC<ProductComponentProps> = ({ slug, cover_img, category_slug, name }) => {
+export const ProductComponent: React.FC<Product> = ({
+  slug,
+  cover_img,
+  category_slug,
+  name,
+}) => {
   const link = `/produtos/${category_slug}/${slug}`
-  
-  const lang = useContext(I18nextContext)
 
   return (
     <Item to={link}>
       <ImgWrapper>
-        <h1>{lang.language}</h1>
         <ImgInner>
           <ImgProvider
             fileName={`${cover_img}.jpg`}
