@@ -1,9 +1,9 @@
 import React from "react"
 import styled from "styled-components"
 import { breakpoints } from "../../utils/styledResponsive"
-import { Container } from "../layout/Boxes"
 import { ImgProvider } from "../common/ImgGraph"
 import { Link } from "gatsby"
+import { Container } from "../common/layout/Boxes"
 import { Gallery } from "../gallery/Gallery"
 
 interface DesignerPageTemplateProps {

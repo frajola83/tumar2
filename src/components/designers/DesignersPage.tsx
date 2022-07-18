@@ -2,9 +2,9 @@ import { graphql, Link, StaticQuery } from "gatsby"
 import React from "react"
 import { breakpoints } from "../../utils/styledResponsive"
 import styled from "styled-components"
-import { Container } from "../layout/Boxes"
 import { ImgProvider } from "../common/ImgGraph"
 import { PageTitle } from "../common/PageTitle"
+import { Container } from "../common/layout/Boxes"
 
 const FlexContainer = styled.div`
   display: flex;
