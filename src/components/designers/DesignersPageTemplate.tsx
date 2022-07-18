@@ -1,13 +1,15 @@
-import React from "react"
+import React, { useContext } from "react"
 import styled from "styled-components"
 import { breakpoints } from "../../utils/styledResponsive"
 import { ImgProvider } from "../common/ImgGraph"
 import { Link } from "gatsby"
 import { Container } from "../common/layout/Boxes"
 import { Gallery } from "../gallery/Gallery"
+import { Designer } from "../../interfaces/designerInterfaces"
+import { I18nextContext } from "gatsby-plugin-react-i18next"
 
 interface DesignerPageTemplateProps {
-  data: any
+  data: DesignerData
 }
 
 const TopContainer = styled(Container)`
@@ -50,53 +52,58 @@ const BottomTitle = styled(Title)`
   text-transform: uppercase;
   margin-bottom: ${props => props.theme.gap * 2}px;
 `
+interface DesignerData {
+  designerEnJson: Designer
+  designerEsJson: Designer
+  designerPtJson: Designer
+}
 
 export const DesignerPageTemplate: React.FC<DesignerPageTemplateProps> = ({
   data,
 }) => {
-  if (data.allDesignersJson) {
-    const { title, description, products, coverImg } = data.allDesignersJson.nodes[0]
-    console.log('coverImg, products', coverImg, products)
-    return (
-      <Container>
-        <TopContainer>
-          <FlexContainer>
-            <PicContainer>
-              <ImgProvider
-                fileName={coverImg}
-                alt={coverImg}
-                style={{ width: "100%", display: "block" }}
-              />
-            </PicContainer>
-            <TextContainer>
-              <Text>
-                <Title>{title}</Title>
-                <Description dangerouslySetInnerHTML={{ __html: description }}>
-                </Description>
-              </Text>
-            </TextContainer>
-          </FlexContainer>
-        </TopContainer>
-        <BottomTitle>{title} para Tumar</BottomTitle>
-        <Gallery data={products} />
-        {/* <ProductsContainer>
-          {products ? products.map((item: { name: string, src: string }) => {
-            return (
-              <ProductItem key={item.src}>
-                <ProductImageContainer>
-                  <ImgProvider
-                    fileName={item.src}
-                    alt={item.name}
-                    style={{ width: "100%", display: "block" }}
-                  />
-                </ProductImageContainer>
-                <ProductDescription>{item.name}</ProductDescription>
-              </ProductItem>
-            )
-          }) : null}
-        </ProductsContainer> */}
-      </Container>
-    )
+  const context = useContext(I18nextContext)
+  let translatedData: Designer | null = null
+
+  switch (context.language) {
+    case "en": {
+      translatedData = data.designerEnJson
+      break
+    }
+    case "es": {
+      translatedData = data.designerEsJson
+      break
+    }
+    default: {
+      translatedData = data.designerPtJson
+      break
+    }
   }
-  return null
+
+  const { coverImg, description, id, products, slug, title } = translatedData
+
+  return (
+    <Container>
+      <TopContainer>
+        <FlexContainer>
+          <PicContainer>
+            <ImgProvider
+              fileName={coverImg}
+              alt={coverImg}
+              style={{ width: "100%", display: "block" }}
+            />
+          </PicContainer>
+          <TextContainer>
+            <Text>
+              <Title>{title}</Title>
+              <Description
+                dangerouslySetInnerHTML={{ __html: description }}
+              ></Description>
+            </Text>
+          </TextContainer>
+        </FlexContainer>
+      </TopContainer>
+      <BottomTitle>{title} para Tumar</BottomTitle>
+      <Gallery data={products} />
+    </Container>
+  )
 }
