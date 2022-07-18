@@ -1,17 +1,11 @@
-import * as React from "react"
 import { graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
-import styled from "styled-components"
-import { LanguageSelect } from "../components/common/LanguageSelect"
-import { Link, Trans, useTranslation } from "gatsby-plugin-react-i18next"
+import * as React from "react"
 import Layout from "../components/common/layout/Layout"
-import { GalugaSlider } from "../components/slider/GalugaSlider"
 import { HomePage } from "../components/home/HomePage"
 
 const IndexPage = () => {
-  const { t } = useTranslation()
   return <Layout>
-    <HomePage></HomePage>
+    <HomePage />
   </Layout>
 } 
 

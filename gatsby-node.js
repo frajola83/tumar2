@@ -11,15 +11,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     "./src/templates/template-products-en"
   )
 
-  const templateSingleProductPt = require.resolve(
-    "./src/templates/template-single-product-pt"
+  const templateSingleProduct = require.resolve(
+    "./src/templates/template-single-product"
   )
-  const templateSingleProductEs = require.resolve(
-    "./src/templates/template-single-product-es"
-  )
-  const templateSingleProductEn = require.resolve(
-    "./src/templates/template-single-product-en"
-  )
+  // const templateSingleProductEs = require.resolve(
+  //   "./src/templates/template-single-product-es"
+  // )
+  // const templateSingleProductEn = require.resolve(
+  //   "./src/templates/template-single-product-en"
+  // )
 
   const languages = [
     { lang: "pt", slug: "" },
@@ -90,9 +90,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       result.data.allProductPtJson.nodes.forEach(({ slug, category_slug }) => {
         createPage({
           path: "/produtos/" + category_slug + "/" + slug,
-          component: templateSingleProductPt,
+          component: templateSingleProduct,
           context: {
             slug,
+            language: language.lang,
           },
         })
       })
@@ -111,9 +112,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       result.data.allProductEnJson.nodes.forEach(({ slug, category_slug }) => {
         createPage({
           path: "en/produtos/" + category_slug + "/" + slug,
-          component: templateSingleProductEn,
+          component: templateSingleProduct,
           context: {
             slug,
+            language: language.lang,
           },
         })
       })
@@ -131,9 +133,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       result.data.allProductEsJson.nodes.forEach(({ slug, category_slug }) => {
         createPage({
           path: "es/produtos/" + category_slug + "/" + slug,
-          component: templateSingleProductEs,
+          component: templateSingleProduct,
           context: {
             slug,
+            language: language.lang,
           },
         })
       })

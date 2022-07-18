@@ -6,6 +6,7 @@ import Layout from "../components/common/layout/Layout"
 export default function Template({ data }) {
   return (
     <Layout>
+      <h1>{data.productPtJson.description}</h1>
       <SingleProcuctPage data={data.productPtJson} />
     </Layout>
   )

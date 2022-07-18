@@ -6,6 +6,7 @@ import { SingleProcuctPage } from "../components/products/SingleProductPageTempl
 export default function Template({ data }) {
   return (
     <Layout>
+      <h1>{data.productEsJson.description}</h1>
       <SingleProcuctPage data={data.productEsJson} />
     </Layout>
   )
