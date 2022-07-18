@@ -3,6 +3,8 @@ import { breakpoints } from "../../utils/styledResponsive"
 import styled from "styled-components"
 import { ImgProvider } from "../common/ImgGraph"
 import { Link } from "gatsby"
+import { useContext } from "react"
+import { I18nextContext } from "gatsby-plugin-react-i18next"
 
 const ImgInner = styled.div`
   width: 100%;
@@ -59,10 +61,13 @@ interface ProductComponentProps {
 
 export const ProductComponent: React.FC<ProductComponentProps> = ({ slug, cover_img, category_slug, name }) => {
   const link = `/produtos/${category_slug}/${slug}`
-  console.log('cover_img', cover_img)
+  
+  const lang = useContext(I18nextContext)
+
   return (
     <Item to={link}>
       <ImgWrapper>
+        <h1>{lang.language}</h1>
         <ImgInner>
           <ImgProvider
             fileName={`${cover_img}.jpg`}
