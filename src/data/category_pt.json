@@ -1,0 +1,42 @@
+[
+    {
+      "slug": "banquetas",
+      "name": "banquetas",
+      "coverImg": "category-banquetas.jpg"
+    },
+    {
+      "slug": "cadeiras",
+      "name": "cadeiras",
+      "coverImg": "tie-02.jpg"
+    },
+    {
+      "slug": "poltronas",
+      "name": "poltronas",
+      "coverImg": "arc-polt-01.jpg"
+    },
+    {
+      "slug": "bancos-e-puffs",
+      "name": "bancos e puffs",
+      "coverImg": "category-bancos-e-puffs.jpg"
+    },
+    {
+      "slug": "mesas-de-jantar",
+      "name": "mesas de jantar",
+      "coverImg": "eros-01.jpg"
+    },
+    {
+      "slug": "mesas-laterais-centro",
+      "name": "mesas laterais e centro",
+      "coverImg": "maria-01.jpg"
+    },
+    {
+      "slug": "luminarias",
+      "name": "luminárias",
+      "coverImg": "soul-01.jpg"
+    },
+    {
+      "slug": "carro-bar",
+      "name": "carro bar",
+      "coverImg": "donatela-carro-01.jpg"
+    }
+  ]

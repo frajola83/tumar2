@@ -69,31 +69,19 @@ export const SobrePage: React.FC = ({ }) => {
 
       <TextContainer>
         <ParagraphCenter>
-          A paixão por produzir com qualidade sempre esteve presente na Tumar
-          desde sua fundação, em 1992. Nascida na Serra Gaúcha, região
-          colonizada por italianos e onde o fazer bem feito é algo fortemente
-          enraizado na cultura local, a Tumar foi crescendo rapidamente graças a
-          esta maneira de pensar e trabalhar.
+          {t("pages.about.text")}
         </ParagraphCenter>
         <ParagraphCenter>
-          Em constante evolução, a Tumar foi aos poucos percebendo que seu
-          público queria mais do que produtos com qualidade. Queria também
-          beleza, funcionalidade e diferenciação. Queria, basicamente, design.
+          {t("pages.about.text2")}
         </ParagraphCenter>
         <ParagraphCenter>
-          Assim, a Tumar foi se aperfeiçoando e passou a investir tanto na
-          tecnologia de seu parque fabril quanto no talento e na criatividade
-          das pessoas, desenvolvendo produtos internamente ou em parceria com
-          renomados designers nacionais.
+          {t("pages.about.text3")}
         </ParagraphCenter>
         <ParagraphCenter>
-          Hoje a Tumar é uma marca reconhecida, que entrega produtos com
-          qualidade e design para o cada vez mais exigente universo da decoração
-          brasileira.
+          {t("pages.about.text4")}
         </ParagraphCenter>
         <ParagraphCenter>
-          A Tumar tem grande orgulho de sua trajetória até aqui, feita com muito
-          trabalho, investimento e visão de futuro.
+          {t("pages.about.text5")}
         </ParagraphCenter>
       </TextContainer>
 

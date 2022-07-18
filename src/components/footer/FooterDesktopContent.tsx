@@ -76,21 +76,21 @@ export const FooterDesktopContent: React.FC<FooterDesktopContentProps> = ({ }) =
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/politica-de-privacidade">
-                                política de privacidade
+                                {t("footer.institutional.links.privacyPolicy")}
                             </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="http://tumar.com.br/area-restrita/">
-                                área restrita
+                                {t("footer.institutional.links.restrictedArea")}
                             </FooterListLink>
                         </FooterListItem>
                     </FooterList>
                 </Flex>
                 <Flex direction="column">
-                    <FooterListTitle>fale conosco</FooterListTitle>
+                    <FooterListTitle>{t("footer.contact.title")}</FooterListTitle>
                     <FooterList>
                         <FooterListItem>
-                            <FooterListLink to="/contato">contato</FooterListLink>
+                            <FooterListLink to="/contato">{t("footer.contact.links.contact")}</FooterListLink>
                         </FooterListItem>
                         {/* <FooterListItem>
               <FooterListLink to="/representantes">
@@ -105,44 +105,44 @@ export const FooterDesktopContent: React.FC<FooterDesktopContentProps> = ({ }) =
                     </FooterList>
                 </Flex>
                 <Flex direction="column">
-                    <FooterListTitle>produtos</FooterListTitle>
+                    <FooterListTitle>{t("footer.products.title")}</FooterListTitle>
                     <FooterList>
                         <FooterListItem>
                             <FooterListLink to="/produtos/banquetas">
-                                banquetas
+                            {t("footer.products.links.stools")}
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
-                            <FooterListLink to="/produtos/cadeiras">cadeiras</FooterListLink>
+                            <FooterListLink to="/produtos/cadeiras">{t("footer.products.links.chairs")}</FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/produtos/mesas-de-jantar">
-                                mesas de jantar
+                                {t("footer.products.links.tables")}
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/produtos/mesas-laterais-centro">
-                                mesas laterais e de centro
+                            {t("footer.products.links.sideAndCoffeeTables")}
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/produtos/poltronas">
-                                poltronas
+                                {t("footer.products.links.armchairs")}
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/produtos/bancos-e-puffs">
-                                bancos e puffs
+                                {t("footer.products.links.benchesAndOttoman")}
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/produtos/luminarias">
-                                luminárias
+                                {t("footer.products.links.lighting")}
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
                             <FooterListLink to="/produtos/carro-bar">
-                                carro bar
+                                {t("footer.products.links.barCart")}
               </FooterListLink>
                         </FooterListItem>
                     </FooterList>
