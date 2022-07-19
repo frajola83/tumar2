@@ -2,10 +2,9 @@ import React from "react"
 import { theme } from "../../../../theme"
 import { createGlobalStyle, ThemeProvider } from "styled-components"
 import reset from "styled-reset"
-// import { Footer } from "../footer/Footer"
 import { Section, Container } from "./Boxes"
+import { Footer } from "../../footer/Footer"
 import { NavBar } from "../../navBar/NavBar"
-import { Footer } from "../../footer/Footer";
 
 const GlobalStyle = createGlobalStyle`
   ${reset}

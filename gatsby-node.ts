@@ -1,6 +1,12 @@
 import { GatsbyNode } from "gatsby"
 import { resolve } from "path"
-import { GraphQlDataResult, Languages } from "./create-page-helpers"
+import { createCategoryPages, Languages } from "./create-page-helpers"
+import {
+  AllCategoryGraphQlResult,
+  AllDataGraphQlQueryResult,
+} from "./src/interfaces"
+
+interface ProductQueryResult {}
 
 export const createPages: GatsbyNode["createPages"] = async ({
   actions,
@@ -8,211 +14,187 @@ export const createPages: GatsbyNode["createPages"] = async ({
   reporter,
 }) => {
   const { createPage } = actions
-  const result: { error?: any; data?: GraphQlDataResult } = await graphql(`
-    query AllData {
-      allDesignerEnJson {
-        nodes {
-          slug
-        }
-      }
-      allDesignerEsJson {
-        nodes {
-          slug
-        }
-      }
-      allDesignerPtJson {
-        nodes {
-          slug
-        }
-      }
-      allCategoryEnJson {
-        nodes {
-          slug
-          name
-          coverImg
-        }
-      }
-      allCategoryEsJson {
-        nodes {
-          slug
-          name
-          coverImg
-        }
-      }
-      allCategoryPtJson {
-        nodes {
-          slug
-          name
-          coverImg
-        }
-      }
-      allProductPtJson {
-        nodes {
-          slug
-          category_slug
-        }
-      }
-      allProductEnJson {
-        nodes {
-          slug
-          category_slug
-        }
-      }
-      allProductEsJson {
-        nodes {
-          slug
-          category_slug
-        }
-      }
-    }
-  `)
 
-  if (result.error) {
+  const result: { error?: any; data?: AllDataGraphQlQueryResult } =
+    await graphql(`
+      query MyQuery {
+        allProductJson {
+          edges {
+            node {
+              slug
+              category_slug
+            }
+          }
+        }
+        allCategoryJson {
+          edges {
+            node {
+              slug
+            }
+          }
+        }
+      }
+    `)
+
+  if (result.error || !result.data) {
     reporter.panicOnBuild("Error loading GraphQl")
     console.log(result.error)
+    return
   }
 
-  const langs = Object.keys(Languages)
+  console.log("**********************")
+  console.log(JSON.stringify(result.data))
+  console.log("**********************")
 
-  langs.forEach(lang => {
-    const currentLanguage = Languages[lang]
-    switch (currentLanguage) {
-      case "en": {
-        result.data?.allDesignerEnJson.nodes.forEach(node => {
-          const options = {
-            path: currentLanguage + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-single-designer.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          return createPage(options)
-        })
-        result.data?.allCategoryEnJson.nodes.forEach(node => {
-          const options = {
-            path: currentLanguage + "/" + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-products-index.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          return createPage(options)
-        })
-        result.data?.allProductEnJson.nodes.forEach(node => {
-          const options = {
-            path: currentLanguage + "/" + node.category_slug + "/" + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-products-index.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          createPage(options)
-        })
-        break
-      }
-      case "en": {
-        result.data?.allDesignerEsJson.nodes.forEach(node => {
-          const options = {
-            path: currentLanguage + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-single-designer.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          return createPage(options)
-        })
-        result.data?.allCategoryEsJson.nodes.forEach(node => {
-          const options = {
-            path: currentLanguage + "/" + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-products-index.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          return createPage(options)
-        })
-        result.data?.allProductEsJson.nodes.forEach(node => {
-          const options = {
-            path: currentLanguage + "/" + node.category_slug + "/" + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-products-index.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          createPage(options)
-        })
-        break
-      }
-      default:
-        result.data?.allDesignerPtJson.nodes.forEach(node => {
-          const options = {
-            path: node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-single-designer.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          return createPage(options)
-        })
-        result.data?.allCategoryPtJson.nodes.forEach(node => {
-          const options = {
-            path: node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-products-index.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          return createPage(options)
-        })
-        result.data?.allProductPtJson.nodes.forEach(node => {
-          const options = {
-            path: node.category_slug + "/" + node.slug,
-            component: resolve(
-              __dirname,
-              "./src/templates/template-products-index.tsx"
-            ),
-            context: {
-              slug: node.slug,
-              language: currentLanguage,
-            },
-          }
-          createPage(options)
-        })
-        break
-    }
-  })
+  const langs = Object.keys(Languages)
+  if (result.data) {
+    langs.forEach(lang => {
+      const currentLanguage = Languages[lang]
+      createCategoryPages(result.data!, currentLanguage, createPage, resolve)
+    })
+  }
+
+  // const langs = Object.keys(Languages)
+
+  // langs.forEach(lang => {
+  //   const currentLanguage = Languages[lang]
+  //   switch (currentLanguage) {
+  //     case "en": {
+  //       result.data?.allDesignerEnJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: currentLanguage + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-single-designer.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         return createPage(options)
+  //       })
+  //       result.data?.allCategoryEnJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: currentLanguage + "/" + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-products-index.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         return createPage(options)
+  //       })
+  //       result.data?.allProductEnJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: currentLanguage + "/" + node.category_slug + "/" + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-products-index.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         createPage(options)
+  //       })
+  //       break
+  //     }
+  //     case "en": {
+  //       result.data?.allDesignerEsJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: currentLanguage + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-single-designer.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         return createPage(options)
+  //       })
+  //       result.data?.allCategoryEsJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: currentLanguage + "/" + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-products-index.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         return createPage(options)
+  //       })
+  //       result.data?.allProductEsJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: currentLanguage + "/" + node.category_slug + "/" + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-products-index.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         createPage(options)
+  //       })
+  //       break
+  //     }
+  //     default:
+  //       result.data?.allDesignerPtJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-single-designer.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         return createPage(options)
+  //       })
+  //       result.data?.allCategoryPtJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-products-index.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         return createPage(options)
+  //       })
+  //       result.data?.allProductPtJson.nodes.forEach(node => {
+  //         const options = {
+  //           path: node.category_slug + "/" + node.slug,
+  //           component: resolve(
+  //             __dirname,
+  //             "./src/templates/template-products-index.tsx"
+  //           ),
+  //           context: {
+  //             slug: node.slug,
+  //             language: currentLanguage,
+  //           },
+  //         }
+  //         createPage(options)
+  //       })
+  //       break
+  //   }
+  // })
 }
 
 // exports.createPages = async ({ actions, graphql, reporter }) => {

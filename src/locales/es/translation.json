@@ -1,4 +1,14 @@
 {
+  "categories": {
+    "banquetas": "taburetes",
+    "cadeiras": "sillas",
+    "poltronas": "sillón",
+    "bancos-e-puffs": "bancos y puffs",
+    "mesas-de-jantar": "mesas de comedor",
+    "mesas-laterais-centro": "mesas auxiliares y de centro",
+    "luminarias": "lámparas",
+    "carro-bar": "carro bar"
+  },
   "nav": {
     "home": "inicio",
     "about": "acerca de",
@@ -31,7 +41,7 @@
         "tables": "mesas de comedor",
         "sideAndCoffeeTables": "mesas auxiliares y de centro",
         "armchairs": "sillón",
-        "benchesAndOttoman": "bancos y pufs",
+        "benchesAndOttoman": "bancos y puffs",
         "lighting": "lámparas",
         "barCart": "carro bar"
       }

@@ -1,0 +1,58 @@
+[
+    {
+      "slug": "banquetas",
+      "name": "banquetas",
+      "nameEs": "taburetes",
+      "nameEn": "stools",
+      "coverImg": "category-banquetas.jpg"
+    },
+    {
+      "slug": "cadeiras",
+      "name": "cadeiras",
+      "nameEs": "sillas",
+      "nameEn": "chairs",
+      "coverImg": "tie-02.jpg"
+    },
+    {
+      "slug": "poltronas",
+      "name": "poltronas",
+      "nameEs": "Sillones",
+      "nameEn": "armchairs",
+      "coverImg": "arc-polt-01.jpg"
+    },
+    {
+      "slug": "bancos-e-puffs",
+      "name": "bancos y puffs",
+      "nameEs": "taburetes",
+      "nameEn": "benches and ottomans",
+      "coverImg": "category-bancos-e-puffs.jpg"
+    },
+    {
+      "slug": "mesas-de-jantar",
+      "name": "mesas de jantar",
+      "nameEs": "mesas de comedor",
+      "nameEn": "dinner tables",
+      "coverImg": "eros-01.jpg"
+    },
+    {
+      "slug": "mesas-laterais-centro",
+      "name": "mesas laterais e centro",
+      "nameEs": "mesas auxiliares y de centro",
+      "nameEn": "side and coffee tables",
+      "coverImg": "maria-01.jpg"
+    },
+    {
+      "slug": "luminarias",
+      "name": "luminárias",
+      "nameEs": "Lámparas",
+      "nameEn": "lighting",
+      "coverImg": "soul-01.jpg"
+    },
+    {
+      "slug": "carro-bar",
+      "name": "carro bar",
+      "nameEs": "carro bar",
+      "nameEn": "cart bar",
+      "coverImg": "donatela-carro-01.jpg"
+    }
+  ]

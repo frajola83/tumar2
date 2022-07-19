@@ -1,4 +1,14 @@
 {
+  "categories": {
+    "banquetas": "benches",
+    "cadeiras": "chairs",
+    "poltronas": "armchairs",
+    "bancos-e-puffs": "benches and otomans",
+    "mesas-de-jantar": "dinner tables",
+    "mesas-laterais-centro": "side and coffee tables",
+    "luminarias": "lighting",
+    "carro-bar": "bar cart"
+  },
     "nav": {
         "home": "home",
         "about": "about",

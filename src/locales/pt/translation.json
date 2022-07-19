@@ -1,4 +1,13 @@
-{
+{"categories": {
+  "banquetas": "banquetas",
+  "cadeiras": "cadeiras",
+  "poltronas": "poltronas",
+  "bancos-e-puffs": "bancos-e-puffs",
+  "mesas-de-jantar": "mesas-de-jantar",
+  "mesas-laterais-centro": "mesas laterais e centro",
+  "luminarias": "luminárias",
+  "carro-bar": "carro bar"
+},
     "nav": {
         "home": "home",
         "about": "sobre",
