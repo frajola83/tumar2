@@ -6,6 +6,21 @@ export interface Category {
   coverImg: string
 }
 
+export interface Finish {
+  slug: string
+  name: string
+  nameEs: string
+  nameEn: string
+}
+
+export interface FinishGroup {
+  category_name: string
+  category_name_en: string
+  category_name_es: string
+  category_slug: string
+  finishes: Finish[]
+}
+
 export interface Product {
   ref: string
   slug: string
@@ -32,11 +47,19 @@ export type ProductNode = {
   node: Product
 }
 
+export type FinishEdge = {
+  node: FinishGroup
+}
+
 export interface AllProductGraphQlResult {
-    edges: ProductNode[]
+  edges: ProductNode[]
 }
 export interface AllCategoryGraphQlResult {
-    edges: CategoryNode[]
+  edges: CategoryNode[]
+}
+
+export interface AllFinishGraphQlResult {
+  edges: FinishEdge[]
 }
 
 export interface AllDataGraphQlQueryResult {
@@ -51,3 +74,8 @@ export const parseCategories = (data: AllCategoryGraphQlResult): Category[] => {
 export const parseProducts = (data: AllProductGraphQlResult): Product[] => {
   return data.edges.map(edge => edge.node)
 }
+
+export const parseFinishes = (data: AllFinishGraphQlResult): FinishGroup[] => {
+  return data.edges.map(edge => edge.node)
+}
+

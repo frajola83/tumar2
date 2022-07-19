@@ -90,6 +90,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
   return (
     <Container>
       <PageWrapper>
+        <div style={{ width: "100%", height: 64 }}></div>
         {/* <Breadcrumbs links={breadcrumbLinks} /> */}
         <TopWrapper>
           <ProductTitleContainerMobile>
@@ -132,23 +133,31 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
                 </DesignerContainer>
               ) : null}
             </ProductTitleContainerDesktop>
-            <DescriptionTitle>{t("pages.productSingle.description")}</DescriptionTitle>
+            <DescriptionTitle>
+              {t("pages.productSingle.description")}
+            </DescriptionTitle>
             <DescriptionText>{productDescription}</DescriptionText>
-            <MeasurementsSubTitle>{t("pages.productSingle.measurements")}</MeasurementsSubTitle>
+            <MeasurementsSubTitle>
+              {t("pages.productSingle.measurements")}
+            </MeasurementsSubTitle>
             {productMeasurements.map((item: string) => (
               <MeasurementsText key={item}>{item}</MeasurementsText>
             ))}
-            <MeasurementHelp>{t("pages.productSingle.measurementsCaption")}.</MeasurementHelp>
+            <MeasurementHelp>
+              {t("pages.productSingle.measurementsCaption")}.
+            </MeasurementHelp>
           </InfoContainer>
         </TopWrapper>
         {ambients.length ? (
-           <AmbientsWrapper>
-             <AmbientsTitle>{t("pages.productSingle.ambientsWith")} {name}</AmbientsTitle>
-             <GalleryWrapper>
-               <RenderAmbients product={product} />
-             </GalleryWrapper>
-           </AmbientsWrapper>
-         ) : null}
+          <AmbientsWrapper>
+            <AmbientsTitle>
+              {t("pages.productSingle.ambientsWith")} {name}
+            </AmbientsTitle>
+            <GalleryWrapper>
+              <RenderAmbients product={product} />
+            </GalleryWrapper>
+          </AmbientsWrapper>
+        ) : null}
       </PageWrapper>
     </Container>
   )

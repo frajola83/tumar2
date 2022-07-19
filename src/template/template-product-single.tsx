@@ -12,7 +12,7 @@ export default function Template({ data }) {
 }
 
 export const pageQuery = graphql`
-  query($slug: String!, $language: String!) {
+  query ($slug: String!, $language: String!) {
     productJson(slug: { eq: $slug }) {
       ref
       slug
@@ -29,8 +29,9 @@ export const pageQuery = graphql`
       category_slug
       category_name
       measurements
+      measurementsEn
     }
-    locales: allLocale(filter: {language: {eq: $language}}) {
+    locales: allLocale(filter: { language: { eq: $language } }) {
       edges {
         node {
           ns
