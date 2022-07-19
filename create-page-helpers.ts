@@ -27,3 +27,25 @@ export const createCategoryPages = (
     return createPage(options)
   })
 }
+
+export const createProductSinglePages = (
+  data: AllDataGraphQlQueryResult,
+  language: "pt" | "en" | "es",
+  createPage: (args: any) => void,
+  resolve: any
+) => {
+  data.allProductJson.edges.forEach((edge) => {
+    const options = {
+      path: "produtos/" + edge.node.category_slug + "/" + edge.node.slug,
+      component: resolve(
+        __dirname,
+        "./src/template/template-product-single.tsx"
+      ),
+      context: {
+        slug: edge.node.slug,
+        language,
+      },
+    }
+    return createPage(options)
+  })
+}

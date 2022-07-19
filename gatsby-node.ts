@@ -1,6 +1,6 @@
 import { GatsbyNode } from "gatsby"
 import { resolve } from "path"
-import { createCategoryPages, Languages } from "./create-page-helpers"
+import { createCategoryPages, createProductSinglePages, Languages } from "./create-page-helpers"
 import {
   AllCategoryGraphQlResult,
   AllDataGraphQlQueryResult,
@@ -51,6 +51,7 @@ export const createPages: GatsbyNode["createPages"] = async ({
     langs.forEach(lang => {
       const currentLanguage = Languages[lang]
       createCategoryPages(result.data!, currentLanguage, createPage, resolve)
+      createProductSinglePages(result.data!, currentLanguage, createPage, resolve)
     })
   }
 
