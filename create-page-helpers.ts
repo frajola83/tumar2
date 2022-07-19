@@ -49,3 +49,25 @@ export const createProductSinglePages = (
     return createPage(options)
   })
 }
+
+export const createFinishPages = (
+  data: AllDataGraphQlQueryResult,
+  language: "pt" | "en" | "es",
+  createPage: (args: any) => void,
+  resolve: any
+) => {
+  data.allFinishesJson.edges.forEach((edge) => {
+    const options = {
+      path: "acabamentos/" + edge.node.category_slug,
+      component: resolve(
+        __dirname,
+        "./src/template/template-finishes.tsx"
+      ),
+      context: {
+        category_slug: edge.node.category_slug,
+        language,
+      },
+    }
+    return createPage(options)
+  })
+}

@@ -30,7 +30,6 @@ const ColRight = styled.div`
   flex-basis: 50%;
   flex-wrap: wrap;
   gap: 20px 40px;
-  /* ${breakpoints("gap", ["10px", "10px", "60px", "60px"])}; */
   ${breakpoints("flex-basis", ["50%", "50%", "75%", "75%"])};
 `
 
@@ -52,7 +51,7 @@ export const FinishesIndex: React.FC<FinishesIndexProps> = ({ data }) => {
   const { t } = useTranslation()
   const context = useContext(I18nextContext)
 
-  const { category_name, category_name_en, category_name_es, finishes } =
+  const { category_name, category_name_en, category_name_es, category_slug, finishes } =
     data[0]
 
   let categoryName = category_name
@@ -72,33 +71,11 @@ export const FinishesIndex: React.FC<FinishesIndexProps> = ({ data }) => {
           <Menu category_slug={category_slug} />
         </ColLeft>
         <ColRight>
-          {data.finishes.map(item => (
+          {finishes.map(item => (
             <FinishBox title={item.name} slug={item.slug} key={item.slug} />
           ))}
         </ColRight>
       </Content>
     </Container>
   )
-
-  if (data && data.allFinishesJson) {
-    const { category_slug, category_name, finishes } =
-      data.allFinishesJson.nodes[0]
-    return (
-      <Container>
-        <PageTitle>Acabamentos</PageTitle>
-        <CategoryTitle>{category_name}</CategoryTitle>
-        <Content>
-          <ColLeft>
-            <Menu category_slug={category_slug} />
-          </ColLeft>
-          <ColRight>
-            {finishes.map((item: any) => (
-              <FinishBox title={item.name} slug={item.slug} key={item.slug} />
-            ))}
-          </ColRight>
-        </Content>
-      </Container>
-    )
-  }
-  return null
 }

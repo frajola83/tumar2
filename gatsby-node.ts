@@ -1,6 +1,11 @@
 import { GatsbyNode } from "gatsby"
 import { resolve } from "path"
-import { createCategoryPages, createProductSinglePages, Languages } from "./create-page-helpers"
+import {
+  createCategoryPages,
+  createFinishPages,
+  createProductSinglePages,
+  Languages,
+} from "./create-page-helpers"
 import {
   AllCategoryGraphQlResult,
   AllDataGraphQlQueryResult,
@@ -33,6 +38,22 @@ export const createPages: GatsbyNode["createPages"] = async ({
             }
           }
         }
+        allFinishesJson {
+          edges {
+            node {
+              category_name
+              category_name_en
+              category_name_es
+              category_slug
+              finishes {
+                name
+                nameEn
+                nameEs
+                slug
+              }
+            }
+          }
+        }
       }
     `)
 
@@ -42,16 +63,18 @@ export const createPages: GatsbyNode["createPages"] = async ({
     return
   }
 
-  console.log("**********************")
-  console.log(JSON.stringify(result.data))
-  console.log("**********************")
-
   const langs = Object.keys(Languages)
   if (result.data) {
     langs.forEach(lang => {
       const currentLanguage = Languages[lang]
       createCategoryPages(result.data!, currentLanguage, createPage, resolve)
-      createProductSinglePages(result.data!, currentLanguage, createPage, resolve)
+      createProductSinglePages(
+        result.data!,
+        currentLanguage,
+        createPage,
+        resolve
+      )
+      createFinishPages(result.data!, currentLanguage, createPage, resolve)
     })
   }
 

@@ -65,6 +65,7 @@ export interface AllFinishGraphQlResult {
 export interface AllDataGraphQlQueryResult {
   allProductJson: AllProductGraphQlResult
   allCategoryJson: AllCategoryGraphQlResult
+  allFinishesJson: AllFinishGraphQlResult
 }
 
 export const parseCategories = (data: AllCategoryGraphQlResult): Category[] => {
@@ -75,7 +76,7 @@ export const parseProducts = (data: AllProductGraphQlResult): Product[] => {
   return data.edges.map(edge => edge.node)
 }
 
-export const parseFinishes = (data: AllFinishGraphQlResult): FinishGroup[] => {
-  return data.edges.map(edge => edge.node)
+export const parseFinishes = (data: any): FinishGroup[] => {
+  return data.allFinishesJson.edges.map(edge => edge.node)
 }
 
