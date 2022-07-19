@@ -77,10 +77,11 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
   //   { name: category_name, link: `/produtos/${category_slug}` },
   //   { name: name, link: `` },
   // ]
-
+  let productMeasurements = measurements;
   let productDescription: string = description;
   if (context.language === "en") {
     productDescription = descriptionEn;
+    productMeasurements = measurementsEn;
   }
   if (context.language === "es") {
     productDescription = descriptionEs;
@@ -134,7 +135,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             <DescriptionTitle>{t("pages.productSingle.description")}</DescriptionTitle>
             <DescriptionText>{productDescription}</DescriptionText>
             <MeasurementsSubTitle>{t("pages.productSingle.measurements")}</MeasurementsSubTitle>
-            {measurements.map((item: string) => (
+            {productMeasurements.map((item: string) => (
               <MeasurementsText key={item}>{item}</MeasurementsText>
             ))}
             <MeasurementHelp>{t("pages.productSingle.measurementsCaption")}.</MeasurementHelp>

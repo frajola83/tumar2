@@ -1,0 +1,307 @@
+[
+  {
+    "id": "/designers/emerson-borges",
+    "slug": "/designers/emerson-borges",
+    "title": "Emerson Borges",
+    "coverImg": "emerson-borges.jpg",
+    "description": "A Tumar firma parceria com o Designer Emerson Borges, que exalta novas linguagens de consumo que vêm se intensificando no mercado da alta decoração. <br /><br />O olhar atento do designer aos movimentos sociais e novas formas de encarar o morar está presente em cada traço de suas peças.<br /><br /> Em todo o seu trabalho, está a pesquisa constante de temas, materiais e soluções construtivas – um repertório que oportuniza ao profissional a combinação ideal entre qualidade estética e condições técnicas de produção.",
+    "descriptionEn": "Tumar signs a partnership with the Designer Emerson Borges exalts new consumer languages ​​that have been intensifying in the high decoration market. <br /><br />The designers attentive look at social movements and new ways of looking at living is present in every feature of his pieces. <br /><br />In all his work, there is the constant research of themes, materials and constructive solutions – a repertoire that provides the professional with the ideal combination between aesthetic quality and technical production conditions.",
+    "descriptionEs": "Tumar firma una alianza con el Diseñador Emerson Borges, quien exalta nuevos lenguajes de consumo que se vienen intensificando en el mercado de la alta decoración. <br /><br />La mirada atenta del diseñador a los movimientos sociales y las nuevas formas de ver la vida está presente en cada detalle de sus piezas.<br /><br /> En toda su obra, está la búsqueda constante de temas, materiales y soluciones constructivas, un repertorio que brinda al profesional la combinación ideal entre calidad estética y condiciones técnicas de producción.",
+    "products": [
+      {
+        "name": "Cadeira Fiji",
+        "nameEn": "Fiji Chair",
+        "nameEs": "Silla Fiji",
+        "src": "fiji-01",
+        "link": "/produtos/cadeiras/fiji"
+      },
+      {
+        "name": "Mesa de Centro Inka",
+        "src": "inka-01",
+        "link": "/produtos/mesas-laterais-centro/inka"
+      },
+      {
+        "name": "Mesa de Centro Porto",
+        "src": "porto-01",
+        "link": "/produtos/mesas-laterais-centro/porto"
+      },
+      {
+        "name": "Mesa de Centro Wood",
+        "src": "wood-02",
+        "link": "/produtos/mesas-laterais-centro/wood"
+      },
+      {
+        "name": "Mesa de Centro Zoom",
+        "src": "zoom-01",
+        "link": "/produtos/mesas-laterais-centro/zoom"
+      },
+      {
+        "name": "Mesa de Jantar Nebula",
+        "src": "nebula-01",
+        "link": "/produtos/mesas-de-jantar/nebula"
+      },
+      {
+        "name": "Mesa Lateral Ecco",
+        "src": "ecco-03",
+        "link": "/produtos/mesas-laterais-centro/ecco"
+      },
+      {
+        "name": "Mesa Lateral Float",
+        "src": "float-01",
+        "link": "/produtos/mesas-laterais-centro/float"
+      },
+      {
+        "name": "Mesa Lateral Orbe",
+        "src": "orbe-01",
+        "link": "/produtos/mesas-laterais-centro/orbe"
+      },
+      {
+        "name": "Mesa Lateral Orbe - Técnica de Murano",
+        "src": "orbe-murano",
+        "link": "/produtos/mesas-laterais-centro/orbe-murano"
+      },
+      {
+        "name": "Mesa Lateral Stage",
+        "src": "stage-01",
+        "link": "/produtos/mesas-laterais-centro/stage"
+      },
+      {
+        "name": "Mesa Lateral Taos",
+        "src": "taos-01",
+        "link": "/produtos/mesas-laterais-centro/taos"
+      },
+      {
+        "name": "Poltrona Java",
+        "src": "java-01",
+        "link": "/produtos/poltronas/java"
+      },
+      {
+        "name": "Poltrona e Puff Maori",
+        "src": "maori-02",
+        "link": "/produtos/poltronas/maori-poltrona"
+      },
+      {
+        "name": "Poltrona Zion",
+        "src": "poltrona-zion-01",
+        "link": "/produtos/poltronas/zion"
+      }
+    ]
+  },
+  {
+    "id": "/designers/fabricio-roncca",
+    "slug": "/designers/fabricio-roncca",
+    "title": "Fabricio Roncca",
+    "coverImg": "fabricio-roncca.jpg",
+    "description": "A Tumar firma parceria com o Designer Fabricio Roncca, paulista que cresceu em Belo Horizonte – MG, onde aprendeu a ver a arquitetura, o folclore e a arte de forma lúdica e intimista.<br /><br /> Busca a beleza, a sustentabilidade, o equilíbrio dos materiais e a memória afetiva em suas obras, tem como principal fonte de inspiração a arquitetura brasileira.",
+    "products": [
+      {
+        "name": "Banco Blu",
+        "src": "blu-01",
+        "link": "/produtos/bancos-e-puffs/blu"
+      },
+      {
+        "name": "Banco Donatela",
+        "src": "donatela-banco-01",
+        "link": "/produtos/bancos-e-puffs/donatela-banco"
+      },
+      {
+        "name": "Banco nantai",
+        "src": "nantai-01",
+        "link": "/produtos/bancos-e-puffs/nantai-banco"
+      },
+      {
+        "name": "Carro Bar Donatela",
+        "src": "donatela-carro-01",
+        "link": "/produtos/carro-bar/donatela-carro-bar"
+      },
+      {
+        "name": "Carro Bar Platô",
+        "src": "plato-01",
+        "link": "/produtos/carro-bar/plato-carro-bar"
+      },
+      {
+        "name": "Conjunto Petra",
+        "src": "petra-02",
+        "link": "/produtos/bancos-e-puffs/petra"
+      },
+      {
+        "name": "Mesa de Centro Canoa",
+        "src": "canoa-02",
+        "link": "/produtos/mesas-laterais-centro/canoa"
+      },
+      {
+        "name": "Mesa Lateral Donatela",
+        "src": "donatela-mesa-03",
+        "link": "/produtos/mesas-laterais-centro/donatela-mesa"
+      },
+      {
+        "name": "Mesa Lateral maria",
+        "src": "maria-02",
+        "link": "/produtos/mesas-laterais-centro/maria"
+      },
+      {
+        "name": "Poltrona Donatela",
+        "src": "donatela-polt-02",
+        "link": "/produtos/poltronas/donatela-poltrona"
+      },
+      {
+        "name": "Puff amintas",
+        "src": "amintas-02",
+        "link": "/produtos/bancos-e-puffs/amintas"
+      },
+      {
+        "name": "Puff/Mesa firenze",
+        "src": "firenze-puff-04",
+        "link": "/produtos/bancos-e-puffs/firenze-puff"
+      },
+      {
+        "name": "Puff/Mesa nozes",
+        "src": "nozes-puff-01",
+        "link": "/produtos/bancos-e-puffs/nozes"
+      }
+    ]
+  },
+  {
+    "id": "/designers/ibanez-razzera",
+    "slug": "/designers/ibanez-razzera",
+    "title": "Ibanez Razzera",
+    "coverImg": "ibanez-razzera.jpg",
+    "description": "A Tumar firma parceria com o Arquiteto e Designer, Ibanez Razzera que tem em seu DNA a paixão pela arte da marcenaria.<br/><br/> O olhar sobre máquinas e homens, o chão de fábrica como um território de descobertas e aprendizado, associado ao traço e a vocação do arquiteto, se uniram para identificar seu trabalho, com leveza, elegância, e que se traduz em um cuidado entre unir linhas e curvas, proporção e funcionalidade, em um resultado final sempre surpreendente e agradável.",
+    "products": [
+      {
+        "name": "Banqueta Tiê",
+        "src": "ban-tie-01",
+        "link": "/produtos/banquetas/banqueta-tie"
+      },
+      {
+        "name": "Cadeira arc",
+        "src": "arc-01",
+        "link": "/produtos/cadeiras/arc-cadeira"
+      },
+      {
+        "name": "Cadeira arya",
+        "src": "arya-01",
+        "link": "/produtos/cadeiras/arya"
+      },
+      {
+        "name": "Cadeira balena",
+        "src": "balena-03",
+        "link": "/produtos/cadeiras/balena"
+      },
+      {
+        "name": "Cadeira coral com e sem braço",
+        "src": "coral-cad-01",
+        "link": "/produtos/cadeiras/coral-cadeira" 
+      },
+      {
+        "name": "Cadeira Skin",
+        "src": "skin-02",
+        "link": "/produtos/cadeiras/skin"
+      },
+      {
+        "name": "Cadeira Sela",
+        "src": "sela-04",
+        "link": "/produtos/cadeiras/sela"
+      },
+      {
+        "name": "Cadeira sofi",
+        "src": "sofi-01",
+        "link": "/produtos/cadeiras/sofi"
+      },
+      {
+        "name": "Cadeira sotille",
+        "src": "sotille-01",
+        "link": "/produtos/cadeiras/sotille"
+      },
+      {
+        "name": "Cadeira tiê estofada e palha",
+        "src": "tie-01",
+        "link": "/produtos/cadeiras/tie"
+      },
+      {
+        "name": "Cadeira vita",
+        "src": "vita-01",
+        "link": "/produtos/cadeiras/vita"
+      },
+      {
+        "name": "Luminária Oroboro",
+        "src": "oroboro-1",
+        "link": "/produtos/luminarias/oroboro"
+      },
+      {
+        "name": "Luminária Remo",
+        "src": "remo-01",
+        "link": "/produtos/luminarias/remo"
+      },
+      {
+        "name": "Luminária Soul",
+        "src": "soul-01",
+        "link": "/produtos/luminarias/soul-luminaria"
+      },
+      {
+        "name": "Poltrona Abbraccio",
+        "src": "abbraccio-05",
+        "link": "/produtos/poltronas/abbraccio"
+      },
+      {
+        "name": "Poltrona Arc",
+        "src": "arc-polt-01",
+        "link": "/produtos/poltronas/arc-poltrona"
+      },
+      {
+        "name": "Poltrona coral",
+        "src": "coral-polt-03",
+        "link": "/produtos/poltronas/coral-poltrona"
+      }
+    ]
+  },
+  {
+    "id": "/designers/tascieny-brandao",
+    "slug": "/designers/tascieny-brandao",
+    "date": "2019-05-04",
+    "title": "Tascieny Brandão",
+    "coverImg": "tascieny-brandao.jpg",
+    "description": "A Tumar firma parceria com a Arquiteta Tascieny Brandão, que tem grande inspiração no Design Brasileiro. Enaltecendo os traços finos e elegantes, busca sempre contemplar a atemporalidade do móvel.<br/><br/>Em todo seu trabalho busca o uso variado das formas orgânicas e geométricas demostram toda beleza e harmonia do mobiliário nacional, resultando no equilíbrio da forma e função de cada peça.",
+    "products": [
+      {
+        "name": "Poltrona Moon",
+        "src": "moon-polt-01",
+        "link": "/produtos/poltronas/moon-poltrona"
+      },
+      {
+        "name": "Puff Moon",
+        "src": "moon-puff-01",
+        "link": "/produtos/bancos-e-puffs/moon"
+      }
+    ]
+  },
+  {
+    "id": "/designers/studio-t92",
+    "slug": "/designers/studio-t92",
+    "title": "Studio T92",
+    "coverImg": "logo-t92.jpg",
+    "description": "Criatividade, talento e um olhar com foco na criação, o Studio T92, idealiza peças com design, essência e pluralidade.",
+    "products": [
+      {
+        "name": "Poltrona e Puff Jangada",
+        "src": "jangada-01-",
+        "link": "/produtos/poltronas/jangada"
+      },
+      {
+        "name": "Poltrona Boomerang",
+        "src": "boomerang-02",
+        "link": "/produtos/poltronas/boomerang"
+      },
+      {
+        "name": "Cadeira Fit",
+        "src": "fit-02",
+        "link": "/produtos/cadeiras/fit"
+      },
+      {
+        "name": "Banqueta Fit",
+        "src": "fit-04",
+        "link": "/produtos/banquetas/banqueta-fit"
+      }            
+    ]
+  }
+]
