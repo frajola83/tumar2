@@ -852,19 +852,5 @@
         "nameEn": "green"
       }
     ]
-  },
-  {
-    "category_name": "Tachinha",
-    "category_name_en": "thumbtack",
-    "category_name_es": "chinche",
-    "category_slug": "tachinha", 
-    "finishes": [
-      {
-        "slug": "envelhecida",
-        "name": "envelhecida",
-        "nameEs": "aged",
-        "nameEn": "Envejecido"
-      }
-    ]
   }
 ]

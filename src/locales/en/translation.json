@@ -1,4 +1,21 @@
 {
+  "finishes": {
+    "naturalWoodVeener": "Natural wood veneer",
+    "solidWood": "Solid Wood",
+    "group01": "Group 1",
+    "group04": "Group 4",
+    "group05": "Group 5",
+    "group06": "Group 6",
+    "group07": "Group 7",
+    "naturalLeather": "Natural Leather",
+    "formica": "Formica",
+    "syntheticVeneer": "Synthetic Veneer",
+    "fabricKnit": "Fabric Knit",
+    "naturalStraw": "Natural Straw",
+    "metallicPainting": "Metallic Painting",
+    "reconstitutedLeather": "Reconstituted Leather",
+    "paintedGlass": "Painted Glass"
+  },
   "categories": {
     "banquetas": "benches",
     "cadeiras": "chairs",

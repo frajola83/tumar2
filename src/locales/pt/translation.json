@@ -1,4 +1,22 @@
-{"categories": {
+{
+  "finishes": {
+    "naturalWoodVeener": "Lâminas Naturais",
+    "solidWood": "Madeira Maciça",
+    "group01": "Grupo 1",
+    "group04": "Grupo 4",
+    "group05": "Grupo 5",
+    "group06": "Grupo 6",
+    "group07": "Grupo 7",
+    "naturalLeather": "Couro Natural",
+    "formica": "Fórmica",
+    "syntheticVeneer": "Lâmina Sintética",
+    "fabricKnit": "Malha Knit",
+    "naturalStraw": "Palha Natural",
+    "metallicPainting": "Pintura Metálica",
+    "reconstitutedLeather": "Recouro",
+    "paintedGlass": "Vidro"
+  },
+  "categories": {
   "banquetas": "banquetas",
   "cadeiras": "cadeiras",
   "poltronas": "poltronas",
