@@ -2,6 +2,7 @@ import { GatsbyNode } from "gatsby"
 import { resolve } from "path"
 import {
   createCategoryPages,
+  createDesignerPages,
   createFinishPages,
   createProductSinglePages,
   Languages,
@@ -54,6 +55,13 @@ export const createPages: GatsbyNode["createPages"] = async ({
             }
           }
         }
+        allDesignerJson {
+          edges {
+            node {
+              slug
+            }
+          }
+        }
       }
     `)
 
@@ -75,6 +83,7 @@ export const createPages: GatsbyNode["createPages"] = async ({
         resolve
       )
       createFinishPages(result.data!, currentLanguage, createPage, resolve)
+      createDesignerPages(result.data!, currentLanguage, createPage, resolve)
     })
   }
 

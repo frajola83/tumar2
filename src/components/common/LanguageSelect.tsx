@@ -10,6 +10,9 @@ const LanguagesContainer = styled.div`
 `
 const LanguageLink = styled(Link)`
   color: ${props => props.theme.colors.darkGrey};
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: bold;
 `
 
 export const LanguageSelect = () => {

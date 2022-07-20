@@ -37,24 +37,24 @@ const ImageContainer = styled.div`
 `
 
 const Banquetas = styled(ImageContainer)`
-  ${breakpoints("height", ["100%", "280px", "340px", "375px"])}
+  ${breakpoints("height", ["100%", "280px", "280px", "280px"])}
   ${breakpoints("width", ["100%", "40%", "35%", "30%"])}
 `
 const Cadeiras = styled(ImageContainer)`
-  ${breakpoints("height", ["100%", "280px", "340px", "375px"])}
+  ${breakpoints("height", ["100%", "280px", "280px", "280px"])}
   ${breakpoints("width", ["100%", "60%", "65%", "70%"])}
 `
 const Mesas = styled(ImageContainer)`
-  ${breakpoints("height", ["100%", "300px", "375px", "375px"])}
+  ${breakpoints("height", ["100%", "300px", "300px", "300px"])}
   width: 100%;
 `
 const Bancos = styled(ImageContainer)`
-  ${breakpoints("height", ["100%", "310px", "314px", "375px"])}
+  ${breakpoints("height", ["100%", "310px", "300px", "300px"])}
   ${breakpoints("width", ["100%", "65%", "50%", "60%"])}
 `
 
 const Poltronas = styled(ImageContainer)`
-  ${breakpoints("height", ["100%", "310px", "314px", "375px"])}
+  ${breakpoints("height", ["100%", "310px", "300px", "300px"])}
   ${breakpoints("width", ["100%", "35%", "50%", "40%"])}
 `
 
@@ -67,8 +67,10 @@ const Gallery = styled.div`
   display: flex;
   flex-direction: column;
   gap: ${props => props.theme.gap}px;
+  margin: auto;
   margin-top: ${props => props.theme.gap * 2}px;
   margin-bottom: ${props => props.theme.gap * 2}px;
+  max-width: 768px;
   ${breakpoints("margin-bottom", [
     `${theme.gap * 2}px`,
     `${theme.gap * 2}px`,

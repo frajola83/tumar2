@@ -13,6 +13,25 @@ export interface Finish {
   nameEn: string
 }
 
+export interface DesignerProduct {
+  link: string
+  name: string
+  nameEs: string
+  nameEn: string
+  src: string
+}
+
+export interface Designer {
+  id: string
+  slug: string
+  coverImg: string
+  description: string
+  descriptionEn: string
+  descriptionEs: string
+  title: string
+  products: DesignerProduct[]
+}
+
 export interface FinishGroup {
   category_name: string
   category_name_en: string
@@ -51,6 +70,10 @@ export type FinishEdge = {
   node: FinishGroup
 }
 
+export type DesignerNode = {
+  node: Designer
+}
+
 export interface AllProductGraphQlResult {
   edges: ProductNode[]
 }
@@ -62,10 +85,21 @@ export interface AllFinishGraphQlResult {
   edges: FinishEdge[]
 }
 
+export interface AllDesignerGraphQlResult {
+  edges: DesignerNode[]
+}
+
+export interface DesignerGraphQlResult {
+  data: {
+    designerJson: Designer
+  }
+}
+
 export interface AllDataGraphQlQueryResult {
   allProductJson: AllProductGraphQlResult
   allCategoryJson: AllCategoryGraphQlResult
   allFinishesJson: AllFinishGraphQlResult
+  allDesignerJson: AllDesignerGraphQlResult
 }
 
 export const parseCategories = (data: AllCategoryGraphQlResult): Category[] => {

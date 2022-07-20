@@ -17,7 +17,8 @@ const NavContainer = styled.div`
 
 const LanguageSelectContainer = styled.div`
   position: absolute;
-  top: -20px;
+  top: -10px;
+  ${breakpoints("top", ["-10px", "-10px", "-20px", "-20px"])}
   right: 0;
 `
 

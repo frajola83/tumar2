@@ -71,3 +71,25 @@ export const createFinishPages = (
     return createPage(options)
   })
 }
+
+export const createDesignerPages = (
+  data: AllDataGraphQlQueryResult,
+  language: "pt" | "en" | "es",
+  createPage: (args: any) => void,
+  resolve: any
+) => {
+  data.allDesignerJson.edges.forEach((edge) => {
+    const options = {
+      path: edge.node.slug,
+      component: resolve(
+        __dirname,
+        "./src/template/template-designer-single.tsx"
+      ),
+      context: {
+        slug: edge.node.slug,
+        language,
+      },
+    }
+    return createPage(options)
+  })
+}
