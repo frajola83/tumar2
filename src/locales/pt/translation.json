@@ -109,7 +109,10 @@
         "ambientsWith": "ambientes com"
       },
       "finishes": {
-        "title": "acabamentos"
+        "title": "acabamentos",
+        "menuWood": "madeira",
+        "menuFabric": "tecido",
+        "menuAny": "diversos"
       },
       "contact": {
         "title": "contato",

@@ -1,7 +1,9 @@
-import React from "react"
+import React, { useContext } from "react"
 import { breakpoints } from "../../utils/styledResponsive"
 import styled from "styled-components"
 import { ImgProvider } from "../common/ImgGraph"
+import { Finish } from "../../interfaces"
+import { I18nextContext } from "gatsby-plugin-react-i18next"
 
 const FinishContainer = styled.div`
   align-items: center;
@@ -35,21 +37,33 @@ const styles = {
 }
 
 interface FinishBoxProps {
-  title: string
-  slug: string
+  finish: Finish
 }
 
-export const FinishBox: React.FC<FinishBoxProps> = ({ title, slug }) => {
+export const FinishBox: React.FC<FinishBoxProps> = ({ finish }) => {
+
+  const context = useContext(I18nextContext)
+
+  let finishName = finish.name
+
+  if (context.language === "en") {
+    finishName = finish.nameEn
+  }
+
+  if (context.language === "es") {
+    finishName = finish.nameEs
+  }
+
   return (
     <FinishContainer>
       <PicContainer>
         <ImgProvider
-          fileName={`${slug}.jpg`}
-          alt={title}
+          fileName={`${finish.slug}.jpg`}
+          alt={finishName}
           style={styles.image}
         />
       </PicContainer>
-      <TextContainer>{title}</TextContainer>
+      <TextContainer>{finishName}</TextContainer>
     </FinishContainer>
   )
 }

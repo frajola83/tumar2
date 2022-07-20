@@ -111,7 +111,10 @@
         "ambientsWith": "ambients with"
       },
       "finishes": {
-        "title": "finishes"
+        "title": "finishes",
+        "menuWood": "wood",
+        "menuFabric": "fabric",
+        "menuAny": "others"
       },
       "contact": {
         "title": "contact",

@@ -72,7 +72,7 @@ export const FinishesIndex: React.FC<FinishesIndexProps> = ({ data }) => {
         </ColLeft>
         <ColRight>
           {finishes.map(item => (
-            <FinishBox title={item.name} slug={item.slug} key={item.slug} />
+            <FinishBox finish={item} key={item.slug} />
           ))}
         </ColRight>
       </Content>
