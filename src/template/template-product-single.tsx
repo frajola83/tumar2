@@ -30,6 +30,7 @@ export const pageQuery = graphql`
       category_name
       measurements
       measurementsEn
+      measurementsEs
     }
     locales: allLocale(filter: { language: { eq: $language } }) {
       edges {

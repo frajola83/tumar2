@@ -57,6 +57,7 @@ export interface Product {
   category_name: string
   measurements: string[]
   measurementsEn: string[]
+  measurementsEs: string[]
 }
 
 export type CategoryNode = {

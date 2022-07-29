@@ -19,7 +19,7 @@
   "categories": {
     "banquetas": "taburetes",
     "cadeiras": "sillas",
-    "poltronas": "sillón",
+    "poltronas": "sillones",
     "bancos-e-puffs": "bancos y puffs",
     "mesas-de-jantar": "mesas de comedor",
     "mesas-laterais-centro": "mesas auxiliares y de centro",
@@ -29,7 +29,7 @@
   "nav": {
     "home": "inicio",
     "about": "acerca de",
-    "designers": "diseñadores",
+    "designers": "designers",
     "products": "productos",
     "finishes": "acabados",
     "contact": "contacto"
@@ -39,7 +39,7 @@
       "title": "institucional",
       "links": {
         "about": "tumar",
-        "designers": "diseñadores",
+        "designers": "designers",
         "privacyPolicy": "política de privacidad",
         "restrictedArea": "área restringida"
       }
@@ -75,7 +75,7 @@
       },
       "btnMoreProducts": "Más productos",
       "designers": {
-        "title": "diseñadores",
+        "title": "designers",
         "text": "Conoce a los grandes nombres que trabajan con nosotros y explora sus creaciones.",
         "btn": "conozca"
       },
@@ -95,7 +95,7 @@
       "text5": "Tumar se siente muy orgullosa de su trayectoria hasta el momento, hecha con trabajo, inversión y visión de futuro."
     },
     "designers": {
-      "title": "diseñadores"
+      "title": "designers"
     },
     "designerSingle": {
       "forTumar": "para Tumar"
@@ -107,14 +107,14 @@
       "title": "productos tumar",
       "description": "descripción",
       "measurements": "mediciones",
-      "measurementsCaption": "mediciones en centimetros",
+      "measurementsCaption": "mediciones en milímetros",
       "ambientsWith": "ambientes con"
     },
     "finishes": {
       "title": "acabados",
       "menuWood": "madera",
-      "menuFabric": "tecido",
-      "menuAny": "diversos"
+      "menuFabric": "telas",
+      "menuAny": "varios"
     },
     "contact": {
       "title": "contacto",

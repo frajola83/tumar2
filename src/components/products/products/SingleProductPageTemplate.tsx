@@ -65,6 +65,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     images,
     measurements,
     measurementsEn,
+    measurementsEs,
     name,
     ref,
     slug,
@@ -85,6 +86,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
   }
   if (context.language === "es") {
     productDescription = descriptionEs;
+    productMeasurements = measurementsEs;
   }
 
   return (
