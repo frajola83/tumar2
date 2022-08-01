@@ -148,14 +148,14 @@
       {
         "name": "Carro Bar Donatela",
         "nameEn": "Donatela Bar Cart",
-        "nameEs": "Coche Bar Donatela",
+        "nameEs": "Carro Bar Donatela",
         "src": "donatela-carro-01",
         "link": "/produtos/carro-bar/donatela-carro-bar"
       },
       {
         "name": "Carro Bar Platô",
         "nameEn": "Platô Bar Cart",
-        "nameEs": "Coche Bar Platô",
+        "nameEs": "Carro Bar Platô",
         "src": "plato-01",
         "link": "/produtos/carro-bar/plato-carro-bar"
       },
