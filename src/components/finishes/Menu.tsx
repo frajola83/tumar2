@@ -45,7 +45,7 @@ export const Menu: React.FC<MenuProps> = ({ category_slug }) => {
         <MenuItem category="tecidos-grupo-4" currentCategory={category_slug}>{t("finishes.group04")}</MenuItem>
         <MenuItem category="tecidos-grupo-5" currentCategory={category_slug}>{t("finishes.group05")}</MenuItem>
         <MenuItem category="tecidos-grupo-6" currentCategory={category_slug}>{t("finishes.group06")}</MenuItem>
-        <MenuItem category="tecidos-grupo-7" currentCategory={category_slug}>{t("finishes.group01")}</MenuItem>
+        <MenuItem category="tecidos-grupo-7" currentCategory={category_slug}>{t("finishes.group07")}</MenuItem>
       </MenuSection>
       <MenuSectionTitle>{t("pages.finishes.menuAny")}</MenuSectionTitle>
       <MenuSection>

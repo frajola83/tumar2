@@ -15,10 +15,10 @@
         "30.70 x 37.00 x 32.48"
       ],
       "measurements": [
-        "780 x 940 x 825mm "
+        "780 x 940 x 825"
       ],
       "measurementsEs": [
-        "780 x 940 x 825mm"
+        "780 x 940 x 825"
       ],
       "images": [
         "abbraccio-05",
@@ -204,8 +204,8 @@
         "Puff: 17.12 x 24.21 x 19.29"
       ],
       "measurements": [
-        "Poltrona: 1080x800x845",
-        "Puff: 435x615x490 "
+        "Poltrona: 1080 x 800 x 845",
+        "Puff: 435 x 615 x 490 "
       ],
       "measurementsEs": [
         "Sillón: 1080x800x845",
@@ -417,10 +417,10 @@
         "30.70 x 31.88 x 29.13"      
       ],
       "measurements": [
-        "780 x 810 x 740 mm"      
+        "780 x 810 x 740"      
       ],
       "measurementsEs": [
-        "780 x 810 x 740 mm"
+        "780 x 810 x 740"
       ],
       "images": [
         "zion-01",
@@ -943,10 +943,10 @@
         "32.08 x 22.63 x 25.59"
       ],
       "measurements": [
-        "815 x 575 x 650mm "
+        "815 x 575 x 650"
       ],
       "measurementsEs": [
-        "815 x 575 x 650mm"
+        "815 x 575 x 650"
       ],
       "images": [
         "skin-01",
@@ -1079,10 +1079,10 @@
         "33.07 x 19.68 x 24.60"
       ],
       "measurements": [
-        "840 x 500 x 625mm"
+        "840 x 500 x 625"
       ],
       "measurementsEs": [
-        "840 x 500 x 625mm"
+        "840 x 500 x 625"
       ],
       "images": [
         "sotille-01",
@@ -1169,10 +1169,10 @@
         "33.26 x 20.47 x 23.42"
       ],
       "measurements": [
-        "845 x 580 x 600mm"
+        "845 x 580 x 600"
       ],
       "measurementsEs": [
-        "845 x 580 x 600mm"
+        "845 x 580 x 600"
       ],
       "images": [
         "zoe-01",
@@ -1249,7 +1249,7 @@
     {
       "ref": "BA.1437",
       "slug": "banqueta-fit",
-      "name": "banqueta fit",
+      "name": "fit",
       "cover_img": "fit-04",
       "designer_name": "studio t92",
       "designer_slug": "studio-t92",
@@ -1263,12 +1263,12 @@
         "Medium: 36.22 x 17.71 x 21.25 from seat to floor 25.98"
       ],
       "measurements": [
-        "Alta: 1020 x 455 x 540 mm assento ao chão 760",
-        "Média: 920 x 455 x 540 mm assento ao chão 660"
+        "Alta: 1020 x 455 x 540 assento ao chão 760",
+        "Média: 920 x 455 x 540 assento ao chão 660"
       ],
       "measurementsEs": [
-        "Alto: 1020 x 455 x 540 mm asiento a piso 760",
-        "Promedio: 920 x 455 x 540 mm asiento a piso 660"
+        "Alto: 1020 x 455 x 540 asiento a piso 760",
+        "Promedio: 920 x 455 x 540 asiento a piso 660"
       ],
   
       "images": [
@@ -1281,7 +1281,7 @@
     {
       "ref": "Ref.1440",
       "slug": "banqueta-mis",
-      "name": "banqueta mis",
+      "name": "mis",
       "cover_img": "mis-ban-01",
       "designer_slug": "",
       "category_slug": "banquetas",
@@ -1294,12 +1294,12 @@
         "Medium: 35.82 x 22.24 x 18.50 from seat to floor 25.98"
       ],
       "measurements": [
-        "Alta: 1010 x 565 x 470 mm assento ao chão 760",
-        "Média: 910 x 565 x 470 mm assento ao chão 660"
+        "Alta: 1010 x 565 x 470 assento ao chão 760",
+        "Média: 910 x 565 x 470 assento ao chão 660"
       ],
       "measurementsEs": [
-        "Alto: 1010 x 565 x 470 mm asiento a piso 760",
-        "Promedio: 910 x 565 x 470 mm asiento a piso 660"
+        "Alto: 1010 x 565 x 470 asiento a piso 760",
+        "Promedio: 910 x 565 x 470 asiento a piso 660"
       ],
   
       "images": [
@@ -1312,7 +1312,7 @@
     {
       "ref": "-Ref.1438,-Ref.1439",
       "slug": "banqueta-tie",
-      "name": "banqueta tiê",
+      "name": "tiê",
       "cover_img": "ban-tie-01",
       "designer_name": "ibanez razzera",
       "designer_slug": "ibanez-razzera",
@@ -1326,12 +1326,12 @@
         "Medium: 36.81 x 17.32 x 20.86 from seat to floor 25.98"
       ],
       "measurements": [
-        "Alta: 1020 x 400 x 450 mm assento ao chão 760",
-        "Média: 920 x 400 x 450 mm assento ao chão 660 "
+        "Alta: 1020 x 400 x 450 assento ao chão 760",
+        "Média: 920 x 400 x 450 assento ao chão 660 "
       ],
       "measurementsEs": [
-        "Alto: 1020 x 400 x 450 mm asiento a piso 760",
-        "Promedio: 920 x 400 x 450 mm asiento a piso 660 "
+        "Alto: 1020 x 400 x 450 asiento a piso 760",
+        "Promedio: 920 x 400 x 450 asiento a piso 660 "
       ],
   
       "images": [
@@ -1359,16 +1359,16 @@
         "106.29 x 47.24"
       ],
       "measurements": [
-        "750x2000x1000",
-        "750x2200x1100",
-        "750x2500x1200",
-        "750x2700x1200"
+        "750 x 2000 x 1000",
+        "750 x 2200 x 1100",
+        "750 x 2500 x 1200",
+        "750 x 2700 x 1200"
       ],
       "measurementsEs": [
-        "750x2000x1000",
-        "750x2200x1100",
-        "750x2500x1200",
-        "750x2700x1200"
+        "750 x 2000 x 1000",
+        "750 x 2200 x 1100",
+        "750 x 2500 x 1200",
+        "750 x 2700 x 1200"
       ],
       "images": [
         "eros-01",
@@ -1725,7 +1725,7 @@
     {
       "ref": "-Ref.2528 / 2529 / 2530",
       "slug": "orbe-murano",
-      "name": "orbe - Técnica de Murano",
+      "name": "orbe - murano",
       "cover_img": "orbe-murano",
       "designer_name": "emerson borges",
       "designer_slug": "emerson-borges",
