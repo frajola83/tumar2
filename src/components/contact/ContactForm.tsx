@@ -71,135 +71,138 @@ const ErrorTitle = styled.h3`
 const ErrorText = styled.p``
 
 import Axios from "axios"
+import { useTranslation } from "react-i18next"
 
 interface ContactInfoFromSite {
-    name: string
-    email: string
-    phone: string
-    message: string
+  name: string
+  email: string
+  phone: string
+  message: string
 }
 
 interface ContactInfoToServer {
-    nome: string
-    email: string
-    telefone: string
-    mensagem: string
+  nome: string
+  email: string
+  telefone: string
+  mensagem: string
 }
 
 const parseInfo = (info: ContactInfoFromSite): ContactInfoToServer => ({
-    nome: info.name,
-    email: info.email,
-    mensagem: info.message,
-    telefone: info.phone,
+  nome: info.name,
+  email: info.email,
+  mensagem: info.message,
+  telefone: info.phone,
 })
 
-export const ContactForm: React.FC = ({ }) => {
-    const [name, setName] = useState("")
-    const [email, setEmail] = useState("")
-    const [phone, setPhone] = useState("")
-    const [message, setMessage] = useState("")
-    const [loading, setLoading] = useState(false)
-    const [hasError, setHasError] = useState(false)
-    const [submitted, setSubmitted] = useState(false)
+export const ContactForm: React.FC = ({}) => {
+  const [name, setName] = useState("")
+  const [email, setEmail] = useState("")
+  const [phone, setPhone] = useState("")
+  const [message, setMessage] = useState("")
+  const [loading, setLoading] = useState(false)
+  const [hasError, setHasError] = useState(false)
+  const [submitted, setSubmitted] = useState(false)
 
-    const showForm = !loading && !submitted
-    const showLoading = loading && !submitted
-    const showSuccess = !loading && submitted
+  const { t } = useTranslation()
 
-    const submit = async (e: React.FormEvent<HTMLFormElement>) => {
-        const url = "https://tumar.com.br/actions/contato.php"
-        e.preventDefault()
-        setLoading(true)
-        setHasError(false)
-        try {
-            await Axios.post(
-                url,
-                parseInfo({
-                    name,
-                    email,
-                    phone,
-                    message,
-                })
-            )
-            setLoading(false)
-            setSubmitted(true)
-        } catch (error) {
-            setLoading(false)
-            setHasError(true)
-        }
+  const showForm = !loading && !submitted
+  const showLoading = loading && !submitted
+  const showSuccess = !loading && submitted
+
+  const submit = async (e: React.FormEvent<HTMLFormElement>) => {
+    const url = "https://tumar.com.br/actions/contato.php"
+    e.preventDefault()
+    setLoading(true)
+    setHasError(false)
+    try {
+      await Axios.post(
+        url,
+        parseInfo({
+          name,
+          email,
+          phone,
+          message,
+        })
+      )
+      setLoading(false)
+      setSubmitted(true)
+    } catch (error) {
+      setLoading(false)
+      setHasError(true)
     }
+  }
 
-    const RenderError = () => (
-        <ErrorContainer>
-            <ErrorTitle>Ocorreu um erro</ErrorTitle>
-            <ErrorText>
-                Ocorreu um erro ao enviar sua mensagem. Verifique o preenchimento dos
-                campos obrigatórios(marcados com "*") e tente novamente.
-            </ErrorText>
-        </ErrorContainer>
-    )
+  const RenderError = () => (
+    <ErrorContainer>
+      <ErrorTitle>Ocorreu um erro</ErrorTitle>
+      <ErrorText>
+        Ocorreu um erro ao enviar sua mensagem. Verifique o preenchimento dos
+        campos obrigatórios(marcados com "*") e tente novamente.
+      </ErrorText>
+    </ErrorContainer>
+  )
 
-    return (
-        <Container>
-            {hasError ? <RenderError /> : null}
-            {showForm ? (
-                <form
-                    style={{ width: "100%" }}
-                    onSubmit={(e: React.FormEvent<HTMLFormElement>) => submit(e)}
-                >
-                    <InputGroup>
-                        <InputLabel>Nome*</InputLabel>
-                        <InputControl
-                            name="name"
-                            value={name}
-                            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-                                setName(e.target.value)
-                            }
-                            required
-                        />
-                    </InputGroup>
-                    <InputGroup>
-                        <InputLabel>E-mail*</InputLabel>
-                        <InputControl
-                            name="email"
-                            value={email}
-                            type="email"
-                            required
-                            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-                                setEmail(e.target.value)
-                            }
-                        />
-                    </InputGroup>
-                    <InputGroup>
-                        <InputLabel>Telefone</InputLabel>
-                        <InputControl
-                            name="phone"
-                            value={phone}
-                            type="phone"
-                            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-                                setPhone(e.target.value)
-                            }
-                        />
-                    </InputGroup>
-                    <InputGroup>
-                        <InputLabel>Mensagem</InputLabel>
-                        <InputControlTextArea
-                            name="message"
-                            value={message}
-                            onChange={(e: React.ChangeEvent<HTMLTextAreaElement>) =>
-                                setMessage(e.target.value)
-                            }
-                        />
-                    </InputGroup>
-                    <ButtonContainer>
-                        <ButtonCta type="submit" style={{ fontSize: 18 }}>
-                            Enviar
+  return (
+    <Container>
+      {hasError ? <RenderError /> : null}
+      {showForm ? (
+        <form
+          style={{ width: "100%" }}
+          onSubmit={(e: React.FormEvent<HTMLFormElement>) => submit(e)}
+        >
+          <InputGroup>
+            <InputLabel>{t("footer.contact.form.name")}*</InputLabel>
+            <InputControl
+              name="name"
+              value={name}
+              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                setName(e.target.value)
+              }
+              required
+            />
+          </InputGroup>
+          <InputGroup>
+            <InputLabel>{t("footer.contact.form.email")}*</InputLabel>
+            <InputControl
+              name="email"
+              value={email}
+              type="email"
+              required
+              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                setEmail(e.target.value)
+              }
+            />
+          </InputGroup>
+          <InputGroup>
+            <InputLabel>{t("footer.contact.form.phone")}</InputLabel>
+            <InputControl
+              name="phone"
+              value={phone}
+              type="phone"
+              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                setPhone(e.target.value)
+              }
+            />
+          </InputGroup>
+          <InputGroup>
+            <InputLabel>{t("footer.contact.form.message")}</InputLabel>
+            <InputControlTextArea
+              name="message"
+              value={message}
+              onChange={(e: React.ChangeEvent<HTMLTextAreaElement>) =>
+                setMessage(e.target.value)
+              }
+            />
+          </InputGroup>
+          <ButtonContainer>
+            <ButtonCta type="submit" style={{ fontSize: 18 }}>
+              {t("pages.contact.send")}
             </ButtonCta>
-                    </ButtonContainer>
-                </form>
-            ) : null}
-            {showLoading ? <Loader visible={showLoading} /> : null}
-            {showSuccess ? <ContactSuccess visible={submitted} /> : null}
-        </Container>
-    )
+          </ButtonContainer>
+        </form>
+      ) : null}
+      {showLoading ? <Loader visible={showLoading} /> : null}
+      {showSuccess ? <ContactSuccess visible={submitted} /> : null}
+    </Container>
+  )
 }

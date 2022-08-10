@@ -46,6 +46,12 @@
     },
     "contact": {
       "title": "hable con nosotros",
+      "form": {
+        "email": "E-mail",
+        "name": "Nombre",
+        "phone": "teléfono",
+        "message": "mensaje"
+      },
       "links": {
         "contact": "contacto"
       }
@@ -118,7 +124,8 @@
     },
     "contact": {
       "title": "contacto",
-      "text": "Para conocer más sobre nuestros productos, solicitar información o enviar sugerencias, rellene el formulario. Nuestro equipo está siempre listo para servirle."
+      "text": "Para conocer más sobre nuestros productos, solicitar información o enviar sugerencias, rellene el formulario. Nuestro equipo está siempre listo para servirle.",
+      "send": "Enviar"
     }
   }
 }
