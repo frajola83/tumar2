@@ -12,9 +12,14 @@ const extractImageNode = (imageName: string, data: any) => {
       return false;
     }
     return false;
-  } 
-  const {node} = data.edges.find(filter);
-  return node.childImageSharp;
+  }
+
+  if (data.edges.find(filter)) {
+    const {node} = data.edges.find(filter);
+    return node.childImageSharp;
+  }
+  console.log("Image not found", imageName);
+  return null;
 }
 
 interface ImageProviderProps {
@@ -37,9 +42,9 @@ export const ImageProvider: React.FC<ImageProviderProps> = ({src, alt}) => {
       }
     }
   `)
-  
+
   const imageSharp = extractImageNode(src, data.allFile);
   const image = getImage(imageSharp);
-  
+
   return <GatsbyImage image={image!} alt={alt} />
 }

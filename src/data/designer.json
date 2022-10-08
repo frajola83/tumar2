@@ -259,7 +259,7 @@
         "nameEn": "Coral Chair",
         "nameEs": "Silla coral",
         "src": "coral-cad-01",
-        "link": "/produtos/cadeiras/coral-cadeira" 
+        "link": "/produtos/cadeiras/coral-cadeira"
       },
       {
         "name": "Cadeira Skin",
@@ -409,7 +409,7 @@
         "nameEs": "Taburete Fit",
         "src": "fit-04",
         "link": "/produtos/banquetas/banqueta-fit"
-      }            
+      }
     ]
   }
 ]

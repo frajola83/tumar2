@@ -91,6 +91,8 @@ export const DesignerPageTemplate: React.FC<DesignerPageTemplateProps> = ({
     designerDescription = descriptionEs
   }
 
+  const forTranslation = context.language === "en" ? "for" : "para"
+
   return (
     <Container>
       <TopContainer>
@@ -112,7 +114,10 @@ export const DesignerPageTemplate: React.FC<DesignerPageTemplateProps> = ({
           </TextContainer>
         </FlexContainer>
       </TopContainer>
-      <BottomTitle>{title} para Tumar</BottomTitle>
+      <BottomTitle>
+        {title} {forTranslation} Tumar
+      </BottomTitle>
+      {/* @ts-ignore */}
       <Gallery data={parseProductsToProductImage(products, context.language)} />
     </Container>
   )

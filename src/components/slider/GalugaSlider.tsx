@@ -4,8 +4,9 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"
 import styled from "styled-components"
 import { ImageProvider } from "../common/ImageProvider"
 import "./carousel.css"
-import React from "react";
+import React, { useContext } from "react"
 import { breakpoints } from "../../utils/styledResponsive"
+import { I18nextContext } from "gatsby-plugin-react-i18next"
 
 const Slide = styled(Link)`
   display: flex;
@@ -33,36 +34,89 @@ const ImageContainer = styled.div`
   flex: 1;
 `
 
-
 export const GalugaSlider = () => {
-  return (
-    <>
-    <SliderContainer>
-      <Carousel showThumbs={false}>
-        <Slide to="/produtos/poltronas/abraccio">
-            <ImageProvider src="1920-banner-abbraccio" alt="Poltrona Abbraccio" />
-        </Slide>
-        <Slide to="/produtos/poltronas/jangada">
-            <ImageProvider src="1920-banner-jangada" alt="jangada" />
-        </Slide>
-        <Slide to="/produtos/luminarias/oroboro">
-            <ImageProvider src="1920-banner-oroboro" alt="jangada" />
-        </Slide>
-      </Carousel>
-    </SliderContainer>
-    <SliderMobile>
-    <Carousel showThumbs={false}>
-      <Slide to="/produtos/poltronas/abraccio">
-          <ImageProvider src="768-banner-abbraccio" alt="Poltrona Abbraccio" />
-      </Slide>
-      <Slide to="/produtos/poltronas/jangada">
-          <ImageProvider src="768-banner-jangada" alt="jangada" />
-      </Slide>
-      <Slide to="/produtos/luminarias/oroboro">
-          <ImageProvider src="768-banner-oroboro" alt="jangada" />
-      </Slide>
-    </Carousel>
-  </SliderMobile>
-  </>
-  )
+  const context = useContext(I18nextContext)
+  console.log("language", context.language);
+
+  if (context.language === "pt") {
+      return (
+        <>
+          <SliderContainer>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/luminarias/oroboro">
+                <ImageProvider src="1920-banner-jangada-pt" alt="jangada" />
+              </Slide>
+              <Slide to="/produtos/luminarias/oroboro">
+                <ImageProvider src="1920-banner-petra-pt" alt="jangada" />
+              </Slide>
+            </Carousel>
+          </SliderContainer>
+          <SliderMobile>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/jangada">
+                <ImageProvider src="768-banner-jangada-pt" alt="jangada" />
+              </Slide>
+              <Slide to="/produtos/luminarias/oroboro">
+                <ImageProvider src="1920-banner-petra-pt" alt="jangada" />
+              </Slide>
+            </Carousel>
+          </SliderMobile>
+        </>
+      )
+  }
+
+  if (context.language === "en") {
+    return (
+      <>
+        <SliderContainer>
+          <Carousel showThumbs={false}>
+            <Slide to="/produtos/luminarias/oroboro">
+              <ImageProvider src="1920-banner-jangada-en" alt="jangada" />
+            </Slide>
+            <Slide to="/produtos/luminarias/oroboro">
+              <ImageProvider src="1920-banner-petra-en" alt="jangada" />
+            </Slide>
+          </Carousel>
+        </SliderContainer>
+        <SliderMobile>
+          <Carousel showThumbs={false}>
+            <Slide to="/produtos/poltronas/jangada">
+              <ImageProvider src="768-banner-jangada-en" alt="jangada" />
+            </Slide>
+            <Slide to="/produtos/luminarias/oroboro">
+              <ImageProvider src="1920-banner-petra-en" alt="jangada" />
+            </Slide>
+          </Carousel>
+        </SliderMobile>
+      </>
+    )
+  }
+
+  if (context.language === "es") {
+    return (
+      <>
+        <SliderContainer>
+          <Carousel showThumbs={false}>
+            <Slide to="/produtos/luminarias/oroboro">
+              <ImageProvider src="1920-banner-jangada-es" alt="jangada" />
+            </Slide>
+            <Slide to="/produtos/luminarias/oroboro">
+              <ImageProvider src="1920-banner-petra-es" alt="jangada" />
+            </Slide>
+          </Carousel>
+        </SliderContainer>
+        <SliderMobile>
+          <Carousel showThumbs={false}>
+            <Slide to="/produtos/poltronas/jangada">
+              <ImageProvider src="768-banner-jangada-es" alt="jangada" />
+            </Slide>
+            <Slide to="/produtos/luminarias/oroboro">
+              <ImageProvider src="1920-banner-petra-es" alt="jangada" />
+            </Slide>
+          </Carousel>
+        </SliderMobile>
+      </>
+    )
+  }
+
 }

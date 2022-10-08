@@ -82,11 +82,13 @@
       "btnMoreProducts": "mais produtos",
       "designers": {
         "title": "Designers",
-        "text": "Conheça os grandes nomes que trabalham ao nosso lado e explore suas criações."
+        "text": "Conheça os grandes nomes que trabalham ao nosso lado e explore suas criações.",
+        "btn": "Conheça"
       },
       "about": {
         "title": "A Tumar",
-        "text": "A Tumar atua no mercado de mobiliário desde 1992, tornando-se referência de qualidade no segmento e conquistando, desta forma, muita credibilidade junto a seus clientes."
+        "text": "A Tumar atua no mercado de mobiliário desde 1992, tornando-se referência de qualidade no segmento e conquistando, desta forma, muita credibilidade junto a seus clientes.",
+        "btn": "Saiba mais"
       }
     },
     "about": {
