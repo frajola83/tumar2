@@ -43,10 +43,10 @@ export const GalugaSlider = () => {
         <>
           <SliderContainer>
             <Carousel showThumbs={false}>
-              <Slide to="/produtos/luminarias/oroboro">
+              <Slide to="/produtos/poltronas/jangada">
                 <ImageProvider src="1920-banner-jangada-pt" alt="jangada" />
               </Slide>
-              <Slide to="/produtos/luminarias/oroboro">
+              <Slide to="/produtos/bancos-e-puffs/petra">
                 <ImageProvider src="1920-banner-petra-pt" alt="jangada" />
               </Slide>
             </Carousel>
@@ -56,7 +56,7 @@ export const GalugaSlider = () => {
               <Slide to="/produtos/poltronas/jangada">
                 <ImageProvider src="768-banner-jangada-pt" alt="jangada" />
               </Slide>
-              <Slide to="/produtos/luminarias/oroboro">
+              <Slide to="/produtos/bancos-e-puffs/petra">
                 <ImageProvider src="1920-banner-petra-pt" alt="jangada" />
               </Slide>
             </Carousel>
@@ -70,10 +70,10 @@ export const GalugaSlider = () => {
       <>
         <SliderContainer>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/luminarias/oroboro">
+            <Slide to="/produtos/poltronas/jangada">
               <ImageProvider src="1920-banner-jangada-en" alt="jangada" />
             </Slide>
-            <Slide to="/produtos/luminarias/oroboro">
+            <Slide to="/produtos/bancos-e-puffs/petra">
               <ImageProvider src="1920-banner-petra-en" alt="jangada" />
             </Slide>
           </Carousel>
@@ -83,7 +83,7 @@ export const GalugaSlider = () => {
             <Slide to="/produtos/poltronas/jangada">
               <ImageProvider src="768-banner-jangada-en" alt="jangada" />
             </Slide>
-            <Slide to="/produtos/luminarias/oroboro">
+            <Slide to="/produtos/bancos-e-puffs/petra">
               <ImageProvider src="1920-banner-petra-en" alt="jangada" />
             </Slide>
           </Carousel>
@@ -97,10 +97,10 @@ export const GalugaSlider = () => {
       <>
         <SliderContainer>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/luminarias/oroboro">
+            <Slide to="/produtos/poltronas/jangada">
               <ImageProvider src="1920-banner-jangada-es" alt="jangada" />
             </Slide>
-            <Slide to="/produtos/luminarias/oroboro">
+            <Slide to="/produtos/bancos-e-puffs/petra">
               <ImageProvider src="1920-banner-petra-es" alt="jangada" />
             </Slide>
           </Carousel>
@@ -110,7 +110,7 @@ export const GalugaSlider = () => {
             <Slide to="/produtos/poltronas/jangada">
               <ImageProvider src="768-banner-jangada-es" alt="jangada" />
             </Slide>
-            <Slide to="/produtos/luminarias/oroboro">
+            <Slide to="/produtos/bancos-e-puffs/petra">
               <ImageProvider src="1920-banner-petra-es" alt="jangada" />
             </Slide>
           </Carousel>
