@@ -113,7 +113,7 @@
       "title": "produtos tumar",
       "description": "descrição",
       "measurements": "medidas",
-      "measurementsCaption": "medidas em centímetros",
+      "measurementsCaption": "medidas em milímetros",
       "ambientsWith": "ambientes com"
     },
     "finishes": {

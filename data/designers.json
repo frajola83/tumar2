@@ -160,9 +160,9 @@
   {
     "id": "/designers/ibanez-razzera",
     "slug": "/designers/ibanez-razzera",
-    "title": "Ibanez Razzera",
+    "title": "Razzera Ibanez + Lorenzo",
     "coverImg": "ibanez-razzera.jpg",
-    "description": "A Tumar firma parceria com o Arquiteto e Designer, Ibanez Razzera que tem em seu DNA a paixão pela arte da marcenaria.<br/><br/> O olhar sobre máquinas e homens, o chão de fábrica como um território de descobertas e aprendizado, associado ao traço e a vocação do arquiteto, se uniram para identificar seu trabalho, com leveza, elegância, e que se traduz em um cuidado entre unir linhas e curvas, proporção e funcionalidade, em um resultado final sempre surpreendente e agradável.",
+    "description": "É a evolução, um somatório, uma herança de pai para filho. A experiência da marcenaria, o olhar sobre máquinas e processos, o traço do arquiteto Ibanez Razzera, se unem ao talento, a jovialidade e ao mundo digital de Lorenzo Razzera. ",
     "products": [
       {
         "name": "Banqueta Tiê",
@@ -188,11 +188,6 @@
         "name": "Cadeira coral com e sem braço",
         "src": "coral-cad-01",
         "link": "/produtos/cadeiras/coral-cadeira" 
-      },
-      {
-        "name": "Cadeira Skin",
-        "src": "skin-02",
-        "link": "/produtos/cadeiras/skin"
       },
       {
         "name": "Cadeira Sela",
@@ -258,6 +253,26 @@
     "title": "Tascieny Brandão",
     "coverImg": "tascieny-brandao.jpg",
     "description": "A Tumar firma parceria com a Arquiteta Tascieny Brandão, que tem grande inspiração no Design Brasileiro. Enaltecendo os traços finos e elegantes, busca sempre contemplar a atemporalidade do móvel.<br/><br/>Em todo seu trabalho busca o uso variado das formas orgânicas e geométricas demostram toda beleza e harmonia do mobiliário nacional, resultando no equilíbrio da forma e função de cada peça.",
+    "products": [
+      {
+        "name": "Poltrona Moon",
+        "src": "moon-polt-01",
+        "link": "/produtos/poltronas/moon-poltrona"
+      },
+      {
+        "name": "Puff Moon",
+        "src": "moon-puff-01",
+        "link": "/produtos/bancos-e-puffs/moon"
+      }
+    ]
+  },
+  {
+    "id": "/designers/bruno-faucz",
+    "slug": "/designers/bruno-faucz",
+    "date": "2019-05-04",
+    "title": "Bruno Faucz",
+    "coverImg": "bruno-faucz.jpg",
+    "description": "Design é a materialização da informação. Busco desde as informações técnicas até como o produto vai impactar o usuário, da ergonomia a percepções ligadas a emoção. O processo criativo vai do tangível ao intangível até chegar ao produto final.",
     "products": [
       {
         "name": "Poltrona Moon",

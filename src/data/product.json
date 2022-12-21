@@ -31,6 +31,34 @@
       "variations": []
     },
     {
+      "ref": "ref.2983",
+      "slug": "afago",
+      "name": "afago",
+      "cover_img": "afago-01",
+      "designer_name": "Tascieny Brandão",
+      "designer_slug": "tascieny-brandao",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona suspensa com estrutura interna tubular, estofada. Cordas em polipropileno.",
+      "descriptionEn": "Upholstered hanging armchair with internal structure in carbon steel tube. Hanged by polypropylene ropes.",
+      "descriptionEs": "Sillón suspendido con estructura interna tubular, tapizado. Cuerdas de polipropileno.",
+      "measurementsEn": [
+        "40.55 x 35.03 x 34.25"
+      ],
+      "measurements": [
+        "1030 x 890 x 870"
+      ],
+      "measurementsEs": [
+        "1030 x 890 x 870"
+      ],
+      "images": [
+        "afago-01",
+        "afago-02"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2953",
       "slug": "arc-poltrona",
       "name": "arc",
@@ -60,6 +88,35 @@
         "arc-amb-02",
         "arc-amb-03"
       ],
+      "variations": []
+    },
+    {
+      "ref": "ref.2983",
+      "slug": "bag",
+      "name": "bag",
+      "cover_img": "bag-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com encosto multilaminado anatômico estofado, detalhe em couro natural. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered armchair with plywood seat and backrest, seat detail in leather. Stained wooden machined legs.",
+      "descriptionEs": "Sillón con respaldo tapizado anatómico multilaminado, detalle piel natural. Base de madera maciza teñida.",
+      "measurementsEn": [
+        "27.55 x 25.19 x 24.01"
+      ],
+      "measurements": [
+        "700 x 640 x 610"
+      ],
+      "measurementsEs": [
+        "700 x 640 x 610"
+      ],
+      "images": [
+        "bag-01",
+        "bag-02",
+        "bag-03"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -151,6 +208,7 @@
       ],
       "ambients": [
         "coral-polt-amb-01",
+        "coral-polt-amb-03",
         "coral-polt-amb-02"
       ],
       "variations": []
@@ -183,8 +241,66 @@
         "donatela-polt-04"
       ],
       "ambients": [
-        "donatela-polt-amb-01"
+        "donatela-polt-amb-01",
+        "donatela-polt-amb-02",
+        "donatela-polt-amb-03"
       ],
+      "variations": []
+    },
+    {
+      "ref": "ref.2979",
+      "slug": "hill",
+      "name": "hill",
+      "cover_img": "hill-01",
+      "designer_name": "emerson borges",
+      "designer_slug": "emerson-borges",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em madeira, estofada. Base em tubo pintado de preto e chapa de aço laminada. Com opção de estofar na malha knit.",
+      "descriptionEn": "Upholstered armchair with wooden seat and backrest. Carbon steel sheet structure coated with natural wood veneer. Carbon steel tube legs always painted in black.",
+      "descriptionEs": "Sillón con estructura interna en madera, tapizado. Base en tubo pintado de negro y chapa de acero laminado.",
+      "measurementsEn": [
+        "28.34 x 28.34 x 31.49"
+      ],
+      "measurements": [
+        "720 x 720 x 800"
+      ],
+      "measurementsEs": [
+        "720 x 720 x 800"
+      ],
+      "images": [
+        "hill-01",
+        "hill-02"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "ref.2977",
+      "slug": "ivy",
+      "name": "ivy",
+      "cover_img": "ivy-01",
+      "designer_name": "studio t92",
+      "designer_slug": "studio-t92",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com assento e encosto em multilaminado anatômico laminado, com aplique estofado. Base fixa em madeira maciça.",
+      "descriptionEn": "Armchair with machined solid wood structure, plywood seat and backrest coated with natural wood veneer and upholstered overlay. Detail in carbon steel sheet bent on the back.",
+      "descriptionEs": "Sillón con asiento y respaldo en multilaminado anatómico laminado, con aplique tapizado. Base fija en madera maciza.",
+      "measurementsEn": [
+        "31.10 x 27.55 x 24.80"
+      ],
+      "measurements": [
+        "790 x 700 x 630"
+      ],
+      "measurementsEs": [
+        "790 x 700 x 630"
+      ],
+      "images": [
+        "ivy-01",
+        "ivy-02"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -216,7 +332,12 @@
         "jangada-02",
         "jangada-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "jangada-amb-01",
+        "jangada-amb-02",
+        "jangada-amb-03",
+        "jangada-amb-04"
+      ],
       "variations": []
     },
     {
@@ -307,7 +428,8 @@
         "maori-03"
       ],
       "ambients": [
-        "maori-amb-01"
+        "maori-amb-01",
+        "maori-amb-02"
       ],
       "variations": []
     },
@@ -346,6 +468,98 @@
       "variations": []
     },
     {
+      "ref": "CA.2984",
+      "slug": "nara",
+      "name": "nara",
+      "cover_img": "nara-polt-01",
+      "designer_name": "Tascieny Brandão",
+      "designer_slug": "tascieny-brandao",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em madeira estofada, com detalhe em chapa de aço revestida em lâmina natural. Base giratória.",
+      "descriptionEn": "Upholstered swivel armchair with internal structure in wood, side and back detail in folded carbon steel sheet coated with natural wood veneer.",
+      "descriptionEs": "Sillón con estructura interna en madera tapizada, con detalle en chapa de acero revestido en pala natural. Base giratoria.",
+      "measurementsEn": [
+        "30.11 x 26.37 x 26.77"
+      ],
+      "measurements": [
+        "765 x 670 x 680"
+      ],
+      "measurementsEs": [
+        "765 x 670 x 680"
+      ],
+      "images": [
+        "nara-polt-01",
+        "nara-polt-02",
+        "nara-polt-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2981/1126",
+      "slug": "trenta",
+      "name": "trenta",
+      "cover_img": "trenta-01",
+      "designer_name": "Razzera Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado anatômico estofada. Peça com regulagem de inclinação no encosto, em tubo pintado. Base em madeira maciça tingida. Puff com estrutura em madeira estofado. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered armchair with plywood internal structure. Backrest with three comfort adjustment provided by a metal piece on the back. Stained wooden machined legs. Upholstered ottoman with wooden internal structure. Stained wooden machined legs.",
+      "descriptionEs": "Sillón con estructura interna en multilaminado anatómico tapizado. Parte con ajuste de inclinación en el respaldo, en tubo pintado. Base en madera maciza teñida. Puff con estructura de madera tapizada. Base en madera maciza teñida.",
+      "measurementsEn": [
+        "Armchair: 33.85 x 31.10 x 40.94",
+        "Puff: 14.56 x 24.40 x 19.68"
+      ],
+      "measurements": [
+        "Poltrona: 860 x 790 x 1040",
+        "Puff: 370 x 620 x 500"
+      ],
+      "measurementsEs": [
+        "Sillón: 860 x 790 x 1040",
+        "Soplo: 370 x 620 x 500"
+      ],
+      "images": [
+        "trenta-01",
+        "trenta-02",
+        "trenta-03",
+        "trenta-04"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2974",
+      "slug": "trentini",
+      "name": "trentini",
+      "cover_img": "trentini-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em madeira estofada. Com detalhe laterais e braços em madeira maciça tingida. Cintas em couro natural nas costas.  Base fixa tubular pintada.",
+      "descriptionEn": "Upholstered armchair with wooden internal structure with leather straps on the back. Square carbon steel tube structure with arms and side detail in machined solid wood.",
+      "descriptionEs": "Sillón con estructura interna en madera tapizada. Con detalles laterales y brazos en madera maciza teñida. Tirantes en piel natural en la parte trasera. Base fija tubular pintada.",
+      "measurementsEn": [
+        "32.28 x 32.28 x 31.49"
+      ],
+      "measurements": [
+        "820 x 820 x 800"
+      ],
+      "measurementsEs": [
+        "820 x 820 x 800"
+      ],
+      "images": [
+        "trentini-01",
+        "trentini-02",
+        "trentini-03",
+        "trentini-04"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2943",
       "slug": "urban",
       "name": "Urban",
@@ -376,27 +590,31 @@
       "variations": []
     },
     {
-      "ref": "CA.2828",
-      "slug": "valentina",
-      "name": "Valentina",
-      "cover_img": "valentina-01",
-      "designer_slug": "",
+      "ref": "CA.2975",
+      "slug": "vip",
+      "name": "vip",
+      "cover_img": "vip-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "poltronas",
       "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna tubular, estofada. Base em madeira tingida giratória.",
-      "descriptionEn": "Upholstered armchair with internal structure in carbon steel tube and swivel wooden legs.",
-      "descriptionEs": "Sillón con estructura interna tubular, tapizado. Base giratoria de madera teñida.",
+      "description": "Poltrona com estrutura em multilaminado anatômico revestida em lâmina natural. Base fixa tubular pintada. Almofada decorativa.",
+      "descriptionEn": "Armchair with plywood backrest coated with natural wood veneer, seat and cushion upholsted. Painted square carbon steel tube structure.",
+      "descriptionEs": "Sillón con estructura anatómica en multilaminado revestido en laminado natural. Base fija tubular pintada. Almohada decorativa.",
       "measurementsEn": [
-        "31.88 x 24.40 x 24.60"
+        "29.72 x 27.36 x 27.55"
       ],
       "measurements": [
-        "810 x 620 x 625"
+        "755 x 695 x 740"
       ],
       "measurementsEs": [
-        "810 x 620 x 625"
+        "755 x 695 x 740"
       ],
       "images": [
-        "valentina-01"
+        "vip-01",
+        "vip-02",
+        "vip-03",
+        "vip-04"
       ],
       "ambients": [],
       "variations": []
@@ -438,9 +656,9 @@
       "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado, estofada. Com a opção de plissas nas costas. Opções de bases fixa de madeira tingida, giratória madeira tingida ou giratória de aço carbono pintado.",
-      "descriptionEs": "Silla con carcasa en multilaminado, tapizada. Con opción de pliegues en la espalda. Opciones para bases fijas de madera teñida, giratorias de madera teñida o giratorias de acero al carbono pintado.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Legs options: stained wooden legs, swivel wooden legs or swivel painted carbon steel legs.",
+      "description": "Cadeira com concha em multilaminado, estofada. Opção de bases fixa de madeira tingida ou giratória de madeira tingida.",
+      "descriptionEs": "Silla con carcasa en multilaminado, tapizada. Opción de bases fijas en madera teñida o giratorias en madera teñida.",
+      "descriptionEn": "Chair with shell in multilaminate, upholstered. Option of fixed bases in stained wood or revolving in stained wood.",
       "measurementsEn": [
         "34.25 x 19.29 x 23.42"
       ],
@@ -451,8 +669,7 @@
         "870 x 490 x 595"
       ],
       "images": [
-        "agnes-01",
-        "agnes-02"
+        "agnes-01"
       ],
       "ambients": [
         "agnes-amb-01",
@@ -470,9 +687,9 @@
       "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado, estofada. Opções de bases: fixa tubular pintada,  fixa madeira tingida, giratória de madeira tingida ou giratória de aço carbono pintado.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Legs options: painted carbon steel tubular legs, stained wooden legs, swivel wooden legs or swivel painted carbon steel legs.",
-      "descriptionEs": "Silla con carcasa en multilaminado, tapizada. Opciones de base: fija tubular pintada, fija madera teñida, giratoria madera teñida o giratoria acero carbono pintado.",
+      "description": "Cadeira com concha em multilaminado estofada. Opções de bases: fixa tubular pintada e fixa madeira tingida.",
+      "descriptionEn": "Chair with shell in upholstered multilaminate. Base options: fixed painted tubular and fixed stained wood.",
+      "descriptionEs": "Silla con carcasa en multilaminado tapizado. Opciones de base: fija tubular pintada y fija madera teñida.",
       "measurementsEn": [
         "33.46 x 19.48 x 23.81"
       ],
@@ -533,6 +750,35 @@
       "variations": []
     },
     {
+      "ref": "CA.2972",
+      "slug": "aurora",
+      "name": "Aurora",
+      "cover_img": "aurora-01",
+      "designer_name": "Studio T92",
+      "designer_slug": "studio-t92",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada.  Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base en madera maciza teñida.",
+      "measurementsEn": [
+        "33.85 x 18.30 x 24.40"
+      ],
+      "measurements": [
+        "860 x 465 x 620"
+      ],
+      "measurementsEs": [
+        "860 x 465 x 620"
+      ],
+      "images": [
+        "aurora-01",
+        "aurora-02",
+        "aurora-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2954",
       "slug": "balena",
       "name": "Balena",
@@ -562,29 +808,59 @@
       "variations": []
     },
     {
-      "ref": "CA.2951",
-      "slug": "bela",
-      "name": "Bela",
-      "cover_img": "bela-01",
-      "designer_slug": "",
+      "ref": "CA.2982",
+      "slug": "bell",
+      "name": "Bell",
+      "cover_img": "bell-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado, estofada com detalhe em costura. Opções de bases giratória em aço carbono pintada, giratória em madeira tingida ou fixa em madeira tingida.",
-      "descriptionEn": "Upholstered chair with plywood shell, with sewing detail. Legs options: stained wooden legs, swivel wooden legs or swivel painted carbon steel legs.",
-      "descriptionEs": "Silla con carcasa de multilaminado, tapizada con detalle de pespuntes. Opciones de bases giratorias en acero al carbono pintado, giratorias en madera teñida o fijas en madera teñida.",
+      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Detalhe com afastador de metal com pintura. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs. Metal detail between backrest and legs.",
+      "descriptionEs": "Silla con asiento y respaldo en laminado anatómico, tapizada. Detalle con espaciador de metal pintado. Base en madera maciza teñida.",
       "measurementsEn": [
-        "33.85 x 18.89 x 24.01"
+        "33.46 x 19.68 x 25.19"
       ],
       "measurements": [
-        "860 x 480 x 610"
+        "850 x 500 x 640"
       ],
       "measurementsEs": [
-        "860 x 480 x 610"
+        "850 x 500 x 640"
       ],
       "images": [
-        "bela-01",
-        "bela-02",
-        "bela-03"
+        "bell-01",
+        "bell-02"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2978",
+      "slug": "bliss",
+      "name": "Bliss",
+      "cover_img": "bliss-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Detalhe nas costas em chapa de aço pintada. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs. Detail in carbon steel sheet bent on the back.",
+      "descriptionEs": "Silla con asiento y respaldo en laminado anatómico, tapizada. Detalle en la parte trasera en chapa de acero pintada. Base en madera maciza teñida.",
+      "measurementsEn": [
+        "33.85 x 18.89 x 25.19"
+      ],
+      "measurements": [
+        "860 x 480 x 640"
+      ],
+      "measurementsEs": [
+        "860 x 480 x 640"
+      ],
+      "images": [
+        "bliss-01",
+        "bliss-02",
+        "bliss-03",
+        "bliss-04"
       ],
       "ambients": [],
       "variations": []
@@ -615,37 +891,6 @@
       "ambients": [
         
       ],
-      "variations": []
-    },
-    {
-      "ref": "CA.2865",
-      "slug": "clair",
-      "name": "Clair",
-      "cover_img": "clair-03",
-      "designer_slug": "",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado, estofada. Detalhe nas costas com filete metálico.\n Designer: Marta Menente.",
-      "descriptionEn": "Upholstered chair with plywood internal structure. Metal detail on the back. Designer: Marta Manente.",
-      "descriptionEs": "Silla con estructura interna en multilaminado, tapizada. Detalle espalda con filete metalizado.",
-      "measurementsEn": [
-        "34.25 x 23.62 x 22.83"
-      ],
-      "measurements": [
-        "870 x 600 x 580"
-      ],
-      "measurementsEs": [
-        "870 x 600 x 580"
-      ],
-      "images": [
-        "clair-01",
-        "clair-02",
-        "clair-03",
-        "clair-04",
-        "clair-05",
-        "clair-06"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -767,7 +1012,9 @@
       "ambients": [
         "fit-cad-amb-01",
         "fit-cad-amb-02",
-        "fit-cad-amb-03"
+        "fit-cad-amb-03",
+        "fit-cad-amb-04",
+        "fit-cad-amb-05"
       ],
       "variations": []
     },
@@ -889,6 +1136,37 @@
       "variations": []
     },
     {
+      "ref": "CA.2985",
+      "slug": "matisse",
+      "name": "Matisse",
+      "cover_img": "matisse-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada, braço com conha em lâmina natural. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Arms structure in plywood coated with natural wood veneer. Stained wooden machined legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado, brazo con carcasa en pala natural. Base de madera maciza teñida",
+      "measurementsEn": [
+        "31.88 x 21.25 x 24.80"
+      ],
+      "measurements": [
+        "810 x 540 x 630"
+      ],
+      "measurementsEs": [
+        "810 x 540 x 630"
+      ],
+      "images": [
+        "matisse-01",
+        "matisse-02",
+        "matisse-03",
+        "matisse-04"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
       "ref": "CA.2935",
       "slug": "mis",
       "name": "mis",
@@ -915,7 +1193,6 @@
         "mis-04"
       ],
       "ambients": [
-        "mis-amb-10",
         "mis-amb-01",
         "mis-amb-02",
         "mis-amb-03",
@@ -928,29 +1205,30 @@
       "variations": []
     },
     {
-      "ref": "-Ref.2966 -Ref2967",
-      "slug": "skin",
-      "name": "skin",
-      "cover_img": "skin-02",
-      "designer_name": "ibanez razzera",
-      "designer_slug": "ibanez-razzera",
+      "ref": "CA.2973",
+      "slug": "petit",
+      "name": "petit",
+      "cover_img": "petit-01",
+      "designer_name": "studio t92",
+      "designer_slug": "studio-t92",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira Skin Estofada - Cadeira com estrutura interna em multilaminado anatômico, estofada. Opções de base fixa de madeira usinada, tingida ou giratória em madeira tingida. Cadeira Skin Fórmica - Cadeira com estrutura interna em multilaminado anatômico estofada, parte externa revestida com fórmica. Opções de base fixa de madeira usinada, tingida ou giratória em madeira tingida. ",
-      "descriptionEn": "Skin Upholstered - Upholstered chair with plywood seat and backrest, back detail in synthetic wood veneer. Legs options: stained wooden legs or swivel wooden legs. -Skin: Upholstered chair with plywood seat and backrest, back detail in synthetic wood veneer. Legs options: stained wooden legs or swivel wooden legs.",
-      "descriptionEs": "Silla Tapizada Skin - Silla con estructura interna en multilaminado anatómico, tapizada. Opción de base fija en madera maquinada, teñida o giratoria en madera teñida. -Silla Formica: Silla con estructura interna en multilaminado anatómico tapizado, parte externa recubierta de fórmica. Opción de base fija en madera maquinada, teñida o giratoria en madera teñida. ",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
+      "descriptionEn": "Upholstered chair with plywood internal structure. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base tubular pintada.",
       "measurementsEn": [
-        "32.08 x 22.63 x 25.59"
+        "33.07 x 17.51 x 23.22"
       ],
       "measurements": [
-        "815 x 575 x 650"
+        "840 x 445 x 590"
       ],
       "measurementsEs": [
-        "815 x 575 x 650"
+        "840 x 445 x 590"
       ],
       "images": [
-        "skin-01",
-        "skin-02"
+        "petit-01",
+        "petit-02",
+        "petit-03"
       ],
       "ambients": [],
       "variations": []
@@ -981,9 +1259,7 @@
         "sofi-02",
         "sofi-03"
       ],
-      "ambients": [
-        "sofi-amb-01"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -1088,7 +1364,12 @@
         "sotille-01",
         "sotille-02"
       ],
-      "ambients": [],
+      "ambients": [
+        "sotille-amb-01",
+        "sotille-amb-02",
+        "sotille-amb-03",
+        "sotille-amb-04"
+      ],
       "variations": []
     },
     {
@@ -1121,7 +1402,8 @@
         "tie-amb-06",
         "tie-amb-07",
         "tie-amb-03",
-        "tie-amb-04"
+        "tie-amb-04",
+        "tie-amb-11"
       ],
       "variations": []
     },
@@ -1189,9 +1471,9 @@
       "designer_slug": "",
       "category_slug": "banquetas",
       "category_name": "banquetas",
-      "description": "Banqueta assento e encosto em multilaminado estofada. Opções de base fixa tubular pintada ou giratória em madeira tingida.",
-      "descriptionEn": "Upholstered stool with plywood seat and backrest. Legs option: painted steel tube leg or swivel in stained wood leg.",
-      "descriptionEs": "Taburete con asiento y respaldo en multilaminado tapizado. Opciones de base fija tubular pintada o base giratoria de madera teñida.",
+      "description": "Banqueta assento e encosto em multilaminado estofada. Base fixa tubular pintada.",
+      "descriptionEn": "Seat and back stool in upholstered multilaminate. Painted tubular fixed base.",
+      "descriptionEs": "Taburete de asiento y respaldo en multilaminado tapizado. Base fija tubular pintada.",
       "measurementsEn": ["High: 41.14 x 18.50 x 21.25 from seat to floor 29.92", "Medium: 37.20 x 18.50 x 21.25 from seat to floor 25.98"],
       "measurements": ["Alta: 1045 x 470 x 540 assento ao chão 760", "Média: 945 x 470 x 540 assento ao chão 660"],
       "measurementsEs": [
@@ -1206,7 +1488,9 @@
         "amelie-amb-02",
         "amelie-banqueta-amb-01",
         "amelie-banqueta-amb-02",
-        "amelie-banqueta-amb-03"
+        "amelie-banqueta-amb-03",
+        "amelie-banqueta-amb-04",
+        "amelie-banqueta-amb-05"
       ],
       "variations": []
     },
@@ -1242,7 +1526,8 @@
         "box-amb-01",
         "box-amb-02",
         "box-amb-03",
-        "box-amb-04"
+        "box-amb-04",
+        "box-amb-10"
       ],
       "variations": []
     },
@@ -1275,7 +1560,11 @@
         "fit-04",
         "fit-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "fit-amb-01",
+        "fit-amb-02",
+        "fit-amb-03"
+      ],
       "variations": []
     },
     {
@@ -1338,7 +1627,9 @@
         "ban-tie-01",
         "ban-tie-02"
       ],
-      "ambients": [],
+      "ambients": [
+        "ban-tie-amb-01"
+      ],
       "variations": []
     },
     {
@@ -1431,6 +1722,61 @@
         "nebula-02" 
       ],
       "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "-Ref.2544",
+      "slug": "turin",
+      "name": "turin",
+      "cover_img": "nebula-01",
+      "designer_name": "studio t92",
+      "designer_slug": "studio-t92",
+      "category_slug": "mesas-de-jantar",
+      "category_name": "mesas de jantar",
+      "description": "Mesa com base em madeira revestida em lâmina natural. Tampo em formato orgânico revestido em lâmina natural, borda slim de 6mm com chanfro de 150mm.",
+      "descriptionEn": "Table with wood structure and organic shaped top in MDF both coated with natural wood veneer. Top with 6mm slim edge and 15cm chamfer.",
+      "descriptionEs": "Mesa con base en madera revestida en chapa natural. Sobre en forma orgánica revestido de chapa natural, canto fino de 6 mm con chaflán de 150 mm.",
+      "measurementsEn": [
+        "51.18 x 98.42 | 51.18 x 106.29"
+      ],
+      "measurements": [
+        "750 x 2500 x 1300 | 750 x 2700 x 1300"
+      ],
+      "measurementsEs": [
+        "750 x 2500 x 1300 | 750 x 2700 x 1300"
+      ],
+      "images": [
+        "nebula-01",
+        "nebula-02" 
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "MES.2538",
+      "slug": "bow",
+      "name": "bow",
+      "cover_img": "float-01",
+      "designer_name": "Tascieny Brandão",
+      "designer_slug": "tascieny-brandao",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral tubular pintada com tampo em madeira maciça tingido.",
+      "descriptionEn": "Side table with painted carbon steel tube structure, two tops and base in stained solid wood.",
+      "descriptionEs": "Mesa auxiliar de tubo pintado con tapa de madera maciza teñida.",
+      "measurementsEn": ["24.40 x 19.68 x 11.81"],
+      "measurements": ["620 x 500 x 300"],
+      "measurementsEs": [
+        "620 x 500 x 300"
+      ],
+      "images": [
+        "float-01",
+        "float-02",
+        "float-03"
+      ],
+      "ambients": [
+        "float-amb-01"
+      ],
       "variations": []
     },
     {
@@ -1565,6 +1911,33 @@
       "variations": []
     },
     {
+      "ref": "MES.2540",
+      "slug": "ghost",
+      "name": "ghost",
+      "cover_img": "float-01",
+      "designer_name": "emerson borges",
+      "designer_slug": "emerson-borges",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa de centro com base em vidro com técnica de murano cor cristal. Tampo em lâmina natural. Opções alta e média.",
+      "descriptionEn": "Coffee table with Murano technique glass base, Crystal color. MDF top coated with natural wood veneer. Stained wooden machined base.",
+      "descriptionEs": "Mesa de centro con base de cristal en técnica de cristal de Murano. Tapa en pala natural. Opciones altas y medias.",
+      "measurementsEn": ["High: 14.96 x 38.58 x 38.58", "Medium: 12.99 x 31.49 x 31.49"],
+      "measurements": ["Alta: 380 x 980 x 980", "Média: 330 x 800 x 800"],
+      "measurementsEs": [
+        "Alta: 380 x 980 x 980", "Media: 330 x 800 x 800"
+      ],
+      "images": [
+        "float-01",
+        "float-02",
+        "float-03"
+      ],
+      "ambients": [
+        "float-amb-01"
+      ],
+      "variations": []
+    },
+    {
       "ref": "MES.2523 / MES.2524 / MES.2525",
       "slug": "inka",
       "name": "inka",
@@ -1573,9 +1946,9 @@
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro com pés de madeira e tampo podendo ser em marchetaria, lâmina natural, laminado sintético, vidro incolor ou pintado.",
-      "descriptionEn": "Coffee table with solid wood legs. Top options: MDF coated with natural or synthetic wood veneer, marquetry; clear or painted glass.",
-      "descriptionEs": "Mesa de centro con patas de madera y tapa que puede ser de marquetería, pala natural, laminado sintético, cristal transparente o pintado.",
+      "description": "Mesa de centro com pés de madeira e tampo podendo ser em marchetaria, lâmina natural, laminado sintético e vidro incolor.",
+      "descriptionEn": "Coffee table with solid wood legs. Top options: MDF coated with natural or synthetic wood veneer, marquetry; clear glass.",
+      "descriptionEs": "Mesa de centro con patas de madera y tapa que puede ser de marquetería, pala natural, laminado sintético e cristal transparente.",
       "measurementsEn": [
         "Large: 11.81 x 35.43 x 35.43",
         "Medium: 9.84 x 27.55 x 27.55",
@@ -1628,7 +2001,8 @@
         "maria-amb-05",
         "maria-amb-06",
         "maria-amb-07",
-        "maria-amb-08"
+        "maria-amb-08",
+        "maria-amb-09"
       ],
       "variations": []
     },
@@ -1678,7 +2052,6 @@
       ],
       "ambients": [
         "metries-amb-01",
-        "metries-amb-02",
         "metries-amb-03",
         "metries-amb-04",
         "metries-amb-05"
@@ -1723,7 +2096,7 @@
       "variations": []
     },
     {
-      "ref": "-Ref.2528 / 2529 / 2530",
+      "ref": "-Ref.2528 /2529 /2530",
       "slug": "orbe-murano",
       "name": "orbe - murano",
       "cover_img": "orbe-murano",
@@ -1731,9 +2104,9 @@
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base em madeira maciça tingida de preto, haste em metal, tampo em vidro com técnica de murano.",
-      "descriptionEn": "Side table with black solid wood base, painted tubular structure. Glass top with Murano technique. Medium size table comes with a carbon steel sheet on the base in order to fit with the other size tables in a composition.",
-      "descriptionEs": "Mesa auxiliar con base de madera maciza teñida de negro, tirador de metal, tapa de cristal con técnica de Murano.",
+      "description": "Técnica de Murano Baixa: Mesa lateral com base em madeira maciça, tingida de preto, haste em metal, tampo em vidro com técnica de Murano. Técnica de Murano Média: Mesa lateral com base em madeira maciça, tingida de preto, haste e disco em metal, tampo em vidro com técnica de Murano. Opções do vidro: martelado, micro esferas de vidro branco ou fumê",
+      "descriptionEn": "Side table with base in solid wood, stained black, metal rod, glass top with Murano technique.",
+      "descriptionEs": "Mesa auxiliar con base en madera maciza, teñida de negro, varilla de metal, tapa de cristal con técnica de Murano.",
       "measurementsEn": [
         "High - 21.65 x 11.81 x 11.81",
         "Medium – 19.68 x 11.81 x 11.81",
@@ -1766,9 +2139,9 @@
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro com tampo emoldurado, base em metal pintado. Tampo em laminado sintético, lâmina natural, recouro, vidro ou espelho.",
-      "descriptionEn": "Coffee table with painted carbon steel tube structure. Top in MDF coated with natural or synthetic wood veneer, painted glass or mirror framed with solid wood.",
-      "descriptionEs": "Mesa de centro con tapa enmarcada, base de metal pintado. Sobre en laminado sintético, chapa natural, piel, cristal o espejo.",
+      "description": "Mesa de centro com tampo emoldurado, base em metal pintado. Tampo em laminado sintético e lâmina natural.",
+      "descriptionEn": "Coffee table with painted carbon steel tube structure. Top in MDF coated with natural or synthetic wood veneer and solid wood.",
+      "descriptionEs": "Mesa de centro con tapa enmarcada, base de metal pintado. Sobre en laminado sintético y chapa natural.",
       "measurementsEn": [
         "11.81 x 47.42 x 27.55", "11.81 x 27.55 x 19.68", "11.81 x 19.68 x 19.68"
       ],
@@ -1794,6 +2167,33 @@
         "porto-amb-09",
         "porto-amb-10",
         "porto-amb-11"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "MES.2541",
+      "slug": "rhodes",
+      "name": "rhodes",
+      "cover_img": "float-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral com tampo em madeira maciça, tingido. Base em metal com pintura. Detalhe alça em couro.",
+      "descriptionEn": "Side table with painted carbon steel sheet and tube structure, top in machined solid wood. Leather handle detail.",
+      "descriptionEs": "Mesa auxiliar con tapa de madera maciza teñida. Base de metal pintado. Detalle de correa de piel.",
+      "measurementsEn": ["29.13 x 15.35 x 13.38"],
+      "measurements": ["740 x 390 x 340"],
+      "measurementsEs": [
+        "740 x 390 x 340"
+      ],
+      "images": [
+        "float-01",
+        "float-02",
+        "float-03"
+      ],
+      "ambients": [
+        "float-amb-01"
       ],
       "variations": []
     },
@@ -1940,7 +2340,93 @@
         "taos-02",
         "taos-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "taos-amb-01",
+        "taos-amb-02"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "MES.2539 /2545",
+      "slug": "trevo",
+      "name": "trevo",
+      "cover_img": "metries-01",
+      "designer_name": "Tascieny Brandão",
+      "designer_slug": "tascieny-brandao",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa de centro com base em madeira maciça tingida. Tampo retangular em lâmina natural. Detalhe em metal pintado. Com opção de tampo retangular ou redondo.",
+      "descriptionEn": "Coffee table with solid machined wood base. Rectangular shaped MDF top coated with natural wood veneer with metal detail in the center. Round: Coffee table with solid machined wood base. Rectangular shaped MDF top coated with natural wood veneer with metal detail in the center.",
+      "descriptionEs": "Mesa de centro con base de madera maciza teñida. Tapa rectangular en pala natural. Detalle en metal pintado. Redondo: Mesa de centro con base de madera maciza teñida. Tapa redonda en pala natural. Detalle en metal pintado.",
+      "measurementsEn": [
+        "Rounded coffee table high – 15.74 x 27.55 x 27.55",
+        "Rounded coffee table Medium – 12.59 x 27.55 x 27.55",
+        "Rectangular coffee table High – 15.74 x 31.69 x 23.62",
+        "Rectangular coffee table Medium – 12.59 x 31.69 x 23.62"
+      ],
+      "measurements": [
+        "Centro redonda alta – 400 x 700 x 700",
+        "Centro redonda média – 320 x 700 x 700",
+        "Centro retangular alta – 400 x 805 x 600",
+        "Centro retangular média – 320 x 700 x 700"
+      ],
+      "measurementsEs": [
+        "Centro redonda alta – 400 x 700 x 700",
+        "Centro redonda media – 320 x 700 x 700",
+        "Centro rectangular alta – 400 x 805 x 600",
+        "Centro rectangular media – 320 x 700 x 700"
+      ],
+      "images": [
+        "metries-01",
+        "metries-02",
+        "metries-03",
+        "metries-04"
+      ],
+      "ambients": [
+        "metries-amb-01",
+        "metries-amb-02",
+        "metries-amb-03",
+        "metries-amb-04",
+        "metries-amb-05"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "MES.2443",
+      "slug": "vitra",
+      "name": "vitra",
+      "cover_img": "stage-01",
+      "designer_name": "emerson borges",
+      "designer_slug": "emerson-borges",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral com base em vidro com técnica de murano. Haste em metal pintado. Tampo em madeira maciço tingido. Com opção alta e média.",
+      "descriptionEn": "Side table with Murano technique glass base, Crystal color. Stained wooden machined pieces and painted carbon steel tube structure.",
+      "descriptionEs": "Mesa auxiliar con base de cristal en técnica de Murano. Varilla de metal pintado. Tapa en madera maciza teñida. Con opción alta y media.",
+      "measurementsEn": [
+        "High: 24.01 x 13.77 x 13.77",
+        "Medium: 22.04 x 14.96 x 14.96"
+      ],
+      "measurements": [
+        "Alta 610 x 350 x 350",
+        "Média 560 x 350 x 350"
+      ],
+      "measurementsEs": [
+        "Alto 610 x 350 x 350",
+        "Promedio 560 x 350 x 350"
+      ],
+      "images": [
+        "stage-01",
+        "stage-02",
+        "stage-03",
+        "stage-04"
+      ],
+      "ambients": [
+        "stage-amb-01",
+        "stage-amb-02",
+        "stage-amb-03",
+        "stage-amb-04"
+      ],
       "variations": []
     },
     {
@@ -1989,9 +2475,9 @@
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro em aço com pintura, tampos em 3 tamanhos podendo ser lâmina natural, laminado sintético, recouro, vidro, espelho.",
-      "descriptionEn": "Coffee table with structure in painted carbon steel tube and sheet. Top in MDF coated with natural or synthetic wood veneer, reconstituted leather, painted glass or mirror.",
-      "descriptionEs": "Mesa de centro en acero pintado, tapas en 3 medidas, que pueden ser de pala natural, laminado sintético, piel, cristal, espejo.",
+      "description": "Mesa de centro em aço com pintura, tampos em 3 tamanhos podendo ser lâmina natural, laminado sintético, recouro e vidro.",
+      "descriptionEn": "Coffee table with structure in painted carbon steel tube and sheet. Top in MDF coated with natural or synthetic wood veneer, reconstituted leather and painted glass.",
+      "descriptionEs": "Mesa de centro en acero pintado, tapas en 3 medidas, que pueden ser de pala natural, laminado sintético, piel y cristal.",
       "measurementsEn": ["Large: 16.14 x 35.43 x 35.43", "Medium: 12.20 x 27.55 x 27.55", "Small: 8.26 x 23.62 x 23.62"],
       "measurements": ["Grande: 410 x 900 x 900", "Média: 310 x 700 x 700", "Pequena: 210 x 600 x 600"],
       "measurementsEs": [
@@ -2184,7 +2670,8 @@
         "nozes-puff-03"
       ],
       "ambients": [
-        "nozes-amb-01"
+        "nozes-amb-01",
+        "nozes-amb-02"
       ],
       "variations": []
     },
@@ -2196,9 +2683,9 @@
       "designer_slug": "",
       "category_slug": "bancos-e-puffs",
       "category_name": "bancos e puffs",
-      "description": "Puff com estrutura interna em madeira estofado. Base opcional em ferro maciço com pintura.",
-      "descriptionEn": "Upholstered ottoman with wooden internal structure and optional legs in painted carbon steel tube.",
-      "descriptionEs": "Soplo con estructura interna en madera tapizada. Base de hierro macizo pintado opcional.",
+      "description": "Puff com estrutura interna em madeira estofado. Base em ferro maciço com pintura.",
+      "descriptionEn": "Upholstered ottoman with wooden internal structure and legs in painted carbon steel tube.",
+      "descriptionEs": "Soplo con estructura interna en madera tapizada. Base de hierro macizo pintado.",
       "measurementsEn": [
         "25,59 diameter: with base - 18.89 x 25.59 x 25.59 | without base - 17.32 x 25.59 x 25.59"     
       ],
@@ -2256,7 +2743,10 @@
         "petra-02",
         "petra-01"
       ],
-      "ambients": [],
+      "ambients": [
+        "petra-amb-01",
+        "petra-amb-02"
+      ],
       "variations": []
     },
     {
@@ -2312,6 +2802,8 @@
         "banco-donatela-amb-02",
         "banco-donatela-amb-03",
         "banco-donatela-amb-04",
+        "banco-donatela-amb-07",
+        "banco-donatela-amb-06",
         "banco-donatela-amb-05"
       ],
       "variations": []
@@ -2349,7 +2841,9 @@
         "nantai-amb-04",
         "nantai-amb-03",
         "nantai-amb-01",
-        "nantai-amb-02"
+        "nantai-amb-02",
+        "nantai-amb-06",
+        "nantai-amb-07"
       ],
       "variations": []
     },
@@ -2379,8 +2873,7 @@
         "donatela-carro-amb-01",
         "donatela-carro-amb-02",
         "donatela-carro-amb-03",
-        "donatela-carro-amb-04",
-        "donatela-carro-amb-05"
+        "donatela-carro-amb-04"
       ],
       "variations": []
     },
@@ -2412,6 +2905,32 @@
       "variations": []
     },
     {
+      "ref": "-Ref.4003",
+      "slug": "clusia",
+      "name": "clusia",
+      "cover_img": "oroboro-1",
+      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "luminarias",
+      "category_name": "luminarias",
+      "description": "Luminária pendente, com estrutura em multilaminado anatômico, revestida em lâmina natural. Detalhe em metal pintado. Peça individual, com canopla para acabamento.",
+      "descriptionEn": "Ceiling lamp with metal structure, petals in plywood coated with natural wood veneer. Individual piece.",
+      "descriptionEs": "Lámpara colgante, con estructura en multilaminado anatómico, revestido en laminado natural. Detalle en metal pintado. Pieza individual, con capota para remate.",
+      "measurementsEn": ["4.92 x 8.46 x 3.34"],
+      "measurements": ["125 x 215 x 85"],
+      "measurementsEs": [
+        "125 x 215 x 85"
+      ],
+      "images": [
+        "oroboro-1",
+        "oroboro-2",
+        "oroboro-03"
+      ],
+      "ambients": [
+      ],
+      "variations": [""] 
+    },
+    {
       "ref": "-Ref.4001",
       "slug": "oroboro",
       "name": "oroboro",
@@ -2433,7 +2952,10 @@
         "oroboro-2",
         "oroboro-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "oroboro-amb-01",
+        "oroboro-amb-02"
+      ],
       "variations": [""] 
     },
     {

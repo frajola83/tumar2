@@ -16,6 +16,13 @@
         "link": "/produtos/cadeiras/fiji"
       },
       {
+        "name": "Mesa de Centro Ghost",
+        "nameEn": "Ghost Coffee Table",
+        "nameEs": "Mesa de Centro Ghost",
+        "src": "inka-01",
+        "link": "/produtos/mesas-laterais-centro/ghost"
+      },
+      {
         "name": "Mesa de Centro Inka",
         "nameEn": "Inka Coffee Table",
         "nameEs": "Mesa de Centro Inka",
@@ -93,6 +100,20 @@
         "link": "/produtos/mesas-laterais-centro/taos"
       },
       {
+        "name": "Mesa Lateral Vitra",
+        "nameEn": "Vitra Side Table",
+        "nameEs": "Mesa Lateral Vitra",
+        "src": "orbe-01",
+        "link": "/produtos/mesas-laterais-centro/vitra"
+      },
+      {
+        "name": "Poltrona Hill",
+        "nameEn": "Hill Armchair",
+        "nameEs": "Sillón Hill",
+        "src": "hill-01",
+        "link": "/produtos/poltronas/hill"
+      },
+      {
         "name": "Poltrona Java",
         "nameEn": "Java Armchair",
         "nameEs": "Sillón Java",
@@ -124,6 +145,13 @@
     "descriptionEn": "Tumar signs a partnership with the Designer Fabricio Roncca, paulista who grew up in Belo Horizonte – MG where he learned to see architecture, folklore and art in a playful and intimate way. <br /><br />He seeks beauty, sustainability, balance of materials and affective memory in his works. His main source of inspiration is Brazilian architecture.",
     "descriptionEs": "Tumar se asocia con el diseñador Fabricio Roncca, de São Paulo, que creció en Belo Horizonte – MG, donde aprendió a ver la arquitectura, el folclore y el arte de una manera lúdica e íntima.<br /><br />Busca en sus obras la belleza, la sostenibilidad, el equilibrio de los materiales y la memoria afectiva, y su principal fuente de inspiración es la arquitectura brasileña.",
     "products": [
+      {
+        "name": "Cadeira Matisse",
+        "nameEn": "Matisse Chair",
+        "nameEs": "Silla Matisse",
+        "src": "matisse-01",
+        "link": "/produtos/cadeiras/matisse"
+      },
       {
         "name": "Banco Blu",
         "nameEn": "Blu Bench",
@@ -188,6 +216,13 @@
         "link": "/produtos/mesas-laterais-centro/maria"
       },
       {
+        "name": "Mesa Lateral Rhodes",
+        "nameEn": "Rhodes Side Table",
+        "nameEs": "Mesa Lateral Rhodes",
+        "src": "maria-02",
+        "link": "/produtos/mesas-laterais-centro/rhodes"
+      },
+      {
         "name": "Poltrona Donatela",
         "nameEn": "Donatela Armchair",
         "nameEs": "Sillón Donatela",
@@ -218,13 +253,13 @@
     ]
   },
   {
-    "id": "/designers/ibanez-razzera",
-    "slug": "/designers/ibanez-razzera",
-    "title": "Ibanez Razzera",
+    "id": "/designers/razzera",
+    "slug": "/designers/razzera",
+    "title": "Razzera Ibanez + Lorenzo",
     "coverImg": "ibanez-razzera.jpg",
-    "description": "A Tumar firma parceria com o Arquiteto e Designer, Ibanez Razzera que tem em seu DNA a paixão pela arte da marcenaria.<br/><br/> O olhar sobre máquinas e homens, o chão de fábrica como um território de descobertas e aprendizado, associado ao traço e a vocação do arquiteto, se uniram para identificar seu trabalho, com leveza, elegância, e que se traduz em um cuidado entre unir linhas e curvas, proporção e funcionalidade, em um resultado final sempre surpreendente e agradável.",
-    "descriptionEn": "Tumar signs a partnership with the Architect and Designer, Ibanez Razzera has in his DNA the passion for the art of woodworking. <br /><br />The look at machines and men, the factory floor as a territory of discoveries and learning, associated with the architect&#39;s trace and vocation, came together to identify his work, with lightness, elegance which translates into caring between joining lines and curves, proportion and functionality, in a final result that is always surprising and pleasant.",
-    "descriptionEs": "Tumar se asocia con el Arquitecto y Diseñador Ibáñez Razzera, quien tiene en su ADN la pasión por el arte de la carpintería.<br /><br /> La mirada sobre las máquinas y los hombres, la planta de la fábrica como territorio de descubrimientos y aprendizajes, asociada a la cualidad y vocación de arquitecto, se conjugan para identificar su obra, con ligereza, elegancia, y que se traduce en un cuidado entre la unión de líneas y curvas, proporción y funcionalidad, en un resultado final siempre sorprendente y agradable.",
+    "description": "É a evolução, um somatório, uma herança de pai para filho. A experiência da marcenaria, o olhar sobre máquinas e processos, o traço do arquiteto Ibanez Razzera, se unem ao talento, a jovialidade e ao mundo digital de Lorenzo Razzera.",
+    "descriptionEn": "It is evolution, na addition, an inheritance from father to son. The experience of carpentry, the look at machines and processes, the architect Ibanez Razzera's traits, combine with the talent, joviality and digital world of Lorenzo Razzera.",
+    "descriptionEs": "Es evolución, suma, herencia de padres a hijos. La experiencia de la carpintería, la mirada sobre las máquinas y los procesos, los rasgos del arquitecto Ibáñez Razzera, se combinan con el talento, la jovialidad y el mundo digital de Lorenzo Razzera.",
     "products": [
       {
         "name": "Banqueta Tiê",
@@ -304,6 +339,13 @@
         "link": "/produtos/cadeiras/vita"
       },
       {
+        "name": "Luminária Clusia",
+        "nameEn": "Clusia Lighting",
+        "nameEs": "Luminaria Clusia",
+        "src": "oroboro-1",
+        "link": "/produtos/luminarias/clusia"
+      },
+      {
         "name": "Luminária Oroboro",
         "nameEn": "Oroboro Lighting",
         "nameEs": "Luminaria Oroboro",
@@ -344,6 +386,13 @@
         "nameEs": "Sillón coral",
         "src": "coral-polt-03",
         "link": "/produtos/poltronas/coral-poltrona"
+      },
+      {
+        "name": "Poltrona /Puff Trenta",
+        "nameEn": "Trenta Armchair /Puff",
+        "nameEs": "Sillón trenta",
+        "src": "trenta-01",
+        "link": "/produtos/poltronas/trenta"
       }
     ]
   },
@@ -358,6 +407,13 @@
     "descriptionEs": "Tumar firma una sociedad con el Arquitecto Tascieny Brandão, quien tiene gran inspiración en el Diseño Brasileño. Alabando los rasgos finos y elegantes, busca siempre contemplar la atemporalidad de los muebles.<br /><br /> En toda su obra busca el uso variado de formas orgánicas y geométricas, mostrando toda la belleza y armonía del mobiliario nacional, dando como resultado el equilibrio de forma y función de cada pieza.",
     "products": [
       {
+        "name": "Poltrona Afago",
+        "nameEn": "Afago Armchair",
+        "nameEs": "Sillón Afago",
+        "src": "afago-01",
+        "link": "/produtos/poltronas/afago"
+      },
+      {
         "name": "Poltrona Moon",
         "nameEn": "Moon Armchair",
         "nameEs": "Sillón Moon",
@@ -365,11 +421,79 @@
         "link": "/produtos/poltronas/moon-poltrona"
       },
       {
+        "name": "Poltrona Nara",
+        "nameEn": "Nara Armchair",
+        "nameEs": "Sillón Nara",
+        "src": "nara-polt-01",
+        "link": "/produtos/poltronas/nara"
+      },
+      {
         "name": "Puff Moon",
         "nameEn": "Moon Ottoman",
         "nameEs": "Puff Moon",
         "src": "moon-puff-01",
         "link": "/produtos/bancos-e-puffs/moon"
+      },
+      {
+        "name": "Mesa Lateral Bow",
+        "nameEn": "Bow Side Table",
+        "nameEs": "Mesa Lateral Bow",
+        "src": "ecco-03",
+        "link": "/produtos/mesas-laterais-centro/bow"
+      },
+      {
+        "name": "Mesa de Centro Trevo",
+        "nameEn": "Trevo coffee Table",
+        "nameEs": "Mesa de Centro Trevo",
+        "src": "ecco-03",
+        "link": "/produtos/mesas-laterais-centro/trevo"
+      }
+    ]
+  },
+  {
+    "id": "/designers/bruno-faucz",
+    "slug": "/designers/bruno-faucz",
+    "date": "2019-05-04",
+    "title": "Bruno Faucz",
+    "coverImg": "bruno-faucz.jpg",
+    "description": "Design é a materialização da informação. Busco desde as informações técnicas até como o produto vai impactar o usuário, da ergonomia a percepções ligadas a emoção. O processo criativo vai do tangível ao intangível até chegar ao produto final.",
+    "descriptionEn": "Design is the materialization of information. The look from technical information to how the product will impact the user, from ergonomics to perceptions linked to emotion. The creative process goes from the tangible to the intangible until it reaches the final product.",
+    "descriptionEs": "El diseño es la materialización de la información. Miro desde la información técnica hasta cómo impactará el producto en el usuario, desde la ergonomía hasta las percepciones vinculadas a la emoción. El proceso creativo va de lo tangible a lo intangible hasta llegar al producto final.",
+    "products": [
+      {
+        "name": "Cadeira Bell",
+        "nameEn": "Bell Chair",
+        "nameEs": "Silla Bell",
+        "src": "bell-01",
+        "link": "/produtos/cadeiras/bell"
+      },
+      {
+        "name": "Cadeira Bliss",
+        "nameEn": "Bliss Chair",
+        "nameEs": "Silla Bliss",
+        "src": "bliss-01",
+        "link": "/produtos/cadeiras/bliss"
+      },
+      {
+        "name": "Poltrona Bag",
+        "nameEn": "Bag Armchair",
+        "nameEs": "Sillón Bag",
+        "src": "bag-01",
+        "link": "/produtos/poltronas/bag"
+      },
+      {
+        "name": "Poltrona Trentini",
+        "nameEn": "Trentini Armchair",
+        "nameEs": "Sillón Trentini",
+        "src": "trentini-01",
+        "link": "/produtos/poltronas/trentini"
+      },
+      {
+        "name": "Poltrona Vip",
+        "nameEn": "Vip Armchair",
+        "nameEs": "Sillón Vip",
+        "src": "vip-01",
+        "link": "/produtos/poltronas/vip"
       }
     ]
   },
@@ -397,6 +521,20 @@
         "link": "/produtos/poltronas/boomerang"
       },
       {
+        "name": "Poltrona Ivy",
+        "nameEn": "Ivy Armchair",
+        "nameEs": "Sillón Ivy",
+        "src": "ivy-01",
+        "link": "/produtos/poltronas/ivy"
+      },
+      {
+        "name": "Cadeira Aurora",
+        "nameEn": "Aurora Chair",
+        "nameEs": "Silla Aurora",
+        "src": "aurora-01",
+        "link": "/produtos/cadeiras/aurora"
+      },
+      {
         "name": "Cadeira Fit",
         "nameEn": "Fit Chair",
         "nameEs": "Silla Fit",
@@ -404,11 +542,25 @@
         "link": "/produtos/cadeiras/fit"
       },
       {
+        "name": "Cadeira Petit",
+        "nameEn": "Petit Chair",
+        "nameEs": "Silla Petit",
+        "src": "petit-01",
+        "link": "/produtos/cadeiras/petit"
+      },
+      {
         "name": "Banqueta Fit",
         "nameEn": "Fit Stool",
         "nameEs": "Taburete Fit",
         "src": "fit-04",
         "link": "/produtos/banquetas/banqueta-fit"
+      },
+      {
+        "name": "Mesa de Jantar Turin",
+        "nameEn": "Turin Table",
+        "nameEs": "Mesa de Comedor Turin",
+        "src": "nebula-01",
+        "link": "/produtos/mesas-de-jantar/turin"
       }
     ]
   }
