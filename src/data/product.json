@@ -1728,7 +1728,7 @@
       "ref": "-Ref.2544",
       "slug": "turin",
       "name": "turin",
-      "cover_img": "nebula-01",
+      "cover_img": "turin-01",
       "designer_name": "studio t92",
       "designer_slug": "studio-t92",
       "category_slug": "mesas-de-jantar",
@@ -1746,8 +1746,8 @@
         "750 x 2500 x 1300 | 750 x 2700 x 1300"
       ],
       "images": [
-        "nebula-01",
-        "nebula-02" 
+        "turin-01",
+        "turin-02"
       ],
       "ambients": [],
       "variations": []
@@ -1756,7 +1756,7 @@
       "ref": "MES.2538",
       "slug": "bow",
       "name": "bow",
-      "cover_img": "float-01",
+      "cover_img": "bow-01",
       "designer_name": "Tascieny Brandão",
       "designer_slug": "tascieny-brandao",
       "category_slug": "mesas-laterais-centro",
@@ -1770,13 +1770,11 @@
         "620 x 500 x 300"
       ],
       "images": [
-        "float-01",
-        "float-02",
-        "float-03"
+        "bow-01",
+        "bow-02",
+        "bow-03"
       ],
-      "ambients": [
-        "float-amb-01"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -1914,7 +1912,7 @@
       "ref": "MES.2540",
       "slug": "ghost",
       "name": "ghost",
-      "cover_img": "float-01",
+      "cover_img": "ghost-02",
       "designer_name": "emerson borges",
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
@@ -1928,13 +1926,10 @@
         "Alta: 380 x 980 x 980", "Media: 330 x 800 x 800"
       ],
       "images": [
-        "float-01",
-        "float-02",
-        "float-03"
+        "ghost-02",
+        "ghost-01"
       ],
-      "ambients": [
-        "float-amb-01"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -2174,7 +2169,7 @@
       "ref": "MES.2541",
       "slug": "rhodes",
       "name": "rhodes",
-      "cover_img": "float-01",
+      "cover_img": "rhodes-01",
       "designer_name": "fabricio roncca",
       "designer_slug": "fabricio-roncca",
       "category_slug": "mesas-laterais-centro",
@@ -2188,13 +2183,10 @@
         "740 x 390 x 340"
       ],
       "images": [
-        "float-01",
-        "float-02",
-        "float-03"
+        "rhodes-01",
+        "rhodes-02"
       ],
-      "ambients": [
-        "float-amb-01"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -2350,7 +2342,7 @@
       "ref": "MES.2539 /2545",
       "slug": "trevo",
       "name": "trevo",
-      "cover_img": "metries-01",
+      "cover_img": "trevo-01",
       "designer_name": "Tascieny Brandão",
       "designer_slug": "tascieny-brandao",
       "category_slug": "mesas-laterais-centro",
@@ -2377,25 +2369,17 @@
         "Centro rectangular media – 320 x 700 x 700"
       ],
       "images": [
-        "metries-01",
-        "metries-02",
-        "metries-03",
-        "metries-04"
+        "trevo-01",
+        "trevo-02"
       ],
-      "ambients": [
-        "metries-amb-01",
-        "metries-amb-02",
-        "metries-amb-03",
-        "metries-amb-04",
-        "metries-amb-05"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
       "ref": "MES.2443",
       "slug": "vitra",
       "name": "vitra",
-      "cover_img": "stage-01",
+      "cover_img": "vitra-01",
       "designer_name": "emerson borges",
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
@@ -2416,17 +2400,10 @@
         "Promedio 560 x 350 x 350"
       ],
       "images": [
-        "stage-01",
-        "stage-02",
-        "stage-03",
-        "stage-04"
+        "vitra-01",
+        "vitra-02"
       ],
-      "ambients": [
-        "stage-amb-01",
-        "stage-amb-02",
-        "stage-amb-03",
-        "stage-amb-04"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -2908,7 +2885,7 @@
       "ref": "-Ref.4003",
       "slug": "clusia",
       "name": "clusia",
-      "cover_img": "oroboro-1",
+      "cover_img": "clusia-02",
       "designer_name": "Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "luminarias",
@@ -2922,12 +2899,10 @@
         "125 x 215 x 85"
       ],
       "images": [
-        "oroboro-1",
-        "oroboro-2",
-        "oroboro-03"
+        "clusia-02",
+        "clusia-01"
       ],
-      "ambients": [
-      ],
+      "ambients": [],
       "variations": [""] 
     },
     {

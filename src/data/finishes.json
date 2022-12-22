@@ -191,6 +191,18 @@
     "category_slug": "couro-natural", 
     "finishes": [
       {
+        "slug": "gris",
+        "name": "Gris",
+        "nameEs": "Gris",
+        "nameEn": "Gray"
+      },
+      {
+        "slug": "preto3",
+        "name": "Preto",
+        "nameEs": "Preto",
+        "nameEn": "Black"
+      },
+      {
         "slug": "cetus-30112",
         "name": "Cetus 30112",
         "nameEs": "Cetus 30112",
@@ -425,6 +437,36 @@
         "nameEn": "4009"
       },
       {
+        "slug": "4020",
+        "name": "4020",
+        "nameEs": "4020",
+        "nameEn": "4020"
+      },
+      {
+        "slug": "4021",
+        "name": "4021",
+        "nameEs": "4021",
+        "nameEn": "4021"
+      },
+      {
+        "slug": "4022",
+        "name": "4022",
+        "nameEs": "4022",
+        "nameEn": "4022"
+      },
+      {
+        "slug": "4023",
+        "name": "4023",
+        "nameEs": "4023",
+        "nameEn": "4023"
+      },
+      {
+        "slug": "4024",
+        "name": "4024",
+        "nameEs": "4024",
+        "nameEn": "4024"
+      },
+      {
         "slug": "4575",
         "name": "4575",
         "nameEs": "4575",
@@ -521,6 +563,12 @@
         "nameEn": "4597"
       },
       {
+        "slug": "4607",
+        "name": "4607",
+        "nameEs": "4607",
+        "nameEn": "4607"
+      },
+      {
         "slug": "4614",
         "name": "4614",
         "nameEs": "4614",
@@ -576,6 +624,30 @@
         "nameEn": "4624"
       },
       {
+        "slug": "4650",
+        "name": "4650",
+        "nameEs": "4650",
+        "nameEn": "4650"
+      },
+      {
+        "slug": "4651",
+        "name": "4651",
+        "nameEs": "4651",
+        "nameEn": "4651"
+      },
+      {
+        "slug": "4652",
+        "name": "4652",
+        "nameEs": "4652",
+        "nameEn": "4652"
+      },
+      {
+        "slug": "4711",
+        "name": "4711",
+        "nameEs": "4711",
+        "nameEn": "4711"
+      },
+      {
         "slug": "4767",
         "name": "4767",
         "nameEs": "4767",
@@ -595,6 +667,18 @@
     "category_name_es": "Grupo 5", 
     "category_slug": "tecidos-grupo-5", 
     "finishes": [
+      {
+        "slug": "5030",
+        "name": "5030",
+        "nameEs": "5030",
+        "nameEn": "5030"
+      },
+      {
+        "slug": "5031",
+        "name": "5031",
+        "nameEs": "5031",
+        "nameEn": "5031"
+      },
       {
         "slug": "5200",
         "name": "5200",
@@ -672,6 +756,12 @@
         "name": "5302",
         "nameEs": "5302",
         "nameEn": "5302"
+      },
+      {
+        "slug": "5313",
+        "name": "5313",
+        "nameEs": "5313",
+        "nameEn": "5313"
       }
     ]
   },
@@ -692,6 +782,18 @@
         "name": "6145",
         "nameEs": "6145",
         "nameEn": "6145"
+      },
+      {
+        "slug": "6350",
+        "name": "6350",
+        "nameEs": "6350",
+        "nameEn": "6350"
+      },
+      {
+        "slug": "6351",
+        "name": "6351",
+        "nameEs": "6351",
+        "nameEn": "6351"
       }
     ]
   },
@@ -742,7 +844,25 @@
         "name": "7051",
         "nameEs": "7051",
         "nameEn": "7051"
-      }       
+      },
+      {
+        "slug": "7060",
+        "name": "7060",
+        "nameEs": "7060",
+        "nameEn": "7060"
+      },
+      {
+        "slug": "7061",
+        "name": "7061",
+        "nameEs": "7061",
+        "nameEn": "7061"
+      },
+      {
+        "slug": "7062",
+        "name": "7062",
+        "nameEs": "7062",
+        "nameEn": "7062"
+      }                                         
     ]
   },
   {

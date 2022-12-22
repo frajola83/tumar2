@@ -19,7 +19,7 @@
         "name": "Mesa de Centro Ghost",
         "nameEn": "Ghost Coffee Table",
         "nameEs": "Mesa de Centro Ghost",
-        "src": "inka-01",
+        "src": "ghost-02",
         "link": "/produtos/mesas-laterais-centro/ghost"
       },
       {
@@ -103,7 +103,7 @@
         "name": "Mesa Lateral Vitra",
         "nameEn": "Vitra Side Table",
         "nameEs": "Mesa Lateral Vitra",
-        "src": "orbe-01",
+        "src": "vitra-01",
         "link": "/produtos/mesas-laterais-centro/vitra"
       },
       {
@@ -219,7 +219,7 @@
         "name": "Mesa Lateral Rhodes",
         "nameEn": "Rhodes Side Table",
         "nameEs": "Mesa Lateral Rhodes",
-        "src": "maria-02",
+        "src": "rhodes-01",
         "link": "/produtos/mesas-laterais-centro/rhodes"
       },
       {
@@ -342,7 +342,7 @@
         "name": "Luminária Clusia",
         "nameEn": "Clusia Lighting",
         "nameEs": "Luminaria Clusia",
-        "src": "oroboro-1",
+        "src": "clusia-02",
         "link": "/produtos/luminarias/clusia"
       },
       {
@@ -438,14 +438,14 @@
         "name": "Mesa Lateral Bow",
         "nameEn": "Bow Side Table",
         "nameEs": "Mesa Lateral Bow",
-        "src": "ecco-03",
+        "src": "bow-01",
         "link": "/produtos/mesas-laterais-centro/bow"
       },
       {
         "name": "Mesa de Centro Trevo",
         "nameEn": "Trevo coffee Table",
         "nameEs": "Mesa de Centro Trevo",
-        "src": "ecco-03",
+        "src": "trevo-01",
         "link": "/produtos/mesas-laterais-centro/trevo"
       }
     ]
@@ -559,7 +559,7 @@
         "name": "Mesa de Jantar Turin",
         "nameEn": "Turin Table",
         "nameEs": "Mesa de Comedor Turin",
-        "src": "nebula-01",
+        "src": "turin-01",
         "link": "/produtos/mesas-de-jantar/turin"
       }
     ]
