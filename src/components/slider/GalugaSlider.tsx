@@ -43,20 +43,20 @@ export const GalugaSlider = () => {
         <>
           <SliderContainer>
             <Carousel showThumbs={false}>
-              <Slide to="/produtos/poltronas/jangada">
-                <ImageProvider src="1920-banner-jangada-pt" alt="jangada" />
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-desktop-1920" alt="sela" />
               </Slide>
-              <Slide to="/produtos/bancos-e-puffs/petra">
+              <Slide to="/produtos/mesa-puff/petra">
                 <ImageProvider src="1920-banner-petra-pt" alt="jangada" />
               </Slide>
             </Carousel>
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false}>
-              <Slide to="/produtos/poltronas/jangada">
-                <ImageProvider src="768-banner-jangada-pt" alt="jangada" />
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-mobile-768" alt="sela" />
               </Slide>
-              <Slide to="/produtos/bancos-e-puffs/petra">
+              <Slide to="/produtos/mesa-puff/petra">
                 <ImageProvider src="1920-banner-petra-pt" alt="jangada" />
               </Slide>
             </Carousel>
@@ -70,20 +70,20 @@ export const GalugaSlider = () => {
       <>
         <SliderContainer>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/jangada">
-              <ImageProvider src="1920-banner-jangada-en" alt="jangada" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-desktop-1920-en" alt="sela" />
             </Slide>
-            <Slide to="/produtos/bancos-e-puffs/petra">
+            <Slide to="/produtos/mesa-puff/petra">
               <ImageProvider src="1920-banner-petra-en" alt="jangada" />
             </Slide>
           </Carousel>
         </SliderContainer>
         <SliderMobile>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/jangada">
-              <ImageProvider src="768-banner-jangada-en" alt="jangada" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-mobile-768-en" alt="jangada" />
             </Slide>
-            <Slide to="/produtos/bancos-e-puffs/petra">
+            <Slide to="/produtos/mesa-puff/petra">
               <ImageProvider src="1920-banner-petra-en" alt="jangada" />
             </Slide>
           </Carousel>
@@ -97,20 +97,20 @@ export const GalugaSlider = () => {
       <>
         <SliderContainer>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/jangada">
-              <ImageProvider src="1920-banner-jangada-es" alt="jangada" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-desktop-1920-es" alt="sela" />
             </Slide>
-            <Slide to="/produtos/bancos-e-puffs/petra">
+            <Slide to="/produtos/mesa-puff/petra">
               <ImageProvider src="1920-banner-petra-es" alt="jangada" />
             </Slide>
           </Carousel>
         </SliderContainer>
         <SliderMobile>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/jangada">
-              <ImageProvider src="768-banner-jangada-es" alt="jangada" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-mobile-768-es" alt="sela" />
             </Slide>
-            <Slide to="/produtos/bancos-e-puffs/petra">
+            <Slide to="/produtos/mesa-puff/petra">
               <ImageProvider src="1920-banner-petra-es" alt="jangada" />
             </Slide>
           </Carousel>
