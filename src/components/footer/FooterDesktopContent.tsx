@@ -131,7 +131,7 @@ export const FooterDesktopContent: React.FC<FooterDesktopContentProps> = ({ }) =
               </FooterListLink>
                         </FooterListItem>
                         <FooterListItem>
-                            <FooterListLink to="/produtos/bancos-e-puffs">
+                            <FooterListLink to="/produtos/banco-e-recamier">
                                 {t("footer.products.links.benchesAndOttoman")}
               </FooterListLink>
                         </FooterListItem>

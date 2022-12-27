@@ -170,7 +170,7 @@ export const HomeGallery: React.FC = () => {
       </GalleryGroup>
       <GalleryGroup>
         <Bancos>
-          <Link to="/produtos/bancos-e-puffs">
+          <Link to="/produtos/banco-e-recamier">
             <ImageContainerTitle style={titleStyles.topLeft}>
               {t("pages.home.gallery.benchesAndOttomans")}
             </ImageContainerTitle>

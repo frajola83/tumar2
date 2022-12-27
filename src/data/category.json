@@ -21,11 +21,32 @@
       "coverImg": "arc-polt-01.jpg"
     },
     {
-      "slug": "bancos-e-puffs",
-      "name": "bancos e puffs",
-      "nameEs": "bancos y soplos",
-      "nameEn": "benches and ottomans",
-      "coverImg": "category-bancos-e-puffs.jpg"
+      "slug": "banco-e-recamier",
+      "name": "banco e recamier",
+      "nameEs": "banco y recamier",
+      "nameEn": "benches and recamier",
+      "coverImg": "category-banco-e-recamier.jpg"
+    },
+    {
+      "slug": "puffs",
+      "name": "puffs",
+      "nameEs": "puffs",
+      "nameEn": "ottomans",
+      "coverImg": "category-puffs.jpg"
+    },
+    {
+      "slug": "mesa-puff",
+      "name": "mesas e puffs",
+      "nameEs": "mesas y puffs",
+      "nameEn": "tables and ottomans",
+      "coverImg": "category-mesas-e-puffs.jpg"
+    },
+    {
+      "slug": "aparadores",
+      "name": "aparadores",
+      "nameEs": "aparadores",
+      "nameEn": "sideboards",
+      "coverImg": "category-aparadores.jpg"
     },
     {
       "slug": "mesas-de-jantar",
@@ -54,5 +75,12 @@
       "nameEs": "carro bar",
       "nameEn": "cart bar",
       "coverImg": "donatela-carro-01.jpg"
+    },
+    {
+      "slug": "complemento",
+      "name": "complemento",
+      "nameEs": "complementar",
+      "nameEn": "complement",
+      "coverImg": "category-complemento.jpg"
     }
   ]

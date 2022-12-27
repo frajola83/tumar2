@@ -5,7 +5,7 @@ type CategorySlug =
   | "banquetas"
   | "cadeiras"
   | "poltronas"
-  | "bancos-e-puffs"
+  | "banco-e-recamier"
   | "mesas-de-jantar"
   | "mesas-laterais-centro"
   | "luminarias"

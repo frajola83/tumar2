@@ -157,21 +157,21 @@
         "nameEn": "Blu Bench",
         "nameEs": "Banco Blu",
         "src": "blu-01",
-        "link": "/produtos/bancos-e-puffs/blu"
+        "link": "/produtos/banco-e-recamier/blu"
       },
       {
         "name": "Banco Donatela",
         "nameEn": "Donatela Bench",
         "nameEs": "Banco Donatela",
         "src": "donatela-banco-01",
-        "link": "/produtos/bancos-e-puffs/donatela-banco"
+        "link": "/produtos/banco-e-recamier/donatela-banco"
       },
       {
         "name": "Banco nantai",
         "nameEn": "nantai Bench",
         "nameEs": "Banco nantai",
         "src": "nantai-01",
-        "link": "/produtos/bancos-e-puffs/nantai-banco"
+        "link": "/produtos/banco-e-recamier/nantai-banco"
       },
       {
         "name": "Carro Bar Donatela",
@@ -192,7 +192,7 @@
         "nameEn": "Petra Set",
         "nameEs": "Conjunto Petra",
         "src": "petra-02",
-        "link": "/produtos/bancos-e-puffs/petra"
+        "link": "/produtos/mesa-puff/petra"
       },
       {
         "name": "Mesa de Centro Canoa",
@@ -234,21 +234,35 @@
         "nameEn": "Amintas Ottoman",
         "nameEs": "Puff amintas",
         "src": "amintas-02",
-        "link": "/produtos/bancos-e-puffs/amintas"
+        "link": "/produtos/puffs/amintas"
       },
       {
-        "name": "Puff/Mesa firenze",
-        "nameEn": "Firenze Ottoman/Table",
-        "nameEs": "Puff/Mesa firenze",
+        "name": "mesa e puff firenze",
+        "nameEn": "Firenze Ottoman and Table",
+        "nameEs": "mesa y puff firenze",
         "src": "firenze-puff-04",
-        "link": "/produtos/bancos-e-puffs/firenze-puff"
+        "link": "/produtos/mesa-puff/firenze-puff"
+      },
+      {
+        "name": "mesa e puff clave",
+        "nameEn": "clave Ottoman and Table",
+        "nameEs": "mesa y puff clave",
+        "src": "clave-02",
+        "link": "/produtos/mesa-puff/clave"
       },
       {
         "name": "Puff/Mesa nozes",
         "nameEn": "Nozes Ottoman/Table",
         "nameEs": "Puff/Mesa nozes",
         "src": "nozes-puff-01",
-        "link": "/produtos/bancos-e-puffs/nozes"
+        "link": "/produtos/mesa-puff/nozes"
+      },
+      {
+        "name": "Recamier Blu",
+        "nameEn": "blu recamier",
+        "nameEs": "recamier blu",
+        "src": "reclamier-blu",
+        "link": "/produtos/banco-e-recamier/recamier-blu"
       }
     ]
   },
@@ -261,6 +275,20 @@
     "descriptionEn": "It is evolution, na addition, an inheritance from father to son. The experience of carpentry, the look at machines and processes, the architect Ibanez Razzera's traits, combine with the talent, joviality and digital world of Lorenzo Razzera.",
     "descriptionEs": "Es evolución, suma, herencia de padres a hijos. La experiencia de la carpintería, la mirada sobre las máquinas y los procesos, los rasgos del arquitecto Ibáñez Razzera, se combinan con el talento, la jovialidad y el mundo digital de Lorenzo Razzera.",
     "products": [
+      {
+        "name": "aparador minimal",
+        "nameEn": "minimal sideboard",
+        "nameEs": "aparador minimal",
+        "src": "minimal",
+        "link": "/produtos/aparadores/minimal"
+      },
+      {
+        "name": "aparador recato",
+        "nameEn": "recato sideboard",
+        "nameEs": "aparador recato",
+        "src": "recato-01",
+        "link": "/produtos/aparadores/recato"
+      },
       {
         "name": "Banqueta Tiê",
         "nameEn": "Tiê Stool",
@@ -432,7 +460,7 @@
         "nameEn": "Moon Ottoman",
         "nameEs": "Puff Moon",
         "src": "moon-puff-01",
-        "link": "/produtos/bancos-e-puffs/moon"
+        "link": "/produtos/puffs/moon"
       },
       {
         "name": "Mesa Lateral Bow",

@@ -20,11 +20,15 @@
     "banquetas": "taburetes",
     "cadeiras": "sillas",
     "poltronas": "sillones",
-    "bancos-e-puffs": "bancos y puffs",
+    "banco-e-recamier": "banco y recamier",
+    "puffs": "puffs",
+    "mesa-puff": "mesas y puffs",
+    "aparadores": "aparadores",
     "mesas-de-jantar": "mesas de comedor",
     "mesas-laterais-centro": "mesas auxiliares y de centro",
     "luminarias": "lámparas",
-    "carro-bar": "carro bar"
+    "carro-bar": "carro bar",
+    "complemento": "complementar"
   },
   "nav": {
     "home": "inicio",
@@ -64,7 +68,7 @@
         "tables": "mesas de comedor",
         "sideAndCoffeeTables": "mesas auxiliares y de centro",
         "armchairs": "sillones",
-        "benchesAndOttoman": "bancos y puffs",
+        "benchesAndOttoman": "banco y recamier",
         "lighting": "lámparas",
         "barCart": "carro bar"
       }
@@ -76,7 +80,7 @@
         "stools": "Taburetes",
         "chairs": "sillas",
         "tables": "mesas",
-        "benchesAndOttomans": "bancos y puffs",
+        "benchesAndOttomans": "banco y recamier",
         "armchairs": "sillónes"
       },
       "btnMoreProducts": "Más productos",

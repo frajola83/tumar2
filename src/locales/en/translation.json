@@ -20,11 +20,15 @@
     "banquetas": "benches",
     "cadeiras": "chairs",
     "poltronas": "armchairs",
-    "bancos-e-puffs": "benches and otomans",
+    "banco-e-recamier": "benches and recamier",
+    "puffs": "ottomans",
+    "mesa-puff": "tables and ottomans",
+    "aparadores": "sideboards",
     "mesas-de-jantar": "dinner tables",
     "mesas-laterais-centro": "side and coffee tables",
     "luminarias": "lighting",
-    "carro-bar": "bar cart"
+    "carro-bar": "bar cart",
+    "complemento": "complement"
   },
   "nav": {
     "home": "home",
@@ -64,7 +68,7 @@
         "tables": "tables",
         "sideAndCoffeeTables": "side and coffee tables",
         "armchairs": "armchairs",
-        "benchesAndOttoman": "benches and ottoman",
+        "benchesAndOttoman": "benches and recamier",
         "lighting": "lighting",
         "barCart": "bar cart"
       }
