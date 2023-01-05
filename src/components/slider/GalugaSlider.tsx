@@ -43,21 +43,21 @@ export const GalugaSlider = () => {
         <>
           <SliderContainer>
             <Carousel showThumbs={false}>
-              <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-desktop-1920" alt="sela" />
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-desktop-1920" alt="sela" />
               </Slide>
-              <Slide to="/produtos/mesa-puff/petra">
-                <ImageProvider src="1920-banner-petra-pt" alt="petra" />
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-desktop-1920" alt="petra" />
               </Slide>
             </Carousel>
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false}>
-              <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-mobile-768" alt="sela" />
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-mobile-768" alt="sela" />
               </Slide>
-              <Slide to="/produtos/mesa-puff/petra">
-                <ImageProvider src="768-banner-petra-pt" alt="petra" />
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-mobile-768" alt="petra" />
               </Slide>
             </Carousel>
           </SliderMobile>
@@ -70,21 +70,21 @@ export const GalugaSlider = () => {
       <>
         <SliderContainer>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-desktop-1920-en" alt="sela" />
+            <Slide to="/produtos/poltronas/trenta">
+              <ImageProvider src="trenta-banner-desktop-1920-en" alt="sela" />
             </Slide>
-            <Slide to="/produtos/mesa-puff/petra">
-              <ImageProvider src="1920-banner-petra-en" alt="petra" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-desktop-1920-en" alt="petra" />
             </Slide>
           </Carousel>
         </SliderContainer>
         <SliderMobile>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-mobile-768-en" alt="sela" />
+            <Slide to="/produtos/poltronas/trenta">
+              <ImageProvider src="trenta-banner-mobile-768-en" alt="sela" />
             </Slide>
-            <Slide to="/produtos/mesa-puff/petra">
-              <ImageProvider src="768-banner-petra-en" alt="petra" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-mobile-768-en" alt="petra" />
             </Slide>
           </Carousel>
         </SliderMobile>
@@ -97,21 +97,21 @@ export const GalugaSlider = () => {
       <>
         <SliderContainer>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-desktop-1920-es" alt="sela" />
+            <Slide to="/produtos/poltronas/trenta">
+              <ImageProvider src="trenta-banner-desktop-1920-es" alt="sela" />
             </Slide>
-            <Slide to="/produtos/mesa-puff/petra">
-              <ImageProvider src="1920-banner-petra-es" alt="petra" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-desktop-1920-es" alt="petra" />
             </Slide>
           </Carousel>
         </SliderContainer>
         <SliderMobile>
           <Carousel showThumbs={false}>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-mobile-768-es" alt="sela" />
+            <Slide to="/produtos/poltronas/trenta">
+              <ImageProvider src="trenta-banner-mobile-768-es" alt="sela" />
             </Slide>
-            <Slide to="/produtos/mesa-puff/petra">
-              <ImageProvider src="768-banner-petra-es" alt="petra" />
+            <Slide to="/produtos/cadeiras/sela">
+              <ImageProvider src="sela-banner-mobile-768-es" alt="petra" />
             </Slide>
           </Carousel>
         </SliderMobile>
