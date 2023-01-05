@@ -117,7 +117,7 @@
       "title": "tumar products",
       "description": "description",
       "measurements": "measurements",
-      "measurementsCaption": "measurements in inches",
+      "measurementsCaption": "dimensions in inches",
       "ambientsWith": "ambients with"
     },
     "finishes": {
