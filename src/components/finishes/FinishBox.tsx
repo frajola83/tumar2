@@ -10,7 +10,7 @@ const FinishContainer = styled.div`
   display: flex;
   flex-direction: column;
   flex-basis: 100%;
-  ${breakpoints("flex-basis", ["100%", "44%", "29%", "29%"])};
+  ${breakpoints("flex-basis", ["100%", "44%", "44%", "44%"])};
 `
 const PicContainer = styled.div`
   width: 100%;
@@ -31,7 +31,7 @@ const styles = {
   image: {
     maxWidth: `${100}%`,
     display: "block",
-    height: 150,
+    height: 200,
     overflow: "hidden",
   },
 }
