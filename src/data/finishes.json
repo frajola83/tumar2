@@ -25,6 +25,18 @@
         "nameEn": "Brown Oak"
       },
       {
+        "slug": "carvalho-space",
+        "name": "Carvalho Space",
+        "nameEs": "roble space",
+        "nameEn": "Space Oak"
+      },
+      {
+        "slug": "carvalho-branco",
+        "name": "Carvalho Branco",
+        "nameEs": "roble blanco",
+        "nameEn": "white oak"
+      },
+      {
         "slug": "nogueira",
         "name": "nogueira",
         "nameEs": "nuez",
@@ -45,10 +57,16 @@
         "nameEn": "Natural"
       },
       {
-        "slug": "ebanizado",
-        "name": "ebanizado",
-        "nameEs": "ebanizado",
+        "slug": "preto-3",
+        "name": "preto",
+        "nameEs": "preto",
         "nameEn": "Black"
+      },
+      {
+        "slug": "space-2",
+        "name": "space",
+        "nameEs": "space",
+        "nameEn": "space"
       },
       {
         "slug": "imbuia-1",
@@ -201,42 +219,6 @@
         "name": "Preto",
         "nameEs": "Preto",
         "nameEn": "Black"
-      },
-      {
-        "slug": "cetus-30112",
-        "name": "Cetus 30112",
-        "nameEs": "Cetus 30112",
-        "nameEn": "Cetus 30112"
-      },
-      {
-        "slug": "cetus-60027",
-        "name": "Cetus 60027",
-        "nameEs": "Cetus 60027",
-        "nameEn": "Cetus 60027"
-      },
-      {
-        "slug": "cetus-30113",
-        "name": "Cetus 30113",
-        "nameEs": "Cetus 30113",
-        "nameEn": "Cetus 30113"
-      },
-      {
-        "slug": "desert-20407",
-        "name": "Desert 20407",
-        "nameEs": "Desert 20407",
-        "nameEn": "Desert 20407"
-      },
-      {
-        "slug": "desert-20363",
-        "name": "Desert 20363",
-        "nameEs": "Desert 20363",
-        "nameEn": "Desert 20363"
-      },
-      {
-        "slug": "desert-80902",
-        "name": "Desert 80902",
-        "nameEs": "Desert 80902",
-        "nameEn": "Desert 80902"
       }
     ]
   },
@@ -315,24 +297,6 @@
         "nameEn": "1108"
       },
       {
-        "slug": "1745",
-        "name": "1745",
-        "nameEs": "1745",
-        "nameEn": "1745"
-      },
-      {
-        "slug": "1748",
-        "name": "1748",
-        "nameEs": "1748",
-        "nameEn": "1748"
-      },
-      {
-        "slug": "1749",
-        "name": "1749",
-        "nameEs": "1749",
-        "nameEn": "1749"
-      },
-      {
         "slug": "1767",
         "name": "1767",
         "nameEs": "1767",
@@ -349,12 +313,6 @@
         "name": "1781",
         "nameEs": "1781",
         "nameEn": "1781"
-      },
-      {
-        "slug": "1782",
-        "name": "1782",
-        "nameEs": "1782",
-        "nameEn": "1782"
       },
       {
         "slug": "1910",
@@ -391,12 +349,6 @@
         "name": "1953",
         "nameEs": "1953",
         "nameEn": "1953"
-      },
-      {
-        "slug": "1980",
-        "name": "1980",
-        "nameEs": "1980",
-        "nameEn": "1980"
       },
       {
         "slug": "1981",
@@ -467,24 +419,6 @@
         "nameEn": "4024"
       },
       {
-        "slug": "4575",
-        "name": "4575",
-        "nameEs": "4575",
-        "nameEn": "4575"
-      },
-      {
-        "slug": "4576",
-        "name": "4576",
-        "nameEs": "4576",
-        "nameEn": "4576"
-      },
-      {
-        "slug": "4577",
-        "name": "4577",
-        "nameEs": "4577",
-        "nameEn": "4577"
-      },
-      {
         "slug": "4578",
         "name": "4578",
         "nameEs": "4578",
@@ -507,12 +441,6 @@
         "name": "4581",
         "nameEs": "4581",
         "nameEn": "4581"
-      },
-      {
-        "slug": "4582",
-        "name": "4582",
-        "nameEs": "4582",
-        "nameEn": "4582"
       },
       {
         "slug": "4583",
@@ -704,12 +632,6 @@
         "nameEn": "5203"
       },
       {
-        "slug": "5250",
-        "name": "5250",
-        "nameEs": "5250",
-        "nameEn": "5250"
-      },
-      {
         "slug": "5251",
         "name": "5251",
         "nameEs": "5251",
@@ -772,18 +694,6 @@
     "category_slug": "tecidos-grupo-6", 
     "finishes": [
       {
-        "slug": "6142",
-        "name": "6142",
-        "nameEs": "6142",
-        "nameEn": "6142"
-      },
-      {
-        "slug": "6145",
-        "name": "6145",
-        "nameEs": "6145",
-        "nameEn": "6145"
-      },
-      {
         "slug": "6350",
         "name": "6350",
         "nameEs": "6350",
@@ -820,18 +730,6 @@
         "name": "7002",
         "nameEs": "7002",
         "nameEn": "7002"
-      },
-      {
-        "slug": "7003",
-        "name": "7003",
-        "nameEs": "7003",
-        "nameEn": "7003"
-      },
-      {
-        "slug": "7004",
-        "name": "7004",
-        "nameEs": "7004",
-        "nameEn": "7004"
       },
       {
         "slug": "7050",
