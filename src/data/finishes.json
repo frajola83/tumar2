@@ -31,12 +31,6 @@
         "nameEn": "Space Oak"
       },
       {
-        "slug": "carvalho-branco",
-        "name": "Carvalho Branco",
-        "nameEs": "roble blanco",
-        "nameEn": "white oak"
-      },
-      {
         "slug": "nogueira",
         "name": "nogueira",
         "nameEs": "nuez",
@@ -73,26 +67,6 @@
         "name": "imbuia",
         "nameEs": "imbuia",
         "nameEn": "Brown"
-      }
-    ]
-  },
-  {
-    "category_name": "Fórmica",
-    "category_name_en": "Formica",
-    "category_name_es": "Fórmica", 
-    "category_slug": "formica", 
-    "finishes": [
-      {
-        "slug": "natural-1",
-        "name": "Natural",
-        "nameEs": "Natural",
-        "nameEn": "Natural Wood Print"
-      },
-      {
-        "slug": "imbuia-2",
-        "name": "imbuia",
-        "nameEs": "imbuia",
-        "nameEn": "Brown Wood Print"
       }
     ]
   },

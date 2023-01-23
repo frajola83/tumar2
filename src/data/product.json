@@ -4,7 +4,7 @@
       "slug": "abbraccio",
       "name": "abbraccio",
       "cover_img": "abbraccio-05",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "poltronas",
       "category_name": "poltronas",
@@ -34,7 +34,7 @@
       "ref": "ref.2983",
       "slug": "afago",
       "name": "afago",
-      "cover_img": "afago-01",
+      "cover_img": "afago-02",
       "designer_name": "Tascieny Brandão",
       "designer_slug": "tascieny-brandao",
       "category_slug": "poltronas",
@@ -46,14 +46,14 @@
         "40.55 x 35.03 x 34.25"
       ],
       "measurements": [
-        "1030 x 890 x 870"
+        "690 x 890 x 870"
       ],
       "measurementsEs": [
-        "1030 x 890 x 870"
+        "690 x 890 x 870"
       ],
       "images": [
-        "afago-01",
-        "afago-02"
+        "afago-02",
+        "afago-01"
       ],
       "ambients": [],
       "variations": []
@@ -63,7 +63,7 @@
       "slug": "arc-poltrona",
       "name": "arc",
       "cover_img": "arc-polt-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "poltronas",
       "category_name": "poltronas",
@@ -185,7 +185,7 @@
       "slug": "coral-poltrona",
       "name": "Coral",
       "cover_img": "coral-polt-03",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "poltronas",
       "category_name": "poltronas",
@@ -251,7 +251,7 @@
       "ref": "ref.2979",
       "slug": "hill",
       "name": "hill",
-      "cover_img": "hill-01",
+      "cover_img": "hill-02",
       "designer_name": "emerson borges",
       "designer_slug": "emerson-borges",
       "category_slug": "poltronas",
@@ -269,8 +269,8 @@
         "720 x 720 x 800"
       ],
       "images": [
-        "hill-01",
-        "hill-02"
+        "hill-02",
+        "hill-01"
       ],
       "ambients": [],
       "variations": []
@@ -500,8 +500,8 @@
       "ref": "CA.2981/1126",
       "slug": "trenta",
       "name": "trenta",
-      "cover_img": "trenta-01",
-      "designer_name": "Razzera Ibanez + Lorenzo",
+      "cover_img": "trenta-03",
+      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "poltronas",
       "category_name": "poltronas",
@@ -521,9 +521,9 @@
         "Soplo: 370 x 620 x 500"
       ],
       "images": [
-        "trenta-01",
-        "trenta-02",
         "trenta-03",
+        "trenta-02",
+        "trenta-01",
         "trenta-04"
       ],
       "ambients": [],
@@ -725,7 +725,7 @@
       "slug": "arc-cadeira",
       "name": "Arc",
       "cover_img": "arc-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -783,7 +783,7 @@
       "slug": "balena",
       "name": "Balena",
       "cover_img": "balena-03",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -898,7 +898,7 @@
       "slug": "coral-cadeira",
       "name": "Coral",
       "cover_img": "coral-cad-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -1144,7 +1144,7 @@
       "designer_slug": "fabricio-roncca",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada, braço com conha em lâmina natural. Base em madeira maciça tingida.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada, braço com concha em lâmina natural. Base em madeira maciça tingida.",
       "descriptionEn": "Upholstered chair with plywood seat and backrest. Arms structure in plywood coated with natural wood veneer. Stained wooden machined legs.",
       "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado, brazo con carcasa en pala natural. Base de madera maciza teñida",
       "measurementsEn": [
@@ -1234,11 +1234,40 @@
       "variations": []
     },
     {
+      "ref": "CA.2973",
+      "slug": "skin",
+      "name": "skin",
+      "cover_img": "skin-02",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira Skin Estofada - Cadeira com estrutura interna em multilaminado anatômico, estofada. Opções de base fixa de madeira usinada, tingida ou giratória em madeira tingida. Cadeira Skin Fórmica - Cadeira com estrutura interna em multilaminado anatômico estofada, parte externa revestida com fórmica. Opções de base fixa de madeira usinada, tingida ou giratória em madeira tingida.",
+      "descriptionEn": "Silla Skin Tapizada - Silla con estructura interna en multilaminado anatómico, tapizada. Opciones de base fija en madera mecanizada, teñida o giratoria en madera teñida. Silla Skin Formica - Silla con estructura interna en multilaminado anatómico tapizado, parte externa revestida en formica. Opciones de base fija en madera mecanizada, teñida o giratoria en madera teñida.",
+      "descriptionEs": "Upholstered Skin Chair - Chair with internal structure in anatomical multilaminate, upholstered. Fixed base options in machined wood, stained or swivel in stained wood. Skin Formica Chair - Chair with internal structure in upholstered anatomical multilaminate, external part coated with Formica. Fixed base options in machined wood, stained or swivel in stained wood.",
+      "measurementsEn": [
+        "32.08 x 22.63 x 25.59"
+      ],
+      "measurements": [
+        "815 x 575 x 650"
+      ],
+      "measurementsEs": [
+        "815 x 575 x 650"
+      ],
+      "images": [
+        "petit-01",
+        "petit-02",
+        "petit-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2959",
       "slug": "sofi",
       "name": "sofi",
       "cover_img": "sofi-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -1314,7 +1343,7 @@
       "slug": "sela",
       "name": "sela",
       "cover_img": "sela-04",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -1344,7 +1373,7 @@
       "slug": "sotille",
       "name": "sotille",
       "cover_img": "sotille-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -1377,7 +1406,7 @@
       "slug": "tie",
       "name": "tiê",
       "cover_img": "tie-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -1412,7 +1441,7 @@
       "slug": "vita",
       "name": "Vita",
       "cover_img": "vita-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
@@ -1603,7 +1632,7 @@
       "slug": "banqueta-tie",
       "name": "tiê",
       "cover_img": "ban-tie-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "banquetas",
       "category_name": "banquetas",
@@ -1960,8 +1989,7 @@
         "Pequeño: 200 x 600 x 600"
       ],
       "images": [
-        "inka-05",
-        "inka-06"
+        "inka-01"
       ],
       "ambients": [],
       "variations": []
@@ -2094,12 +2122,12 @@
       "ref": "-Ref.2528 /2529 /2530",
       "slug": "orbe-murano",
       "name": "orbe - murano",
-      "cover_img": "orbe-murano",
+      "cover_img": "orbe-murano-03",
       "designer_name": "emerson borges",
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Técnica de Murano Baixa: Mesa lateral com base em madeira maciça, tingida de preto, haste em metal, tampo em vidro com técnica de Murano. Opções do vidro: martelado, micro esferas de vidro branco ou fumê. \n \n Técnica de Murano Média: Mesa lateral com base em madeira maciça, tingida de preto, haste e disco em metal, tampo em vidro com técnica de Murano. Opções do vidro: martelado, micro esferas de vidro branco ou fumê",
+      "description": "Mesa lateral com base em madeira maciça tingida de preto, haste em metal, tampo em vidro com técnica de murano. Opções de vidro: martelado, micro esferas de vidrobranco ou fumê.",
       "descriptionEn": "Side table with base in solid wood, stained black, metal rod, glass top with Murano technique. Glass options: hammered, white or smoked glass microbead. \n \n  Low Murano: Side table with base in solid wood, stained black, metal rod, glass top with Murano technique. Glass options: hammered, white or smoked glass microbead.",
       "descriptionEs": "Mesa auxiliar con base en madera maciza, teñida de negro, varilla de metal, tapa de cristal con técnica de Murano. Opciones de vidrio: microperla de vidrio martillado, blanco o ahumado. \n \n Murano Media: Mesa auxiliar con base de madera maciza, teñida de negro, varilla y disco en metal, tapa de cristal con técnica de Murano. Opciones de vidrio: microperla de vidrio martillado, blanco o ahumado",
       "measurementsEn": [
@@ -2118,9 +2146,8 @@
         "Baja – 450 x 300 x 300"
       ],
       "images": [
-        "orbe-murano",
-        "orbe-murano-02",
-        "orbe-murano-incolor"
+        "orbe-murano-03",
+        "orbe-murano"
       ],
       "ambients": [],
       "variations": []
@@ -2376,7 +2403,7 @@
       "variations": []
     },
     {
-      "ref": "MES.2443",
+      "ref": "MES.2543",
       "slug": "vitra",
       "name": "vitra",
       "cover_img": "vitra-01",
@@ -2550,7 +2577,6 @@
       ],
       "images": [
         "reclamier-blu",
-        "reclamier-blu-2",
         "reclamier-blu-3"
       ],
       "ambients": [],
@@ -2609,23 +2635,22 @@
       "designer_slug": "fabricio-roncca",
       "category_slug": "mesa-puff",
       "category_name": "mesas e puffs",
-      "description": "Mesa de centro revestida em lâmina natural. Puff revestido em lâmina natural, com assento estofado.",
-      "descriptionEn": "Coffee table with organic form, wood structure and top coated in natural wood veneer. Ottoman with wood structure coated in natural wood veneer, upholstered seat.",
-      "descriptionEs": "Mesa de centro revestida en chapa natural. Puff revestido en pala natural, con asiento tapizado.",
+      "description": "Mesa revestida em lâmina natural. Puff revestido em lâmina natural, com assento estofado.",
+      "descriptionEn": "Table with organic form, wood structure and top coated in natural wood veneer. Ottoman with wood structure coated in natural wood veneer, upholstered seat.",
+      "descriptionEs": "Mesa revestida en chapa natural. Puff revestido en pala natural, con asiento tapizado.",
       "measurementsEn": [
-        "coffee table: 16.53 x 19.29 x 19.29" , "Ottoman: 17.12 x 19.29 x 19.29"
+        "table: 16.53 x 19.29 x 19.29" , "Ottoman: 17.12 x 19.29 x 19.29"
       ],
       "measurements": [
-        "mesa de centro: 420 x 490 x 490",
+        "mesa: 420 x 490 x 490",
         "Puff: 435 x 490 x 490"
       ],
       "measurementsEs": [
-        "mesa de centro: 420 x 490 x 490",
+        "mesa: 420 x 490 x 490",
         "Puff: 435 x 490 x 490"
       ],
       "images": [
-        "clave-02",
-        "clave-01"
+        "clave-02"
       ],
       "ambients": [],
       "variations": []
@@ -2883,7 +2908,7 @@
       "slug": "minimal",
       "name": "minimal",
       "cover_img": "minimal",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "aparadores",
       "category_name": "aparadores",
@@ -2907,7 +2932,7 @@
       "slug": "recato",
       "name": "recato",
       "cover_img": "recato-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "aparadores",
       "category_name": "aparadores",
@@ -2921,7 +2946,6 @@
       ],
       "images": [
         "recato-01",
-        "recato-02",
         "recato-03"
       ],
       "ambients": [],
@@ -2989,7 +3013,7 @@
       "slug": "clusia",
       "name": "clusia",
       "cover_img": "clusia-02",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "luminarias",
       "category_name": "luminarias",
@@ -3013,7 +3037,7 @@
       "slug": "oroboro",
       "name": "oroboro",
       "cover_img": "oroboro-1",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "luminarias",
       "category_name": "luminarias",
@@ -3041,7 +3065,7 @@
       "slug": "remo",
       "name": "remo",
       "cover_img": "remo-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "luminarias",
       "category_name": "luminarias",
@@ -3067,7 +3091,7 @@
       "slug": "soul-luminaria",
       "name": "Soul",
       "cover_img": "soul-01",
-      "designer_name": "Razerra Ibanez + Lorenzo",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "luminarias",
       "category_name": "luminarias",
@@ -3090,12 +3114,12 @@
       "variations": [""] 
     },
     {
-      "ref": "1000",
+      "ref": "Ref.1000",
       "slug": "vaso-domo",
       "name": "domo",
       "cover_img": "domo-01",
-      "designer_name": "",
-      "designer_slug": "",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "complemento",
       "category_name": "complemento",
       "description": "Vaso em vidro técnica de murano, com base em madeira maciça usinado. Detalhe em metal com pintura.",

@@ -82,7 +82,7 @@
         "name": "Mesa Lateral Orbe - Técnica de Murano",
         "nameEn": "Orbe Side Table Murano Technique",
         "nameEs": "Mesa Lateral Orbe - Técnica de Murano",
-        "src": "orbe-murano",
+        "src": "orbe-murano-03",
         "link": "/produtos/mesas-laterais-centro/orbe-murano"
       },
       {
@@ -110,7 +110,7 @@
         "name": "Poltrona Hill",
         "nameEn": "Hill Armchair",
         "nameEs": "Sillón Hill",
-        "src": "hill-01",
+        "src": "hill-02",
         "link": "/produtos/poltronas/hill"
       },
       {
@@ -269,7 +269,7 @@
   {
     "id": "/designers/razzera",
     "slug": "/designers/razzera",
-    "title": "Razzera Ibanez + Lorenzo",
+    "title": "Estúdio Razzera Ibanez + Lorenzo",
     "coverImg": "ibanez-razzera.jpg",
     "description": "É a evolução, um somatório, uma herança de pai para filho. A experiência da marcenaria, o olhar sobre máquinas e processos, o traço do arquiteto Ibanez Razzera, se unem ao talento, a jovialidade e ao mundo digital de Lorenzo Razzera.",
     "descriptionEn": "It is evolution, na addition, an inheritance from father to son. The experience of carpentry, the look at machines and processes, the architect Ibanez Razzera's traits, combine with the talent, joviality and digital world of Lorenzo Razzera.",
@@ -302,13 +302,6 @@
         "nameEs": "Silla arc",
         "src": "arc-01",
         "link": "/produtos/cadeiras/arc-cadeira"
-      },
-      {
-        "name": "Cadeira arya",
-        "nameEn": "Arya Chair",
-        "nameEs": "Silla arya",
-        "src": "arya-01",
-        "link": "/produtos/cadeiras/arya"
       },
       {
         "name": "Cadeira balena",
@@ -419,7 +412,7 @@
         "name": "Poltrona /Puff Trenta",
         "nameEn": "Trenta Armchair /Puff",
         "nameEs": "Sillón trenta",
-        "src": "trenta-01",
+        "src": "trenta-03",
         "link": "/produtos/poltronas/trenta"
       }
     ]
@@ -435,10 +428,10 @@
     "descriptionEs": "Tumar firma una sociedad con el Arquitecto Tascieny Brandão, quien tiene gran inspiración en el Diseño Brasileño. Alabando los rasgos finos y elegantes, busca siempre contemplar la atemporalidad de los muebles.<br /><br /> En toda su obra busca el uso variado de formas orgánicas y geométricas, mostrando toda la belleza y armonía del mobiliario nacional, dando como resultado el equilibrio de forma y función de cada pieza.",
     "products": [
       {
-        "name": "Poltrona Afago",
-        "nameEn": "Afago Armchair",
-        "nameEs": "Sillón Afago",
-        "src": "afago-01",
+        "name": "Poltrona Suspensa Afago",
+        "nameEn": "Afago Suspended Armchair",
+        "nameEs": "Sillón Suspendido Afago",
+        "src": "afago-02",
         "link": "/produtos/poltronas/afago"
       },
       {
@@ -522,6 +515,13 @@
         "nameEs": "Sillón Vip",
         "src": "vip-01",
         "link": "/produtos/poltronas/vip"
+      },
+      {
+        "name": "Vaso Domo",
+        "nameEn": "Domo Vase",
+        "nameEs": "Jarrón Domo",
+        "src": "domo-01",
+        "link": "/produtos/complemento/vaso-domo"
       }
     ]
   },
