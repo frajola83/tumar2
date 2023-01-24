@@ -9,12 +9,12 @@
     "group07": "Grupo 7",
     "naturalLeather": "Couro Natural",
     "formica": "Fórmica",
-    "syntheticVeneer": "Lâmina Sintética",
-    "fabricKnit": "Malha Knit",
+    "syntheticVeneer": "MDF Lâmina Sintética",
+    "fabricKnit": "Knit",
     "naturalStraw": "Palha Natural",
-    "metallicPainting": "Pintura Metálica",
+    "metallicPainting": "Pintura Metal",
     "reconstitutedLeather": "Recouro",
-    "paintedGlass": "Vidro"
+    "paintedGlass": "Vidro pintado"
   },
   "categories": {
     "banquetas": "banquetas",

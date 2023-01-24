@@ -9,12 +9,12 @@
     "group07": "Grupo 7",
     "naturalLeather": "cuero natural",
     "formica": "Fórmica",
-    "syntheticVeneer": "Hoja Sintéticas",
-    "fabricKnit": "Malla Knit",
+    "syntheticVeneer": "MDF Hoja Sintéticas",
+    "fabricKnit": "Knit",
     "naturalStraw": "Paja Natural",
-    "metallicPainting": "Pintura Metálica",
+    "metallicPainting": "Pintura Metal",
     "reconstitutedLeather": "Recuperación",
-    "paintedGlass": "Vasos"
+    "paintedGlass": "Vidrio pintado"
   },
   "categories": {
     "banquetas": "taburetes",

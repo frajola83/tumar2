@@ -115,9 +115,9 @@
     ]
   },
   {
-    "category_name": "pintura metálica",
-    "category_name_en": "Metallic Painting",
-    "category_name_es": "pintura metálica", 
+    "category_name": "pintura metal",
+    "category_name_en": "Metal Painting",
+    "category_name_es": "pintura metal", 
     "category_slug": "pintura-metalica", 
     "finishes": [
       {
@@ -143,12 +143,6 @@
         "name": "grafite",
         "nameEs": "grafito",
         "nameEn": "graphite"
-      },
-      {
-        "slug": "marrom",
-        "name": "marrom",
-        "nameEs": "marrón",
-        "nameEn": "brown"
       },
       {
         "slug": "preto",
@@ -183,16 +177,52 @@
     "category_slug": "couro-natural", 
     "finishes": [
       {
-        "slug": "gris",
-        "name": "Gris",
-        "nameEs": "Gris",
-        "nameEn": "Gray"
+        "slug": "sand-01",
+        "name": "sand",
+        "nameEs": "sand",
+        "nameEn": "sand"
       },
       {
         "slug": "preto3",
         "name": "Preto",
         "nameEs": "Preto",
         "nameEn": "Black"
+      },
+      {
+        "slug": "camel-01",
+        "name": "camel",
+        "nameEs": "camel",
+        "nameEn": "camel"
+      },
+      {
+        "slug": "tabaco-rustico",
+        "name": "tabaco rústico",
+        "nameEs": "tabaco rústico",
+        "nameEn": "rustic tobacco"
+      },
+      {
+        "slug": "oliva",
+        "name": "oliva",
+        "nameEs": "oliva",
+        "nameEn": "olive"
+      },
+      {
+        "slug": "rustico-verde",
+        "name": "rústico verde",
+        "nameEs": "verde rústico",
+        "nameEn": "rustic green"
+      },
+      {
+        "slug": "concreto-001",
+        "name": "concreto",
+        "nameEs": "hormigón",
+        "nameEn": "concrete"
+      },
+      {
+        "slug": "grafite-001",
+        "name": "grafite",
+        "nameEs": "grafito",
+        "nameEn": "graphite"
       }
     ]
   },
@@ -738,23 +768,11 @@
     ]
   },
   {
-    "category_name": "vidros",
+    "category_name": "vidro pintado",
     "category_name_en": "Painted Glass",
-    "category_name_es": "Vasos", 
+    "category_name_es": "Vidrio pintado ", 
     "category_slug": "vidros", 
     "finishes": [
-      {
-        "slug": "branco",
-        "name": "branco",
-        "nameEs": "blanco",
-        "nameEn": "white"
-      },
-      {
-        "slug": "fendi",
-        "name": "fendi",
-        "nameEs": "fendi",
-        "nameEn": "fendi"
-      },
       {
         "slug": "grafite",
         "name": "grafite",
@@ -778,20 +796,14 @@
         "name": "chocolate",
         "nameEs": "chocolate",
         "nameEn": "chocolate"
-      },
-      {
-        "slug": "champanhe-1",
-        "name": "champanhe",
-        "nameEs": "champán",
-        "nameEn": "champagne"
       }
     ]
   },
   {
-    "category_name": "lâminas sintéticas",
-    "category_name_en": "Synthetic Veneer",
-    "category_name_es": "Hoja Sintéticas", 
-    "category_slug": "laminas-sinteticas", 
+    "category_name": "MDF lâminas sintéticas",
+    "category_name_en": "Synthetic Veneer MDF",
+    "category_name_es": "MDF Hoja Sintéticas", 
+    "category_slug": "MDF-laminas-sinteticas", 
     "finishes": [
       {
         "slug": "portoro",
@@ -810,19 +822,13 @@
         "name": "calacata",
         "nameEs": "calacata",
         "nameEn": "calacata"
-      },
-      {
-        "slug": "gobi",
-        "name": "gobi",
-        "nameEs": "gobi",
-        "nameEn": "gobi"
       }
     ]
   },
   {
-    "category_name": "Malha Knit",
-    "category_name_en": "Fabric Knit",
-    "category_name_es": "Malla Knit", 
+    "category_name": "Knit",
+    "category_name_en": "Knit",
+    "category_name_es": "Knit", 
     "category_slug": "malha-knit", 
     "finishes": [
       {
