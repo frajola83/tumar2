@@ -43,7 +43,7 @@
       "descriptionEn": "Upholstered hanging armchair with internal structure in carbon steel tube. Hanged by polypropylene ropes.",
       "descriptionEs": "Sillón suspendido con estructura interna tubular, tapizado. Cuerdas de polipropileno.",
       "measurementsEn": [
-        "40.55 x 35.03 x 34.25"
+        "27.16 x 35.03 x 34.25"
       ],
       "measurements": [
         "690 x 890 x 870"
@@ -91,7 +91,7 @@
       "variations": []
     },
     {
-      "ref": "ref.2983",
+      "ref": "ref.2976",
       "slug": "bag",
       "name": "bag",
       "cover_img": "bag-01",
@@ -1518,7 +1518,6 @@
         "amelie-banqueta-amb-01",
         "amelie-banqueta-amb-02",
         "amelie-banqueta-amb-03",
-        "amelie-banqueta-amb-04",
         "amelie-banqueta-amb-05"
       ],
       "variations": []
@@ -2147,7 +2146,8 @@
       ],
       "images": [
         "orbe-murano-03",
-        "orbe-murano"
+        "orbe-murano",
+        "orbe-murano-02"
       ],
       "ambients": [],
       "variations": []
@@ -2650,7 +2650,8 @@
         "Puff: 435 x 490 x 490"
       ],
       "images": [
-        "clave-02"
+        "clave-02",
+        "clave-01"
       ],
       "ambients": [],
       "variations": []
