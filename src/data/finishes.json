@@ -223,6 +223,18 @@
         "name": "grafite",
         "nameEs": "grafito",
         "nameEn": "graphite"
+      },
+      {
+        "slug": "rustico-gris",
+        "name": "rústico gris",
+        "nameEs": "gris rústico",
+        "nameEn": "rustic gray"
+      },
+      {
+        "slug": "rustico-preto",
+        "name": "rústico preto",
+        "nameEs": "preto rústico",
+        "nameEn": "rustic black"
       }
     ]
   },
