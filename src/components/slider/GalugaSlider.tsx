@@ -36,9 +36,88 @@ const ImageContainer = styled.div`
 
 export const GalugaSlider = () => {
   const context = useContext(I18nextContext)
-  console.log("language", context.language);
+  console.log("language", context.language)
 
-  if (context.language === "pt") {
+  switch (context.language) {
+    case "pt":
+      console.log("pt =======================");
+      return (
+        <>
+          <SliderContainer>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-desktop-1920-pt" alt="sela" />
+              </Slide>
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-desktop-1920-pt" alt="petra" />
+              </Slide>
+            </Carousel>
+          </SliderContainer>
+          <SliderMobile>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-mobile-768-pt" alt="sela" />
+              </Slide>
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-mobile-768-pt" alt="petra" />
+              </Slide>
+            </Carousel>
+          </SliderMobile>
+        </>
+      )
+    case "en":
+      console.log("en =======================");
+      return (
+        <>
+          <SliderContainer>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-desktop-1920-en" alt="sela" />
+              </Slide>
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-desktop-1920-en" alt="petra" />
+              </Slide>
+            </Carousel>
+          </SliderContainer>
+          <SliderMobile>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-mobile-768-en" alt="sela" />
+              </Slide>
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-mobile-768-en" alt="petra" />
+              </Slide>
+            </Carousel>
+          </SliderMobile>
+        </>
+      )
+    case "es":
+      console.log("es =======================");
+      return (
+        <>
+          <SliderContainer>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-desktop-1920-es" alt="sela" />
+              </Slide>
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-desktop-1920-es" alt="petra" />
+              </Slide>
+            </Carousel>
+          </SliderContainer>
+          <SliderMobile>
+            <Carousel showThumbs={false}>
+              <Slide to="/produtos/poltronas/trenta">
+                <ImageProvider src="trenta-banner-mobile-768-es" alt="sela" />
+              </Slide>
+              <Slide to="/produtos/cadeiras/sela">
+                <ImageProvider src="sela-banner-mobile-768-es" alt="petra" />
+              </Slide>
+            </Carousel>
+          </SliderMobile>
+        </>
+      )
+    default:
       return (
         <>
           <SliderContainer>
@@ -64,59 +143,4 @@ export const GalugaSlider = () => {
         </>
       )
   }
-
-  if (context.language === "en") {
-    return (
-      <>
-        <SliderContainer>
-          <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/trenta">
-              <ImageProvider src="trenta-banner-desktop-1920-en" alt="sela" />
-            </Slide>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-desktop-1920-en" alt="petra" />
-            </Slide>
-          </Carousel>
-        </SliderContainer>
-        <SliderMobile>
-          <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/trenta">
-              <ImageProvider src="trenta-banner-mobile-768-en" alt="sela" />
-            </Slide>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-mobile-768-en" alt="petra" />
-            </Slide>
-          </Carousel>
-        </SliderMobile>
-      </>
-    )
-  }
-
-  if (context.language === "es") {
-    return (
-      <>
-        <SliderContainer>
-          <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/trenta">
-              <ImageProvider src="trenta-banner-desktop-1920-es" alt="sela" />
-            </Slide>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-desktop-1920-es" alt="petra" />
-            </Slide>
-          </Carousel>
-        </SliderContainer>
-        <SliderMobile>
-          <Carousel showThumbs={false}>
-            <Slide to="/produtos/poltronas/trenta">
-              <ImageProvider src="trenta-banner-mobile-768-es" alt="sela" />
-            </Slide>
-            <Slide to="/produtos/cadeiras/sela">
-              <ImageProvider src="sela-banner-mobile-768-es" alt="petra" />
-            </Slide>
-          </Carousel>
-        </SliderMobile>
-      </>
-    )
-  }
-
 }
