@@ -123,10 +123,10 @@ export const GalugaSlider = () => {
           <SliderContainer>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-desktop-1920" alt="sela" />
+                <ImageProvider src="trenta-banner-desktop-1920-pt" alt="sela" />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-desktop-1920" alt="petra" />
+                <ImageProvider src="sela-banner-desktop-1920-pt" alt="petra" />
               </Slide>
             </Carousel>
           </SliderContainer>
