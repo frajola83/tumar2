@@ -50,6 +50,7 @@ export const Menu: React.FC<MenuProps> = ({ category_slug }) => {
       <MenuSectionTitle>{t("pages.finishes.menuAny")}</MenuSectionTitle>
       <MenuSection>
         <MenuItem category="couro-natural" currentCategory={category_slug}>{t("finishes.naturalLeather")}</MenuItem>
+        <MenuItem category="couro-rustico" currentCategory={category_slug}>{t("finishes.rusticLeather")}</MenuItem>
         <MenuItem category="MDF-laminas-sinteticas" currentCategory={category_slug}>{t("finishes.syntheticVeneer")}</MenuItem>
         <MenuItem category="malha-knit" currentCategory={category_slug}>{t("finishes.fabricKnit")}</MenuItem>
         <MenuItem category="palha-natural" currentCategory={category_slug}>{t("finishes.naturalStraw")}</MenuItem>

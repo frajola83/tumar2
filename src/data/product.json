@@ -1255,9 +1255,9 @@
         "815 x 575 x 650"
       ],
       "images": [
-        "petit-01",
-        "petit-02",
-        "petit-03"
+        "skin-01",
+        "skin-02",
+        "skin-03"
       ],
       "ambients": [],
       "variations": []
@@ -2121,7 +2121,7 @@
       "ref": "-Ref.2528 /2529 /2530",
       "slug": "orbe-murano",
       "name": "orbe - murano",
-      "cover_img": "orbe-murano-03",
+      "cover_img": "orbe-murano-02",
       "designer_name": "emerson borges",
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
@@ -2145,9 +2145,8 @@
         "Baja – 450 x 300 x 300"
       ],
       "images": [
-        "orbe-murano-03",
-        "orbe-murano",
-        "orbe-murano-02"
+        "orbe-murano-02",
+        "orbe-murano"
       ],
       "ambients": [],
       "variations": []

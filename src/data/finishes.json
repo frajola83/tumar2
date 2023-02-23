@@ -223,7 +223,15 @@
         "name": "grafite",
         "nameEs": "grafito",
         "nameEn": "graphite"
-      },
+      }
+    ]
+  },
+  {
+    "category_name": "couro rústico",
+    "category_name_en": "rustic leather",
+    "category_name_es": "cuero rustico", 
+    "category_slug": "couro-rustico", 
+    "finishes": [
       {
         "slug": "rustico-gris",
         "name": "rústico gris",
@@ -365,12 +373,6 @@
         "name": "1953",
         "nameEs": "1953",
         "nameEn": "1953"
-      },
-      {
-        "slug": "1981",
-        "name": "1981",
-        "nameEs": "1981",
-        "nameEn": "1981"
       },
       {
         "slug": "1982",
