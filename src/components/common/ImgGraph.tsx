@@ -21,7 +21,7 @@ export const ImgProvider: React.FC<ImgProviderProps> = ({
     query {
       allImageSharp {
         nodes {
-          fluid(maxWidth: 1600, quality: 70) {
+          fluid(maxWidth: 1920, quality: 100) {
             originalName
             ...GatsbyImageSharpFluid
           }

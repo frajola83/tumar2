@@ -7,6 +7,7 @@ import "./carousel.css"
 import React, { useContext } from "react"
 import { breakpoints } from "../../utils/styledResponsive"
 import { I18nextContext } from "gatsby-plugin-react-i18next"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Slide = styled(Link)`
   display: flex;
@@ -40,78 +41,125 @@ export const GalugaSlider = () => {
 
   switch (context.language) {
     case "pt":
-      console.log("pt =======================");
+      console.log("pt =======================")
       return (
         <>
           <SliderContainer>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-desktop-1920-pt" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-desktop-1920-pt" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                />
               </Slide>
             </Carousel>
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-mobile-768-pt" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-mobile-768-pt" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderMobile>
         </>
       )
     case "en":
-      console.log("en =======================");
+      console.log("en =======================")
       return (
         <>
           <SliderContainer>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-desktop-1920-en" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-desktop-1920-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-desktop-1920-en" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-desktop-1920-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-mobile-768-en" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-mobile-768-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-mobile-768-en" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-mobile-768-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderMobile>
         </>
       )
     case "es":
-      console.log("es =======================");
+      console.log("es =======================")
       return (
         <>
           <SliderContainer>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-desktop-1920-es" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-desktop-1920-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-desktop-1920-es" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-desktop-1920-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-mobile-768-es" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-mobile-768-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-mobile-768-es" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-mobile-768-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderMobile>
@@ -123,20 +171,36 @@ export const GalugaSlider = () => {
           <SliderContainer>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-desktop-1920-pt" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-desktop-1920-pt" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false}>
               <Slide to="/produtos/poltronas/trenta">
-                <ImageProvider src="trenta-banner-mobile-768" alt="sela" />
+                <StaticImage
+                  src="../../images/home/banners/trenta-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
               <Slide to="/produtos/cadeiras/sela">
-                <ImageProvider src="sela-banner-mobile-768" alt="petra" />
+                <StaticImage
+                  src="../../images/home/banners/sela-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
               </Slide>
             </Carousel>
           </SliderMobile>
