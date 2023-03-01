@@ -60,7 +60,7 @@ const Poltronas = styled(ImageContainer)`
 
 const ImgInnerPoltrona = styled(ImgInner)`
   margin-top: inherit;
-  ${breakpoints("margin-top", ["inherit", "inherit", "-82px", "-82px"])}
+  ${breakpoints("margin-top", ["inherit", "inherit", "-1px", "-1px"])}
 `
 
 const Gallery = styled.div`
@@ -193,7 +193,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInnerPoltrona>
               <StaticImage
-                src="../../images/home/abbraccio-home.jpg"
+                src="../../images/products/abbraccio-05.jpg"
                 alt="Banquetas"
                 quality={100}
               />
