@@ -1107,6 +1107,35 @@
       "variations": []
     },
     {
+      "ref": "CA.2988",
+      "slug": "kore",
+      "name": "kore",
+      "cover_img": "kore-1",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Caderia kore, com estrutura interna em multilaminado estofado, base fixa em madeira tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
+      "descriptionEs": "Silla con estructura en multilaminado tapizado. Base fija en madera teñida.",
+      "measurementsEn": [
+        "31.10 x 25.78 x 23.81"
+      ],
+      "measurements": [
+        "790 x 655 x 605"
+      ],
+      "measurementsEs": [
+        "790 x 655 x 605"
+      ],
+      "images": [
+        "kore-1",
+        "kore-2",
+        "kore-3"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2923",
       "slug": "malu",
       "name": "Malu",

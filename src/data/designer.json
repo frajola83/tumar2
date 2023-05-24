@@ -318,6 +318,13 @@
         "link": "/produtos/cadeiras/coral-cadeira"
       },
       {
+        "name": "Cadeira Kore",
+        "nameEn": "Kore Chair",
+        "nameEs": "Silla Kore",
+        "src": "kore-1",
+        "link": "/produtos/cadeiras/kore"
+      },
+      {
         "name": "Cadeira Skin",
         "nameEn": "Skin Chair",
         "nameEs": "Silla Skin",
