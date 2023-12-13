@@ -146,13 +146,6 @@
     "descriptionEs": "Tumar se asocia con el diseñador Fabricio Roncca, de São Paulo, que creció en Belo Horizonte – MG, donde aprendió a ver la arquitectura, el folclore y el arte de una manera lúdica e íntima.<br /><br />Busca en sus obras la belleza, la sostenibilidad, el equilibrio de los materiales y la memoria afectiva, y su principal fuente de inspiración es la arquitectura brasileña.",
     "products": [
       {
-        "name": "Cadeira Matisse",
-        "nameEn": "Matisse Chair",
-        "nameEs": "Silla Matisse",
-        "src": "matisse-01",
-        "link": "/produtos/cadeiras/matisse"
-      },
-      {
         "name": "Banco Blu",
         "nameEn": "Blu Bench",
         "nameEs": "Banco Blu",
@@ -302,13 +295,6 @@
         "nameEs": "Silla arc",
         "src": "arc-01",
         "link": "/produtos/cadeiras/arc-cadeira"
-      },
-      {
-        "name": "Cadeira balena",
-        "nameEn": "Balena Chair",
-        "nameEs": "Silla balena",
-        "src": "balena-03",
-        "link": "/produtos/cadeiras/balena"
       },
       {
         "name": "Cadeira coral com e sem braço",

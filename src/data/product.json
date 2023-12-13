@@ -680,7 +680,7 @@
       "variations": []
     },
     {
-      "ref": "CA.2938",
+      "ref": "CA.2992",
       "slug": "alma",
       "name": "alma",
       "cover_img": "alma-01",
@@ -806,30 +806,30 @@
       "variations": []
     },
     {
-      "ref": "CA.2954",
-      "slug": "balena",
-      "name": "Balena",
-      "cover_img": "balena-03",
-      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
-      "designer_slug": "razzera",
+      "ref": "CA.2993",
+      "slug": "bailo",
+      "name": "Bailo",
+      "cover_img": "bailo-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira usinada em madeira com assento estofado e encosto em palha natural.",
-      "descriptionEn": "Machined chair in solid wood with upholstered seat, backrest in natural straw.",
-      "descriptionEs": "Silla mecanizada en madera con asiento tapizado y respaldo en paja natural.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômica, estofada. Detalhe nas costas com palha sextavada natural. Base me madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs with a natural straw detail on the back.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Detalle en la espalda con paja natural hexagonal. Base de madera maciza teñida.",
       "measurementsEn": [
-        "32.28 x 20.86 x 22.44"
+        "33,07 x 19,68 x 26,37"
       ],
       "measurements": [
-        "840 x 525 x 620"
+        "840 x 500 x 670"
       ],
       "measurementsEs": [
-        "840 x 525 x 620"
+        "840 x 500 x 670"
       ],
       "images": [
-        "balena-03",
-        "balena-01",
-        "balena-02"
+        "bailo-01",
+        "bailo-02",
+        "bailo-03"
       ],
       "ambients": [],
       "variations": []
@@ -893,34 +893,6 @@
       "variations": []
     },
     {
-      "ref": "CA.2918",
-      "slug": "capri",
-      "name": "Capri",
-      "cover_img": "capri-02",
-      "designer_slug": "",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna tubular, estofada. Opções de base fixa em madeira tingida, giratória em madeira tingida ou giratória de aço carbono pintado.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Legs options: stained wooden legs, swivel wooden legs or swivel painted carbon steel legs.",
-      "descriptionEs": "Silla con estructura interna tubular, tapizada. Opciones de base fija en madera teñida, giratoria en madera teñida o giratoria en acero al carbono pintado.",
-      "measurementsEn": [
-        "33.26 x 22.83 x 23.22"
-      ],
-      "measurements": [
-        "845 x 580 x 590"
-      ],
-      "measurementsEs": [
-        "845 x 580 x 590"
-      ],
-      "images": [
-        "capri-02"
-      ],
-      "ambients": [
-        
-      ],
-      "variations": []
-    },
-    {
       "ref": "CA.2948 / 2949",
       "slug": "coral-cadeira",
       "name": "Coral",
@@ -978,6 +950,34 @@
         "ella-amb-01",
         "ella-amb-02"
       ],
+      "variations": []
+    },
+    {
+      "ref": "CA.2994",
+      "slug": "emi",
+      "name": "emi",
+      "cover_img": "emi-01",
+      "designer_name": "studio t92",
+      "designer_slug": "studio-t92",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura em multilaminado anatômico, estofada. Base em madeira maciça tingida, com opção de palha natural no encosto.",
+      "measurements": [
+        "820 x 525 x 620"
+      ],
+      "descriptionEn": "Wooden machined chair with upholstered seat. Backrest finish options: upholstered or with natural straw.",
+      "descriptionEs": "Silla con estructura anatómica multilaminada, tapizada. Base en madera maciza teñida, con opción de paja natural en la parte trasera.",
+      "measurementsEn": [
+        "32,28 x 20,66 x 24,40"
+      ],
+      "measurementsEs": [
+        "820 x 525 x 620"
+      ],
+      "images": [
+        "emi-01",
+        "emi-02"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -1046,36 +1046,6 @@
       "variations": []
     },
     {
-      "ref": "CA.2916",
-      "slug": "gal",
-      "name": "gal",
-      "cover_img": "gal-01",
-      "designer_slug": "",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado, estofada. Opções de base fixa em madeira tingida ou giratória em madeira tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Legs options: stained wooden legs or swivel wooden legs.",
-      "descriptionEs": "Silla con carcasa en multilaminado, tapizada. Opciones de base fija en madera teñida o giratoria en madera teñida.",
-      "measurementsEn": [
-        "35.23 x 19.68 x 23.42"
-      ],
-      "measurements": [
-        "895 x 500 x 595"
-      ],
-      "measurementsEs": [
-        "895 x 500 x 595"
-      ],
-      "images": [
-        "gal-01",
-        "gal-02"
-      ],
-      "ambients": [
-        "gal-amb-01",
-        "gal-amb-02"
-      ],
-      "variations": []
-    },
-    {
       "ref": "CA.2932",
       "slug": "illy",
       "name": "illy",
@@ -1107,33 +1077,6 @@
       "variations": []
     },
     {
-      "ref": "CA.2908",
-      "slug": "isis",
-      "name": "isis",
-      "cover_img": "isis-02",
-      "designer_slug": "",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado anatômico estofada, com fechamento em zíper nas costas. Opções de base fixa em madeira tingida ou giratória em madeira tingida.",
-      "descriptionEn": "Upholstered chair with internal structure in anatomical plywood, back zipper closure. Legs options: stained wooden legs or swivel wooden legs.",
-      "descriptionEs": "Silla con carcasa anatómica tapizada en multilaminado, con cierre de cremallera en el respaldo. Opciones de base fija en madera teñida o giratoria en madera teñida.",
-      "measurementsEn": [
-        "34.25 x 18.11 x 22.83"
-      ],
-      "measurements": [
-        "870 x 460 x 580"
-      ],
-      "measurementsEs": [
-        "870 x 460 x 580"
-      ],
-      "images": [
-        "isis-01",
-        "isis-02"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
       "ref": "CA.2988",
       "slug": "kore",
       "name": "kore",
@@ -1158,6 +1101,69 @@
         "kore-1",
         "kore-2",
         "kore-3"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2997/3011",
+      "slug": "levi",
+      "name": "levi",
+      "cover_img": "levi-01",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico, estofada. Detalhe nas laterais com esferas em aço usinado. Base tubular com pintura. Sem esferas: Cadeira com estrutura interna me multilaminado anatômico, estofada. Base tubular com pintura.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs with machined carbon steel spheres detail. Without Spheres: Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico, tapizada. Detalle en los laterales con esferas de acero mecanizadas. Base tubular con pintura. Sin esferas: Silla con estructura interna anatómica multilaminada, tapizada. Base tubular con pintura.",
+      "measurementsEn": [
+        "31,29 x 25 x 23,42",
+        "whitout spheres: 30,11 x 25 x 23,42"
+      ],
+      "measurements": [
+        "795 x 635 x 595",
+        "sem esferas: 765 x 635 x 595"
+      ],
+      "measurementsEs": [
+        "795 x 635 x 595",
+        "sin esferas: 765 x 635 x 595"
+      ],
+      "images": [
+        "levi-01",
+        "levi-02",
+        "levi-03",
+        "levi-04",
+        "levi2-01",
+        "levi2-02"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2996",
+      "slug": "lui",
+      "name": "lui",
+      "cover_img": "lui-01",
+      "designer_name": "studio t92",
+      "designer_slug": "studio-t92",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood internal structure. Stained wooden machined legs.",
+      "descriptionEs": "Silla con asiento y respaldo en multilaminado anatómico, tapizado. Base de madera maciza teñida.",
+      "measurementsEn": [
+        "33,46 x 19,48 x 23,62"
+      ],
+      "measurements": [
+        "850 x 495 x 600"
+      ],
+      "measurementsEs": [
+        "850 x 495 x 600"
+      ],
+      "images": [
+        "lui-01",
+        "lui-02"
       ],
       "ambients": [],
       "variations": []
@@ -1192,31 +1198,29 @@
       "variations": []
     },
     {
-      "ref": "CA.2985",
-      "slug": "matisse",
-      "name": "Matisse",
-      "cover_img": "matisse-01",
-      "designer_name": "fabricio roncca",
-      "designer_slug": "fabricio-roncca",
+      "ref": "CA.2998",
+      "slug": "mia",
+      "name": "mia",
+      "cover_img": "mia-01",
+      "designer_name": "studio t92",
+      "designer_slug": "studio-t92",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada, braço com concha em lâmina natural. Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Arms structure in plywood coated with natural wood veneer. Stained wooden machined legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado, brazo con carcasa en pala natural. Base de madera maciza teñida",
+      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Base tubular pintada.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con asiento y respaldo en multilaminado anatómico, tapizado. Base tubular pintada.",
       "measurementsEn": [
-        "31.88 x 21.25 x 24.80"
+        "32,67 x 22,83 x 24,01"
       ],
       "measurements": [
-        "810 x 540 x 630"
+        "830 x 580 x 610"
       ],
       "measurementsEs": [
-        "810 x 540 x 630"
+        "830 x 580 x 610"
       ],
       "images": [
-        "matisse-01",
-        "matisse-02",
-        "matisse-03",
-        "matisse-04"
+        "mia-01",
+        "mia-02"
       ],
       "ambients": [
       ],
@@ -1258,6 +1262,62 @@
         "mis-amb-08",
         "mis-amb-07"
       ],
+      "variations": []
+    },
+    {
+      "ref": "CA.3005",
+      "slug": "olivia",
+      "name": "olivia",
+      "cover_img": "olivia-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Base fixa tubular pintada.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con asiento y respaldo en multilaminado anatómico, tapizado. Base fija tubular pintada.",
+      "measurementsEn": [
+        "33,46 x 19,68 x 23,62"
+      ],
+      "measurements": [
+        "850 x 500 x 600"
+      ],
+      "measurementsEs": [
+        "850 x 500 x 600"
+      ],
+      "images": [
+        "olivia-01",
+        "olivia-02"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2991",
+      "slug": "petala",
+      "name": "pétala",
+      "cover_img": "olivia-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Detalhe nas costas com esfera em madeira maciça. Base tubular pintada.",
+      "descriptionEn": "Upholstered chair with plywood internal structure with wooden sphere detail on the back. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con asiento y respaldo en multilaminado anatómico, tapizado. Detalle en la parte trasera con esfera de madera maciza. Base tubular pintada.",
+      "measurementsEn": [
+        "31,88 x 22,63 x 24,21"
+      ],
+      "measurements": [
+        "810 x 575 x 615"
+      ],
+      "measurementsEs": [
+        "810 x 575 x 615"
+      ],
+      "images": [
+        "olivia-01",
+        "olivia-02"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
