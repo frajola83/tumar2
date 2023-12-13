@@ -649,16 +649,16 @@
       "variations": []
     },
     {
-      "ref": "CA.2891 / 2892",
+      "ref": "CA.2891",
       "slug": "agnes",
       "name": "Agnes",
       "cover_img": "agnes-01",
       "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado, estofada. Opção de bases fixa de madeira tingida ou giratória de madeira tingida.",
-      "descriptionEs": "Silla con carcasa en multilaminado, tapizada. Opción de bases fijas en madera teñida o giratorias en madera teñida.",
-      "descriptionEn": "Chair with shell in multilaminate, upholstered. Option of fixed bases in stained wood or revolving in stained wood.",
+      "description": "Cadeira com concha em multilaminado, estofada. Base fixa de madeira tingida.",
+      "descriptionEs": "Silla con carcasa en multilaminado, tapizada. Base fija de madera teñida.",
+      "descriptionEn": "Chair with shell in multilaminate, upholstered. Fixed stained wood base.",
       "measurementsEn": [
         "34.25 x 19.29 x 23.42"
       ],
@@ -687,9 +687,9 @@
       "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado estofada. Opções de bases: fixa tubular pintada e fixa madeira tingida.",
-      "descriptionEn": "Chair with shell in upholstered multilaminate. Base options: fixed painted tubular and fixed stained wood.",
-      "descriptionEs": "Silla con carcasa en multilaminado tapizado. Opciones de base: fija tubular pintada y fija madera teñida.",
+      "description": "Cadeira com concha em multilaminado estofada. Base tubular pintada.",
+      "descriptionEn": "Chair with shell in upholstered multilaminate. Painted tubular base.",
+      "descriptionEs": "Silla con carcasa en multilaminado tapizado. Base tubular pintada.",
       "measurementsEn": [
         "33.46 x 19.48 x 23.81"
       ],
@@ -1651,6 +1651,37 @@
       "images": [
         "mis-ban-01",
         "mis-ban-02"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "Ref.1441",
+      "slug": "banqueta-petala",
+      "name": "pétala",
+      "cover_img": "petala-01",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "banquetas",
+      "category_name": "banquetas",
+      "description": "Banqueta com estrutura interna em multiplatinado anatômico estofada. Detalhe nas costas com esfera de madeira maciça tingida. Base tubular pintada. Opções alta e média.",
+      "descriptionEn": "Upholstered stool with plywood internal structure with wooden sphere detail on the back. Painted carbon steel tubular legs.",
+      "descriptionEs": "Taburete con estructura interna en tapizado anatómico multiplatino. Detalle en la parte trasera con una esfera de madera maciza teñida. Base tubular pintada. Opciones altas y medias.",
+      "measurementsEn": [
+        "High: 39,76 x 20,86 x 21,85",
+        "Medium: 35,82 x 20,86 x 21,85"
+      ],
+      "measurements": [
+        "Alta: 1010 x 530 x 555",
+        "Média: 910 x 530 x 555"
+      ],
+      "measurementsEs": [
+        "Alto: 1010 x 530 x 555",
+        "Promedio: 35,82 x 20,86 x 21,85"
+      ],
+  
+      "images": [
+        "petala-01",
+        "petala-02"
       ],
       "ambients": [],
       "variations": []
