@@ -680,6 +680,33 @@
       "variations": []
     },
     {
+      "ref": "CA.2938",
+      "slug": "alma",
+      "name": "alma",
+      "cover_img": "alma-01",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico, estofada. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico, tapizada. Base de madera maciza teñida.",
+      "measurementsEn": [
+        "32,67 x 19,68 x 26,77"
+      ],
+      "measurements": [
+        "830 x500 x 680"
+      ],
+      "measurementsEs": [
+        "830 x500 x 680"
+      ],
+      "images": [
+        "alma-01"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2929",
       "slug": "amelie-cadeira",
       "name": "Amelie",
@@ -1661,6 +1688,7 @@
       "name": "pétala",
       "cover_img": "petala-01",
       "designer_slug": "fabricio-roncca",
+      "designer_name": "fabricio roncca",
       "category_slug": "banquetas",
       "category_name": "banquetas",
       "description": "Banqueta com estrutura interna em multiplatinado anatômico estofada. Detalhe nas costas com esfera de madeira maciça tingida. Base tubular pintada. Opções alta e média.",
