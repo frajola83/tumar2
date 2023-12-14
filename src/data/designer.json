@@ -216,13 +216,6 @@
         "link": "/produtos/mesas-laterais-centro/rhodes"
       },
       {
-        "name": "Poltrona Donatela",
-        "nameEn": "Donatela Armchair",
-        "nameEs": "Sillón Donatela",
-        "src": "donatela-polt-02",
-        "link": "/produtos/poltronas/donatela-poltrona"
-      },
-      {
         "name": "Puff amintas",
         "nameEn": "Amintas Ottoman",
         "nameEs": "Puff amintas",
@@ -426,13 +419,6 @@
         "nameEs": "Sillón Suspendido Afago",
         "src": "afago-02",
         "link": "/produtos/poltronas/afago"
-      },
-      {
-        "name": "Poltrona Moon",
-        "nameEn": "Moon Armchair",
-        "nameEs": "Sillón Moon",
-        "src": "moon-polt-01",
-        "link": "/produtos/poltronas/moon-poltrona"
       },
       {
         "name": "Poltrona Nara",

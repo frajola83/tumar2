@@ -214,37 +214,63 @@
       "variations": []
     },
     {
-      "ref": "CA.2945 / 2946",
-      "slug": "donatela-poltrona",
-      "name": "donatela",
-      "cover_img": "donatela-polt-02",
-      "designer_name": "fabricio roncca",
-      "designer_slug": "fabricio-roncca",
+      "ref": "ref.3000",
+      "slug": "delta",
+      "name": "delta",
+      "cover_img": "delta-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "poltronas",
       "category_name": "poltronas",
-      "description": "Poltrona com assento estofado, encosto em palha sextavada natural, com borda em madeira tingida. Opções de base fixa tubular pintada ou madeira giratória tingida.",
-      "descriptionEn": "Wooden machined armchair with straw finish and upholstered seat and cushion. Legs options: swivel wooden legs or painted carbon steel tube legs.",
-      "descriptionEs": "Sillón con asiento tapizado, respaldo en paja natural hexagonal, con borde en madera teñida. Opciones base fija tubular pintada o giratoria madera teñida.",
+      "description": "Poltrona com estrutura interna em multilaminado anatômico estofada. Assento com mola. Base em madeira tingida ou aço pintada.",
+      "descriptionEn": "Upholstered armchair with plywood internal structure. Seat comfort built with pocket springs. Base Options: Painted carbon steel sheet legs or stained wooden machined legs.",
+      "descriptionEs": "Sillón con estructura interna en multilaminado anatómico tapizado. Asiento de resorte. Base en madera teñida o acero pintado.",
       "measurementsEn": [
-        "27.55 x 27.75 x 28.34"
+        "28,34 x 34,96 x 29,52"
       ],
       "measurements": [
-        "700 x 705 x 720"
+        "720 x 880 x 750"
       ],
       "measurementsEs": [
-        "700 x 705 x 720"
+        "720 x 880 x 750"
       ],
       "images": [
-        "donatela-polt-01",
-        "donatela-polt-02",
-        "donatela-polt-03",
-        "donatela-polt-04"
+        "delta-01",
+        "delta-02",
+        "delta-03",
+        "delta-04",
+        "delta-05"
       ],
-      "ambients": [
-        "donatela-polt-amb-01",
-        "donatela-polt-amb-02",
-        "donatela-polt-amb-03"
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "ref.3006",
+      "slug": "dot",
+      "name": "dot",
+      "cover_img": "dot-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado anatômico estofada. Assento em mola. Detalhe no encosto em lâmina natural. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered armchair with plywood internal structure. Backrest coated with natural wood veneer on the back. Seat comfort built with pocket springs. Stained wooden machined legs with carbon steel details.",
+      "descriptionEs": "Sillón con estructura interna en multilaminado anatómico tapizado. Asiento de resorte. Detalle en el respaldo en pala natural. Base de madera maciza teñida.",
+      "measurementsEn": [
+        "27,55 x 30,70 x 25,78"
       ],
+      "measurements": [
+        "700 x 780 x 655"
+      ],
+      "measurementsEs": [
+        "700 x 780 x 655"
+      ],
+      "images": [
+        "dot-01",
+        "dot-02",
+        "dot-03"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -256,7 +282,7 @@
       "designer_slug": "emerson-borges",
       "category_slug": "poltronas",
       "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna em madeira, estofada. Base em tubo pintado de preto e chapa de aço laminada. Com opção de estofar na malha knit.",
+      "description": "Poltrona com estrutura interna em madeira, estofada. Base em tubo pintado de preto e chapa de aço laminada.",
       "descriptionEn": "Upholstered armchair with wooden seat and backrest. Carbon steel sheet structure coated with natural wood veneer. Carbon steel tube legs always painted in black.",
       "descriptionEs": "Sillón con estructura interna en madera, tapizado. Base en tubo pintado de negro y chapa de acero laminado.",
       "measurementsEn": [
@@ -398,6 +424,36 @@
       "variations": []
     },
     {
+      "ref": "CA.3003",
+      "slug": "maia",
+      "name": "maia",
+      "cover_img": "maia-01",
+      "designer_name": "Tascieny Brandão",
+      "designer_slug": "tascieny-brandao",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna híbrida estofada. Base da estrutura fixa em MDF pintada. Encosto pode ser lado esquerdo ou direito.",
+      "descriptionEn": "Upholstered armchair with hybrid internal structure. Base in painted MDF. Option: Left and right side.",
+      "descriptionEs": "Sillón con estructura interna híbrida tapizada. Base de estructura fija en MDF pintado. El respaldo puede ser del lado izquierdo o derecho.",
+      "measurementsEn": [
+        "29,92 x 38,97 x 35,03"
+      ],
+      "measurements": [
+        "760 x 990 x 890"
+      ],
+      "measurementsEs": [
+        "760 x 990 x 890"
+      ],
+      "images": [
+        "maia-01",
+        "maia-02",
+        "maia-03",
+        "maia-04"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CA.2961/1119",
       "slug": "maori-poltrona",
       "name": "Maori",
@@ -434,37 +490,35 @@
       "variations": []
     },
     {
-      "ref": "CA.2927",
-      "slug": "moon-poltrona",
-      "name": "Moon",
-      "cover_img": "moon-polt-01",
-      "designer_name": "Tascieny Brandão",
-      "designer_slug": "tascieny-brandao",
+      "ref": "REF.2999/1127",
+      "slug": "muar",
+      "name": "muar",
+      "cover_img": "muar-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "poltronas",
       "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna tubular estofada. Base tubular pintada.",
-      "descriptionEn": "Upholstered armchair with internal structure and legs in carbon steel tube.",
-      "descriptionEs": "Sillón con estructura interior tubular tapizada. Base tubular pintada.",
+      "description": "Poltrona e puf com estrutura em recouro. Almofadas em fibras siliconadas toque de pluma estofada. Detalhe com fivelas. Base fixa em madeira maciça.",
+      "descriptionEn": "Wooden machined armchair, structured with reconstituted leather overlaid with siliconized fiber cushions with a feathery touch. Belt and buckle detail on the sides.",
+      "descriptionEs": "Sillón y puf con estructura de piel. Los cojines de fibras de silicona parecen plumas tapizadas. Detalle con hebillas. Base fija en madera maciza.",
       "measurementsEn": [
-        "30.11 x 28.34 x 25.98"
+        "armchair: 32,67 x 35,03 x 35,43",
+        "Ottoman: 19,68 x 24,01 x 17,71"
       ],
       "measurements": [
-        "765 x 720 x 660"
+        "poltrona: 830 x 890 x 900",
+        "puff: 500 x 610 x 450"
       ],
       "measurementsEs": [
-        "765 x 720 x 660"
+        "sillón: 830 x 890 x 900",
+        "soplo: 500 x 610 x 450"
       ],
       "images": [
-        "moon-polt-01",
-        "moon-polt-02"
+        "muar-01",
+        "muar-02",
+        "muar-03"
       ],
-      "ambients": [
-        "moon-polt-amb-01",
-        "moon-polt-amb-02",
-        "moon-polt-amb-03",
-        "moon-polt-amb-04",
-        "moon-polt-amb-05"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -492,6 +546,68 @@
         "nara-polt-01",
         "nara-polt-02",
         "nara-polt-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.2995",
+      "slug": "palla",
+      "name": "palla",
+      "cover_img": "palla-01",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado anatômica estofada. Assento com mola. Detalhe nas laterais com pitão em aço usinado. Base fixa em madeira tingida.",
+      "descriptionEn": "Upholstered armchair with plywood internal structure. Seat comfort built with pocket springs. Stained wooden machined legs with carbon steel details.",
+      "descriptionEs": "Sillón con estructura interna en multilaminado anatómico tapizado. Asiento de resorte. Detalle en los laterales con montante de acero mecanizado. Base fija en madera teñida.",
+      "measurementsEn": [
+        "30,31 x 30,11 x 32,28"
+      ],
+      "measurements": [
+        "770 x 765 x 820"
+      ],
+      "measurementsEs": [
+        "770 x 765 x 820"
+      ],
+      "images": [
+        "palla-01",
+        "palla-02",
+        "palla-03",
+        "palla-04",
+        "palla-05"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.3002",
+      "slug": "toro",
+      "name": "toro",
+      "cover_img": "toro-01",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado anatômico, estofada. Base em madeira maciça tingida.",
+      "descriptionEn": "Upholstered armchair with plywood internal structure. Stained wooden machined legs.",
+      "descriptionEs": "Sillón con estructura interna en multilaminado anatómico, tapizado. Base de madera maciza teñida.",
+      "measurementsEn": [
+        "30,70 x 32,08 x 30,31"
+      ],
+      "measurements": [
+        "780 x 815 x 770"
+      ],
+      "measurementsEs": [
+        "780 x 815 x 770"
+      ],
+      "images": [
+        "toro-01",
+        "toro-02",
+        "toro-03",
+        "toro-04",
+        "toro-05"
       ],
       "ambients": [],
       "variations": []
