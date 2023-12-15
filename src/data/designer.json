@@ -30,20 +30,6 @@
         "link": "/produtos/mesas-laterais-centro/inka"
       },
       {
-        "name": "Mesa de Centro Porto",
-        "nameEn": "Porto Coffe Table",
-        "nameEs": "Mesa de Centro Porto",
-        "src": "porto-01",
-        "link": "/produtos/mesas-laterais-centro/porto"
-      },
-      {
-        "name": "Mesa de Centro Wood",
-        "nameEn": "Wood Coffee Table",
-        "nameEs": "Mesa de Centro Wood",
-        "src": "wood-02",
-        "link": "/produtos/mesas-laterais-centro/wood"
-      },
-      {
         "name": "Mesa de Centro Zoom",
         "nameEn": "Zoom Coffee Table",
         "nameEs": "Mesa de Centro Zoom",
@@ -56,13 +42,6 @@
         "nameEs": "Mesa de Comedor Nebula",
         "src": "nebula-01",
         "link": "/produtos/mesas-de-jantar/nebula"
-      },
-      {
-        "name": "Mesa Lateral Ecco",
-        "nameEn": "Ecco Side Table",
-        "nameEs": "Mesa Lateral Ecco",
-        "src": "ecco-03",
-        "link": "/produtos/mesas-laterais-centro/ecco"
       },
       {
         "name": "Mesa Lateral Float",
@@ -188,13 +167,6 @@
         "link": "/produtos/mesa-puff/petra"
       },
       {
-        "name": "Mesa de Centro Canoa",
-        "nameEn": "Canoa Coffee Table",
-        "nameEs": "Mesa de Centro Canoa",
-        "src": "canoa-02",
-        "link": "/produtos/mesas-laterais-centro/canoa"
-      },
-      {
         "name": "Mesa Lateral Donatela",
         "nameEn": "Donatela Side Table",
         "nameEs": "Mesa Lateral Donatela",
@@ -235,13 +207,6 @@
         "nameEs": "mesa y puff clave",
         "src": "clave-02",
         "link": "/produtos/mesa-puff/clave"
-      },
-      {
-        "name": "Puff/Mesa nozes",
-        "nameEn": "Nozes Ottoman/Table",
-        "nameEs": "Puff/Mesa nozes",
-        "src": "nozes-puff-01",
-        "link": "/produtos/mesa-puff/nozes"
       },
       {
         "name": "Recamier Blu",

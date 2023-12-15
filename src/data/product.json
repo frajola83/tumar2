@@ -1230,9 +1230,9 @@
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico, estofada. Detalhe nas laterais com esferas em aço usinado. Base tubular com pintura. Sem esferas: Cadeira com estrutura interna me multilaminado anatômico, estofada. Base tubular com pintura.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs with machined carbon steel spheres detail. Without Spheres: Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico, tapizada. Detalle en los laterales con esferas de acero mecanizadas. Base tubular con pintura. Sin esferas: Silla con estructura interna anatómica multilaminada, tapizada. Base tubular con pintura.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico, estofada. Detalhe nas laterais com esferas em aço usinado. Base tubular com pintura. SEM ESFERAS: Cadeira com estrutura interna me multilaminado anatômico, estofada. Base tubular com pintura.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs with machined carbon steel spheres detail. WITHOUT SPHERES: Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico, tapizada. Detalle en los laterales con esferas de acero mecanizadas. Base tubular con pintura. SIN ESFERAS: Silla con estructura interna anatómica multilaminada, tapizada. Base tubular con pintura.",
       "measurementsEn": [
         "31,29 x 25 x 23,42",
         "whitout spheres: 30,11 x 25 x 23,42"
@@ -2070,37 +2070,35 @@
       "variations": []
     },
     {
-      "ref": "MES.2508 / 2509",
-      "slug": "canoa",
-      "name": "canoa",
-      "cover_img": "canoa-02",
-      "designer_name": "fabricio roncca",
-      "designer_slug": "fabricio-roncca",
+      "ref": "MES.2555/2556",
+      "slug": "class",
+      "name": "class",
+      "cover_img": "class-01",
+      "designer_name": "emerson borges",
+      "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro com estrutura tubular, tampo em lâmina natural. Com bandeja removível, laminada ou detalhe em palha natural.",
-      "descriptionEn": "Coffee table with painted tubular structure, top in MDF coated with natural wood veneer. Removable tray, laminated with natural veneer or with natural straw detail.",
-      "descriptionEs": "Mesa de centro con estructura tubular, tapa en chapa natural. Con bandeja extraíble, detalle de paja laminada o natural.",
+      "description": "Mesa lateral com base e tampo em madeira maciça, tingida. Bandeja em alumínio pintado. Opções Alta e media.",
+      "descriptionEn": "Side table with base and table top machined in solid wood, with detail in painted aluminum. Option: high and medium size.",
+      "descriptionEs": "Mesa auxiliar con base y tapa de madera maciza teñida. Bandeja de aluminio pintado. Opciones altas y medias.",
       "measurementsEn": [
-        "12.00 x 56.69 x 23.62",
-        "12.00 x 72.44 x 30.31"
+        "High: 14.96 x 38.58 x 38.58",
+        "Medium 21,25 x 17,32 x 17,32"
       ],
       "measurements": [
-        "305 x 600 x 1440",
-        "305 x 770 x 1840"
+        "Alta: 610 x 440 x 440",
+        "Média: 540 x 440 x 440"
       ],
       "measurementsEs": [
-        "305 x 600 x 1440",
-        "305 x 770 x 1840"
+        "Alta: 610 x 440 x 440",
+        "Media: 540 x 440 x 440"
       ],
       "images": [
-        "canoa-01",
-        "canoa-02"
+        "class-01",
+        "class-02",
+        "class-03"
       ],
-      "ambients": [
-        "canoa-amb-01",
-        "canoa-amb-02"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -2139,38 +2137,39 @@
       "variations": []
     },
     {
-      "ref": "MES.2481/2482",
-      "slug": "ecco",
-      "name": "ecco",
-      "cover_img": "ecco-03",
-      "designer_name": "emerson borges",
-      "designer_slug": "emerson-borges",
+      "ref": "MES.2551/2553/2552/2554",
+      "slug": "doppio",
+      "name": "doppio",
+      "cover_img": "doppio-06",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral base laminada ou com pintura efeito concreto, aramado com pintura, tampo em lâmina natural.",
-      "descriptionEn": "Side table with wooden base coated with natural veneer or with concrete effect painting, wire detail and top in MDF coated with natural wood veneer.",
-      "descriptionEs": "Mesa auxiliar base laminada o con pintura efecto cemento, alambrado con pintura, sobre en chapa de madera natural.",
+      "description": "DOPPIO CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. DOPPIO MADEIRA: Mesa lateral com base em madeira maciça. Estrutura central tubular pintada. Tampo pode ser em madeira ou mármore. Opções Alta e média.",
+      "descriptionEn": "DOPPIO CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. DOPPIO WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Option: high and medium size",
+      "descriptionEs": "DOPPIO CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Opciones altas y medias. DOPPIO MADEIRA: Mesa auxiliar con base de madera maciza. Estructura central tubular pintada. La tapa puede ser de madera o mármol.Opciones altas y medias.",
       "measurementsEn": [
-        "High: 24.01 x 13.77 x 13.77", "Medium: 20.27 x 13.77 x 13.77"
+        "High: 23,62 x 13,77 x 13,77",
+        "Medium: 27,55 x 15,74 x 15,74"
       ],
       "measurements": [
-        "Alta: 610 x 350 x 350", "Média: 515 x 350 x 350"
+        "Alta: 600 x 350 x 350",
+        "Média: 700 x 400 x 400"
       ],
       "measurementsEs": [
-        "Alto: 610 x 350 x 350", "Promedio: 515 x 350 x 350"
+        "Alto: 600 x 350 x 350",
+        "Medio: 700 x 400 x 400"
       ],
       "images": [
-        "ecco-01",
-        "ecco-02",
-        "ecco-03",
-        "ecco-04"
+        "doppio-01",
+        "doppio-02",
+        "doppio-03",
+        "doppio-04",
+        "doppio-05",
+        "doppio-06",
+        "doppio-07"
       ],
-      "ambients": [
-        "ecco-amb-01",
-        "ecco-amb-02",
-        "ecco-amb-03",
-        "ecco-amb-04"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -2225,6 +2224,31 @@
       "variations": []
     },
     {
+      "ref": "MES.2540",
+      "slug": "gota",
+      "name": "gota",
+      "cover_img": "gota-01",
+      "designer_name": "Tascieny Brandão",
+      "designer_slug": "tascieny-brandao",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa de centro com estrutura em madeira, revestida com lâmina natural. Tampo sobreposto em mármore ou MDF laminado.",
+      "descriptionEn": "Coffee table with MDF structure and top, both coated with natural wood veneer. Upper table top option: MDF with natural veneer or marble.",
+      "descriptionEs": "Mesa de centro con estructura de madera, revestida de chapa natural. Sobre en mármol o MDF laminado.",
+      "measurementsEn": ["12,20 x 59,05 x 42,12"],
+      "measurements": ["310 x 1500 x 1070"],
+      "measurementsEs": [
+        "310 x 1500 x 1070"
+      ],
+      "images": [
+        "gota-01",
+        "gota-02",
+        "gota-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "MES.2523 / MES.2524 / MES.2525",
       "slug": "inka",
       "name": "inka",
@@ -2253,6 +2277,44 @@
       ],
       "images": [
         "inka-015"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "MES.2546/2547/2548/2549",
+      "slug": "lina",
+      "name": "lina",
+      "cover_img": "lina-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "LINA CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
+      "descriptionEn": "LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
+      "descriptionEs": "LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
+      "measurementsEn": [
+        "Concrete: 22,24 x 15,74 x 15,74",
+        "Wood: 22,24 x 15,74 x 15,74",
+        "Round: 15,55 x 31,49 x 31,49 | 12,99 x 39,37 x 39,37",
+        "Rectangular: 12,99 x 62,99 x 33,46 | 12,99 x 551,11 x 33,46"
+      ],
+      "measurements": [
+        "Concreto: 565 x 400 x 400",
+        "Madeira: 565 x 400 x 400",
+        "Redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
+        "Retangular: 330 x 1600 x 850 | 330 x 1400 x 850"
+      ],
+      "measurementsEs": [
+        "Concreto: 565 x 400 x 400",
+        "Madera: 565 x 400 x 400",
+        "Redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
+        "Rectangular: 330 x 1600 x 850 | 330 x 1400 x 850"
+      ],
+      "images": [
+        "lina-01",
+        "lina-02",
+        "lina-03"
       ],
       "ambients": [],
       "variations": []
@@ -2289,58 +2351,6 @@
         "maria-amb-07",
         "maria-amb-08",
         "maria-amb-09"
-      ],
-      "variations": []
-    },
-    {
-      "ref": "MES.2470 / 2471 / 2472 / 2473 / 2474 / 2477 / 2478",
-      "slug": "metries",
-      "name": "metries",
-      "cover_img": "metries-01",
-      "designer_name": "",
-      "designer_slug": "",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro ou lateral com estrutura metálica pintada, tampos em vidro ou lâmina.",
-      "descriptionEn": "Coffee and side table with painted tubular structure. Top options: MDF coated with natural or synthetic wood veneer; printed or painted glass.",
-      "descriptionEs": "Mesa de centro o mesa auxiliar con estructura de metal pintado, tapas de cristal o listones.",
-      "measurementsEn": [
-        "Rounded coffee table – 7.87 x 27.55 x 27.55",
-        "Square coffee table – 15.74 x 32.28 x 33.07",
-        "Rectangular coffee table – 11.81 x 40.15 x 25.19",
-        "Centro retangular – 11.81 x 48.03 x 36.61",
-        "Rectangular coffee table High – 26.37 x 16.92 x 16.53",
-        "Square side table medium – 23.22 x 16.92 x 16.53"
-      ],
-      "measurements": [
-        "Centro redonda – 200 x 700",
-        "Centro quadrada – 400 x 820 x 840",
-        "Centro retangular – 300 x 1020 x 640",
-        "Centro retangular – 300 x 1220 x 930",
-        "Lateral alta quadrada – 670 x 430 x 420",
-        "Lateral média quadrada – 590 x 430 x 420",
-        "Lateral média quadrada – 590 x 520 x 530"
-      ],
-      "measurementsEs": [
-        "Centro redondo – 200 x 700",
-        "Centro cuadrado – 400 x 820 x 840",
-        "Centro rectangular – 300 x 1020 x 640",
-        "Centro rectangular – 300 x 1220 x 930",
-        "Lateral alta cuadrada – 670 x 430 x 420",
-        "Lateral cuadrada mediana– 590 x 430 x 420",
-        "Lateral cuadrada mediana – 590 x 520 x 530"
-      ],
-      "images": [
-        "metries-01",
-        "metries-02",
-        "metries-03",
-        "metries-04"
-      ],
-      "ambients": [
-        "metries-amb-01",
-        "metries-amb-03",
-        "metries-amb-04",
-        "metries-amb-05"
       ],
       "variations": []
     },
@@ -2413,46 +2423,6 @@
         "orbe-murano"
       ],
       "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "Mes.2495/2496/2497",
-      "slug": "porto",
-      "name": "porto",
-      "cover_img": "porto-01",
-      "designer_name": "emerson borges",
-      "designer_slug": "emerson-borges",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro com tampo emoldurado, base em metal pintado. Tampo em laminado sintético e lâmina natural.",
-      "descriptionEn": "Coffee table with painted carbon steel tube structure. Top in MDF coated with natural or synthetic wood veneer and solid wood.",
-      "descriptionEs": "Mesa de centro con tapa enmarcada, base de metal pintado. Sobre en laminado sintético y chapa natural.",
-      "measurementsEn": [
-        "11.81 x 47.42 x 27.55", "11.81 x 27.55 x 19.68", "11.81 x 19.68 x 19.68"
-      ],
-      "measurements": [
-        "300 x 1200 x 700", "300 x 700 x 500", "300 x 500 x 500"
-      ],
-      "measurementsEs": [
-        "300 x 1200 x 700", "300 x 700 x 500", "300 x 500 x 500"
-      ],
-      "images": [
-        "porto-01",
-        "porto-02"
-      ],
-      "ambients": [
-        "porto-amb-01",
-        "porto-amb-02",
-        "porto-amb-03",
-        "porto-amb-04",
-        "porto-amb-05",
-        "porto-amb-06",
-        "porto-amb-07",
-        "porto-amb-08",
-        "porto-amb-09",
-        "porto-amb-10",
-        "porto-amb-11"
-      ],
       "variations": []
     },
     {
@@ -2697,43 +2667,6 @@
       "variations": []
     },
     {
-      "ref": "MES.2518",
-      "slug": "wood",
-      "name": "wood",
-      "cover_img": "wood-02",
-      "designer_slug": "emerson-borges",
-      "designer_name": "emerson borges",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro em madeira com tampo lâmina natural. Tem a opção sem bandeja, com bandeja aramada, ou bandeja de madeira.",
-      "descriptionEn": "Coffee table with wood structure and top in MDF both coated with natural wood veneer. Wire or wooden optional tray.",
-      "descriptionEs": "Mesa de centro en madera con tapa de pala natural. Tiene la opción sin bandeja, con bandeja de rejilla, o bandeja de madera.",
-      "measurementsEn": [
-        "Coffee table: 12 x 47.24 x 47.24",
-        "Wooden tray: 1.77 x 21.65 x 21.65",
-        "Wire tray: 8.26 x 23.62 x 23.62"
-      ],
-      "measurements": [
-        "Mesa: 300 x 1200 x 1200",
-        "Bandeja: madeira 550 x 45",
-        "Bandeja aramada: 550 x 55"
-      ],
-      "measurementsEs": [
-        "Mesa: 300 x 1200 x 1200",
-        "Bandeja de madera: 550 x 45",
-        "Bandeja rejilla: 550 x 55"
-      ],
-      "images": [
-        "wood-01",
-        "wood-02"
-      ],
-      "ambients": [
-        "wood-amb-01",
-        "wood-amb-02"
-      ],
-      "variations": []
-    },
-    {
       "ref": "MES.2465 / MES.2466 / MES.2467",
       "slug": "zoom",
       "name": "zoom",
@@ -2958,44 +2891,6 @@
       "variations": []
     },
     {
-      "ref": "PU.1120 | MES.2520 | MES.2521",
-      "slug": "nozes",
-      "name": "nozes",
-      "cover_img": "nozes-puff-01",
-      "designer_name": "fabricio roncca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "mesa-puff",
-      "category_name": "mesas e puffs",
-      "description": "Mesa de centro com tampo redondo, base revestida em lâmina natural. Mesa lateral com base em MDF revestida em lâmina. Puff com estrutura interna de madeira estofado.",
-      "descriptionEn": "Coffee table with round top, wood structure coated in natural wood veneer.  Side table in MDF coated in natural wood veneer and painted carbon steel tube. Upholstered ottoman with wooden internal structure.",
-      "descriptionEs": "Mesa de centro con tapa redonda, base revestida en chapa natural. Mesa auxiliar con base de MDF revestido de chapa de madera. Soplo con estructura interior de madera tapizada.",
-      "measurementsEn": [
-        "Ottoman: 11.81 x 30.31 x 30.31",
-        "Side Table: 15.74 x 15.74 x 15.74",
-        "Coffee Table: 13.38 x 37 x 36.22"
-      ],
-      "measurements": [
-        "Puff: 300 x 770 x 770",
-        "Mesa lateral: 400 x 400 x 400",
-        "Mesa de centro: 340 x 920 x 940"
-      ],
-      "measurementsEs": [
-        "Soplo: 300 x 770 x 770",
-        "Mesa auxiliar: 400 x 400 x 400",
-        "Mesa de centro: 340 x 920 x 940"
-      ],
-      "images": [
-        "nozes-puff-01",
-        "nozes-puff-02",
-        "nozes-puff-03"
-      ],
-      "ambients": [
-        "nozes-amb-01",
-        "nozes-amb-02"
-      ],
-      "variations": []
-    },
-    {
       "ref": "PU.1108",
       "slug": "otto",
       "name": "otto",
@@ -3165,6 +3060,32 @@
         "nantai-amb-06",
         "nantai-amb-07"
       ],
+      "variations": []
+    },
+    {
+      "ref": "BANC.1447/1448",
+      "slug": "varial",
+      "name": "varial",
+      "cover_img": "varial-01",
+      "category_slug": "banco-e-recamier",
+      "category_name": "banco e recamier",
+      "description": "Banco com detalhe em multilaminado anatômico, revestido com lâmina natural. Assentos estofados. Detalhe bandeja lateral opção laminada ou palha natural.",
+      "descriptionEn": "Upholstered bench with base in plywood coated with natural wood veneer. Side tray options: natural wood veneer or natural straw.",
+      "descriptionEs": "Banco con detalle en multilaminado anatómico, revestido con chapa natural. Asientos tapizados. Detalle bandeja lateral opción laminada o paja natural.",
+      "measurementsEn": [
+        "17,71 x 770,76 x 20,27"
+      ],
+      "measurements": [
+        "450 x 1800 x 515"
+      ],
+      "measurementsEs": [
+        "450 x 1800 x 515"
+      ],
+      "images": [
+        "varial-01",
+        "varial-02"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
