@@ -2282,6 +2282,35 @@
       "variations": []
     },
     {
+      "ref": "MES.2550",
+      "slug": "libra",
+      "name": "libra",
+      "cover_img": "libra-01",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa de centro com base em madeira maciça. Tampo com estrutura em MDF laminado.",
+      "descriptionEn": "Coffee table with machined solid wood base, top in machined MDF coated with natural wood veneer. Painted carbon steel tube and sheet structure",
+      "descriptionEs": "Mesa de centro con base de madera maciza. Tapa con estructura de MDF laminado.",
+      "measurementsEn": [
+        "12,20 x 61,41 x 39,76"
+      ],
+      "measurements": [
+        "330 x 1560 x 1010"
+      ],
+      "measurementsEs": [
+        "330 x 1560 x 1010"
+      ],
+      "images": [
+        "libra-01",
+        "libra-02",
+        "libra-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "MES.2546/2547/2548/2549",
       "slug": "lina",
       "name": "lina",
