@@ -158,7 +158,7 @@ export const HomeGallery: React.FC = () => {
       <GalleryGroup>
         <Mesas>
           <Link to="/produtos/mesas-de-jantar">
-            <ImageContainerTitle style={titleStyles.topLeft}>
+            <ImageContainerTitle style={titleStyles.topRight}>
               {t("pages.home.gallery.tables")}
             </ImageContainerTitle>
             <ImgInner>
@@ -193,7 +193,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInnerPoltrona>
               <StaticImage
-                src="../../images/products/abbraccio-05.jpg"
+                src="../../images/home/abbraccio-20.jpg"
                 alt="Banquetas"
                 quality={100}
               />
