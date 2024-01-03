@@ -3166,6 +3166,31 @@
       "variations": []
     },
     {
+      "ref": "CAR.5002",
+      "slug": "clave-carro-bar",
+      "name": "clave",
+      "cover_img": "clave-bar-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "carro-bar",
+      "category_name": "carro bar",
+      "description": "Carro bar com estrutura tubular. Tampo e rodas em MDF laminado. Detalhe com aplique revestido.",
+      "descriptionEn": "Bar cart with carbon steel tube structure, tops and wheels in MDF coated with natural wood veneer. Detail in synthetic leather.",
+      "descriptionEs": "Carro de bar con estructura tubular. Tapa y ruedas en MDF laminado. Detalle con aplicación revestida.",
+      "measurementsEn": ["29,92 x 62,99/70,86 | 78,74 x 23,22"],
+      "measurements": ["760 x 1600/1800 | 2000 x 590"],
+      "measurementsEs": [
+        "760 x 1600/1800 | 2000 x 590"
+      ],
+      "images": [
+        "clave-bar-01",
+        "clave-bar-02",
+        "clave-bar-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "CAR.5000",
       "slug": "donatela-carro-bar",
       "name": "donatela",
@@ -3220,6 +3245,33 @@
         "plato-amb-01",
         "plato-amb-02"
       ],
+      "variations": []
+    },
+    {
+      "ref": "CAR.5003",
+      "slug": "terroir-carro-bar",
+      "name": "terroir",
+      "cover_img": "terroir-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "carro-bar",
+      "category_name": "carro bar",
+      "description": "Carro bar com estrutura tubular. Tampo e rodas em MDF laminado. Detalhe com aplique revestido. Opções com ou sem adega de 9 garrafas em metal e recouro.",
+      "descriptionEn": "Bar cart with carbon steel tube structure, tops and wheels in MDF coated with natural wood veneer. Detail in reconstituted leather. Option: with or without 9-bottle wine cellar in solid carbon steel tube with reconstituted leather detail.",
+      "descriptionEs": "Carro de bar con estructura tubular. Tapa y ruedas en MDF laminado. Detalle con aplicación revestida. Opciones con o sin cava para 9 botellas en metal y piel.",
+      "measurementsEn": ["29,52 x 70,86 | 78,74 x 21,25"],
+      "measurements": ["750 x 1800 | 2000 x 540"],
+      "measurementsEs": [
+        "750 x 1800 | 2000 x 540"
+      ],
+      "images": [
+        "terroir-01",
+        "terroir-02",
+        "terroir-03",
+        "terroir-04",
+        "terroir-05"
+      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -3347,6 +3399,31 @@
       "images": [
         "domo-01",
         "domo-02"
+      ],
+      "ambients": [],
+      "variations": [""] 
+    },
+    {
+      "ref": "Ref.1000",
+      "slug": "shizen",
+      "name": "shizen",
+      "cover_img": "shizen-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "complemento",
+      "category_name": "complemento",
+      "description": "Espelho decorativo cor prata, com estrutura em MDF laminado marchetaria. Detalhe em aço usinado e pintado.",
+      "descriptionEn": "Mirror with MDF frame coated in natural wood veneer marquetry. Detail in painted carbon steel sheet.",
+      "descriptionEs": "Espejo decorativo en color plata, con estructura de marquetería de MDF laminado. Detalle en acero mecanizado y pintado.",
+      "measurementsEn": ["5118 x 43,70 x 0,78"],
+      "measurements": ["1300 x 1110 x 20"],
+      "measurementsEs": [
+        "1300 x 1110 x 20"
+      ],
+      "images": [
+        "shizen-01",
+        "shizen-02",
+        "shizen-03"
       ],
       "ambients": [],
       "variations": [""] 
