@@ -44,6 +44,13 @@
         "link": "/produtos/mesas-de-jantar/nebula"
       },
       {
+        "name": "Mesa Lateral class",
+        "nameEn": "class Side Table",
+        "nameEs": "Mesa Lateral class",
+        "src": "class-01",
+        "link": "/produtos/mesas-laterais-centro/class"
+      },
+      {
         "name": "Mesa Lateral Float",
         "nameEn": "Float Side Table",
         "nameEs": "Mesa Lateral Float",
@@ -146,6 +153,34 @@
         "link": "/produtos/banco-e-recamier/nantai-banco"
       },
       {
+        "name": "Banqueta pétala",
+        "nameEn": "pétala stool",
+        "nameEs": "Taburete Pétala",
+        "src": "petala-01",
+        "link": "/produtos/banquetas/banqueta-petala"
+      },
+      {
+        "name": "cadeira bailo",
+        "nameEn": "bailo chair",
+        "nameEs": "silla bailo",
+        "src": "bailo-01",
+        "link": "/produtos/cadeiras/bailo"
+      },
+      {
+        "name": "cadeira pétala",
+        "nameEn": "pétala chair",
+        "nameEs": "silla pétala",
+        "src": "bailo-01",
+        "link": "/produtos/cadeiras/petala-cadeira"
+      },
+      {
+        "name": "Carro Bar clave",
+        "nameEn": "clave Bar Cart",
+        "nameEs": "Carro Bar clave",
+        "src": "clave-bar-01",
+        "link": "/produtos/carro-bar/clave-carro-bar"
+      },
+      {
         "name": "Carro Bar Donatela",
         "nameEn": "Donatela Bar Cart",
         "nameEs": "Carro Bar Donatela",
@@ -160,11 +195,25 @@
         "link": "/produtos/carro-bar/plato-carro-bar"
       },
       {
+        "name": "Carro Bar terroir",
+        "nameEn": "terroir Bar Cart",
+        "nameEs": "Carro Bar terroir",
+        "src": "terroir-01",
+        "link": "/produtos/carro-bar/terroir-carro-bar"
+      },
+      {
         "name": "Conjunto Petra",
         "nameEn": "Petra Set",
         "nameEs": "Conjunto Petra",
         "src": "petra-02",
         "link": "/produtos/mesa-puff/petra"
+      },
+      {
+        "name": "espelho shizen",
+        "nameEn": "shizen mirror",
+        "nameEs": "espejo shizen",
+        "src": "shizen-01",
+        "link": "/produtos/complemento/shizen"
       },
       {
         "name": "Mesa Lateral Donatela",
@@ -214,6 +263,13 @@
         "nameEs": "recamier blu",
         "src": "reclamier-blu",
         "link": "/produtos/banco-e-recamier/recamier-blu"
+      },
+      {
+        "name": "Sarai - Penteadeira e Escrivaninha",
+        "nameEn": "Sarai - Dressing Table and Desk",
+        "nameEs": "Sarai - Tocador y Escritorio",
+        "src": "sarai-01",
+        "link": "/produtos/complemento/sarai"
       }
     ]
   },
@@ -248,6 +304,13 @@
         "link": "/produtos/banquetas/banqueta-tie"
       },
       {
+        "name": "Cadeira alma",
+        "nameEn": "alma Chair",
+        "nameEs": "Silla alma",
+        "src": "alma-01",
+        "link": "/produtos/cadeiras/alma"
+      },
+      {
         "name": "Cadeira arc",
         "nameEn": "Arc Chair",
         "nameEs": "Silla arc",
@@ -267,6 +330,13 @@
         "nameEs": "Silla Kore",
         "src": "kore-1",
         "link": "/produtos/cadeiras/kore"
+      },
+      {
+        "name": "Cadeira levi",
+        "nameEn": "levi Chair",
+        "nameEs": "Silla levi",
+        "src": "levi-01",
+        "link": "/produtos/cadeiras/levi"
       },
       {
         "name": "Cadeira Skin",
@@ -339,6 +409,13 @@
         "link": "/produtos/luminarias/soul-luminaria"
       },
       {
+        "name": "Mesa de Centro libra",
+        "nameEn": "libra coffee Table",
+        "nameEs": "Mesa de Centro libra",
+        "src": "libra-01",
+        "link": "/produtos/mesas-laterais-centro/libra"
+      },
+      {
         "name": "Poltrona Abbraccio",
         "nameEn": "Abbraccio Armchair",
         "nameEs": "Sillón Abbraccio",
@@ -358,6 +435,20 @@
         "nameEs": "Sillón coral",
         "src": "coral-polt-03",
         "link": "/produtos/poltronas/coral-poltrona"
+      },
+      {
+        "name": "Poltrona palla",
+        "nameEn": "palla Armchair",
+        "nameEs": "Sillón palla",
+        "src": "palla-01",
+        "link": "/produtos/poltronas/palla"
+      },
+      {
+        "name": "Poltrona toro",
+        "nameEn": "toro Armchair",
+        "nameEs": "Sillón toro",
+        "src": "toro-01",
+        "link": "/produtos/poltronas/toro"
       },
       {
         "name": "Poltrona /Puff Trenta",
@@ -386,6 +477,13 @@
         "link": "/produtos/poltronas/afago"
       },
       {
+        "name": "Poltrona maia",
+        "nameEn": "maia Armchair",
+        "nameEs": "Sillón maia",
+        "src": "maia-01",
+        "link": "/produtos/poltronas/maia"
+      },
+      {
         "name": "Poltrona Nara",
         "nameEn": "Nara Armchair",
         "nameEs": "Sillón Nara",
@@ -405,6 +503,13 @@
         "nameEs": "Mesa Lateral Bow",
         "src": "bow-01",
         "link": "/produtos/mesas-laterais-centro/bow"
+      },
+      {
+        "name": "Mesa de Centro gota",
+        "nameEn": "gota coffee Table",
+        "nameEs": "Mesa de Centro gota",
+        "src": "gota-01",
+        "link": "/produtos/mesas-laterais-centro/gota"
       },
       {
         "name": "Mesa de Centro Trevo",
@@ -440,11 +545,53 @@
         "link": "/produtos/cadeiras/bliss"
       },
       {
+        "name": "Cadeira olivia",
+        "nameEn": "olivia Chair",
+        "nameEs": "Silla olivia",
+        "src": "olivia-01",
+        "link": "/produtos/cadeiras/olivia"
+      },
+      {
+        "name": "Mesa Lateral doppio",
+        "nameEn": "doppio Side Table",
+        "nameEs": "Mesa Lateral doppio",
+        "src": "doppio-01",
+        "link": "/produtos/mesas-laterais-centro/doppio"
+      },
+      {
+        "name": "Mesa Lateral lina",
+        "nameEn": "lina Side Table",
+        "nameEs": "Mesa Lateral lina",
+        "src": "lina-01",
+        "link": "/produtos/mesas-laterais-centro/lina"
+      },
+      {
         "name": "Poltrona Bag",
         "nameEn": "Bag Armchair",
         "nameEs": "Sillón Bag",
         "src": "bag-01",
         "link": "/produtos/poltronas/bag"
+      },
+      {
+        "name": "Poltrona delta",
+        "nameEn": "delta Armchair",
+        "nameEs": "Sillón delta",
+        "src": "delta-01",
+        "link": "/produtos/poltronas/delta"
+      },
+      {
+        "name": "Poltrona dot",
+        "nameEn": "dot Armchair",
+        "nameEs": "Sillón dot",
+        "src": "dot-01",
+        "link": "/produtos/poltronas/dot"
+      },
+      {
+        "name": "Poltrona e Puff Muar",
+        "nameEn": "Muar Armchair and Ottoman",
+        "nameEs": "Sillón y puff muar",
+        "src": "muar-01",
+        "link": "/produtos/poltronas/muar"
       },
       {
         "name": "Poltrona Trentini",
@@ -507,11 +654,32 @@
         "link": "/produtos/cadeiras/aurora"
       },
       {
+        "name": "Cadeira emi",
+        "nameEn": "emi Chair",
+        "nameEs": "Silla emi",
+        "src": "emi-01",
+        "link": "/produtos/cadeiras/emi"
+      },
+      {
         "name": "Cadeira Fit",
         "nameEn": "Fit Chair",
         "nameEs": "Silla Fit",
         "src": "fit-02",
         "link": "/produtos/cadeiras/fit"
+      },
+      {
+        "name": "Cadeira lui",
+        "nameEn": "lui Chair",
+        "nameEs": "Silla lui",
+        "src": "lui-01",
+        "link": "/produtos/cadeiras/lui"
+      },
+      {
+        "name": "Cadeira mia",
+        "nameEn": "mia Chair",
+        "nameEs": "Silla mia",
+        "src": "mia-01",
+        "link": "/produtos/cadeiras/mia"
       },
       {
         "name": "Cadeira Petit",
@@ -526,6 +694,13 @@
         "nameEs": "Taburete Fit",
         "src": "fit-04",
         "link": "/produtos/banquetas/banqueta-fit"
+      },
+      {
+        "name": "macebo ellos",
+        "nameEn": "ellos clothes",
+        "nameEs": "mancebo ellos",
+        "src": "ellos-01",
+        "link": "/produtos/complemento/ellos"
       },
       {
         "name": "Mesa de Jantar Turin",

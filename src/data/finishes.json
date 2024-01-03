@@ -35,6 +35,12 @@
         "name": "nogueira",
         "nameEs": "nuez",
         "nameEn": "Walnut"
+      },
+      {
+        "slug": "pau-ferro",
+        "name": "pau-ferro",
+        "nameEs": "palo de hierro",
+        "nameEn": "ironwood"
       }
     ]
   },

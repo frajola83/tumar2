@@ -1410,7 +1410,7 @@
     },
     {
       "ref": "CA.2991",
-      "slug": "petala",
+      "slug": "petala-cadeira",
       "name": "pétala",
       "cover_img": "olivia-01",
       "designer_name": "fabricio roncca",
@@ -3399,6 +3399,59 @@
       "images": [
         "domo-01",
         "domo-02"
+      ],
+      "ambients": [],
+      "variations": [""] 
+    },
+    {
+      "ref": "Ref.1000",
+      "slug": "ellos",
+      "name": "ellos",
+      "cover_img": "ellos-01",
+      "designer_name": "Studio T92",
+      "designer_slug": "studio-t92",
+      "category_slug": "complemento",
+      "category_name": "complemento",
+      "description": "Mancebo com estrutura tubular. Bandejas em MDF revestido em lâmina natural. Detalhe revestido. Espelho prata.",
+      "descriptionEn": "Clothes stand with mirror with painted carbon steel tube structure. Trays and base built in MDF coated with natural wood veneer with synthetic leather bottom.",
+      "descriptionEs": "Mancebo con estructura tubular. Bandejas en MDF recubiertas de chapa natural. Detalle revestido. Espejo de plata.",
+      "measurementsEn": ["72,24 x 36,61 x 18,11"],
+      "measurements": ["1835 x 930 x 460"],
+      "measurementsEs": [
+        "1835 x 930 x 460"
+      ],
+      "images": [
+        "ellos-01",
+        "ellos-02",
+        "ellos-03",
+        "ellos-04"
+      ],
+      "ambients": [],
+      "variations": [""] 
+    },
+    {
+      "ref": "Ref.1001",
+      "slug": "sarai",
+      "name": "sarai",
+      "cover_img": "sarai-01",
+      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "complemento",
+      "category_name": "complemento",
+      "description": "SARAI PENTEADEIRA: Penteadeira com estrutura em madeira maciça. Tampos e bandeja em MDF laminado. Detalhe revestido. Frente da gaveta laminada ou em palha natural. Com opções em iluminação LED dimerizável. SARAI ESCRIVANINHA: Escrivaninha com estrutura em madeira maciça. Tampos e bandeja em MDF laminado. Detalhe revestido. Frente da gaveta laminada ou em palha natural.",
+      "descriptionEn": "SARAI DRESSING TABLE: Dressing table with hybrid structure, top and tray in MDF coated in natural wood veneer, detail in synthetic leather. Drawer built in MDF coated with natural wood veneer, option with natural straw overlaid. Mirror with dimmable LED lighting option. SARAI DESK: Desk with hybrid structure, top and tray in MDF coated in natural wood veneer, detail in synthetic leather. Drawer built in MDF coated with natural wood veneer, option with natural straw overlaid",
+      "descriptionEs": "SARAI TOCADOR: Tocador con estructura de madera maciza. Tapas y bandeja en MDF laminado. Detalle revestido. Frente de cajón laminado o paja natural. Con opciones de iluminación LED regulable. SARAI ESCRITORIO: Escritorio con estructura de madera maciza. Tapas y bandeja en MDF laminado. Detalle revestido. Frente de cajón laminado o paja natural.",
+      "measurementsEn": ["Dressing Table: 50,39 x 59,05 x 20,66 | Desk: 29,13 x 59,05 x 20,66"],
+      "measurements": ["Penteadeira: 1280 x 1500 x 525 | Escrivaninha: 740 x 1500 x 525"],
+      "measurementsEs": [
+        "Tocador: 1280 x 1500 x 525 | Escritorio: 740 x 1500 x 525"
+      ],
+      "images": [
+        "sarai-01",
+        "sarai-02",
+        "sarai-03",
+        "sarai-04",
+        "sarai-05"
       ],
       "ambients": [],
       "variations": [""] 
