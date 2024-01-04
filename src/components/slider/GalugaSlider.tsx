@@ -53,9 +53,27 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-desktop-1920-pt.jpg"
+                  src="../../images/home/banners/levi-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-desktop-1920-pt.jpg"
                   alt="Trenta"
                 />
               </Slide>
@@ -94,9 +112,30 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-desktop-1920-en.jpg"
+                  src="../../images/home/banners/levi-banner-desktop-1920-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-desktop-1920-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-desktop-1920-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-desktop-1920-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
@@ -136,9 +175,30 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-desktop-1920-es.jpg"
+                  src="../../images/home/banners/levi-banner-desktop-1920-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-desktop-1920-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-desktop-1920-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-desktop-1920-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
@@ -177,11 +237,28 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-desktop-1920-pt.jpg"
+                  src="../../images/home/banners/levi-banner-desktop-1920-pt.jpg"
                   alt="Trenta"
-                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-desktop-1920-pt.jpg"
+                  alt="Trenta"
                 />
               </Slide>
             </Carousel>
