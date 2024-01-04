@@ -88,9 +88,30 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/levi-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-mobile-768-pt.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
@@ -151,9 +172,30 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-mobile-768-en.jpg"
+                  src="../../images/home/banners/levi-banner-mobile-768-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-mobile-768-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-mobile-768-en.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-mobile-768-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
@@ -214,9 +256,30 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/sela">
+              <Slide to="/produtos/cadeiras/levi">
                 <StaticImage
-                  src="../../images/home/banners/sela-banner-mobile-768-es.jpg"
+                  src="../../images/home/banners/levi-banner-mobile-768-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/muar">
+                <StaticImage
+                  src="../../images/home/banners/muar-banner-mobile-768-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/palla">
+                <StaticImage
+                  src="../../images/home/banners/palla-banner-mobile-768-es.jpg"
+                  alt="Trenta"
+                  quality={100}
+                />
+              </Slide>
+              <Slide to="/produtos/poltronas/toro">
+                <StaticImage
+                  src="../../images/home/banners/toro-banner-mobile-768-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
