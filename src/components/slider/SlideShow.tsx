@@ -120,7 +120,7 @@ class SlideShowComponent extends React.Component<SlideShowComponentProps> {
       <SliderContainer>
         <Carousel showThumbs={false} autoPlay>
           {/*@ts-ignore*/}
-          <Slide to="/produtos/poltronas/abbraccio">
+          <Slide to="/produtos/poltronas/delta">
             <ImageContainer>
               <Img
                 fluid={banner1Sources}
@@ -130,7 +130,7 @@ class SlideShowComponent extends React.Component<SlideShowComponentProps> {
             </ImageContainer>
           </Slide>
           {/*@ts-ignore*/}
-          <Slide to="/produtos/poltronas/jangada">
+          <Slide to="/produtos/cadeiras/levi">
             <ImageContainer>
               <Img
                 fluid={banner2Sources}
@@ -140,7 +140,7 @@ class SlideShowComponent extends React.Component<SlideShowComponentProps> {
             </ImageContainer>
           </Slide>
           {/*@ts-ignore*/}
-          <Slide to="/produtos/luminarias/oroboro">
+          <Slide to="/produtos/poltronas/toro">
             <ImageContainer>
               <Img
                 fluid={banner3Sources}
@@ -150,7 +150,7 @@ class SlideShowComponent extends React.Component<SlideShowComponentProps> {
             </ImageContainer>
           </Slide>
           {/*@ts-ignore*/}
-          <Slide to="/produtos/bancos-e-puffs/petra">
+          <Slide to="/">
             <ImageContainer>
               <Img
                 fluid={banner4Sources}
@@ -160,16 +160,6 @@ class SlideShowComponent extends React.Component<SlideShowComponentProps> {
             </ImageContainer>
           </Slide>
           {/*@ts-ignore*/}
-          <Slide to="/produtos/cadeiras/sela">
-            <ImageContainer>
-              <Img
-                fluid={banner5Sources}
-                alt="Image"
-                style={{ display: "flex", flex: 1 }}
-              />
-            </ImageContainer>
-          </Slide>
-
         </Carousel>
       </SliderContainer>
     )
