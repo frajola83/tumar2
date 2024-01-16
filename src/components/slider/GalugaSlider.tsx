@@ -45,7 +45,7 @@ export const GalugaSlider = () => {
       return (
         <>
           <SliderContainer>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-desktop-1920-pt.jpg"
@@ -77,7 +77,7 @@ export const GalugaSlider = () => {
             </Carousel>
           </SliderContainer>
           <SliderMobile>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-mobile-768-pt.jpg"
@@ -115,7 +115,7 @@ export const GalugaSlider = () => {
       return (
         <>
           <SliderContainer>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-desktop-1920-en.jpg"
@@ -147,7 +147,7 @@ export const GalugaSlider = () => {
             </Carousel>
           </SliderContainer>
           <SliderMobile>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-mobile-768-en.jpg"
@@ -185,7 +185,7 @@ export const GalugaSlider = () => {
       return (
         <>
           <SliderContainer>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-desktop-1920-es.jpg"
@@ -217,7 +217,7 @@ export const GalugaSlider = () => {
             </Carousel>
           </SliderContainer>
           <SliderMobile>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-mobile-768-es.jpg"
@@ -254,7 +254,7 @@ export const GalugaSlider = () => {
       return (
         <>
           <SliderContainer>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/delta">
                 <StaticImage
                   src="../../images/home/banners/delta-banner-desktop-1920-pt.jpg"
@@ -283,7 +283,7 @@ export const GalugaSlider = () => {
             </Carousel>
           </SliderContainer>
           <SliderMobile>
-            <Carousel showThumbs={false}>
+            <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
               <Slide to="/produtos/poltronas/trenta">
                 <StaticImage
                   src="../../images/home/banners/trenta-banner-mobile-768-pt.jpg"
