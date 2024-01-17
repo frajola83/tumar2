@@ -1412,7 +1412,7 @@
       "ref": "CA.2991",
       "slug": "petala-cadeira",
       "name": "pétala",
-      "cover_img": "olivia-01",
+      "cover_img": "petala-cad-02",
       "designer_name": "fabricio roncca",
       "designer_slug": "fabricio-roncca",
       "category_slug": "cadeiras",
@@ -1430,8 +1430,9 @@
         "810 x 575 x 615"
       ],
       "images": [
-        "olivia-01",
-        "olivia-02"
+        "petala-cad-02",
+        "petala-cad-01",
+        "petala-cad-03"
       ],
       "ambients": [],
       "variations": []
