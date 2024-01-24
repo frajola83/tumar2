@@ -799,7 +799,7 @@
       "ref": "CA.2992",
       "slug": "alma",
       "name": "alma",
-      "cover_img": "alma-01",
+      "cover_img": "alma-02",
       "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
@@ -817,6 +817,7 @@
         "830 x500 x 680"
       ],
       "images": [
+        "alma-02",
         "alma-01"
       ],
       "ambients": [],
@@ -1384,7 +1385,7 @@
       "ref": "CA.3005",
       "slug": "olivia",
       "name": "olivia",
-      "cover_img": "olivia-01",
+      "cover_img": "olivia-03",
       "designer_name": "bruno faucz",
       "designer_slug": "bruno-faucz",
       "category_slug": "cadeiras",
@@ -1402,8 +1403,9 @@
         "850 x 500 x 600"
       ],
       "images": [
-        "olivia-01",
-        "olivia-02"
+        "olivia-03",
+        "olivia-02",
+        "olivia-01"
       ],
       "ambients": [],
       "variations": []
@@ -1868,9 +1870,9 @@
       "designer_name": "fabricio roncca",
       "category_slug": "banquetas",
       "category_name": "banquetas",
-      "description": "Banqueta com estrutura interna em multiplatinado anatômico estofada. Detalhe nas costas com esfera de madeira maciça tingida. Base tubular pintada. Opções alta e média.",
+      "description": "Banqueta com estrutura interna em multilaminado anatômico estofada. Detalhe nas costas com esfera de madeira maciça tingida. Base tubular pintada. Opções alta e média.",
       "descriptionEn": "Upholstered stool with plywood internal structure with wooden sphere detail on the back. Painted carbon steel tubular legs.",
-      "descriptionEs": "Taburete con estructura interna en tapizado anatómico multiplatino. Detalle en la parte trasera con una esfera de madera maciza teñida. Base tubular pintada. Opciones altas y medias.",
+      "descriptionEs": "Taburete con estructura interna en tapizado anatómico multilaminado. Detalle en la parte trasera con una esfera de madera maciza teñida. Base tubular pintada. Opciones altas y medias.",
       "measurementsEn": [
         "High: 39,76 x 20,86 x 21,85",
         "Medium: 35,82 x 20,86 x 21,85"
@@ -2225,7 +2227,7 @@
       "variations": []
     },
     {
-      "ref": "MES.2540",
+      "ref": "MES.2557/2558",
       "slug": "gota",
       "name": "gota",
       "cover_img": "gota-01",
@@ -2320,9 +2322,9 @@
       "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "LINA CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
-      "descriptionEn": "LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
-      "descriptionEs": "LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
+      "description": "- LINA CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. - LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. - LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. - LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
+      "descriptionEn": "- LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. - LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. - LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. - LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
+      "descriptionEs": "- LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. - LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. - LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
       "measurementsEn": [
         "Concrete: 22,24 x 15,74 x 15,74",
         "Wood: 22,24 x 15,74 x 15,74",
@@ -2883,6 +2885,38 @@
       "variations": []
     },
     {
+      "ref": "PU.1131/1130/1129/1128",
+      "slug": "drop-puff",
+      "name": "drop",
+      "cover_img": "drop-puff-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "puffs",
+      "category_name": "puffs",
+      "description": "PU.1131 - DROP PP | PU.1130 - DROP P: Puff com estrutura interna em madeira estofado. PU.1129 - DROP M | PU.1128 - DROP G: Puff com estrutura interna em madeira estofado. Detalhe em madeira maciça tingida.",
+      "descriptionEn": "PU.1131 - DROP PP | PU.1130 - DROP P: Upholstered ottoman with internal structure in upholstered wood. PU.1129 - PUFF DROP M | PU.1128 - PUFF DROP G: Upholstered ottoman with internal structure in upholstered wood. Detail in stained solid wood.",
+      "descriptionEs": "PU.1131 - DROP PP | PU.1130 - DROP P: Soplo con estructura interna en madera tapizada. PU.1129 - DROP M | PU.1128 - DROP G: Soplo con estructura interna en madera tapizada. Detalle en madera maciza teñida.",
+      "measurementsEn": [
+        "15,74 diameter: 18.11 x 16.53 x 16.53",
+        "23,62 diameter: 18.11 x 24.40 x 24.40"
+      ],
+      "measurements": [
+        "40cm diâmetro: 460 x 420 x 420",
+        "60cm diâmetro: 460 x 620 x 620"
+      ],
+      "measurementsEs": [
+        "40cm de diámetro:: 460 x 420 x 420",
+        "60cm de diámetro: 460 x 620 x 620"
+      ],
+      "images": [
+        "drop-puff-01",
+        "drop-puff-02"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
       "ref": "PU.1113/1114",
       "slug": "moon",
       "name": "moon",
@@ -3178,10 +3212,10 @@
       "description": "Carro bar com estrutura tubular. Tampo e rodas em MDF laminado. Detalhe com aplique revestido.",
       "descriptionEn": "Bar cart with carbon steel tube structure, tops and wheels in MDF coated with natural wood veneer. Detail in synthetic leather.",
       "descriptionEs": "Carro de bar con estructura tubular. Tapa y ruedas en MDF laminado. Detalle con aplicación revestida.",
-      "measurementsEn": ["29,92 x 62,99/70,86 | 78,74 x 23,22"],
-      "measurements": ["760 x 1600/1800 | 2000 x 590"],
+      "measurementsEn": ["29,92 x 62,99 | 29,92 x 70,86 | 78,74 x 23,22"],
+      "measurements": ["760 x 1600 | 760 x 1800 | 2000 x 590"],
       "measurementsEs": [
-        "760 x 1600/1800 | 2000 x 590"
+        "760 x 1600 | 760 x 1800 | 2000 x 590"
       ],
       "images": [
         "clave-bar-01",
@@ -3426,33 +3460,6 @@
         "ellos-02",
         "ellos-03",
         "ellos-04"
-      ],
-      "ambients": [],
-      "variations": [""] 
-    },
-    {
-      "ref": "Ref.1001",
-      "slug": "sarai",
-      "name": "sarai",
-      "cover_img": "sarai-01",
-      "designer_name": "fabricio roncca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "complemento",
-      "category_name": "complemento",
-      "description": "SARAI PENTEADEIRA: Penteadeira com estrutura em madeira maciça. Tampos e bandeja em MDF laminado. Detalhe revestido. Frente da gaveta laminada ou em palha natural. Com opções em iluminação LED dimerizável. SARAI ESCRIVANINHA: Escrivaninha com estrutura em madeira maciça. Tampos e bandeja em MDF laminado. Detalhe revestido. Frente da gaveta laminada ou em palha natural.",
-      "descriptionEn": "SARAI DRESSING TABLE: Dressing table with hybrid structure, top and tray in MDF coated in natural wood veneer, detail in synthetic leather. Drawer built in MDF coated with natural wood veneer, option with natural straw overlaid. Mirror with dimmable LED lighting option. SARAI DESK: Desk with hybrid structure, top and tray in MDF coated in natural wood veneer, detail in synthetic leather. Drawer built in MDF coated with natural wood veneer, option with natural straw overlaid",
-      "descriptionEs": "SARAI TOCADOR: Tocador con estructura de madera maciza. Tapas y bandeja en MDF laminado. Detalle revestido. Frente de cajón laminado o paja natural. Con opciones de iluminación LED regulable. SARAI ESCRITORIO: Escritorio con estructura de madera maciza. Tapas y bandeja en MDF laminado. Detalle revestido. Frente de cajón laminado o paja natural.",
-      "measurementsEn": ["Dressing Table: 50,39 x 59,05 x 20,66 | Desk: 29,13 x 59,05 x 20,66"],
-      "measurements": ["Penteadeira: 1280 x 1500 x 525 | Escrivaninha: 740 x 1500 x 525"],
-      "measurementsEs": [
-        "Tocador: 1280 x 1500 x 525 | Escritorio: 740 x 1500 x 525"
-      ],
-      "images": [
-        "sarai-01",
-        "sarai-02",
-        "sarai-03",
-        "sarai-04",
-        "sarai-05"
       ],
       "ambients": [],
       "variations": [""] 
