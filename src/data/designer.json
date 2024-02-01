@@ -339,6 +339,13 @@
         "link": "/produtos/cadeiras/levi"
       },
       {
+        "name": "Cadeira levi sem esferas",
+        "nameEn": "levi Chair whithout spheres",
+        "nameEs": "Silla levi sin esferas",
+        "src": "levi2-01",
+        "link": "/produtos/cadeiras/levi-sem-esferas"
+      },
+      {
         "name": "Cadeira Skin",
         "nameEn": "Skin Chair",
         "nameEs": "Silla Skin",
@@ -552,11 +559,18 @@
         "link": "/produtos/cadeiras/olivia"
       },
       {
-        "name": "Mesa Lateral doppio",
-        "nameEn": "doppio Side Table",
-        "nameEs": "Mesa Lateral doppio",
+        "name": "Mesa Lateral doppio concreto",
+        "nameEn": "doppio concrete Side Table",
+        "nameEs": "Mesa Lateral doppio concreto",
         "src": "doppio-01",
         "link": "/produtos/mesas-laterais-centro/doppio"
+      },
+      {
+        "name": "Mesa Lateral doppio madeira",
+        "nameEn": "doppio wood Side Table",
+        "nameEs": "Mesa Lateral doppio madera",
+        "src": "doppio-04",
+        "link": "/produtos/mesas-laterais-centro/doppio-madeira"
       },
       {
         "name": "Mesa Lateral lina",

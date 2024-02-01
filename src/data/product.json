@@ -1223,7 +1223,7 @@
       "variations": []
     },
     {
-      "ref": "CA.2997/3011",
+      "ref": "CA.2997",
       "slug": "levi",
       "name": "levi",
       "cover_img": "levi-01",
@@ -1235,22 +1235,47 @@
       "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs with machined carbon steel spheres detail. WITHOUT SPHERES: Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
       "descriptionEs": "Silla con estructura interna en multilaminado anatómico, tapizada. Detalle en los laterales con esferas de acero mecanizadas. Base tubular con pintura. SIN ESFERAS: Silla con estructura interna anatómica multilaminada, tapizada. Base tubular con pintura.",
       "measurementsEn": [
-        "31,29 x 25 x 23,42",
-        "whitout spheres: 30,11 x 25 x 23,42"
+        "31,29 x 25 x 23,42"
       ],
       "measurements": [
-        "795 x 635 x 595",
-        "sem esferas: 765 x 635 x 595"
+        "795 x 635 x 595"
       ],
       "measurementsEs": [
-        "795 x 635 x 595",
-        "sin esferas: 765 x 635 x 595"
+        "795 x 635 x 595"
       ],
       "images": [
         "levi-01",
         "levi-02",
         "levi-03",
-        "levi-04",
+        "levi-04"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "CA.3011",
+      "slug": "levi-sem-esferas",
+      "name": "levi sem esferas",
+      "nameEs:": "levi sin esferas",
+      "nameEn": "levi without spheres",
+      "cover_img": "levi2-01",
+      "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna me multilaminado anatômico, estofada. Base tubular com pintura.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
+      "descriptionEs": "Silla con estructura interna anatómica multilaminada, tapizada. Base tubular con pintura.",
+      "measurementsEn": [
+        "30,11 x 25 x 23,42"
+      ],
+      "measurements": [
+        "765 x 635 x 595"
+      ],
+      "measurementsEs": [
+        "765 x 635 x 595"
+      ],
+      "images": [
         "levi2-01",
         "levi2-02"
       ],
@@ -2140,17 +2165,19 @@
       "variations": []
     },
     {
-      "ref": "MES.2551/2553/2552/2554",
+      "ref": "MES.2551/2553",
       "slug": "doppio",
-      "name": "doppio",
-      "cover_img": "doppio-06",
+      "name": "doppio concreto",
+      "nameEs:": "doppio concreto",
+      "nameEn": "doppio concrete",
+      "cover_img": "doppio-01",
       "designer_name": "bruno faucz",
       "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "DOPPIO CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. DOPPIO MADEIRA: Mesa lateral com base em madeira maciça. Estrutura central tubular pintada. Tampo pode ser em madeira ou mármore. Opções Alta e média.",
-      "descriptionEn": "DOPPIO CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. DOPPIO WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Option: high and medium size",
-      "descriptionEs": "DOPPIO CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Opciones altas y medias. DOPPIO MADEIRA: Mesa auxiliar con base de madera maciza. Estructura central tubular pintada. La tapa puede ser de madera o mármol.Opciones altas y medias.",
+      "description": "Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Opções altas e medias.",
+      "descriptionEn": "Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Option: high and medium size",
+      "descriptionEs": "Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Opciones altas y medias.",
       "measurementsEn": [
         "High: 23,62 x 13,77 x 13,77",
         "Medium: 27,55 x 15,74 x 15,74"
@@ -2166,7 +2193,38 @@
       "images": [
         "doppio-01",
         "doppio-02",
-        "doppio-03",
+        "doppio-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "MES.2552/2554",
+      "slug": "doppio-madeira",
+      "name": "doppio madeira",
+      "nameEs": "doppio madera",
+      "nameEn": "doppio wood",
+      "cover_img": "doppio-04",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral com base em madeira maciça. Estrutura central tubular pintada. Tampo pode ser em madeira ou mármore. Opções Alta e média.",
+      "descriptionEn": "Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Option: high and medium size",
+      "descriptionEs": "Mesa auxiliar con base de madera maciza. Estructura central tubular pintada. La tapa puede ser de madera o mármol. Opciones altas y medias.",
+      "measurementsEn": [
+        "High: 23,62 x 13,77 x 13,77",
+        "Medium: 27,55 x 15,74 x 15,74"
+      ],
+      "measurements": [
+        "Alta: 600 x 350 x 350",
+        "Média: 700 x 400 x 400"
+      ],
+      "measurementsEs": [
+        "Alto: 600 x 350 x 350",
+        "Medio: 700 x 400 x 400"
+      ],
+      "images": [
         "doppio-04",
         "doppio-05",
         "doppio-06",
