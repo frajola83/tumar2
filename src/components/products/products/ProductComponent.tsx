@@ -1,9 +1,10 @@
 import { Link } from "gatsby"
-import React from "react"
+import React, { useContext } from "react"
 import styled from "styled-components"
 import { Product } from "../../../interfaces"
 import { breakpoints } from "../../../utils/styledResponsive"
 import { ImgProvider } from "../../common/ImgGraph"
+import { I18nextContext } from "gatsby-plugin-react-i18next"
 
 const ImgInner = styled.div`
   width: 100%;
@@ -57,7 +58,25 @@ export const ProductComponent: React.FC<Product> = ({
   cover_img,
   category_slug,
   name,
+  nameEn,
+  nameEs,
 }) => {
+  const context = useContext(I18nextContext)
+
+  console.log({ nameEs, nameEn })
+
+  let productName = name
+  if (context.language === "en") {
+    if (nameEn) {
+      productName = nameEn
+    }
+  }
+  if (context.language === "es") {
+    if (nameEs) {
+      productName = nameEs
+    }
+  }
+
   const link = `/produtos/${category_slug}/${slug}`
 
   return (
@@ -71,7 +90,7 @@ export const ProductComponent: React.FC<Product> = ({
           />
         </ImgInner>
       </ImgWrapper>
-      <Title>{name}</Title>
+      <Title>{productName}</Title>
     </Item>
   )
 }

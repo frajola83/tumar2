@@ -17,6 +17,8 @@ export const pageQuery = graphql`
       ref
       slug
       name
+      nameEn
+      nameEs
       images
       variations
       designer_slug
