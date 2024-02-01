@@ -67,26 +67,42 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     measurementsEn,
     measurementsEs,
     name,
+    nameEn,
+    nameEs,
+    nameEs_,
     ref,
     slug,
   } = product
 
-  const {t} = useTranslation();
-  const context = useContext(I18nextContext);
+  console.log({nameEs, nameEn});
+
+  const { t } = useTranslation()
+  const context = useContext(I18nextContext)
   // const breadcrumbLinks = [
   //   { name: "produtos", link: "/produtos" },
   //   { name: category_name, link: `/produtos/${category_slug}` },
   //   { name: name, link: `` },
   // ]
-  let productMeasurements = measurements;
-  let productDescription: string = description;
+  let productMeasurements = measurements
+  let productDescription: string = description
+  let productName = name
+
   if (context.language === "en") {
-    productDescription = descriptionEn;
-    productMeasurements = measurementsEn;
+    productDescription = descriptionEn
+    productMeasurements = measurementsEn
+    if (nameEn) {
+      productName = nameEn
+    }
   }
   if (context.language === "es") {
-    productDescription = descriptionEs;
-    productMeasurements = measurementsEs;
+    productDescription = descriptionEs
+    productMeasurements = measurementsEs
+    if (nameEs) {
+      productName = nameEs
+    }
+    if (nameEs_) {
+      productName = nameEs_
+    }
   }
 
   return (
@@ -99,7 +115,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             <ProductTitleContent>
               <Designative>{t("pages.productSingle.title")}</Designative>
               <ProductTitle>
-                {name} <RefContainer>{ref}</RefContainer>
+                {productName}<RefContainer>{ref}</RefContainer>
               </ProductTitle>
             </ProductTitleContent>
             {designer_slug && designer_slug.length ? (
@@ -121,7 +137,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
               <ProductTitleContent>
                 <Designative>{t("pages.productSingle.title")}</Designative>
                 <ProductTitle>
-                  {name} <RefContainer>{ref}</RefContainer>
+                  {productName} <RefContainer>{ref}</RefContainer>
                 </ProductTitle>
               </ProductTitleContent>
               {designer_slug && designer_slug.length > 0 ? (
@@ -153,7 +169,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
         {ambients.length ? (
           <AmbientsWrapper>
             <AmbientsTitle>
-              {t("pages.productSingle.ambientsWith")} {name}
+              {t("pages.productSingle.ambientsWith")} {productName}
             </AmbientsTitle>
             <GalleryWrapper>
               <RenderAmbients product={product} />

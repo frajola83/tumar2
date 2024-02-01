@@ -46,6 +46,9 @@ export const pageQuery = graphql`
           cover_img
           slug
           name
+          nameEn
+          nameEs
+          nameEs_
           category_slug
           category_name
         }
