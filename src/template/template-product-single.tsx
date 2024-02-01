@@ -19,6 +19,7 @@ export const pageQuery = graphql`
       name
       nameEn
       nameEs
+      nameEs_
       images
       variations
       designer_slug

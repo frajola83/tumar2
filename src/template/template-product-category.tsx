@@ -48,6 +48,7 @@ export const pageQuery = graphql`
           name
           nameEn
           nameEs
+          nameEs_
           category_slug
           category_name
         }

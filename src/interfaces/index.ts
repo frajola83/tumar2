@@ -60,6 +60,7 @@ export interface Product {
   measurementsEs: string[]
   nameEn?: string
   nameEs?: string
+  nameEs_?: string
 }
 
 export type CategoryNode = {

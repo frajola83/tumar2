@@ -60,6 +60,7 @@ export const ProductComponent: React.FC<Product> = ({
   name,
   nameEn,
   nameEs,
+  nameEs_,
 }) => {
   const context = useContext(I18nextContext)
 
@@ -74,6 +75,9 @@ export const ProductComponent: React.FC<Product> = ({
   if (context.language === "es") {
     if (nameEs) {
       productName = nameEs
+    }
+    if (nameEs_) {
+      productName = nameEs_
     }
   }
 

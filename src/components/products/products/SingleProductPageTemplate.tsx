@@ -69,9 +69,12 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     name,
     nameEn,
     nameEs,
+    nameEs_,
     ref,
     slug,
   } = product
+
+  console.log({nameEs, nameEn});
 
   const { t } = useTranslation()
   const context = useContext(I18nextContext)
@@ -83,9 +86,6 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
   let productMeasurements = measurements
   let productDescription: string = description
   let productName = name
-  console.log("-----=======----")
-  console.log({ name, nameEn, nameEs })
-  console.log("-----=======----")
 
   if (context.language === "en") {
     productDescription = descriptionEn
@@ -95,14 +95,15 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     }
   }
   if (context.language === "es") {
+    productDescription = descriptionEs
+    productMeasurements = measurementsEs
     if (nameEs) {
       productName = nameEs
     }
-    productDescription = descriptionEs
-    productMeasurements = measurementsEs
+    if (nameEs_) {
+      productName = nameEs_
+    }
   }
-
-  console.log({ productName }, context.language)
 
   return (
     <Container>
@@ -114,7 +115,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             <ProductTitleContent>
               <Designative>{t("pages.productSingle.title")}</Designative>
               <ProductTitle>
-                {productName} <RefContainer>{ref}</RefContainer>
+                {productName}<RefContainer>{ref}</RefContainer>
               </ProductTitle>
             </ProductTitleContent>
             {designer_slug && designer_slug.length ? (
@@ -136,7 +137,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
               <ProductTitleContent>
                 <Designative>{t("pages.productSingle.title")}</Designative>
                 <ProductTitle>
-                  {name} <RefContainer>{ref}</RefContainer>
+                  {productName} <RefContainer>{ref}</RefContainer>
                 </ProductTitle>
               </ProductTitleContent>
               {designer_slug && designer_slug.length > 0 ? (
