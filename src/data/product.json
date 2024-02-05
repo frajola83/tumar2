@@ -2955,16 +2955,22 @@
       "descriptionEn": "PU.1131 - DROP PP | PU.1130 - DROP P: Upholstered ottoman with internal structure in upholstered wood. PU.1129 - PUFF DROP M | PU.1128 - PUFF DROP G: Upholstered ottoman with internal structure in upholstered wood. Detail in stained solid wood.",
       "descriptionEs": "PU.1131 - DROP PP | PU.1130 - DROP P: Soplo con estructura interna en madera tapizada. PU.1129 - DROP M | PU.1128 - DROP G: Soplo con estructura interna en madera tapizada. Detalle en madera maciza teñida.",
       "measurementsEn": [
-        "15,74 diameter: 18.11 x 16.53 x 16.53",
-        "23,62 diameter: 18.11 x 24.40 x 24.40"
+        "PP: 14,96 x 22,83 x 15,74",
+        "P: 14,96 x 23,22 x 19,29",
+        "M: 16,14 x 33,07 x 25,59",
+        "G: 13,77 x 43,30 x 30,31"
       ],
       "measurements": [
-        "40cm diâmetro: 460 x 420 x 420",
-        "60cm diâmetro: 460 x 620 x 620"
+        "PP: 380 x 580 x 400",
+        "P: 380 x 590 x 490",
+        "M: 410 x 840 x 650",
+        "G: 350 x 1100 x 770"
       ],
       "measurementsEs": [
-        "40cm de diámetro:: 460 x 420 x 420",
-        "60cm de diámetro: 460 x 620 x 620"
+        "PP: 380 x 580 x 400",
+        "P: 380 x 590 x 490",
+        "M: 410 x 840 x 650",
+        "G: 350 x 1100 x 770"
       ],
       "images": [
         "drop-puff-01",
@@ -3270,10 +3276,10 @@
       "description": "Carro bar com estrutura tubular. Tampo e rodas em MDF laminado. Detalhe com aplique revestido.",
       "descriptionEn": "Bar cart with carbon steel tube structure, tops and wheels in MDF coated with natural wood veneer. Detail in synthetic leather.",
       "descriptionEs": "Carro de bar con estructura tubular. Tapa y ruedas en MDF laminado. Detalle con aplicación revestida.",
-      "measurementsEn": ["29,92 x 62,99 | 29,92 x 70,86 | 78,74 x 23,22"],
-      "measurements": ["760 x 1600 | 760 x 1800 | 2000 x 590"],
+      "measurementsEn": ["29,92 x 62,99 | 70,86 | 78,74 x 23,22"],
+      "measurements": ["760 x 1600 | 1800 | 2000 x 590"],
       "measurementsEs": [
-        "760 x 1600 | 760 x 1800 | 2000 x 590"
+        "760 x 1600 | 1800 | 2000 x 590"
       ],
       "images": [
         "clave-bar-01",
