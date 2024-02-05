@@ -74,8 +74,6 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     slug,
   } = product
 
-  console.log({nameEs, nameEn});
-
   const { t } = useTranslation()
   const context = useContext(I18nextContext)
   // const breadcrumbLinks = [
@@ -105,6 +103,10 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     }
   }
 
+  const descriptionMarkup = {
+    __html: productDescription.replace(/\n/g, "<br/>"),
+  }
+
   return (
     <Container>
       <PageWrapper>
@@ -115,7 +117,8 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             <ProductTitleContent>
               <Designative>{t("pages.productSingle.title")}</Designative>
               <ProductTitle>
-                {productName}<RefContainer>{ref}</RefContainer>
+                {productName}
+                <RefContainer>{ref}</RefContainer>
               </ProductTitle>
             </ProductTitleContent>
             {designer_slug && designer_slug.length ? (
@@ -154,7 +157,8 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             <DescriptionTitle>
               {t("pages.productSingle.description")}
             </DescriptionTitle>
-            <DescriptionText>{productDescription}</DescriptionText>
+            <DescriptionText dangerouslySetInnerHTML={descriptionMarkup} />
+            {/* {productDescription.replace(/\n/g, "<br/>")} */}
             <MeasurementsSubTitle>
               {t("pages.productSingle.measurements")}
             </MeasurementsSubTitle>
