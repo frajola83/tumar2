@@ -2380,9 +2380,9 @@
       "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "- LINA CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. - LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. - LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. - LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
-      "descriptionEn": "- LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. - LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. - LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. - LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
-      "descriptionEs": "- LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. - LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. - LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
+      "description": "- LINA CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. \n- LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. \n- LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. \n- LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
+      "descriptionEn": "- LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. \n- LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
+      "descriptionEs": "- LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. \n- LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. \nLINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. - \nLINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
       "measurementsEn": [
         "Concrete: 22,24 x 15,74 x 15,74",
         "Wood: 22,24 x 15,74 x 15,74",
@@ -2401,11 +2401,7 @@
         "Redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
         "Rectangular: 330 x 1600 x 850 | 330 x 1400 x 850"
       ],
-      "images": [
-        "lina-01",
-        "lina-02",
-        "lina-03"
-      ],
+      "images": ["lina-01", "lina-02", "lina-03"],
       "ambients": [],
       "variations": []
     },
