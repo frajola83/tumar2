@@ -3,7 +3,7 @@
       "ref": "ref.2964",
       "slug": "abbraccio",
       "name": "abbraccio",
-      "cover_img": "abbraccio-05",
+      "cover_img": "abbraccio-06",
       "designer_name": "Estúdio Razerra Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "poltronas",
@@ -21,7 +21,7 @@
         "780 x 940 x 825"
       ],
       "images": [
-        "abbraccio-05",
+        "abbraccio-06",
         "abbraccio-02",
         "abbraccio-03",
         "abbraccio-04",
@@ -214,7 +214,7 @@
       "variations": []
     },
     {
-      "ref": "ref.3000",
+      "ref": "ref.3000/3001",
       "slug": "delta",
       "name": "delta",
       "cover_img": "delta-01",
@@ -424,7 +424,7 @@
       "variations": []
     },
     {
-      "ref": "CA.3003",
+      "ref": "CA.3003/3012",
       "slug": "maia",
       "name": "maia",
       "cover_img": "maia-01",
@@ -931,7 +931,7 @@
       "designer_slug": "fabricio-roncca",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômica, estofada. Detalhe nas costas com palha sextavada natural. Base me madeira maciça tingida.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômica, estofada. Detalhe nas costas com palha sextavada natural. Base em madeira maciça tingida.",
       "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs with a natural straw detail on the back.",
       "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Detalle en la espalda con paja natural hexagonal. Base de madera maciza teñida.",
       "measurementsEn": [
@@ -1263,7 +1263,7 @@
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna me multilaminado anatômico, estofada. Base tubular com pintura.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico, estofada. Base tubular com pintura.",
       "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tubular legs.",
       "descriptionEs": "Silla con estructura interna anatómica multilaminada, tapizada. Base tubular con pintura.",
       "measurementsEn": [
@@ -2106,7 +2106,7 @@
       "designer_slug": "emerson-borges",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base e tampo em madeira maciça, tingida. Bandeja em alumínio pintado. Opções Alta e media.",
+      "description": "Mesa lateral com base e tampo em madeira maciça, tingida. Bandeja em alumínio pintado. Opções alta e media.",
       "descriptionEn": "Side table with base and table top machined in solid wood, with detail in painted aluminum. Option: high and medium size.",
       "descriptionEs": "Mesa auxiliar con base y tapa de madera maciza teñida. Bandeja de aluminio pintado. Opciones altas y medias.",
       "measurementsEn": [
@@ -2209,7 +2209,7 @@
       "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base em madeira maciça. Estrutura central tubular pintada. Tampo pode ser em madeira ou mármore. Opções Alta e média.",
+      "description": "Mesa lateral com base em madeira maciça. Estrutura central tubular pintada. Tampo pode ser em madeira ou mármore. Opções alta e média.",
       "descriptionEn": "Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Option: high and medium size",
       "descriptionEs": "Mesa auxiliar con base de madera maciza. Estructura central tubular pintada. La tapa puede ser de madera o mármol. Opciones altas y medias.",
       "measurementsEn": [
@@ -2384,22 +2384,19 @@
       "descriptionEn": "- LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. \n- LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
       "descriptionEs": "- LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. \n- LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. \n- LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. \n- LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
       "measurementsEn": [
-        "Concrete: 22,24 x 15,74 x 15,74",
-        "Wood: 22,24 x 15,74 x 15,74",
+        "Concrete and wood: 22,24 x 15,74 x 15,74",
         "Round: 15,55 x 31,49 x 31,49 | 12,99 x 39,37 x 39,37",
         "Rectangular: 12,99 x 62,99 x 33,46 | 12,99 x 551,11 x 33,46"
       ],
       "measurements": [
-        "Concreto: 565 x 400 x 400",
-        "Madeira: 565 x 400 x 400",
-        "Redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
-        "Retangular: 330 x 1600 x 850 | 330 x 1400 x 850"
+        "Concreto e madeira: 565 x 400 x 400",
+        "Centro redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
+        "Centro retangular: 330 x 1600 x 850 | 330 x 1400 x 850"
       ],
       "measurementsEs": [
-        "Concreto: 565 x 400 x 400",
-        "Madera: 565 x 400 x 400",
-        "Redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
-        "Rectangular: 330 x 1600 x 850 | 330 x 1400 x 850"
+        "Concreto y madera: 565 x 400 x 400",
+        "Centro redonda: 330 x 1000 x 1000 | 395 x 800 x 800",
+        "Centro rectangular: 330 x 1600 x 850 | 330 x 1400 x 850"
       ],
       "images": ["lina-01", "lina-02", "lina-03"],
       "ambients": [],
