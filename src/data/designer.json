@@ -153,6 +153,13 @@
         "link": "/produtos/banco-e-recamier/nantai-banco"
       },
       {
+        "name": "Banco varial",
+        "nameEn": "varial Bench",
+        "nameEs": "Banco varial",
+        "src": "varial-01",
+        "link": "/produtos/banco-e-recamier/varial"
+      },
+      {
         "name": "Banqueta pétala",
         "nameEn": "pétala stool",
         "nameEs": "Taburete Pétala",

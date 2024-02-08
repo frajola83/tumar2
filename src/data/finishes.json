@@ -1,5 +1,53 @@
 [
   {
+    "category_name": "concreto",
+    "category_name_en": "concrete",
+    "category_name_es": "concreto",  
+    "category_slug": "concreto", 
+    "finishes": [
+      {
+        "slug": "cinza-concreto",
+        "name": "cinza",
+        "nameEs": "gris",
+        "nameEn": "grey"
+
+      },
+      {
+        "slug": "grafite-concreto",
+        "name": "grafite",
+        "nameEs": "grafito",
+        "nameEn": "graphite"
+      }
+    ]
+  },
+  {
+    "category_name": "mármore",
+    "category_name_en": "marble",
+    "category_name_es": "mármol",  
+    "category_slug": "marmore", 
+    "finishes": [
+      {
+        "slug": "travertino",
+        "name": "travertino",
+        "nameEs": "travertino",
+        "nameEn": "travertino"
+
+      },
+      {
+        "slug": "nero-marquina",
+        "name": "nero marquina",
+        "nameEs": "nero marquina",
+        "nameEn": "nero marquina"
+      },
+      {
+        "slug": "verde-alpi",
+        "name": "verde alpi",
+        "nameEs": "verde alpi",
+        "nameEn": "verde alpi"
+      }
+    ]
+  },
+  {
     "category_name": "Lâminas naturais",
     "category_name_en": "Natural wood veneer",
     "category_name_es": "Láminas Naturales",  
@@ -14,8 +62,8 @@
       },
       {
         "slug": "carvalho-ebanizado",
-        "name": "Carvalho ebanizado",
-        "nameEs": "roble ebanizado",
+        "name": "Carvalho preto",
+        "nameEs": "roble preto",
         "nameEn": "Black Oak"
       },
       {
@@ -26,9 +74,9 @@
       },
       {
         "slug": "carvalho-space",
-        "name": "Carvalho Space",
-        "nameEs": "roble space",
-        "nameEn": "Space Oak"
+        "name": "Carvalho Space grey",
+        "nameEs": "roble space grey",
+        "nameEn": "Space grey Oak"
       },
       {
         "slug": "nogueira",
@@ -64,9 +112,9 @@
       },
       {
         "slug": "space-2",
-        "name": "space",
-        "nameEs": "space",
-        "nameEn": "space"
+        "name": "space grey",
+        "nameEs": "space grey",
+        "nameEn": "space grey"
       },
       {
         "slug": "imbuia-1",
@@ -202,7 +250,7 @@
       },
       {
         "slug": "tabaco-rustico",
-        "name": "tabaco rústico",
+        "name": "rústico tabaco",
         "nameEs": "tabaco rústico",
         "nameEn": "rustic tobacco"
       },
@@ -229,6 +277,12 @@
         "name": "grafite",
         "nameEs": "grafito",
         "nameEn": "graphite"
+      },
+      {
+        "slug": "brandy-01",
+        "name": "brandy",
+        "nameEs": "brandy",
+        "nameEn": "brandy"
       }
     ]
   },
@@ -242,7 +296,7 @@
         "slug": "rustico-gris",
         "name": "rústico gris",
         "nameEs": "gris rústico",
-        "nameEn": "rustic gray"
+        "nameEn": "rustic grey"
       },
       {
         "slug": "rustico-preto",
@@ -260,19 +314,19 @@
     "finishes": [
       {
         "slug": "crocco-concreto",
-        "name": "crocco concreto",
+        "name": "croco concreto",
         "nameEs": "cocodrilo de hormigón",
         "nameEn": "concrete crocco"
       },
       {
         "slug": "crocco-bege",
-        "name": "crocco bege",
+        "name": "croco bege",
         "nameEs": "cocodrilo beige",
         "nameEn": "beige crocco"
       },
       {
         "slug": "crocco-preto",
-        "name": "crocco preto",
+        "name": "croco preto",
         "nameEs": "cocodrilo negro",
         "nameEn": "black crocco"
       },
@@ -290,6 +344,12 @@
     "category_name_es": "Grupo 1", 
     "category_slug": "tecidos-grupo-1", 
     "finishes": [
+      {
+        "slug": "1099",
+        "name": "1099",
+        "nameEs": "1099",
+        "nameEn": "1099"
+      },
       {
         "slug": "1101",
         "name": "1101",
@@ -333,28 +393,10 @@
         "nameEn": "1767"
       },
       {
-        "slug": "1779",
-        "name": "1779",
-        "nameEs": "1779",
-        "nameEn": "1779"
-      },
-      {
-        "slug": "1781",
-        "name": "1781",
-        "nameEs": "1781",
-        "nameEn": "1781"
-      },
-      {
         "slug": "1910",
         "name": "1910",
         "nameEs": "1910",
         "nameEn": "1910"
-      },
-      {
-        "slug": "1911",
-        "name": "1911",
-        "nameEs": "1911",
-        "nameEn": "1911"
       },
       {
         "slug": "1950",
@@ -381,10 +423,31 @@
         "nameEn": "1953"
       },
       {
-        "slug": "1982",
-        "name": "1982",
-        "nameEs": "1982",
-        "nameEn": "1982"
+        "slug": "1955",
+        "name": "1955",
+        "nameEs": "1955",
+        "nameEn": "1955"
+      },
+      {
+        "slug": "1956",
+        "name": "1956",
+        "nameEs": "1956",
+        "nameEn": "1956"
+      },{
+        "slug": "1957",
+        "name": "1957",
+        "nameEs": "1957",
+        "nameEn": "1957"
+      },{
+        "slug": "1958",
+        "name": "1958",
+        "nameEs": "1958",
+        "nameEn": "1958"
+      },{
+        "slug": "1959",
+        "name": "1959",
+        "nameEs": "1959",
+        "nameEn": "1959"
       }
      ]
   },
@@ -413,12 +476,6 @@
         "nameEn": "4009"
       },
       {
-        "slug": "4020",
-        "name": "4020",
-        "nameEs": "4020",
-        "nameEn": "4020"
-      },
-      {
         "slug": "4021",
         "name": "4021",
         "nameEs": "4021",
@@ -431,28 +488,22 @@
         "nameEn": "4022"
       },
       {
-        "slug": "4023",
-        "name": "4023",
-        "nameEs": "4023",
-        "nameEn": "4023"
+        "slug": "4025",
+        "name": "4025",
+        "nameEs": "4025",
+        "nameEn": "4025"
       },
       {
-        "slug": "4024",
-        "name": "4024",
-        "nameEs": "4024",
-        "nameEn": "4024"
+        "slug": "4026",
+        "name": "4026",
+        "nameEs": "4026",
+        "nameEn": "4026"
       },
       {
-        "slug": "4578",
-        "name": "4578",
-        "nameEs": "4578",
-        "nameEn": "4578"
-      },
-      {
-        "slug": "4579",
-        "name": "4579",
-        "nameEs": "4579",
-        "nameEn": "4579"
+        "slug": "4027",
+        "name": "4027",
+        "nameEs": "4027",
+        "nameEn": "4027"
       },
       {
         "slug": "4580",
@@ -467,28 +518,10 @@
         "nameEn": "4581"
       },
       {
-        "slug": "4583",
-        "name": "4583",
-        "nameEs": "4583",
-        "nameEn": "4583"
-      },
-      {
         "slug": "4584",
         "name": "4584",
         "nameEs": "4584",
         "nameEn": "4584"
-      },
-      {
-        "slug": "4585",
-        "name": "4585",
-        "nameEs": "4585",
-        "nameEn": "4585"
-      },
-      {
-        "slug": "4586",
-        "name": "4586",
-        "nameEs": "4586",
-        "nameEn": "4586"
       },
       {
         "slug": "4587",
@@ -503,12 +536,6 @@
         "nameEn": "4588"
       },
       {
-        "slug": "4596",
-        "name": "4596",
-        "nameEs": "4596",
-        "nameEn": "4596"
-      },
-      {
         "slug": "222222",
         "name": "4597",
         "nameEs": "4597",
@@ -521,35 +548,10 @@
         "nameEn": "4607"
       },
       {
-        "slug": "4614",
-        "name": "4614",
-        "nameEs": "4614",
-        "nameEn": "4614"
-      },
-      {
         "slug": "4615",
         "name": "4615",
         "nameEs": "4615",
         "nameEn": "4615"
-      },
-      {
-        "slug": "4616",
-        "name": "4616",
-        "nameEs": "4616",
-        "nameEn": "4616"
-      },
-
-      {
-        "slug": "4617",
-        "name": "4617",
-        "nameEs": "4617",
-        "nameEn": "4617"
-      },
-      {
-        "slug": "4618",
-        "name": "4618",
-        "nameEs": "4618",
-        "nameEn": "4618"
       },
       {
         "slug": "4620",
@@ -568,49 +570,7 @@
         "name": "4623",
         "nameEs": "4623",
         "nameEn": "4623"
-      },
-      {
-        "slug": "4624",
-        "name": "4624",
-        "nameEs": "4624",
-        "nameEn": "4624"
-      },
-      {
-        "slug": "4650",
-        "name": "4650",
-        "nameEs": "4650",
-        "nameEn": "4650"
-      },
-      {
-        "slug": "4651",
-        "name": "4651",
-        "nameEs": "4651",
-        "nameEn": "4651"
-      },
-      {
-        "slug": "4652",
-        "name": "4652",
-        "nameEs": "4652",
-        "nameEn": "4652"
-      },
-      {
-        "slug": "4711",
-        "name": "4711",
-        "nameEs": "4711",
-        "nameEn": "4711"
-      },
-      {
-        "slug": "4767",
-        "name": "4767",
-        "nameEs": "4767",
-        "nameEn": "4767"
-      },
-      {
-        "slug": "4768",
-        "name": "4768",
-        "nameEs": "4768",
-        "nameEn": "4768"
-      }     
+      }
     ]
   },
   {
@@ -620,22 +580,28 @@
     "category_slug": "tecidos-grupo-5", 
     "finishes": [
       {
-        "slug": "5030",
-        "name": "5030",
-        "nameEs": "5030",
-        "nameEn": "5030"
+        "slug": "5033",
+        "name": "5033",
+        "nameEs": "5033",
+        "nameEn": "5033"
       },
       {
-        "slug": "5031",
-        "name": "5031",
-        "nameEs": "5031",
-        "nameEn": "5031"
+        "slug": "5034",
+        "name": "5034",
+        "nameEs": "5034",
+        "nameEn": "5034"
       },
       {
-        "slug": "5200",
-        "name": "5200",
-        "nameEs": "5200",
-        "nameEn": "5200"
+        "slug": "5035",
+        "name": "5035",
+        "nameEs": "5035",
+        "nameEn": "5035"
+      },
+      {
+        "slug": "5036",
+        "name": "5036",
+        "nameEs": "5036",
+        "nameEn": "5036"
       },
       {
         "slug": "5201",
@@ -654,48 +620,6 @@
         "name": "5203",
         "nameEs": "5203",
         "nameEn": "5203"
-      },
-      {
-        "slug": "5251",
-        "name": "5251",
-        "nameEs": "5251",
-        "nameEn": "5251"
-      },
-      {
-        "slug": "5252",
-        "name": "5252",
-        "nameEs": "5252",
-        "nameEn": "5252"
-      },
-      {
-        "slug": "5253",
-        "name": "5253",
-        "nameEs": "5253",
-        "nameEn": "5253"
-      },
-      {
-        "slug": "5254",
-        "name": "5254",
-        "nameEs": "5254",
-        "nameEn": "5254"
-      },
-      {
-        "slug": "5255",
-        "name": "5255",
-        "nameEs": "5255",
-        "nameEn": "5255"
-      },
-      {
-        "slug": "5300",
-        "name": "5300",
-        "nameEs": "5300",
-        "nameEn": "5300"
-      },
-      {
-        "slug": "5301",
-        "name": "5301",
-        "nameEs": "5301",
-        "nameEn": "5301"
       },
       {
         "slug": "5302",
@@ -728,6 +652,24 @@
         "name": "6351",
         "nameEs": "6351",
         "nameEn": "6351"
+      },
+      {
+        "slug": "6352",
+        "name": "6352",
+        "nameEs": "6352",
+        "nameEn": "6352"
+      },
+      {
+        "slug": "6354",
+        "name": "6354",
+        "nameEs": "6354",
+        "nameEn": "6354"
+      },
+      {
+        "slug": "6355",
+        "name": "6355",
+        "nameEs": "6355",
+        "nameEn": "6355"
       }
     ]
   },
@@ -737,24 +679,6 @@
     "category_name_es": "Grupo 7", 
     "category_slug": "tecidos-grupo-7", 
     "finishes": [
-      {
-        "slug": "7000",
-        "name": "7000",
-        "nameEs": "7000",
-        "nameEn": "7000"
-      },
-      {
-        "slug": "7001",
-        "name": "7001",
-        "nameEs": "7001",
-        "nameEn": "7001"
-      },
-      {
-        "slug": "7002",
-        "name": "7002",
-        "nameEs": "7002",
-        "nameEn": "7002"
-      },
       {
         "slug": "7050",
         "name": "7050",
@@ -778,13 +702,7 @@
         "name": "7061",
         "nameEs": "7061",
         "nameEn": "7061"
-      },
-      {
-        "slug": "7062",
-        "name": "7062",
-        "nameEs": "7062",
-        "nameEn": "7062"
-      }                                         
+      }              
     ]
   },
   {
@@ -855,7 +773,7 @@
         "slug": "cinza",
         "name": "Cinza",
         "nameEs": "gris",
-        "nameEn": "gray"
+        "nameEn": "grey"
       },
       {
         "slug": "terroso",
