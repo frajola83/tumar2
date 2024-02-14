@@ -313,12 +313,6 @@
     "category_slug": "recouro", 
     "finishes": [
       {
-        "slug": "crocco-concreto",
-        "name": "croco concreto",
-        "nameEs": "cocodrilo de hormigón",
-        "nameEn": "concrete crocco"
-      },
-      {
         "slug": "crocco-bege",
         "name": "croco bege",
         "nameEs": "cocodrilo beige",
