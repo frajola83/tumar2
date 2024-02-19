@@ -27,7 +27,7 @@ export const createCategoryPages = (
     return createPage(options)
   })
 }
-
+//
 export const createProductSinglePages = (
   data: AllDataGraphQlQueryResult,
   language: "pt" | "en" | "es",
