@@ -40,6 +40,12 @@
         "nameEn": "nero marquina"
       },
       {
+        "slug": "rosso",
+        "name": "rosso fiorentino",
+        "nameEs": "rosso fiorentino",
+        "nameEn": "rosso fiorentino"
+      },
+      {
         "slug": "verde-alpi",
         "name": "verde alpi",
         "nameEs": "verde alpi",
@@ -175,28 +181,40 @@
     "category_slug": "pintura-metalica", 
     "finishes": [
       {
+        "slug": "areia",
+        "name": "areia",
+        "nameEs": "areia",
+        "nameEn": "sand"
+      },
+      {
         "slug": "dourado",
         "name": "Dourado",
         "nameEs": "Dorado",
         "nameEn": "golden"
       },
       {
-        "slug": "rose",
-        "name": "rose",
-        "nameEs": "rosa",
-        "nameEn": "rose"
-      },
-      {
-        "slug": "cobre",
-        "name": "cobre",
-        "nameEs": "cobre",
-        "nameEn": "copper"
-      },
-      {
         "slug": "grafite-2",
         "name": "grafite",
         "nameEs": "grafito",
         "nameEn": "graphite"
+      },
+      {
+        "slug": "marrom-metal",
+        "name": "marrom",
+        "nameEs": "marrón",
+        "nameEn": "brown"
+      },
+      {
+        "slug": "mocca",
+        "name": "mocca",
+        "nameEs": "mocca",
+        "nameEn": "mocca"
+      },
+      {
+        "slug": "verde-escuro",
+        "name": "verde escuro",
+        "nameEs": "verde oscuro",
+        "nameEn": "dark green"
       },
       {
         "slug": "preto",
@@ -230,6 +248,12 @@
     "category_name_es": "cuero natural", 
     "category_slug": "couro-natural", 
     "finishes": [
+      {
+        "slug": "berinjela",
+        "name": "berinjela",
+        "nameEs": "berinjela",
+        "nameEn": "berinjela"
+      },
       {
         "slug": "sand-01",
         "name": "sand",
@@ -271,12 +295,6 @@
         "name": "concreto",
         "nameEs": "hormigón",
         "nameEn": "concrete"
-      },
-      {
-        "slug": "grafite-001",
-        "name": "grafite",
-        "nameEs": "grafito",
-        "nameEn": "graphite"
       },
       {
         "slug": "brandy-01",
@@ -339,6 +357,12 @@
     "category_slug": "tecidos-grupo-1", 
     "finishes": [
       {
+        "slug": "1098",
+        "name": "1098",
+        "nameEs": "1098",
+        "nameEn": "1098"
+      },
+      {
         "slug": "1099",
         "name": "1099",
         "nameEs": "1099",
@@ -393,6 +417,48 @@
         "nameEn": "1910"
       },
       {
+        "slug": "1943",
+        "name": "1943",
+        "nameEs": "1943",
+        "nameEn": "1943"
+      },
+      {
+        "slug": "1944",
+        "name": "1944",
+        "nameEs": "1944",
+        "nameEn": "1944"
+      },
+      {
+        "slug": "1945",
+        "name": "1945",
+        "nameEs": "1945",
+        "nameEn": "1945"
+      },
+      {
+        "slug": "1946",
+        "name": "1946",
+        "nameEs": "1946",
+        "nameEn": "1946"
+      },
+      {
+        "slug": "1947",
+        "name": "1947",
+        "nameEs": "1947",
+        "nameEn": "1947"
+      },
+      {
+        "slug": "1948",
+        "name": "1948",
+        "nameEs": "1948",
+        "nameEn": "1948"
+      },
+      {
+        "slug": "1949",
+        "name": "1949",
+        "nameEs": "1949",
+        "nameEn": "1949"
+      },
+      {
         "slug": "1950",
         "name": "1950",
         "nameEs": "1950",
@@ -403,12 +469,6 @@
         "name": "1951",
         "nameEs": "1951",
         "nameEn": "1951"
-      },
-      {
-        "slug": "1953",
-        "name": "1953",
-        "nameEs": "1953",
-        "nameEn": "1953"
       },
       {
         "slug": "1955",
@@ -426,16 +486,36 @@
         "name": "1957",
         "nameEs": "1957",
         "nameEn": "1957"
-      },{
-        "slug": "1958",
-        "name": "1958",
-        "nameEs": "1958",
-        "nameEn": "1958"
-      },{
+      },
+      {
         "slug": "1959",
         "name": "1959",
         "nameEs": "1959",
         "nameEn": "1959"
+      },
+      {
+        "slug": "1960",
+        "name": "1960",
+        "nameEs": "1960",
+        "nameEn": "1960"
+      },
+      {
+        "slug": "1961",
+        "name": "1961",
+        "nameEs": "1961",
+        "nameEn": "1961"
+      },
+      {
+        "slug": "1962",
+        "name": "1962",
+        "nameEs": "1962",
+        "nameEn": "1962"
+      },
+      {
+        "slug": "1963",
+        "name": "1963",
+        "nameEs": "1963",
+        "nameEn": "1963"
       }
      ]
   },
@@ -494,6 +574,30 @@
         "nameEn": "4027"
       },
       {
+        "slug": "4030",
+        "name": "4030",
+        "nameEs": "4030",
+        "nameEn": "4030"
+      },
+      {
+        "slug": "4031",
+        "name": "4031",
+        "nameEs": "4031",
+        "nameEn": "4031"
+      },
+      {
+        "slug": "4032",
+        "name": "4032",
+        "nameEs": "4032",
+        "nameEn": "4032"
+      },
+      {
+        "slug": "4033",
+        "name": "4033",
+        "nameEs": "4033",
+        "nameEn": "4033"
+      },
+      {
         "slug": "4580",
         "name": "4580",
         "nameEs": "4580",
@@ -524,22 +628,10 @@
         "nameEn": "4588"
       },
       {
-        "slug": "222222",
-        "name": "4597",
-        "nameEs": "4597",
-        "nameEn": "4597"
-      },
-      {
         "slug": "4607",
         "name": "4607",
         "nameEs": "4607",
         "nameEn": "4607"
-      },
-      {
-        "slug": "4615",
-        "name": "4615",
-        "nameEs": "4615",
-        "nameEn": "4615"
       },
       {
         "slug": "4620",
@@ -592,10 +684,16 @@
         "nameEn": "5036"
       },
       {
-        "slug": "5201",
-        "name": "5201",
-        "nameEs": "5201",
-        "nameEn": "5201"
+        "slug": "5041",
+        "name": "5041",
+        "nameEs": "5041",
+        "nameEn": "5041"
+      },
+      {
+        "slug": "5042",
+        "name": "5042",
+        "nameEs": "5042",
+        "nameEn": "5042"
       },
       {
         "slug": "5202",
@@ -630,28 +728,10 @@
     "category_slug": "tecidos-grupo-6", 
     "finishes": [
       {
-        "slug": "6350",
-        "name": "6350",
-        "nameEs": "6350",
-        "nameEn": "6350"
-      },
-      {
-        "slug": "6351",
-        "name": "6351",
-        "nameEs": "6351",
-        "nameEn": "6351"
-      },
-      {
         "slug": "6352",
         "name": "6352",
         "nameEs": "6352",
         "nameEn": "6352"
-      },
-      {
-        "slug": "6354",
-        "name": "6354",
-        "nameEs": "6354",
-        "nameEn": "6354"
       },
       {
         "slug": "6355",
@@ -668,18 +748,6 @@
     "category_slug": "tecidos-grupo-7", 
     "finishes": [
       {
-        "slug": "7050",
-        "name": "7050",
-        "nameEs": "7050",
-        "nameEn": "7050"
-      },
-      {
-        "slug": "7051",
-        "name": "7051",
-        "nameEs": "7051",
-        "nameEn": "7051"
-      },
-      {
         "slug": "7060",
         "name": "7060",
         "nameEs": "7060",
@@ -690,7 +758,25 @@
         "name": "7061",
         "nameEs": "7061",
         "nameEn": "7061"
-      }              
+      },
+      {
+        "slug": "7065",
+        "name": "7065",
+        "nameEs": "7065",
+        "nameEn": "7065"
+      },             
+      {
+        "slug": "7066",
+        "name": "7066",
+        "nameEs": "7066",
+        "nameEn": "7066"
+      },
+      {
+        "slug": "7067",
+        "name": "7067",
+        "nameEs": "7067",
+        "nameEn": "7067"
+      }                          
     ]
   },
   {

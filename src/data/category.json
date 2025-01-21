@@ -29,15 +29,15 @@
     },
     {
       "slug": "puffs",
-      "name": "puffs",
-      "nameEs": "puffs",
+      "name": "pufs",
+      "nameEs": "pufs",
       "nameEn": "ottomans",
       "coverImg": "category-puffs.jpg"
     },
     {
       "slug": "mesa-puff",
-      "name": "mesas e puffs",
-      "nameEs": "mesas y puffs",
+      "name": "mesas e pufs",
+      "nameEs": "mesas y pufs",
       "nameEn": "tables and ottomans",
       "coverImg": "category-mesas-e-puffs.jpg"
     },

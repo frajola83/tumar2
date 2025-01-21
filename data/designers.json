@@ -72,7 +72,7 @@
         "link": "/produtos/poltronas/java"
       },
       {
-        "name": "Poltrona e Puff Maori",
+        "name": "Poltrona e Puf Maori",
         "src": "maori-02",
         "link": "/produtos/poltronas/maori-poltrona"
       },
@@ -141,17 +141,17 @@
         "link": "/produtos/poltronas/donatela-poltrona"
       },
       {
-        "name": "Puff amintas",
+        "name": "Puf amintas",
         "src": "amintas-02",
         "link": "/produtos/bancos-e-puffs/amintas"
       },
       {
-        "name": "Puff/Mesa firenze",
+        "name": "Puf/Mesa firenze",
         "src": "firenze-puff-04",
         "link": "/produtos/bancos-e-puffs/firenze-puff"
       },
       {
-        "name": "Puff/Mesa nozes",
+        "name": "Puf/Mesa nozes",
         "src": "nozes-puff-01",
         "link": "/produtos/bancos-e-puffs/nozes"
       }
@@ -260,7 +260,7 @@
         "link": "/produtos/poltronas/moon-poltrona"
       },
       {
-        "name": "Puff Moon",
+        "name": "Puf Moon",
         "src": "moon-puff-01",
         "link": "/produtos/bancos-e-puffs/moon"
       }
@@ -280,7 +280,7 @@
         "link": "/produtos/poltronas/moon-poltrona"
       },
       {
-        "name": "Puff Moon",
+        "name": "Puf Moon",
         "src": "moon-puff-01",
         "link": "/produtos/bancos-e-puffs/moon"
       }
@@ -294,7 +294,7 @@
     "description": "Criatividade, talento e um olhar com foco na criação, o Studio T92, idealiza peças com design, essência e pluralidade.",
     "products": [
       {
-        "name": "Poltrona e Puff Jangada",
+        "name": "Poltrona e Puf Jangada",
         "src": "jangada-01-",
         "link": "/produtos/poltronas/jangada"
       },

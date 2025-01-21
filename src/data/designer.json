@@ -23,20 +23,6 @@
         "link": "/produtos/mesas-laterais-centro/ghost"
       },
       {
-        "name": "Mesa de Centro Inka",
-        "nameEn": "Inka Coffee Table",
-        "nameEs": "Mesa de Centro Inka",
-        "src": "inka-015",
-        "link": "/produtos/mesas-laterais-centro/inka"
-      },
-      {
-        "name": "Mesa de Centro Zoom",
-        "nameEn": "Zoom Coffee Table",
-        "nameEs": "Mesa de Centro Zoom",
-        "src": "zoom-01",
-        "link": "/produtos/mesas-laterais-centro/zoom"
-      },
-      {
         "name": "Mesa de Jantar Nebula",
         "nameEn": "Nebula Table",
         "nameEs": "Mesa de Comedor Nebula",
@@ -72,13 +58,6 @@
         "link": "/produtos/mesas-laterais-centro/orbe-murano"
       },
       {
-        "name": "Mesa Lateral Stage",
-        "nameEn": "Side Table Stage",
-        "nameEs": "Mesa Lateral Stage",
-        "src": "stage-01",
-        "link": "/produtos/mesas-laterais-centro/stage"
-      },
-      {
         "name": "Mesa Lateral Taos",
         "nameEn": "Taos Side Table",
         "nameEs": "Mesa Lateral Taos",
@@ -100,18 +79,18 @@
         "link": "/produtos/poltronas/hill"
       },
       {
-        "name": "Poltrona Java",
-        "nameEn": "Java Armchair",
-        "nameEs": "Sillón Java",
-        "src": "java-01",
-        "link": "/produtos/poltronas/java"
-      },
-      {
-        "name": "Poltrona e Puff Maori",
+        "name": "Poltrona e Puf Maori",
         "nameEn": "Maori Armchair and Ottoman",
-        "nameEs": "Sillón/Puff Maori",
+        "nameEs": "Sillón/Puf Maori",
         "src": "maori-02",
         "link": "/produtos/poltronas/maori-poltrona"
+      },
+      {
+        "name": "Poltrona dumbo",
+        "nameEn": "dumbo Armchair",
+        "nameEs": "Sillón dumbo",
+        "src": "dumbo-01",
+        "link": "/produtos/poltronas/dumbo"
       },
       {
         "name": "Poltrona Zion",
@@ -125,11 +104,11 @@
   {
     "id": "/designers/fabricio-roncca",
     "slug": "/designers/fabricio-roncca",
-    "title": "Fabricio Roncca",
+    "title": "Fabricio Ronca",
     "coverImg": "fabricio-roncca.jpg",
-    "description": "A Tumar firma parceria com o Designer Fabricio Roncca, paulista que cresceu em Belo Horizonte – MG, onde aprendeu a ver a arquitetura, o folclore e a arte de forma lúdica e intimista.<br /><br /> Busca a beleza, a sustentabilidade, o equilíbrio dos materiais e a memória afetiva em suas obras, tem como principal fonte de inspiração a arquitetura brasileira.",
-    "descriptionEn": "Tumar signs a partnership with the Designer Fabricio Roncca, paulista who grew up in Belo Horizonte – MG where he learned to see architecture, folklore and art in a playful and intimate way. <br /><br />He seeks beauty, sustainability, balance of materials and affective memory in his works. His main source of inspiration is Brazilian architecture.",
-    "descriptionEs": "Tumar se asocia con el diseñador Fabricio Roncca, de São Paulo, que creció en Belo Horizonte – MG, donde aprendió a ver la arquitectura, el folclore y el arte de una manera lúdica e íntima.<br /><br />Busca en sus obras la belleza, la sostenibilidad, el equilibrio de los materiales y la memoria afectiva, y su principal fuente de inspiración es la arquitectura brasileña.",
+    "description": "A Tumar firma parceria com o Designer Fabricio Ronca, paulista que cresceu em Belo Horizonte – MG, onde aprendeu a ver a arquitetura, o folclore e a arte de forma lúdica e intimista.<br /><br /> Busca a beleza, a sustentabilidade, o equilíbrio dos materiais e a memória afetiva em suas obras, tem como principal fonte de inspiração a arquitetura brasileira.",
+    "descriptionEn": "Tumar signs a partnership with the Designer Fabricio Ronca, paulista who grew up in Belo Horizonte – MG where he learned to see architecture, folklore and art in a playful and intimate way. <br /><br />He seeks beauty, sustainability, balance of materials and affective memory in his works. His main source of inspiration is Brazilian architecture.",
+    "descriptionEs": "Tumar se asocia con el diseñador Fabricio Ronca, de São Paulo, que creció en Belo Horizonte – MG, donde aprendió a ver la arquitectura, el folclore y el arte de una manera lúdica e íntima.<br /><br />Busca en sus obras la belleza, la sostenibilidad, el equilibrio de los materiales y la memoria afectiva, y su principal fuente de inspiración es la arquitectura brasileña.",
     "products": [
       {
         "name": "Banco Blu",
@@ -137,6 +116,13 @@
         "nameEs": "Banco Blu",
         "src": "blu-01",
         "link": "/produtos/banco-e-recamier/blu"
+      },
+      {
+        "name": "Banco baru",
+        "nameEn": "baru Bench",
+        "nameEs": "Banco baru",
+        "src": "baru-02",
+        "link": "/produtos/banco-e-recamier/baru"
       },
       {
         "name": "Banco Donatela",
@@ -167,11 +153,18 @@
         "link": "/produtos/banquetas/banqueta-petala"
       },
       {
-        "name": "cadeira bailo",
-        "nameEn": "bailo chair",
-        "nameEs": "silla bailo",
-        "src": "bailo-01",
-        "link": "/produtos/cadeiras/bailo"
+        "name": "Banqueta torii",
+        "nameEn": "torii stool",
+        "nameEs": "Taburete torii",
+        "src": "torii-ban-01",
+        "link": "/produtos/banquetas/banqueta-torii"
+      },
+      {
+        "name": "cadeira torii",
+        "nameEn": "torii chair",
+        "nameEs": "silla torii",
+        "src": "torii-cad-01",
+        "link": "/produtos/cadeiras/cadeira-torii"
       },
       {
         "name": "cadeira pétala",
@@ -181,11 +174,25 @@
         "link": "/produtos/cadeiras/petala-cadeira"
       },
       {
+        "name": "cadeira vic",
+        "nameEn": "vic chair",
+        "nameEs": "silla vic",
+        "src": "vic-01",
+        "link": "/produtos/cadeiras/vic"
+      },
+      {
         "name": "Carro Bar clave",
         "nameEn": "clave Bar Cart",
         "nameEs": "Carro Bar clave",
         "src": "clave-bar-01",
         "link": "/produtos/carro-bar/clave-carro-bar"
+      },
+      {
+        "name": "Carro Bar copa",
+        "nameEn": "copa Bar Cart",
+        "nameEs": "Carro Bar copa",
+        "src": "copa-01",
+        "link": "/produtos/carro-bar/copa-carro-bar"
       },
       {
         "name": "Carro Bar Donatela",
@@ -195,11 +202,11 @@
         "link": "/produtos/carro-bar/donatela-carro-bar"
       },
       {
-        "name": "Carro Bar Platô",
-        "nameEn": "Platô Bar Cart",
-        "nameEs": "Carro Bar Platô",
-        "src": "plato-01",
-        "link": "/produtos/carro-bar/plato-carro-bar"
+        "name": "carro chá donatela",
+        "nameEn": "Donatela Bar Cart",
+        "nameEs": "Carro Bar Donatela",
+        "src": "donatela-cha-01",
+        "link": "/produtos/carro-bar/donatela-carro-cha"
       },
       {
         "name": "Carro Bar terroir",
@@ -216,6 +223,20 @@
         "link": "/produtos/mesa-puff/petra"
       },
       {
+        "name": "escrivaninha sarai",
+        "nameEn": "sarai Writing desk",
+        "nameEs": "escritorio sarai",
+        "src": "sarai-esc-01",
+        "link": "/produtos/complemento/escrivaninha-sarai"
+      },
+      {
+        "name": "penteadeira sarai",
+        "nameEn": "sarai dressing table",
+        "nameEs": "tocador sarai",
+        "src": "sarai-pent-01",
+        "link": "/produtos/complemento/penteadeira-sarai"
+      },
+      {
         "name": "espelho shizen",
         "nameEn": "shizen mirror",
         "nameEs": "espejo shizen",
@@ -223,11 +244,18 @@
         "link": "/produtos/complemento/shizen"
       },
       {
-        "name": "Mesa Lateral Donatela",
-        "nameEn": "Donatela Side Table",
-        "nameEs": "Mesa Lateral Donatela",
-        "src": "donatela-mesa-03",
-        "link": "/produtos/mesas-laterais-centro/donatela-mesa"
+        "name": "Mesa Lateral antera",
+        "nameEn": "Maria Side Table",
+        "nameEs": "Mesa Lateral antera",
+        "src": "antera-02",
+        "link": "/produtos/mesas-laterais-centro/antera"
+      },
+      {
+        "name": "Mesa Lateral domus",
+        "nameEn": "Maria Side Table",
+        "nameEs": "Mesa Lateral domus",
+        "src": "domus-02",
+        "link": "/produtos/mesas-laterais-centro/domus"
       },
       {
         "name": "Mesa Lateral maria",
@@ -244,25 +272,25 @@
         "link": "/produtos/mesas-laterais-centro/rhodes"
       },
       {
-        "name": "Puff amintas",
+        "name": "Puf amintas",
         "nameEn": "Amintas Ottoman",
-        "nameEs": "Puff amintas",
+        "nameEs": "Puf amintas",
         "src": "amintas-02",
         "link": "/produtos/puffs/amintas"
       },
       {
-        "name": "mesa e puff firenze",
-        "nameEn": "Firenze Ottoman and Table",
-        "nameEs": "mesa y puff firenze",
-        "src": "firenze-puff-04",
-        "link": "/produtos/mesa-puff/firenze-puff"
+        "name": "mesa e puf cedro",
+        "nameEn": "cedro Ottoman and Table",
+        "nameEs": "mesa y puf cedro",
+        "src": "cedro-01",
+        "link": "/produtos/mesa-puff/cedro-puff"
       },
       {
-        "name": "mesa e puff clave",
-        "nameEn": "clave Ottoman and Table",
-        "nameEs": "mesa y puff clave",
-        "src": "clave-02",
-        "link": "/produtos/mesa-puff/clave"
+        "name": "mesa e puf firenze",
+        "nameEn": "Firenze Ottoman and Table",
+        "nameEs": "mesa y puf firenze",
+        "src": "firenze-puff-04",
+        "link": "/produtos/mesa-puff/firenze-puff"
       },
       {
         "name": "Recamier Blu",
@@ -278,15 +306,15 @@
     "slug": "/designers/razzera",
     "title": "Estúdio Razzera Ibanez + Lorenzo",
     "coverImg": "ibanez-razzera.jpg",
-    "description": "É a evolução, um somatório, uma herança de pai para filho. A experiência da marcenaria, o olhar sobre máquinas e processos, o traço do arquiteto Ibanez Razzera, se unem ao talento, a jovialidade e ao mundo digital de Lorenzo Razzera.",
-    "descriptionEn": "It is evolution, na addition, an inheritance from father to son. The experience of carpentry, the look at machines and processes, the architect Ibanez Razzera's traits, combine with the talent, joviality and digital world of Lorenzo Razzera.",
-    "descriptionEs": "Es evolución, suma, herencia de padres a hijos. La experiencia de la carpintería, la mirada sobre las máquinas y los procesos, los rasgos del arquitecto Ibáñez Razzera, se combinan con el talento, la jovialidad y el mundo digital de Lorenzo Razzera.",
+    "description": "É a evolução, um somatório, uma herança de pai para filho. A experiência da marcenaria, o olhar sobre máquinas e processos, o traço do arquiteto Ibanez Razzera, se unem ao talento, à jovialidade e ao olhar inovador de Lorenzo Razzera.",
+    "descriptionEn": "Razzera is an evolution, a sum, a legacy passed from father to son. The experience of woodworking, the view on machines and processes, the line of the architect Ibanez Razzera, merges with the talent, youth, and innovative perspective of Lorenzo Razzera.",
+    "descriptionEs": "Es evolución, una suma, una herencia de padre a hijo. La experiencia de la carpintería, la mirada a las máquinas y los procesos, el estilo del arquitecto Ibáñez Razzera, se unen al talento, la juventud y la visión innovadora de Lorenzo Razzera.",
     "products": [
       {
         "name": "aparador minimal",
         "nameEn": "minimal sideboard",
         "nameEs": "aparador minimal",
-        "src": "minimal",
+        "src": "minimal-03",
         "link": "/produtos/aparadores/minimal"
       },
       {
@@ -295,6 +323,13 @@
         "nameEs": "aparador recato",
         "src": "recato-01",
         "link": "/produtos/aparadores/recato"
+      },
+      {
+        "name": "Banqueta Sotile",
+        "nameEn": "Sotile Stool",
+        "nameEs": "Taburete Sotile",
+        "src": "sotile-ban-02",
+        "link": "/produtos/banquetas/banqueta-sotile"
       },
       {
         "name": "Banqueta Tiê",
@@ -311,6 +346,13 @@
         "link": "/produtos/cadeiras/alma"
       },
       {
+        "name": "Cadeira alva",
+        "nameEn": "alva Chair",
+        "nameEs": "Silla alva",
+        "src": "alva-01",
+        "link": "/produtos/cadeiras/alva"
+      },
+      {
         "name": "Cadeira arc",
         "nameEn": "Arc Chair",
         "nameEs": "Silla arc",
@@ -318,11 +360,32 @@
         "link": "/produtos/cadeiras/arc-cadeira"
       },
       {
+        "name": "Cadeira bodó",
+        "nameEn": "bodó Chair",
+        "nameEs": "Silla bodó",
+        "src": "bodo-01",
+        "link": "/produtos/cadeiras/bodo"
+      },
+      {
+        "name": "Cadeira bucco",
+        "nameEn": "bucco Chair",
+        "nameEs": "Silla bucco",
+        "src": "bucco-01",
+        "link": "/produtos/cadeiras/bucco"
+      },
+      {
         "name": "Cadeira coral com e sem braço",
         "nameEn": "Coral Chair",
         "nameEs": "Silla coral",
         "src": "coral-cad-01",
         "link": "/produtos/cadeiras/coral-cadeira"
+      },
+      {
+        "name": "Cadeira kahlo",
+        "nameEn": "kahlo Chair",
+        "nameEs": "Silla kahlo",
+        "src": "kahlo-02",
+        "link": "/produtos/cadeiras/kahlo"
       },
       {
         "name": "Cadeira Kore",
@@ -344,6 +407,27 @@
         "nameEs": "Silla levi sin esferas",
         "src": "levi2-01",
         "link": "/produtos/cadeiras/levi-sem-esferas"
+      },
+      {
+        "name": "Cadeira mitti",
+        "nameEn": "mitti Chair",
+        "nameEs": "Silla mitti",
+        "src": "mitti-02",
+        "link": "/produtos/cadeiras/mitti"
+      },
+      {
+        "name": "Cadeira palla",
+        "nameEn": "palla Chair",
+        "nameEs": "Silla palla",
+        "src": "palla-cad-01",
+        "link": "/produtos/cadeiras/palla-cadeira"
+      },
+      {
+        "name": "Cadeira senda",
+        "nameEn": "senda Chair",
+        "nameEs": "Silla senda",
+        "src": "senda-01",
+        "link": "/produtos/cadeiras/senda"
       },
       {
         "name": "Cadeira Skin",
@@ -444,6 +528,20 @@
         "link": "/produtos/poltronas/coral-poltrona"
       },
       {
+        "name": "Poltrona forza",
+        "nameEn": "forza Armchair",
+        "nameEs": "Sillón forza",
+        "src": "forza-01",
+        "link": "/produtos/poltronas/forza"
+      },
+      {
+        "name": "Poltrona gamboa",
+        "nameEn": "gamboa Armchair",
+        "nameEs": "Sillón gamboa",
+        "src": "gamboa-01",
+        "link": "/produtos/poltronas/gamboa"
+      },
+      {
         "name": "Poltrona palla",
         "nameEn": "palla Armchair",
         "nameEs": "Sillón palla",
@@ -458,8 +556,8 @@
         "link": "/produtos/poltronas/toro"
       },
       {
-        "name": "Poltrona /Puff Trenta",
-        "nameEn": "Trenta Armchair /Puff",
+        "name": "Poltrona /Puf Trenta",
+        "nameEn": "Trenta Armchair /Puf",
         "nameEs": "Sillón trenta",
         "src": "trenta-03",
         "link": "/produtos/poltronas/trenta"
@@ -484,6 +582,13 @@
         "link": "/produtos/poltronas/afago"
       },
       {
+        "name": "Poltrona afago e puf",
+        "nameEn": "Afago and ottoman Armchair",
+        "nameEs": "Sillón afago y puf",
+        "src": "afago-e-puf-01",
+        "link": "/produtos/poltronas/afago-e-puf"
+      },
+      {
         "name": "Poltrona maia",
         "nameEn": "maia Armchair",
         "nameEs": "Sillón maia",
@@ -498,9 +603,9 @@
         "link": "/produtos/poltronas/nara"
       },
       {
-        "name": "Puff Moon",
+        "name": "Puf Moon",
         "nameEn": "Moon Ottoman",
-        "nameEs": "Puff Moon",
+        "nameEs": "Puf Moon",
         "src": "moon-puff-01",
         "link": "/produtos/puffs/moon"
       },
@@ -519,11 +624,11 @@
         "link": "/produtos/mesas-laterais-centro/gota"
       },
       {
-        "name": "Mesa de Centro Trevo",
-        "nameEn": "Trevo coffee Table",
-        "nameEs": "Mesa de Centro Trevo",
-        "src": "trevo-01",
-        "link": "/produtos/mesas-laterais-centro/trevo"
+        "name": "espelho metamorfose",
+        "nameEn": "Metamorfose mirror",
+        "nameEs": "Espejo Metamorfose",
+        "src": "metamorfose-01",
+        "link": "/produtos/complemento/metamorfose"
       }
     ]
   },
@@ -559,6 +664,20 @@
         "link": "/produtos/cadeiras/olivia"
       },
       {
+        "name": "Cadeira su",
+        "nameEn": "su Chair",
+        "nameEs": "Silla su",
+        "src": "su-01",
+        "link": "/produtos/cadeiras/su"
+      },
+      {
+        "name": "Mesa Lateral brut",
+        "nameEn": "brut Side Table",
+        "nameEs": "Mesa Lateral brut",
+        "src": "brut-02",
+        "link": "/produtos/mesas-laterais-centro/brut"
+      },
+      {
         "name": "Mesa Lateral doppio concreto",
         "nameEn": "doppio concrete Side Table",
         "nameEs": "Mesa Lateral doppio concreto",
@@ -580,6 +699,13 @@
         "link": "/produtos/mesas-laterais-centro/lina"
       },
       {
+        "name": "Mesa de Jantar leme",
+        "nameEn": "leme Table",
+        "nameEs": "Mesa de Comedor leme",
+        "src": "leme-01",
+        "link": "/produtos/mesas-de-jantar/leme"
+      },
+      {
         "name": "Poltrona Bag",
         "nameEn": "Bag Armchair",
         "nameEs": "Sillón Bag",
@@ -594,6 +720,13 @@
         "link": "/produtos/poltronas/delta"
       },
       {
+        "name": "Poltrona dom",
+        "nameEn": "dom Armchair",
+        "nameEs": "Sillón dom",
+        "src": "dom-01",
+        "link": "/produtos/poltronas/dom"
+      },
+      {
         "name": "Poltrona dot",
         "nameEn": "dot Armchair",
         "nameEs": "Sillón dot",
@@ -601,9 +734,9 @@
         "link": "/produtos/poltronas/dot"
       },
       {
-        "name": "Poltrona e Puff Muar",
+        "name": "Poltrona e Puf Muar",
         "nameEn": "Muar Armchair and Ottoman",
-        "nameEs": "Sillón y puff muar",
+        "nameEs": "Sillón y puf muar",
         "src": "muar-01",
         "link": "/produtos/poltronas/muar"
       },
@@ -640,9 +773,9 @@
     "descriptionEs": "Creatividad, talento y foco en la creación, Studio T92, idealiza piezas con diseño, esencia y pluralidad.",
     "products": [
       {
-        "name": "Poltrona e Puff Jangada",
+        "name": "Poltrona e Puf Jangada",
         "nameEn": "Jangada Armchair and Ottoman",
-        "nameEs": "Sillón/Puff Jangada",
+        "nameEs": "Sillón/Puf Jangada",
         "src": "jangada-01-",
         "link": "/produtos/poltronas/jangada"
       },
@@ -654,11 +787,18 @@
         "link": "/produtos/poltronas/boomerang"
       },
       {
-        "name": "Poltrona Ivy",
-        "nameEn": "Ivy Armchair",
-        "nameEs": "Sillón Ivy",
-        "src": "ivy-01",
-        "link": "/produtos/poltronas/ivy"
+        "name": "Poltrona brisa",
+        "nameEn": "brisa Armchair",
+        "nameEs": "Sillón brisa",
+        "src": "brisa-01",
+        "link": "/produtos/poltronas/brisa"
+      },
+      {
+        "name": "Poltrona savói",
+        "nameEn": "savói Armchair",
+        "nameEs": "Sillón savói",
+        "src": "savoi-01",
+        "link": "/produtos/poltronas/savoi"
       },
       {
         "name": "Cadeira Aurora",
@@ -703,11 +843,32 @@
         "link": "/produtos/cadeiras/petit"
       },
       {
+        "name": "Cadeira siena",
+        "nameEn": "siena Chair",
+        "nameEs": "Silla siena",
+        "src": "siena-01",
+        "link": "/produtos/cadeiras/siena"
+      },
+      {
+        "name": "Cadeira vega",
+        "nameEn": "vega Chair",
+        "nameEs": "Silla vega",
+        "src": "vega-01",
+        "link": "/produtos/cadeiras/vega"
+      },
+      {
         "name": "Banqueta Fit",
         "nameEn": "Fit Stool",
         "nameEs": "Taburete Fit",
         "src": "fit-04",
         "link": "/produtos/banquetas/banqueta-fit"
+      },
+      {
+        "name": "Puf duo",
+        "nameEn": "duo Ottoman",
+        "nameEs": "Puf duo",
+        "src": "duo-01",
+        "link": "/produtos/puffs/duo"
       },
       {
         "name": "macebo ellos",

@@ -133,7 +133,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInner>
               <StaticImage
-                src="../../images/home/tie-home.jpg"
+                src="../../images/home/petala-home.jpg"
                 alt="Banquetas"
                 quality={100}
               />
@@ -147,7 +147,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInner>
               <StaticImage
-                src="../../images/home/sela-home.jpg"
+                src="../../images/home/bodo-home.jpg"
                 alt="Banquetas"
                 quality={100}
               />
@@ -163,7 +163,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInner>
               <StaticImage
-                src="../../images/home/nebula-home.jpg"
+                src="../../images/home/leme-home.jpg"
                 alt="Banquetas"
                 quality={100}
               />
@@ -179,7 +179,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInner>
               <StaticImage
-                src="../../images/home/blu-home.jpg"
+                src="../../images/home/varial-home.jpg"
                 alt="Banquetas"
                 quality={100}
               />
@@ -193,7 +193,7 @@ export const HomeGallery: React.FC = () => {
             </ImageContainerTitle>
             <ImgInnerPoltrona>
               <StaticImage
-                src="../../images/home/abbraccio-20.jpg"
+                src="../../images/home/gamboa-home.jpg"
                 alt="Banquetas"
                 quality={100}
               />
