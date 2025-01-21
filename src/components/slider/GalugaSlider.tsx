@@ -78,30 +78,30 @@ export const GalugaSlider = () => {
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/delta">
+              <Slide to="/produtos/poltronas/dom">
                 <StaticImage
-                  src="../../images/home/banners/delta-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/dom-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/levi">
+              <Slide to="/produtos/poltronas/gamboa">
                 <StaticImage
-                  src="../../images/home/banners/levi-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/gamboa-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/poltronas/toro">
+              <Slide to="/produtos/cadeiras/bodo">
                 <StaticImage
-                  src="../../images/home/banners/toro-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/bodo-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/">
+              <Slide to="/produtos/cadeiras/mitti">
                 <StaticImage
-                  src="../../images/home/banners/manifesto-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/mitti-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
@@ -148,30 +148,30 @@ export const GalugaSlider = () => {
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/delta">
+              <Slide to="/produtos/poltronas/dom">
                 <StaticImage
-                  src="../../images/home/banners/delta-banner-mobile-768-en.jpg"
+                  src="../../images/home/banners/dom-banner-mobile-768-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/levi">
+              <Slide to="/produtos/poltronas/gamboa">
                 <StaticImage
-                  src="../../images/home/banners/levi-banner-mobile-768-en.jpg"
+                  src="../../images/home/banners/gamboa-banner-mobile-768-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/poltronas/toro">
+              <Slide to="/produtos/cadeiras/bodo">
                 <StaticImage
-                  src="../../images/home/banners/toro-banner-mobile-768-en.jpg"
+                  src="../../images/home/banners/bodo-banner-mobile-768-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/">
+              <Slide to="/produtos/cadeiras/mitti">
                 <StaticImage
-                  src="../../images/home/banners/manifesto-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/mitti-banner-mobile-768-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
@@ -218,30 +218,30 @@ export const GalugaSlider = () => {
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/delta">
+              <Slide to="/produtos/poltronas/dom">
                 <StaticImage
-                  src="../../images/home/banners/delta-banner-mobile-768-es.jpg"
+                  src="../../images/home/banners/dom-banner-mobile-768-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/levi">
+              <Slide to="/produtos/poltronas/gamboa">
                 <StaticImage
-                  src="../../images/home/banners/levi-banner-mobile-768-es.jpg"
+                  src="../../images/home/banners/gamboa-banner-mobile-768-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/poltronas/toro">
+              <Slide to="/produtos/cadeiras/bodo">
                 <StaticImage
-                  src="../../images/home/banners/toro-banner-mobile-768-es.jpg"
+                  src="../../images/home/banners/bodo-banner-mobile-768-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/">
+              <Slide to="/produtos/cadeiras/mitti">
                 <StaticImage
-                  src="../../images/home/banners/manifesto-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/mitti-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
