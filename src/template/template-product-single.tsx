@@ -34,6 +34,9 @@ export const pageQuery = graphql`
       measurements
       measurementsEn
       measurementsEs
+      concept
+      conceptEs
+      conceptEn
     }
     locales: allLocale(filter: { language: { eq: $language } }) {
       edges {
