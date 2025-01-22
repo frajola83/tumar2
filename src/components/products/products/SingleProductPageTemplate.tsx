@@ -26,6 +26,7 @@ import {
   SliderContainer,
   TopWrapper
 } from "./ProductStyles"
+import { ProductConcept } from "./ProductConcept"
 
 const RefContainer = styled.span`
   font-family: Arial, Helvetica, sans-serif;
@@ -66,6 +67,9 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     measurements,
     measurementsEn,
     measurementsEs,
+    concept,
+    conceptEs,
+    conceptEn,
     name,
     nameEn,
     nameEs,
@@ -84,10 +88,12 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
   let productMeasurements = measurements
   let productDescription: string = description
   let productName = name
+  let productConcept = concept
 
   if (context.language === "en") {
     productDescription = descriptionEn
     productMeasurements = measurementsEn
+    productConcept = conceptEn
     if (nameEn) {
       productName = nameEn
     }
@@ -95,6 +101,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
   if (context.language === "es") {
     productDescription = descriptionEs
     productMeasurements = measurementsEs
+    productConcept = conceptEs
     if (nameEs) {
       productName = nameEs
     }
@@ -103,9 +110,19 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     }
   }
 
+  let conceptMarkup: any
+
+
   const descriptionMarkup = {
     __html: productDescription.replace(/\n/g, "<br/>"),
   }
+
+  if (productConcept) {
+    conceptMarkup = {
+      __html: productConcept.replace(/\n/g, "<br/>"),
+    }
+  }
+
 
   return (
     <Container>
@@ -170,6 +187,10 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             </MeasurementHelp>
           </InfoContainer>
         </TopWrapper>
+        {!!product.concept && <div>
+          <DescriptionTitle>{t("concept.title")}</DescriptionTitle>
+          <DescriptionText dangerouslySetInnerHTML={conceptMarkup} />
+        </div>}
         {ambients.length ? (
           <AmbientsWrapper>
             <AmbientsTitle>

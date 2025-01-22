@@ -61,6 +61,9 @@ export interface Product {
   nameEn?: string
   nameEs?: string
   nameEs_?: string
+  concept?: string
+  conceptEn?: string
+  conceptEs?: string
 }
 
 export type CategoryNode = {

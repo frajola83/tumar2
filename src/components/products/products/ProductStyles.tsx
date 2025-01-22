@@ -118,7 +118,7 @@ const MeasurementHelp = styled.p`
 
 const AmbientsWrapper = styled(Flex)`
   flex-direction: column;
-  margin-top: ${props => props.theme.gap * 4}px;
+  margin-top: ${props => props.theme.gap * 2}px;
 `
 const AmbientsTitle = styled(DescriptionTitle)``
 
