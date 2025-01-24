@@ -1077,10 +1077,7 @@
         "845 x 575 x 590"
       ],
       "images": [
-        "bella-01",
-        "bella-02",
-        "bella-03",
-        "bella-04"
+        "bella-01"
       ],
       "ambients": [],
       "variations": []
@@ -1091,7 +1088,7 @@
       "name": "Bella com Braço",
       "nameEs:": "Bella con brazos",
       "nameEn": "Bella with arms",
-      "cover_img": "bella-01",
+      "cover_img": "bella-04",
       "designer_name": "",
       "designer_slug": "",
       "category_slug": "cadeiras",
@@ -1109,10 +1106,9 @@
         "845 x 625 x 590"
       ],
       "images": [
-        "bella-01",
-        "bella-02",
+        "bella-04",
         "bella-03",
-        "bella-04"
+        "bella-02"
       ],
       "ambients": [],
       "variations": []
