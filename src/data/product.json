@@ -62,7 +62,7 @@
       "variations": []
     },
     {
-      "ref": "Ref.3025",
+      "ref": "Ref.3025 | 1133",
       "slug": "afago-e-puf",
       "name": "afago e puf",
       "nameEs:": "afago y puf",
@@ -180,13 +180,7 @@
         "boomerang-01",
         "boomerang-02"
       ],
-      "ambients": [
-        "boomerang-amb-01",
-        "boomerang-amb-02",
-        "boomerang-amb-03",
-        "boomerang-amb-05",
-        "boomerang-amb-07"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -486,7 +480,7 @@
       "variations": []
     },
     {
-      "ref": "-Ref.2970 -Ref.1124",
+      "ref": "-Ref.2970 | 1124",
       "slug": "jangada",
       "name": "jangada",
       "cover_img": "jangada-01-",
@@ -831,9 +825,7 @@
         "urban-02",
         "urban-04"
       ],
-      "ambients": [
-        "urban-amb-01"
-      ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -982,11 +974,9 @@
       ],
       "ambients": [
         "amelie-cad-amb-01",
-        "amelie-cad-amb-02",
         "amelie-cad-amb-03",
         "amelie-cad-amb-04",
         "amelie-cad-amb-05",
-        "amelie-cad-amb-06",
         "amelie-cad-amb-07",
         "amelie-cad-amb-08",
         "amelie-cad-amb-09",
@@ -1564,7 +1554,6 @@
         "malu-02"
       ],
       "ambients": [
-        "malu-03"
       ],
       "variations": []
     },
@@ -1647,9 +1636,9 @@
       "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base fixa em madeira maciça tingida.",
       "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs and seat.",
       "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base fija de madera maciza teñida.",
-      "concept":"A cadeira MITT representa muito do nosso processo criativo e que está intimamente conectado com a tecnologia e o processo industrial. O encosto estofado em forma elíptica se encaixa em uma travessa de madeira com usinagem complexa e sofisticada, assim como o assento, inserido em uma base de madeira com uma elegante borda usinada. O nome MITT é uma homenagem e reconhecimento a esta simbiose entre nosso processo criativo, engenharia e tecnologia instalada com o talento de um chão de fábrica altamente capacitado.",
-      "conceptEs":"La silla MITT representa gran parte de nuestro proceso creativo, que está estrechamente relacionado con la tecnología y el proceso industrial. El respaldo tapizado, de forma elíptica, encaja en un plato de madera con un complejo y sofisticado mecanizado, al igual que el asiento, encajado en una base de madera con un elegante borde mecanizado. El nombre MITT es un homenaje y reconocimiento a esta simbiosis entre nuestro proceso creativo, ingeniería y tecnología instalada con el talento de una fábrica altamente calificada.",
-      "conceptEn":"The Mitti chair represents our creative process, which is closely connected with technology and industrial processes. The upholstered elliptical backrest fits into a wooden frame with complex and sophisticated machining, as well as the seat wich is set into a wooden base with an elegantly machined edges. The name Mitti is a tribute and acknowledgment of this symbiosis between our creative process, engineering and technology, all supported by the talent of a highly skilled manufacturing team.",
+      "concept":"A cadeira MITTI representa muito do nosso processo criativo e que está intimamente conectado com a tecnologia e o processo industrial. O encosto estofado em forma elíptica se encaixa em uma travessa de madeira com usinagem complexa e sofisticada, assim como o assento, inserido em uma base de madeira com uma elegante borda usinada. O nome MITTI é uma homenagem e reconhecimento a esta simbiose entre nosso processo criativo, engenharia e tecnologia instalada com o talento de um chão de fábrica altamente capacitado.",
+      "conceptEs":"La silla MITTI representa gran parte de nuestro proceso creativo, que está estrechamente relacionado con la tecnología y el proceso industrial. El respaldo tapizado, de forma elíptica, encaja en un plato de madera con un complejo y sofisticado mecanizado, al igual que el asiento, encajado en una base de madera con un elegante borde mecanizado. El nombre MITTI es un homenaje y reconocimiento a esta simbiosis entre nuestro proceso creativo, ingeniería y tecnología instalada con el talento de una fábrica altamente calificada.",
+      "conceptEn":"The MITTI chair represents our creative process, which is closely connected with technology and industrial processes. The upholstered elliptical backrest fits into a wooden frame with complex and sophisticated machining, as well as the seat wich is set into a wooden base with an elegantly machined edges. The name MITTI is a tribute and acknowledgment of this symbiosis between our creative process, engineering and technology, all supported by the talent of a highly skilled manufacturing team.",
       "measurementsEn": [
         "31,69 x 16,92 x 25,78"
       ],
@@ -1964,8 +1953,8 @@
       "description": "Cadeira estofada com estrutura interna do encosto hibrida e assento em multilaminado estofado. Base em madeira maciça tingida ",
       "descriptionEn": "Upholstered chair with hybrid internal structure, plywood seat. Stained wooden machined legs.",
       "descriptionEs": "Silla tapizada con estructura interna de respaldo híbrido y asiento tapizado en multilaminado. Base de madera maciza teñida.",
-      "concept":"Premiada no Salão de Design, a cadeira Sela faz um resgate do trabalho em couro, tradicional do homem do pampa gaúcho. A peça apresenta um desenho elegante sobre uma fina estrutura de aço com encosto em couro e pés em madeira maciça.",
-      "conceptEs":"Premiada en el Salón de Diseño, la silla Sela revive el trabajo en cuero, tradicional del hombre de la región pampeana de Rio Grande do Sul. La pieza presenta un diseño elegante sobre una fina estructura de acero con respaldo de cuero y patas de madera maciza.",
+      "concept":"Premiada no Salão de Design, a cadeira Sela faz um resgate do trabalho em couro, tradicional do homem do pampa gaúcho. A peça apresenta um desenho elegante sobre uma fina estrutura de aço com encosto em couro e pés em madeira maciça. A peça utiliza o couro como forma de valorizar o trabalho de selaria e mão de obra artesanal.",
+      "conceptEs":"Premiada en el Salón de Diseño, la silla Sela revive el trabajo en cuero, tradicional del hombre de la región pampeana de Rio Grande do Sul. La pieza presenta un diseño elegante sobre una fina estructura de acero con respaldo de cuero y patas de madera maciza. La pieza utiliza el cuero como forma de realzar la talabartería y el trabajo artesanal.",
       "conceptEn":"Awarded at the Salão de Design, the Sela chair revives the traditional leatherworking of the Gaucho’s Pampas. The piece features an elegant design over a thin steel frame, with a leather backrest and solid wood legs. The leather is used to highlight saddlework and skilled craftsmanship.",
       "measurementsEn": [
         "31.10 x 25.78 x 23.81"
@@ -2019,7 +2008,7 @@
       "variations": []
     },
     {
-      "ref": "",
+      "ref": "Ref.3030",
       "slug": "su",
       "name": "su",
       "cover_img": "su-01",
@@ -2296,9 +2285,6 @@
         "box-02"
       ],
       "ambients": [
-        "box-amb-06",
-        "box-amb-01",
-        "box-amb-02",
         "box-amb-03",
         "box-amb-04",
         "box-amb-10"
@@ -2515,9 +2501,9 @@
       "description": "Banqueta com estrutura interna em multilaminado anatômico estofada. Estrutura tubular pintada. Detalhe no encosto em madeira maciça tingida.",
       "descriptionEn": "Upholstered stool with plywood seat and backrest. Painted carbon steel tube legs. Stained wooden machined back detail.",
       "descriptionEs": "Taburete con estructura interna en multilaminado anatómico tapizado. Estructura tubular pintada. Detalle del respaldo en madera maciza teñida.",
-      "concept":"Com elementos da cultura e arquitetura japonesa minimalista e elegante, a cadeira Torii remete aos portais que simbolizam a passagem do mundo natural para o sagrado. Quis trazer nesta peça esta concepção a casa, a mesa e a família, como o lugar sagrado onde nos encontramos para compartilhar os alimentos, momentos especiais e memoráveis. A função de um torii é marcar a entrada para um espaço sagrado.",
-      "conceptEs":"Con elementos de la cultura y arquitectura japonesa minimalista y elegante, la silla Torii hace referencia a los portales que simbolizan el paso del mundo natural al sagrado. En esta pieza quise traer esta concepción del hogar, la mesa y la familia, como el lugar sagrado donde nos reunimos para compartir comida, momentos especiales y memorables. La función de un torii es marcar la entrada a un espacio sagrado.",
-      "conceptEn":"With elements of minimalist and elegant Japanese culture and architecture, Torii chair evokes the gates that symbolize the passage from the natural world to the sacred. “In this piece, I wanted to bring this concept into the home, the table, and the family, as the sacred space where we gather to share food, special and memorable moments.” The function of a torii is to mark the entrance to a sacred space.",
+      "concept":"Com elementos da cultura e arquitetura japonesa minimalista e elegante, a banqueta Torii remete aos portais que simbolizam a passagem do mundo natural para o sagrado. Quis trazer nesta peça esta concepção a casa, a mesa e a família, como o lugar sagrado onde nos encontramos para compartilhar os alimentos, momentos especiais e memoráveis. A função de um torii é marcar a entrada para um espaço sagrado.",
+      "conceptEs":"Con elementos de la cultura y arquitectura japonesa minimalista y elegante, la taburete Torii hace referencia a los portales que simbolizan el paso del mundo natural al sagrado. En esta pieza quise traer esta concepción del hogar, la mesa y la familia, como el lugar sagrado donde nos reunimos para compartir comida, momentos especiales y memorables. La función de un torii es marcar la entrada a un espacio sagrado.",
+      "conceptEn":"With elements of minimalist and elegant Japanese culture and architecture, Torii upholstered stool evokes the gates that symbolize the passage from the natural world to the sacred. “In this piece, I wanted to bring this concept into the home, the table, and the family, as the sacred space where we gather to share food, special and memorable moments.” The function of a torii is to mark the entrance to a sacred space.",
       "measurementsEn": [
         "High: 41,92 x 20,07 x 24,80",
         "Medium: 37,99 x 20,07 x 24,80"
@@ -2704,9 +2690,9 @@
       "description": "Mesa lateral com base e tampo em madeira maciça tingida. Estrutura central tubular. Esfera usinada. Tampo pode ser em madeira maciça ou mármore. Opção de base e tampo em concreto.",
       "descriptionEn": "ide table with base options: machined solid MDF coated with natural wood veneer or solid concrete. Table top options: MDF coated with natural wood veneer; marble or concrete. Painted carbon steel tube structure. Stained wooden machined sphere detail. Option: high and medium size",
       "descriptionEs": "Mesa auxiliar con base y tapa de madera maciza teñida. Estructura central tubular. Esfera mecanizada. La tapa puede ser de madera maciza o de mármol.Opción de base y tapa de hormigón.",
-      "concept":"Inspirada na biomimética onde elementos da natureza se fundem ao design, as mesas Anthera remetem ao florescimento das plantas, os tampos orgânicos criam efeitos inusitados de composição de acordo com a posição das peças. Os acabamentos podem ser em madeira, cimento ou pedra.",
-      "conceptEs":"Inspiradas en el biomímesis donde los elementos de la naturaleza se fusionan con el diseño, las mesas Anthera hacen referencia al florecimiento de las plantas, las tapas orgánicas crean efectos compositivos inusuales según la posición de las piezas. Los acabados pueden ser en madera, cemento o piedra.",
-      "conceptEn":"Inspired by biomimicry, where elements of nature blend with design, the Antera tables evoke the blooming of plants, with organic tops creating unique compositional effects depending on their positioning.",
+      "concept":"Inspirada na biomimética onde elementos da natureza se fundem ao design, as mesas Anthera remetem ao florescimento das plantas, os tampos orgânicos criam efeitos inusitados de composição de acordo com a posição das peças. Os acabamentos podem ser em madeira, concreto ou pedra.",
+      "conceptEs":"Inspiradas en el biomímesis donde los elementos de la naturaleza se fusionan con el diseño, las mesas Anthera hacen referencia al florecimiento de las plantas, las tapas orgánicas crean efectos compositivos inusuales según la posición de las piezas. Los acabados pueden ser en madera, hormigón o piedra.",
+      "conceptEn":"Inspired by biomimicry, where elements of nature blend with design, the Antera tables evoke the blooming of plants, with organic tops creating unique compositional effects depending on their positioning. Finishes can be in wood, concrete or stone",
       "measurementsEn": ["High: 25,59 x 25,98 x 14,96","Medium: 21,25 x 17,12 x 12,99"],
       "measurements": ["Alto 650 x 660 x 380","Medio 540 x 435 x 330"],
       "measurementsEs": [
@@ -3181,7 +3167,7 @@
       "ref": "MES.2479",
       "slug": "starck",
       "name": "starck",
-      "cover_img": "starck-01",
+      "cover_img": "starck-02",
       "designer_slug": "",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
@@ -3201,7 +3187,6 @@
         "Promedio: 500 x 450 x 450"
       ],
       "images": [
-        "starck-01",
         "starck-02",
         "starck-03"
       ],
@@ -3452,14 +3437,7 @@
         "firenze-puff-04",
         "firenze-mesa-01"
       ],
-      "ambients": ["firenze-puff-amb-01",
-      "firenze-puff-amb-02",
-      "firenze-puff-amb-03",
-      "firenze-puff-amb-04",
-      "firenze-puff-amb-05",
-      "firenze-puff-amb-07",
-      "firenze-puff-amb-08"
-    ],
+      "ambients": [],
       "variations": []
     },
     {
@@ -3531,7 +3509,7 @@
       "variations": []
     },
     {
-      "ref": "PU.1113/1114",
+      "ref": "PU.1113",
       "slug": "moon",
       "name": "moon",
       "cover_img": "moon-puff-01",
@@ -3634,8 +3612,6 @@
         "petra-01"
       ],
       "ambients": [
-        "petra-amb-01",
-        "petra-amb-02"
       ],
       "variations": []
     },
@@ -3769,7 +3745,7 @@
       "ref": "-Ref.2000",
       "slug": "minimal",
       "name": "minimal",
-      "cover_img": "minimal-03",
+      "cover_img": "minimal-04",
       "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "aparadores",
@@ -3783,8 +3759,8 @@
         "800 x 1800 x 510" , "800 x 2000 x 510" , "800 x 2200 x 510"
       ],
       "images": [
-        "minimal-03",
-        "minimal-04"
+        "minimal-04",
+        "minimal-03"
       ],
       "ambients": [],
       "variations": []
@@ -4002,7 +3978,7 @@
       "description": "Luminária com estrutura em metal, acessórios em madeira maciça usinada, tingida. Luz em circuito de Led com sensor IR.",
       "descriptionEn": "Table lamp with carbon steel sheet and tube structure, machined solid wood accessories. Light in LED circuit with IR sensor.",
       "descriptionEs": "Luminaria con estructura de metal, accesorios en madera maciza mecanizada, teñida. Luz en circuito LED con sensor IR.",
-      "concept":"A Luminária Oroboro faz referência ao símbolo ancestral de uma serpente que se alimenta da própria cauda, presente, presente em diversas culturas do mundo. Uma peça de decoração o simbólica, carregada de significado e profundidade.",
+      "concept":"A Luminária Oroboro faz referência ao símbolo ancestral de uma serpente que se alimenta da própria cauda, presente em diversas culturas do mundo. Uma peça de decoração o simbólica, carregada de significado e profundidade.",
       "conceptEs":"La Lámpara Oroboro hace referencia al símbolo ancestral de una serpiente que se alimenta de su propia cola, presente en diferentes culturas alrededor del mundo. Una pieza decorativa simbólica, cargada de significado y profundidad.",
       "conceptEn":"The Oroboro lamp references the ancient symbol of a snake eating its own tail, a motif found in various cultures worldwide. A symbolic and decorative piece, filled with meaning and depth.",
       "measurementsEn": ["16.53 x 14.96 x 11.81"],

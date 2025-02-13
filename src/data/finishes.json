@@ -27,13 +27,6 @@
     "category_slug": "marmore", 
     "finishes": [
       {
-        "slug": "travertino",
-        "name": "travertino",
-        "nameEs": "travertino",
-        "nameEn": "travertino"
-
-      },
-      {
         "slug": "nero-marquina",
         "name": "nero marquina",
         "nameEs": "nero marquina",
@@ -44,6 +37,13 @@
         "name": "rosso fiorentino",
         "nameEs": "rosso fiorentino",
         "nameEn": "rosso fiorentino"
+      },
+      {
+        "slug": "travertino",
+        "name": "travertino",
+        "nameEs": "travertino",
+        "nameEn": "travertino"
+
       },
       {
         "slug": "verde-alpi",
@@ -105,6 +105,12 @@
     "category_slug": "madeira-macica", 
     "finishes": [
       {
+        "slug": "imbuia-1",
+        "name": "imbuia",
+        "nameEs": "imbuia",
+        "nameEn": "Brown"
+      },
+      {
         "slug": "natural-2",
         "name": "Natural",
         "nameEs": "Natural",
@@ -121,12 +127,6 @@
         "name": "space grey",
         "nameEs": "space grey",
         "nameEn": "space grey"
-      },
-      {
-        "slug": "imbuia-1",
-        "name": "imbuia",
-        "nameEs": "imbuia",
-        "nameEn": "Brown"
       }
     ]
   },
@@ -187,10 +187,28 @@
         "nameEn": "sand"
       },
       {
+        "slug": "champanhe-2",
+        "name": "champanhe",
+        "nameEs": "champán",
+        "nameEn": "champagne"
+      },    
+      {
         "slug": "dourado",
         "name": "Dourado",
         "nameEs": "Dorado",
         "nameEn": "golden"
+      },
+      {
+        "slug": "fendi1",
+        "name": "fendi",
+        "nameEs": "fendi",
+        "nameEn": "fendi"
+      },
+      {
+        "slug": "fume-1",
+        "name": "fumê",
+        "nameEs": "fumar",
+        "nameEn": "smoked"
       },
       {
         "slug": "grafite-2",
@@ -211,35 +229,17 @@
         "nameEn": "mocca"
       },
       {
-        "slug": "verde-escuro",
-        "name": "verde escuro",
-        "nameEs": "verde oscuro",
-        "nameEn": "dark green"
-      },
-      {
         "slug": "preto",
         "name": "preto",
         "nameEs": "negro",
         "nameEn": "black"
       },
       {
-        "slug": "fendi1",
-        "name": "fendi",
-        "nameEs": "fendi",
-        "nameEn": "fendi"
-      },
-      {
-        "slug": "fume-1",
-        "name": "fumê",
-        "nameEs": "fumar",
-        "nameEn": "smoked"
-      },
-      {
-        "slug": "champanhe-2",
-        "name": "champanhe",
-        "nameEs": "champán",
-        "nameEn": "champagne"
-      }      
+        "slug": "verde-escuro",
+        "name": "verde escuro",
+        "nameEs": "verde oscuro",
+        "nameEn": "dark green"
+      }
     ]
   },
   {
@@ -255,16 +255,10 @@
         "nameEn": "berinjela"
       },
       {
-        "slug": "sand-01",
-        "name": "sand",
-        "nameEs": "sand",
-        "nameEn": "sand"
-      },
-      {
-        "slug": "preto3",
-        "name": "Preto",
-        "nameEs": "Preto",
-        "nameEn": "Black"
+        "slug": "brandy-01",
+        "name": "brandy",
+        "nameEs": "brandy",
+        "nameEn": "brandy"
       },
       {
         "slug": "camel-01",
@@ -273,10 +267,10 @@
         "nameEn": "camel"
       },
       {
-        "slug": "tabaco-rustico",
-        "name": "rústico tabaco",
-        "nameEs": "tabaco rústico",
-        "nameEn": "rustic tobacco"
+        "slug": "concreto-001",
+        "name": "concreto",
+        "nameEs": "hormigón",
+        "nameEn": "concrete"
       },
       {
         "slug": "oliva",
@@ -285,23 +279,29 @@
         "nameEn": "olive"
       },
       {
+        "slug": "preto3",
+        "name": "Preto",
+        "nameEs": "Preto",
+        "nameEn": "Black"
+      },
+      {
+        "slug": "tabaco-rustico",
+        "name": "rústico tabaco",
+        "nameEs": "tabaco rústico",
+        "nameEn": "rustic tobacco"
+      },
+      {
         "slug": "rustico-verde",
         "name": "rústico verde",
         "nameEs": "verde rústico",
         "nameEn": "rustic green"
       },
       {
-        "slug": "concreto-001",
-        "name": "concreto",
-        "nameEs": "hormigón",
-        "nameEn": "concrete"
-      },
-      {
-        "slug": "brandy-01",
-        "name": "brandy",
-        "nameEs": "brandy",
-        "nameEn": "brandy"
-      }
+        "slug": "sand-01",
+        "name": "sand",
+        "nameEs": "sand",
+        "nameEn": "sand"
+      }      
     ]
   },
   {
@@ -459,12 +459,6 @@
         "nameEn": "1949"
       },
       {
-        "slug": "1950",
-        "name": "1950",
-        "nameEs": "1950",
-        "nameEn": "1950"
-      },
-      {
         "slug": "1951",
         "name": "1951",
         "nameEs": "1951",
@@ -604,12 +598,6 @@
         "nameEn": "4580"
       },
       {
-        "slug": "4581",
-        "name": "4581",
-        "nameEs": "4581",
-        "nameEn": "4581"
-      },
-      {
         "slug": "4584",
         "name": "4584",
         "nameEs": "4584",
@@ -706,12 +694,6 @@
         "name": "5203",
         "nameEs": "5203",
         "nameEn": "5203"
-      },
-      {
-        "slug": "5302",
-        "name": "5302",
-        "nameEs": "5302",
-        "nameEn": "5302"
       },
       {
         "slug": "5313",
