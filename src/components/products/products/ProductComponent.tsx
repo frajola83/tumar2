@@ -9,6 +9,8 @@ import { I18nextContext } from "gatsby-plugin-react-i18next"
 const ImgInner = styled.div`
   width: 100%;
   transition: 1s all ease-in-out;
+  height: 320px;
+  ${breakpoints("height", ["320px", "auto", "auto", "auto"])};
 `
 
 const Item = styled(Link)`

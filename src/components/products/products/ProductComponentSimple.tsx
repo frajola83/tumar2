@@ -16,7 +16,7 @@ const Item = styled.div`
   height: auto;
   overflow: hidden;
   /* ${breakpoints("height", ["auto", "auto", "400px", "400px"])}; */
-  ${breakpoints("flex-basis", ["100%", "47%", "47%", "47%"])};
+  ${breakpoints("flex-basis", ["100%", "47%", "47%", "47%"])}
 `
 
 interface ProductComponentProps {
