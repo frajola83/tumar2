@@ -127,63 +127,6 @@
       "variations": []
     },
     {
-      "ref": "ref.2976",
-      "slug": "bag",
-      "name": "bag",
-      "cover_img": "bag-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com encosto multilaminado anatômico estofado, detalhe em couro natural. Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered armchair with plywood seat and backrest, seat detail in leather. Stained wooden machined legs.",
-      "descriptionEs": "Sillón con respaldo tapizado anatómico multilaminado, detalle piel natural. Base de madera maciza teñida.",
-      "measurementsEn": [
-        "27.55 x 25.19 x 24.01"
-      ],
-      "measurements": [
-        "700 x 640 x 610"
-      ],
-      "measurementsEs": [
-        "700 x 640 x 610"
-      ],
-      "images": [
-        "bag-01",
-        "bag-02",
-        "bag-03"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2912",
-      "slug": "boomerang",
-      "name": "boomerang",
-      "cover_img": "boomerang-02",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna em madeira estofada. Opções de base fixa tubular pintada ou madeira tingida.",
-      "descriptionEn": "Upholstered armchair with wooden internal structure, hybrid legs in painted carbon steel tube and stained wood.",
-      "descriptionEs": "Sillón con estructura interna en madera tapizada. Opciones base fija tubular pintada o madera teñida.",
-      "measurementsEn": [
-        "31.10 x 27.55 x 29.13"
-      ],
-      "measurements": [
-        "790 x 700 x 740"
-      ],
-      "measurementsEs": [
-        "790 x 700 x 740"
-      ],
-      "images": [
-        "boomerang-01",
-        "boomerang-02"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
       "ref": "Ref.3019",
       "slug": "brisa",
       "name": "brisa",
@@ -771,36 +714,6 @@
       "variations": []
     },
     {
-      "ref": "CA.2974",
-      "slug": "trentini",
-      "name": "trentini",
-      "cover_img": "trentini-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna em madeira estofada. Com detalhe laterais e braços em madeira maciça tingida. Cintas em couro natural nas costas.  Base fixa tubular pintada.",
-      "descriptionEn": "Upholstered armchair with wooden internal structure with leather straps on the back. Square carbon steel tube structure with arms and side detail in machined solid wood.",
-      "descriptionEs": "Sillón con estructura interna en madera tapizada. Con detalles laterales y brazos en madera maciza teñida. Tirantes en piel natural en la parte trasera. Base fija tubular pintada.",
-      "measurementsEn": [
-        "32.28 x 32.28 x 31.49"
-      ],
-      "measurements": [
-        "820 x 820 x 800"
-      ],
-      "measurementsEs": [
-        "820 x 820 x 800"
-      ],
-      "images": [
-        "trentini-01",
-        "trentini-02",
-        "trentini-03",
-        "trentini-04"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
       "ref": "CA.2943",
       "slug": "urban",
       "name": "Urban",
@@ -824,65 +737,6 @@
         "urban-01",
         "urban-02",
         "urban-04"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2975",
-      "slug": "vip",
-      "name": "vip",
-      "cover_img": "vip-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com estrutura em multilaminado anatômico revestida em lâmina natural. Base fixa tubular pintada. Almofada decorativa.",
-      "descriptionEn": "Armchair with plywood backrest coated with natural wood veneer, seat and cushion upholsted. Painted square carbon steel tube structure.",
-      "descriptionEs": "Sillón con estructura anatómica en multilaminado revestido en laminado natural. Base fija tubular pintada. Almohada decorativa.",
-      "measurementsEn": [
-        "29.72 x 27.36 x 27.55"
-      ],
-      "measurements": [
-        "755 x 695 x 740"
-      ],
-      "measurementsEs": [
-        "755 x 695 x 740"
-      ],
-      "images": [
-        "vip-01",
-        "vip-02",
-        "vip-03",
-        "vip-04"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2965",
-      "slug": "zion",
-      "name": "zion",
-      "cover_img": "zion-01",
-      "designer_name": "emerson borges",
-      "designer_slug": "emerson-borges",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna tubular, estofada. Base giratória, em painel de madeira tingido.",
-      "descriptionEn": "Upholstered armchair with internal structure in carbon steel tube. Swivel base in solid stained machined wood.",
-      "descriptionEs": "Sillón con estructura interna tubular, tapizado. Base giratoria, en panel de madera teñida.",
-      "measurementsEn": [
-        "30.70 x 31.88 x 29.13"      
-      ],
-      "measurements": [
-        "780 x 810 x 740"      
-      ],
-      "measurementsEs": [
-        "780 x 810 x 740"
-      ],
-      "images": [
-        "zion-01",
-        "zion-02",
-        "zion-03"
       ],
       "ambients": [],
       "variations": []
@@ -1104,34 +958,6 @@
       "variations": []
     },
     {
-      "ref": "CA.2982",
-      "slug": "bell",
-      "name": "Bell",
-      "cover_img": "bell-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Detalhe com afastador de metal com pintura. Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs. Metal detail between backrest and legs.",
-      "descriptionEs": "Silla con asiento y respaldo en laminado anatómico, tapizada. Detalle con espaciador de metal pintado. Base en madera maciza teñida.",
-      "measurementsEn": [
-        "33.46 x 19.68 x 25.19"
-      ],
-      "measurements": [
-        "850 x 500 x 640"
-      ],
-      "measurementsEs": [
-        "850 x 500 x 640"
-      ],
-      "images": [
-        "bell-01",
-        "bell-02"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
       "ref": "CA.2978",
       "slug": "bliss",
       "name": "Bliss",
@@ -1251,34 +1077,6 @@
         "coral-cad-amb-01",
         "coral-amb-08"
       ],
-      "variations": []
-    },
-    {
-      "ref": "CA.2994",
-      "slug": "emi",
-      "name": "emi",
-      "cover_img": "emi-01",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura em multilaminado anatômico, estofada. Base em madeira maciça tingida, com opção de palha natural no encosto.",
-      "measurements": [
-        "820 x 525 x 620"
-      ],
-      "descriptionEn": "Wooden machined chair with upholstered seat. Backrest finish options: upholstered or with natural straw.",
-      "descriptionEs": "Silla con estructura anatómica multilaminada, tapizada. Base en madera maciza teñida, con opción de paja natural en la parte trasera.",
-      "measurementsEn": [
-        "32,28 x 20,66 x 24,40"
-      ],
-      "measurementsEs": [
-        "820 x 525 x 620"
-      ],
-      "images": [
-        "emi-01",
-        "emi-02"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -2971,35 +2769,6 @@
       "variations": []
     },
     {
-      "ref": "MES.2550",
-      "slug": "libra",
-      "name": "libra",
-      "cover_img": "libra-01",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa de centro com base em madeira maciça. Tampo com estrutura em MDF laminado.",
-      "descriptionEn": "Coffee table with machined solid wood base, top in machined MDF coated with natural wood veneer. Painted carbon steel tube and sheet structure",
-      "descriptionEs": "Mesa de centro con base de madera maciza. Tapa con estructura de MDF laminado.",
-      "measurementsEn": [
-        "12,20 x 61,41 x 39,76"
-      ],
-      "measurements": [
-        "330 x 1560 x 1010"
-      ],
-      "measurementsEs": [
-        "330 x 1560 x 1010"
-      ],
-      "images": [
-        "libra-01",
-        "libra-02",
-        "libra-03"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
       "ref": "MES.2546/2547/2548/2549",
       "slug": "lina",
       "name": "lina",
@@ -3311,54 +3080,6 @@
         "baru-02",
         "baru-01",
         "baru-03"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "-Ref.1446",
-      "slug": "blu",
-      "name": "blu",
-      "cover_img": "blu-01",
-      "designer_name": "fabricio ronca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "banco-e-recamier",
-      "category_name": "banco e recamier",
-      "description": "Banco com estrutura em metal revestida de madeira, tingida. Assentos estofados.",
-      "descriptionEn": "Bench with carbon steel tube and sheet structure, covered with solid machined wood. Upholstered seats.",
-      "descriptionEs": "Banco con estructura de metal revestido en madera, teñida. Asientos tapizados.",
-      "measurementsEn": ["18.89 x 69.68 x 21.65"],
-      "measurements": ["480 x 1770 x 550"],
-      "measurementsEs": [
-        "480 x 1770 x 550"
-      ],
-      "images": [
-        "blu-01",
-        "blu-02"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "-Ref.1000",
-      "slug": "recamier-blu",
-      "name": "recamier blu",
-      "cover_img": "reclamier-blu",
-      "designer_name": "fabricio ronca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "banco-e-recamier",
-      "category_name": "banco e recamier",
-      "description": "Recamier com estrutura em madeira maciça tingida, com assentos estofados. Rolinho estofado com detalhe em lâmina natural. Base em chapa de aço, com detalhe em madeira maciça.",
-      "descriptionEn": "Machined solid wood bench with carbon steel sheet detail on the legs. Upholstered seats and cilindrical cushion with natural wood veneer detail.",
-      "descriptionEs": "Recamier con estructura de madera maciza teñida, con asientos tapizados. Rollo tapizado con detalle de pala natural. Base en chapa de acero, con detalle en madera maciza.",
-      "measurementsEn": ["23.22 x 70.86 x 30.31"],
-      "measurements": ["590 x 1800 x 770"],
-      "measurementsEs": [
-        "590 x 1800 x 770"
-      ],
-      "images": [
-        "reclamier-blu",
-        "reclamier-blu-3"
       ],
       "ambients": [],
       "variations": []
@@ -3742,54 +3463,6 @@
       "variations": []
     },
     {
-      "ref": "-Ref.2000",
-      "slug": "minimal",
-      "name": "minimal",
-      "cover_img": "minimal-04",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "aparadores",
-      "category_name": "aparadores",
-      "description": "Aparador usinado em madeira maciça tingida, detalhe em metal pintado.",
-      "descriptionEn": "Machined solid wood sideboard with painted metal detail.",
-      "descriptionEs": "Aparador mecanizado en madera maciza teñida, detalle en metal pintado.",
-      "measurementsEn": ["31.49 x 70.86 x 20.07" , "31,49 x 78,74 x 20.07" , "31.49 x 86.61 x 20.07"],
-      "measurements": ["800 x 1800 x 510" , "800 x 2000 x 510" , "800 x 2200 x 510"],
-      "measurementsEs": [
-        "800 x 1800 x 510" , "800 x 2000 x 510" , "800 x 2200 x 510"
-      ],
-      "images": [
-        "minimal-04",
-        "minimal-03"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "-Ref.2001 / 1003",
-      "slug": "recato",
-      "name": "recato",
-      "cover_img": "recato-01",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "aparadores",
-      "category_name": "aparadores",
-      "description": "Aparador com estrutura tubular pintada, tampos em MDF revestidos em lâmina natural. Detalhe em metal pintado. Bandeja em MDF revestido em lâmina natural. Detalhe em metal pintado.",
-      "descriptionEn": "Carbon steel tube structured sideboard, MDF top coated with natural wood veneer with painted metal ring detail. Tray in MDF coated with natural wood veneer with painted metal ring detail.",
-      "descriptionEs": "Aparador con estructura tubular pintada, tapas de MDF recubiertas de chapa natural. Detalle en metal pintado. Bandeja en MDF revestido de chapa natural. Detalle en metal pintado.",
-      "measurementsEn": ["33.26 x 70.86 x 15.35" , "33.26 x 78,74 x 15.35" , "33.26 x 86.61 x 15.35" , "Tray: 2.36 x 15.35 x 15.35"],
-      "measurements": ["845 x 1800 x 390" , "845 x 2000 x 390" , "845 x 2200 x 390" , "Bandeja: 60 x 390 x 390"],
-      "measurementsEs": [
-        "845 x 1800 x 390" , "845 x 2000 x 390" , "845 x 2200 x 390" , "Bandeja: 60 x 390 x 390"
-      ],
-      "images": [
-        "recato-01",
-        "recato-03"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
       "ref": "CAR.5002",
       "slug": "clave-carro-bar",
       "name": "clave",
@@ -3938,33 +3611,6 @@
       ],
       "ambients": [],
       "variations": []
-    },
-    {
-      "ref": "-Ref.4003",
-      "slug": "clusia",
-      "name": "clusia",
-      "cover_img": "clusia-02",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "luminarias",
-      "category_name": "luminarias",
-      "description": "Luminária pendente, com estrutura em multilaminado anatômico, revestida em lâmina natural. Detalhe em metal pintado. Peça individual, com canopla para acabamento.",
-      "descriptionEn": "Ceiling lamp with metal structure, petals in plywood coated with natural wood veneer. Individual piece.",
-      "descriptionEs": "Lámpara colgante, con estructura en multilaminado anatómico, revestido en laminado natural. Detalle en metal pintado. Pieza individual, con capota para remate.",
-      "concept":"A luminária Clusia tem seu formato inspirado na elegante planta nativa que leva o mesmo nome. A peça busca ressaltar sua função emocional e simbólica, harmonizando um design orgânico e fluido. O projeto estabelece uma conexão com a natureza, valorizando a biomimética e o design sustentável.",
-      "conceptEs":"La lámpara Clusia tiene su forma inspirada en la elegante planta autóctona que lleva el mismo nombre. La pieza busca resaltar su función emocional y simbólica, armonizando un diseño orgánico y fluido. El proyecto establece una conexión con la naturaleza, valorando el biomimetismo y el diseño sostenible.",
-      "conceptEn":"The Clusia lamp is inspired by the elegant native plant of the same name. The piece highlights its emotional and symbolic function, harmonizing an organic and fluid design. The project establishes a connection to nature, valuing biomimicry and sustainable design.",
-      "measurementsEn": ["4.92 x 8.46 x 3.34"],
-      "measurements": ["125 x 215 x 85"],
-      "measurementsEs": [
-        "125 x 215 x 85"
-      ],
-      "images": [
-        "clusia-02",
-        "clusia-01"
-      ],
-      "ambients": [],
-      "variations": [""] 
     },
     {
       "ref": "-Ref.4001",

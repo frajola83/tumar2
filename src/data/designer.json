@@ -84,13 +84,6 @@
         "nameEs": "Sillón dumbo",
         "src": "dumbo-01",
         "link": "/produtos/poltronas/dumbo"
-      },
-      {
-        "name": "Poltrona Zion",
-        "nameEn": "Zion Armchair",
-        "nameEs": "Sillón Zion",
-        "src": "poltrona-zion-01",
-        "link": "/produtos/poltronas/zion"
       }
     ]
   },
@@ -103,13 +96,6 @@
     "descriptionEn": "Tumar signs a partnership with the Designer Fabricio Ronca, paulista who grew up in Belo Horizonte – MG where he learned to see architecture, folklore and art in a playful and intimate way. <br /><br />He seeks beauty, sustainability, balance of materials and affective memory in his works. His main source of inspiration is Brazilian architecture.",
     "descriptionEs": "Tumar se asocia con el diseñador Fabricio Ronca, de São Paulo, que creció en Belo Horizonte – MG, donde aprendió a ver la arquitectura, el folclore y el arte de una manera lúdica e íntima.<br /><br />Busca en sus obras la belleza, la sostenibilidad, el equilibrio de los materiales y la memoria afectiva, y su principal fuente de inspiración es la arquitectura brasileña.",
     "products": [
-      {
-        "name": "Banco Blu",
-        "nameEn": "Blu Bench",
-        "nameEs": "Banco Blu",
-        "src": "blu-01",
-        "link": "/produtos/banco-e-recamier/blu"
-      },
       {
         "name": "Banco baru",
         "nameEn": "baru Bench",
@@ -284,13 +270,6 @@
         "nameEs": "mesa y puf firenze",
         "src": "firenze-puff-04",
         "link": "/produtos/mesa-puff/firenze-puff"
-      },
-      {
-        "name": "Recamier Blu",
-        "nameEn": "blu recamier",
-        "nameEs": "recamier blu",
-        "src": "reclamier-blu",
-        "link": "/produtos/banco-e-recamier/recamier-blu"
       }
     ]
   },
@@ -303,20 +282,6 @@
     "descriptionEn": "Razzera is an evolution, a sum, a legacy passed from father to son. The experience of woodworking, the view on machines and processes, the line of the architect Ibanez Razzera, merges with the talent, youth, and innovative perspective of Lorenzo Razzera.",
     "descriptionEs": "Es evolución, una suma, una herencia de padre a hijo. La experiencia de la carpintería, la mirada a las máquinas y los procesos, el estilo del arquitecto Ibáñez Razzera, se unen al talento, la juventud y la visión innovadora de Lorenzo Razzera.",
     "products": [
-      {
-        "name": "aparador minimal",
-        "nameEn": "minimal sideboard",
-        "nameEs": "aparador minimal",
-        "src": "minimal-03",
-        "link": "/produtos/aparadores/minimal"
-      },
-      {
-        "name": "aparador recato",
-        "nameEn": "recato sideboard",
-        "nameEs": "aparador recato",
-        "src": "recato-01",
-        "link": "/produtos/aparadores/recato"
-      },
       {
         "name": "Banqueta Sotile",
         "nameEn": "Sotile Stool",
@@ -465,13 +430,6 @@
         "link": "/produtos/cadeiras/vita"
       },
       {
-        "name": "Luminária Clusia",
-        "nameEn": "Clusia Lighting",
-        "nameEs": "Luminaria Clusia",
-        "src": "clusia-02",
-        "link": "/produtos/luminarias/clusia"
-      },
-      {
         "name": "Luminária Oroboro",
         "nameEn": "Oroboro Lighting",
         "nameEs": "Luminaria Oroboro",
@@ -491,13 +449,6 @@
         "nameEs": "Luminaria Soul",
         "src": "soul-01",
         "link": "/produtos/luminarias/soul-luminaria"
-      },
-      {
-        "name": "Mesa de Centro libra",
-        "nameEn": "libra coffee Table",
-        "nameEs": "Mesa de Centro libra",
-        "src": "libra-01",
-        "link": "/produtos/mesas-laterais-centro/libra"
       },
       {
         "name": "Poltrona Abbraccio",
@@ -636,13 +587,6 @@
     "descriptionEs": "El diseño es la materialización de la información. Miro desde la información técnica hasta cómo impactará el producto en el usuario, desde la ergonomía hasta las percepciones vinculadas a la emoción. El proceso creativo va de lo tangible a lo intangible hasta llegar al producto final.",
     "products": [
       {
-        "name": "Cadeira Bell",
-        "nameEn": "Bell Chair",
-        "nameEs": "Silla Bell",
-        "src": "bell-01",
-        "link": "/produtos/cadeiras/bell"
-      },
-      {
         "name": "Cadeira Bliss",
         "nameEn": "Bliss Chair",
         "nameEs": "Silla Bliss",
@@ -699,13 +643,6 @@
         "link": "/produtos/mesas-de-jantar/leme"
       },
       {
-        "name": "Poltrona Bag",
-        "nameEn": "Bag Armchair",
-        "nameEs": "Sillón Bag",
-        "src": "bag-01",
-        "link": "/produtos/poltronas/bag"
-      },
-      {
         "name": "Poltrona delta",
         "nameEn": "delta Armchair",
         "nameEs": "Sillón delta",
@@ -734,20 +671,6 @@
         "link": "/produtos/poltronas/muar"
       },
       {
-        "name": "Poltrona Trentini",
-        "nameEn": "Trentini Armchair",
-        "nameEs": "Sillón Trentini",
-        "src": "trentini-01",
-        "link": "/produtos/poltronas/trentini"
-      },
-      {
-        "name": "Poltrona Vip",
-        "nameEn": "Vip Armchair",
-        "nameEs": "Sillón Vip",
-        "src": "vip-01",
-        "link": "/produtos/poltronas/vip"
-      },
-      {
         "name": "Vaso Domo",
         "nameEn": "Domo Vase",
         "nameEs": "Jarrón Domo",
@@ -773,13 +696,6 @@
         "link": "/produtos/poltronas/jangada"
       },
       {
-        "name": "Poltrona Boomerang",
-        "nameEn": "Boomerang Armchair",
-        "nameEs": "Sillón Boomerang",
-        "src": "boomerang-02",
-        "link": "/produtos/poltronas/boomerang"
-      },
-      {
         "name": "Poltrona brisa",
         "nameEn": "brisa Armchair",
         "nameEs": "Sillón brisa",
@@ -799,13 +715,6 @@
         "nameEs": "Silla Aurora",
         "src": "aurora-01",
         "link": "/produtos/cadeiras/aurora"
-      },
-      {
-        "name": "Cadeira emi",
-        "nameEn": "emi Chair",
-        "nameEs": "Silla emi",
-        "src": "emi-01",
-        "link": "/produtos/cadeiras/emi"
       },
       {
         "name": "Cadeira Fit",
