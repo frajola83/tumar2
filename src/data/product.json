@@ -1878,7 +1878,7 @@
       "ref": "Ref.3014",
       "slug": "cadeira-torii",
       "name": "torii",
-      "cover_img": "torii-cad-01",
+      "cover_img": "torii-cad-02",
       "designer_name": "fabricio ronca",
       "designer_slug": "fabricio-roncca",
       "category_slug": "cadeiras",
@@ -1899,8 +1899,8 @@
         "875 x 510 x 650"
       ],
       "images": [
-        "torii-cad-01",
         "torii-cad-02",
+        "torii-cad-01",
         "torii-cad-03"
       ],
       "ambients": [
