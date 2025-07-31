@@ -244,7 +244,7 @@
         "name": "Banqueta Tiê",
         "nameEn": "Tiê Stool",
         "nameEs": "Taburete Tiê",
-        "src": "ban-tie-01",
+        "src": "ban-tie-03",
         "link": "/produtos/banquetas/banqueta-tie"
       },
       {
@@ -283,7 +283,7 @@
         "link": "/produtos/cadeiras/bucco"
       },
       {
-        "name": "Cadeira coral com e sem braço",
+        "name": "Cadeira coral",
         "nameEn": "Coral Chair",
         "nameEs": "Silla coral",
         "src": "coral-cad-01",
@@ -367,10 +367,10 @@
         "link": "/produtos/cadeiras/sotille"
       },
       {
-        "name": "Cadeira tiê estofada e palha",
+        "name": "Cadeira tiê",
         "nameEn": "Tiê chair",
         "nameEs": "Silla tiê",
-        "src": "tie-01",
+        "src": "tie-02",
         "link": "/produtos/cadeiras/tie"
       },
       {
