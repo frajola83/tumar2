@@ -16,13 +16,6 @@
         "link": "/produtos/cadeiras/fiji"
       },
       {
-        "name": "Mesa de Centro Ghost",
-        "nameEn": "Ghost Coffee Table",
-        "nameEs": "Mesa de Centro Ghost",
-        "src": "ghost-02",
-        "link": "/produtos/mesas-laterais-centro/ghost"
-      },
-      {
         "name": "Mesa de Jantar Nebula",
         "nameEn": "Nebula Table",
         "nameEs": "Mesa de Comedor Nebula",
@@ -63,20 +56,6 @@
         "nameEs": "Mesa Lateral Taos",
         "src": "taos-01",
         "link": "/produtos/mesas-laterais-centro/taos"
-      },
-      {
-        "name": "Mesa Lateral Vitra",
-        "nameEn": "Vitra Side Table",
-        "nameEs": "Mesa Lateral Vitra",
-        "src": "vitra-01",
-        "link": "/produtos/mesas-laterais-centro/vitra"
-      },
-      {
-        "name": "Poltrona Hill",
-        "nameEn": "Hill Armchair",
-        "nameEs": "Sillón Hill",
-        "src": "hill-02",
-        "link": "/produtos/poltronas/hill"
       },
       {
         "name": "Poltrona dumbo",
@@ -153,13 +132,6 @@
         "link": "/produtos/cadeiras/petala-cadeira"
       },
       {
-        "name": "cadeira vic",
-        "nameEn": "vic chair",
-        "nameEs": "silla vic",
-        "src": "vic-01",
-        "link": "/produtos/cadeiras/vic"
-      },
-      {
         "name": "Carro Bar clave",
         "nameEn": "clave Bar Cart",
         "nameEs": "Carro Bar clave",
@@ -188,13 +160,6 @@
         "link": "/produtos/carro-bar/donatela-carro-cha"
       },
       {
-        "name": "Carro Bar terroir",
-        "nameEn": "terroir Bar Cart",
-        "nameEs": "Carro Bar terroir",
-        "src": "terroir-01",
-        "link": "/produtos/carro-bar/terroir-carro-bar"
-      },
-      {
         "name": "Conjunto Petra",
         "nameEn": "Petra Set",
         "nameEs": "Conjunto Petra",
@@ -214,13 +179,6 @@
         "nameEs": "tocador sarai",
         "src": "sarai-pent-01",
         "link": "/produtos/complemento/penteadeira-sarai"
-      },
-      {
-        "name": "espelho shizen",
-        "nameEn": "shizen mirror",
-        "nameEs": "espejo shizen",
-        "src": "shizen-01",
-        "link": "/produtos/complemento/shizen"
       },
       {
         "name": "Mesa Lateral antera",
@@ -249,13 +207,6 @@
         "nameEs": "Mesa Lateral Rhodes",
         "src": "rhodes-01",
         "link": "/produtos/mesas-laterais-centro/rhodes"
-      },
-      {
-        "name": "Puf amintas",
-        "nameEn": "Amintas Ottoman",
-        "nameEs": "Puf amintas",
-        "src": "amintas-02",
-        "link": "/produtos/puffs/amintas"
       },
       {
         "name": "mesa e puf cedro",
@@ -444,13 +395,6 @@
         "link": "/produtos/luminarias/remo"
       },
       {
-        "name": "Luminária Soul",
-        "nameEn": "Soul Lighting",
-        "nameEs": "Luminaria Soul",
-        "src": "soul-01",
-        "link": "/produtos/luminarias/soul-luminaria"
-      },
-      {
         "name": "Poltrona Abbraccio",
         "nameEn": "Abbraccio Armchair",
         "nameEs": "Sillón Abbraccio",
@@ -552,13 +496,6 @@
         "nameEs": "Puf Moon",
         "src": "moon-puff-01",
         "link": "/produtos/puffs/moon"
-      },
-      {
-        "name": "Mesa Lateral Bow",
-        "nameEn": "Bow Side Table",
-        "nameEs": "Mesa Lateral Bow",
-        "src": "bow-01",
-        "link": "/produtos/mesas-laterais-centro/bow"
       },
       {
         "name": "Mesa de Centro gota",
@@ -752,13 +689,6 @@
         "link": "/produtos/cadeiras/siena"
       },
       {
-        "name": "Cadeira vega",
-        "nameEn": "vega Chair",
-        "nameEs": "Silla vega",
-        "src": "vega-01",
-        "link": "/produtos/cadeiras/vega"
-      },
-      {
         "name": "Banqueta Fit",
         "nameEn": "Fit Stool",
         "nameEs": "Taburete Fit",
@@ -771,13 +701,6 @@
         "nameEs": "Puf duo",
         "src": "duo-01",
         "link": "/produtos/puffs/duo"
-      },
-      {
-        "name": "macebo ellos",
-        "nameEn": "ellos clothes",
-        "nameEs": "mancebo ellos",
-        "src": "ellos-01",
-        "link": "/produtos/complemento/ellos"
       },
       {
         "name": "Mesa de Jantar Turin",

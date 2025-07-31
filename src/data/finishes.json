@@ -363,12 +363,6 @@
         "nameEn": "1098"
       },
       {
-        "slug": "1099",
-        "name": "1099",
-        "nameEs": "1099",
-        "nameEn": "1099"
-      },
-      {
         "slug": "1101",
         "name": "1101",
         "nameEs": "1101",
@@ -451,12 +445,6 @@
         "name": "1948",
         "nameEs": "1948",
         "nameEn": "1948"
-      },
-      {
-        "slug": "1949",
-        "name": "1949",
-        "nameEs": "1949",
-        "nameEn": "1949"
       },
       {
         "slug": "1951",
@@ -628,12 +616,6 @@
         "nameEn": "4620"
       },
       {
-        "slug": "4621",
-        "name": "4621",
-        "nameEs": "4621",
-        "nameEn": "4621"
-      },
-      {
         "slug": "4623",
         "name": "4623",
         "nameEs": "4623",
@@ -666,12 +648,6 @@
         "nameEn": "5035"
       },
       {
-        "slug": "5036",
-        "name": "5036",
-        "nameEs": "5036",
-        "nameEn": "5036"
-      },
-      {
         "slug": "5041",
         "name": "5041",
         "nameEs": "5041",
@@ -682,24 +658,6 @@
         "name": "5042",
         "nameEs": "5042",
         "nameEn": "5042"
-      },
-      {
-        "slug": "5202",
-        "name": "5202",
-        "nameEs": "5202",
-        "nameEn": "5202"
-      },
-      {
-        "slug": "5203",
-        "name": "5203",
-        "nameEs": "5203",
-        "nameEn": "5203"
-      },
-      {
-        "slug": "5313",
-        "name": "5313",
-        "nameEs": "5313",
-        "nameEn": "5313"
       }
     ]
   },
@@ -729,18 +687,6 @@
     "category_name_es": "Grupo 7", 
     "category_slug": "tecidos-grupo-7", 
     "finishes": [
-      {
-        "slug": "7060",
-        "name": "7060",
-        "nameEs": "7060",
-        "nameEn": "7060"
-      },
-      {
-        "slug": "7061",
-        "name": "7061",
-        "nameEs": "7061",
-        "nameEn": "7061"
-      },
       {
         "slug": "7065",
         "name": "7065",
