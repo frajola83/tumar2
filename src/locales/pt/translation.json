@@ -17,7 +17,8 @@
     "naturalStraw": "Palha Natural",
     "metallicPainting": "Pintura Metal",
     "reconstitutedLeather": "Recouro",
-    "paintedGlass": "Vidro pintado"
+    "paintedGlass": "Vidro pintado",
+    "glass": "Vidros"
   },
   "categories": {
     "banquetas": "banquetas",

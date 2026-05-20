@@ -46,7 +46,7 @@ export const GalugaSlider = () => {
         <>
           <SliderContainer>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/dom">
+              <Slide to="/produtos/poltronas/goat">
                 <StaticImage
                   src="../../images/home/banners/dom-banner-desktop-1920-pt.jpg"
                   alt="delta"
@@ -60,14 +60,14 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/bodo">
+              <Slide to="/produtos/cadeiras/carena-cad">
                 <StaticImage
                   src="../../images/home/banners/bodo-banner-desktop-1920-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/mitti">
+              <Slide to="/produtos/poltronas/ferrero">
                 <StaticImage
                   src="../../images/home/banners/mitti-banner-desktop-1920-pt.jpg"
                   alt="Trenta"
@@ -78,7 +78,7 @@ export const GalugaSlider = () => {
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/dom">
+              <Slide to="/produtos/poltronas/goat">
                 <StaticImage
                   src="../../images/home/banners/dom-banner-mobile-768-pt.jpg"
                   alt="Trenta"
@@ -92,14 +92,14 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/bodo">
+              <Slide to="/produtos/cadeiras/carena-cad">
                 <StaticImage
                   src="../../images/home/banners/bodo-banner-mobile-768-pt.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/mitti">
+              <Slide to="/produtos/poltronas/ferrero">
                 <StaticImage
                   src="../../images/home/banners/mitti-banner-mobile-768-pt.jpg"
                   alt="Trenta"
@@ -116,7 +116,7 @@ export const GalugaSlider = () => {
         <>
           <SliderContainer>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/dom">
+              <Slide to="/produtos/poltronas/goat">
                 <StaticImage
                   src="../../images/home/banners/dom-banner-desktop-1920-en.jpg"
                   alt="Trenta"
@@ -130,14 +130,14 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/bodo">
+              <Slide to="/produtos/cadeiras/carena-cad">
                 <StaticImage
                   src="../../images/home/banners/bodo-banner-desktop-1920-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/mitti">
+              <Slide to="/produtos/poltronas/ferrero">
                 <StaticImage
                   src="../../images/home/banners/mitti-banner-desktop-1920-en.jpg"
                   alt="Trenta"
@@ -148,7 +148,7 @@ export const GalugaSlider = () => {
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/dom">
+              <Slide to="/produtos/poltronas/goat">
                 <StaticImage
                   src="../../images/home/banners/dom-banner-mobile-768-en.jpg"
                   alt="Trenta"
@@ -162,14 +162,14 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/bodo">
+              <Slide to="/produtos/cadeiras/carena-cad">
                 <StaticImage
                   src="../../images/home/banners/bodo-banner-mobile-768-en.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/mitti">
+              <Slide to="/produtos/poltronas/ferrero">
                 <StaticImage
                   src="../../images/home/banners/mitti-banner-mobile-768-en.jpg"
                   alt="Trenta"
@@ -186,7 +186,7 @@ export const GalugaSlider = () => {
         <>
           <SliderContainer>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/dom">
+              <Slide to="/produtos/poltronas/goat">
                 <StaticImage
                   src="../../images/home/banners/dom-banner-desktop-1920-es.jpg"
                   alt="Trenta"
@@ -200,14 +200,14 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/bodo">
+              <Slide to="/produtos/cadeiras/carena-cad">
                 <StaticImage
                   src="../../images/home/banners/bodo-banner-desktop-1920-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/mitti">
+              <Slide to="/produtos/poltronas/ferrero">
                 <StaticImage
                   src="../../images/home/banners/mitti-banner-desktop-1920-es.jpg"
                   alt="Trenta"
@@ -218,7 +218,7 @@ export const GalugaSlider = () => {
           </SliderContainer>
           <SliderMobile>
             <Carousel showThumbs={false} infiniteLoop={true} autoPlay={true}>
-              <Slide to="/produtos/poltronas/dom">
+              <Slide to="/produtos/poltronas/goat">
                 <StaticImage
                   src="../../images/home/banners/dom-banner-mobile-768-es.jpg"
                   alt="Trenta"
@@ -232,16 +232,16 @@ export const GalugaSlider = () => {
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/bodo">
+              <Slide to="/produtos/cadeiras/carena-cad">
                 <StaticImage
                   src="../../images/home/banners/bodo-banner-mobile-768-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />
               </Slide>
-              <Slide to="/produtos/cadeiras/mitti">
+              <Slide to="/produtos/poltronas/ferrero">
                 <StaticImage
-                  src="../../images/home/banners/mitti-banner-mobile-768-pt.jpg"
+                  src="../../images/home/banners/mitti-banner-mobile-768-es.jpg"
                   alt="Trenta"
                   quality={100}
                 />

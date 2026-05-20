@@ -27,6 +27,12 @@
     "category_slug": "marmore", 
     "finishes": [
       {
+        "slug": "deep-blue-quartzito",
+        "name": "deep blue quartzito",
+        "nameEs": "deep blue quartzito",
+        "nameEn": "deep blue quartzito"
+      },
+      {
         "slug": "nero-marquina",
         "name": "nero marquina",
         "nameEs": "nero marquina",
@@ -37,6 +43,12 @@
         "name": "rosso fiorentino",
         "nameEs": "rosso fiorentino",
         "nameEn": "rosso fiorentino"
+      },
+      {
+        "slug": "oak-bamboo-quartzito",
+        "name": "oak bamboo quartzito",
+        "nameEs": "oak bamboo quartzito",
+        "nameEn": "oak bamboo quartzito"
       },
       {
         "slug": "travertino",
@@ -199,12 +211,6 @@
         "nameEn": "golden"
       },
       {
-        "slug": "fendi1",
-        "name": "fendi",
-        "nameEs": "fendi",
-        "nameEn": "fendi"
-      },
-      {
         "slug": "fume-1",
         "name": "fumê",
         "nameEs": "fumar",
@@ -233,12 +239,6 @@
         "name": "preto",
         "nameEs": "negro",
         "nameEn": "black"
-      },
-      {
-        "slug": "verde-escuro",
-        "name": "verde escuro",
-        "nameEs": "verde oscuro",
-        "nameEn": "dark green"
       }
     ]
   },
@@ -255,22 +255,34 @@
         "nameEn": "berinjela"
       },
       {
-        "slug": "brandy-01",
-        "name": "brandy",
-        "nameEs": "brandy",
-        "nameEn": "brandy"
-      },
-      {
         "slug": "camel-01",
         "name": "camel",
         "nameEs": "camel",
         "nameEn": "camel"
       },
       {
-        "slug": "concreto-001",
-        "name": "concreto",
-        "nameEs": "hormigón",
-        "nameEn": "concrete"
+        "slug": "castor",
+        "name": "castor",
+        "nameEs": "castor",
+        "nameEn": "castor"
+      },
+      {
+        "slug": "desert-couro",
+        "name": "desert",
+        "nameEs": "desert",
+        "nameEn": "desert"
+      },
+      {
+        "slug": "light-gray",
+        "name": "light gray",
+        "nameEs": "light gray",
+        "nameEn": "light gray"
+      },
+      {
+        "slug": "marmutt",
+        "name": "marmutt",
+        "nameEs": "marmutt",
+        "nameEn": "marmutt"
       },
       {
         "slug": "oliva",
@@ -363,65 +375,66 @@
         "nameEn": "1098"
       },
       {
-        "slug": "1101",
-        "name": "1101",
-        "nameEs": "1101",
-        "nameEn": "1101"
+        "slug": "1110",
+        "name": "1110",
+        "nameEs": "1110",
+        "nameEn": "1110"
       },
       {
-        "slug": "1102",
-        "name": "1102",
-        "nameEs": "1102",
-        "nameEn": "1102"
+        "slug": "1111",
+        "name": "1111",
+        "nameEs": "1111",
+        "nameEn": "1111"
       },
       {
-        "slug": "1103",
-        "name": "1103",
-        "nameEs": "1103",
-        "nameEn": "1103"
+        "slug": "1112",
+        "name": "1112",
+        "nameEs": "1112",
+        "nameEn": "1112"
       },
       {
-        "slug": "1106",
-        "name": "1106",
-        "nameEs": "1106",
-        "nameEn": "1106"
+        "slug": "1113",
+        "name": "1113",
+        "nameEs": "1113",
+        "nameEn": "1113"
       },
       {
-        "slug": "1107",
-        "name": "1107",
-        "nameEs": "1107",
-        "nameEn": "1107"
+        "slug": "1114",
+        "name": "1114",
+        "nameEs": "1114",
+        "nameEn": "1114"
       },
       {
-        "slug": "1108",
-        "name": "1108",
-        "nameEs": "1108",
-        "nameEn": "1108"
+        "slug": "1115",
+        "name": "1115",
+        "nameEs": "1115",
+        "nameEn": "1115"
       },
       {
-        "slug": "1767",
-        "name": "1767",
-        "nameEs": "1767",
-        "nameEn": "1767"
+        "slug": "1921",
+        "name": "1921",
+        "nameEs": "1921",
+        "nameEn": "1921"
       },
       {
-        "slug": "1910",
-        "name": "1910",
-        "nameEs": "1910",
-        "nameEn": "1910"
+        "slug": "1922",
+        "name": "1922",
+        "nameEs": "1922",
+        "nameEn": "1922"
       },
       {
-        "slug": "1943",
-        "name": "1943",
-        "nameEs": "1943",
-        "nameEn": "1943"
+        "slug": "1923",
+        "name": "1923",
+        "nameEs": "1923",
+        "nameEn": "1923"
       },
       {
-        "slug": "1944",
-        "name": "1944",
-        "nameEs": "1944",
-        "nameEn": "1944"
+        "slug": "1924",
+        "name": "1924",
+        "nameEs": "1924",
+        "nameEn": "1924"
       },
+
       {
         "slug": "1945",
         "name": "1945",
@@ -488,12 +501,6 @@
         "nameEn": "1961"
       },
       {
-        "slug": "1962",
-        "name": "1962",
-        "nameEs": "1962",
-        "nameEn": "1962"
-      },
-      {
         "slug": "1963",
         "name": "1963",
         "nameEs": "1963",
@@ -507,24 +514,6 @@
     "category_name_es": "Grupo 4", 
     "category_slug": "tecidos-grupo-4", 
     "finishes": [
-      {
-        "slug": "4001",
-        "name": "4001",
-        "nameEs": "4001",
-        "nameEn": "4001"
-      },
-      {
-        "slug": "4008",
-        "name": "4008",
-        "nameEs": "4008",
-        "nameEn": "4008"
-      },
-      {
-        "slug": "4009",
-        "name": "4009",
-        "nameEs": "4009",
-        "nameEn": "4009"
-      },
       {
         "slug": "4021",
         "name": "4021",
@@ -542,12 +531,6 @@
         "name": "4025",
         "nameEs": "4025",
         "nameEn": "4025"
-      },
-      {
-        "slug": "4026",
-        "name": "4026",
-        "nameEs": "4026",
-        "nameEn": "4026"
       },
       {
         "slug": "4027",
@@ -580,6 +563,30 @@
         "nameEn": "4033"
       },
       {
+        "slug": "4051",
+        "name": "4051",
+        "nameEs": "4051",
+        "nameEn": "4051"
+      },
+      {
+        "slug": "4052",
+        "name": "4052",
+        "nameEs": "4052",
+        "nameEn": "4052"
+      },
+      {
+        "slug": "4054",
+        "name": "4054",
+        "nameEs": "4054",
+        "nameEn": "4054"
+      },
+      {
+        "slug": "4055",
+        "name": "4055",
+        "nameEs": "4055",
+        "nameEn": "4055"
+      },
+      {
         "slug": "4580",
         "name": "4580",
         "nameEs": "4580",
@@ -592,34 +599,10 @@
         "nameEn": "4584"
       },
       {
-        "slug": "4587",
-        "name": "4587",
-        "nameEs": "4587",
-        "nameEn": "4587"
-      },
-      {
-        "slug": "4588",
-        "name": "4588",
-        "nameEs": "4588",
-        "nameEn": "4588"
-      },
-      {
         "slug": "4607",
         "name": "4607",
         "nameEs": "4607",
         "nameEn": "4607"
-      },
-      {
-        "slug": "4620",
-        "name": "4620",
-        "nameEs": "4620",
-        "nameEn": "4620"
-      },
-      {
-        "slug": "4623",
-        "name": "4623",
-        "nameEs": "4623",
-        "nameEn": "4623"
       }
     ]
   },
@@ -630,34 +613,28 @@
     "category_slug": "tecidos-grupo-5", 
     "finishes": [
       {
-        "slug": "5033",
-        "name": "5033",
-        "nameEs": "5033",
-        "nameEn": "5033"
+        "slug": "5050",
+        "name": "5050",
+        "nameEs": "5050",
+        "nameEn": "5050"
       },
       {
-        "slug": "5034",
-        "name": "5034",
-        "nameEs": "5034",
-        "nameEn": "5034"
+        "slug": "5051",
+        "name": "5051",
+        "nameEs": "5051",
+        "nameEn": "5051"
       },
       {
-        "slug": "5035",
-        "name": "5035",
-        "nameEs": "5035",
-        "nameEn": "5035"
+        "slug": "5053",
+        "name": "5053",
+        "nameEs": "5053",
+        "nameEn": "5053"
       },
       {
-        "slug": "5041",
-        "name": "5041",
-        "nameEs": "5041",
-        "nameEn": "5041"
-      },
-      {
-        "slug": "5042",
-        "name": "5042",
-        "nameEs": "5042",
-        "nameEn": "5042"
+        "slug": "5054",
+        "name": "5054",
+        "nameEs": "5054",
+        "nameEn": "5054"
       }
     ]
   },
@@ -668,16 +645,22 @@
     "category_slug": "tecidos-grupo-6", 
     "finishes": [
       {
-        "slug": "6352",
-        "name": "6352",
-        "nameEs": "6352",
-        "nameEn": "6352"
+        "slug": "6001",
+        "name": "6001",
+        "nameEs": "6001",
+        "nameEn": "6001"
       },
       {
-        "slug": "6355",
-        "name": "6355",
-        "nameEs": "6355",
-        "nameEn": "6355"
+        "slug": "6002",
+        "name": "6002",
+        "nameEs": "6002",
+        "nameEn": "6002"
+      },
+      {
+        "slug": "6003",
+        "name": "6003",
+        "nameEs": "6003",
+        "nameEn": "6003"
       }
     ]
   },
@@ -704,38 +687,26 @@
         "name": "7067",
         "nameEs": "7067",
         "nameEn": "7067"
-      }                          
+      },
+      {
+        "slug": "7068",
+        "name": "7068",
+        "nameEs": "7068",
+        "nameEn": "7068"
+      }                       
     ]
   },
   {
-    "category_name": "vidro pintado",
-    "category_name_en": "Painted Glass",
-    "category_name_es": "Vidrio pintado ", 
+    "category_name": "vidros",
+    "category_name_en": "glass",
+    "category_name_es": "Vidrio ", 
     "category_slug": "vidros", 
     "finishes": [
       {
-        "slug": "grafite",
-        "name": "grafite",
-        "nameEs": "grafito",
-        "nameEn": "graphite"
-      },
-      {
-        "slug": "fume-2",
-        "name": "fumê",
-        "nameEs": "fumar",
-        "nameEn": "smoked"
-      },
-      {
-        "slug": "preto",
-        "name": "preto",
-        "nameEs": "negro",
-        "nameEn": "black"
-      },
-      {
-        "slug": "chocolate",
-        "name": "chocolate",
-        "nameEs": "chocolate",
-        "nameEn": "chocolate"
+        "slug": "glass-01",
+        "name": "bronze - incolor - fumê",
+        "nameEs": "bronce - incoloro - ahumado",
+        "nameEn": "bronze - colorless - smoky"
       }
     ]
   },

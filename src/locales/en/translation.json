@@ -17,7 +17,8 @@
     "naturalStraw": "Natural Straw",
     "metallicPainting": "Metal Painting",
     "reconstitutedLeather": "Reconstituted Leather",
-    "paintedGlass": "Painted Glass"
+    "paintedGlass": "Painted Glass",
+    "glass": "Glass"
   },
   "categories": {
     "banquetas": "benches",

@@ -11,12 +11,16 @@ const LogoWhite = styled.img`
   width: 100%;
 `
 
+const SocialWrapper = styled.div`
+  margin-top: 10px;
+`
+
 interface FooterLogoProps {}
 
 const Holder = styled.div`
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
 `
 export const FooterLogo: React.FC<FooterLogoProps> = ({}) => {
@@ -25,7 +29,9 @@ export const FooterLogo: React.FC<FooterLogoProps> = ({}) => {
       <LogoContainer to="/">
         <LogoWhite src={logoWhiteImg} />
       </LogoContainer>
-      <Social light />
+      <SocialWrapper>
+        <Social light />
+      </SocialWrapper>
     </Holder>
   )
 }

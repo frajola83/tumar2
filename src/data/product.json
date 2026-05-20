@@ -34,64 +34,38 @@
       "variations": []
     },
     {
-      "ref": "ref.2983",
-      "slug": "afago",
-      "name": "afago",
-      "cover_img": "afago-02",
-      "designer_name": "Tascieny Brandão",
-      "designer_slug": "tascieny-brandao",
+      "ref": "Ref.3049",
+      "slug": "ambar",
+      "name": "ambar",
+      "cover_img": "ambar-01",
+      "designer_name": "fabricio ronca",
+      "designer_slug": "fabricio-roncca",
       "category_slug": "poltronas",
       "category_name": "poltronas",
-      "description": "Poltrona suspensa com estrutura interna tubular, estofada. Cordas em polipropileno.",
-      "descriptionEn": "Upholstered hanging armchair with internal structure in carbon steel tube. Hanged by polypropylene ropes.",
-      "descriptionEs": "Sillón suspendido con estructura interna tubular, tapizado. Cuerdas de polipropileno.",
+      "description": "Poltrona com estrutura interna tubular estofada, com almofadas sobrepostas. Base fixa em madeira maciça tingida.",
+      "descriptionEn": "Armchair with upholstered tubular internal structure and overlapping cushions. Fixed base in stained solid wood.",
+      "descriptionEs": "Sillón con estructura interna tubular tapizada y cojines superpuestos. Base fija de madera maciza teñida.",
+      "concept":"O âmbar é uma resina fóssil orgânica, valorizada desde a antiguidade como gema preciosa, usada em joias e objetos ornamentais. \n \n Esta peça eu tentei extrair da madeira o tratamento de uma joia, de uma pedra preciosa, lapidada e esculpida com cuidado, como uma madeira merece, com detalhes facetados que dão um toque sofisticado, leve e arrojado. A concha côncava dá um conforto impar a peça, transformando a Ambar em um objeto de desejo.",
+      "conceptEs":"El ámbar es una resina fósil orgánica, valorada desde la antigüedad como una gema preciosa, utilizada en joyería y objetos ornamentales. \n \n En esta pieza, intenté extraer de la madera el tratamiento de una joya, de una piedra preciosa, cuidadosamente tallada y esculpida, como la madera merece, con detalles facetados que le otorgan un toque sofisticado, ligero y audaz. La concha cóncava confiere a la pieza una comodidad inigualable, transformando el ámbar en un objeto de deseo.",
+      "conceptEn":"Amber is an organic fossil resin, valued since antiquity as a precious gemstone, used in jewelry and ornamental objects. \n \n In this piece, I tried to extract from the wood the treatment of a jewel, of a precious stone, carefully cut and sculpted, as wood deserves, with faceted details that give a sophisticated, light and bold touch. The concave shell gives the piece unparalleled comfort, transforming Ambar into an object of desire.",
       "measurementsEn": [
-        "27.16 x 35.03 x 34.25"
+        "28.35 x 29.53 x 32.28"
       ],
       "measurements": [
-        "690 x 890 x 870"
+        "720 x 750 x 820"
       ],
       "measurementsEs": [
-        "690 x 890 x 870"
+        "720 x 750 x 820"
       ],
       "images": [
-        "afago-02",
-        "afago-01"
+        "ambar-01",
+        "ambar-02",
+        "ambar-03",
+        "ambar-04",
+        "ambar-05"
       ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "Ref.3025 | 1133",
-      "slug": "afago-e-puf",
-      "name": "afago e puf",
-      "nameEs:": "afago y puf",
-      "nameEn": "afago and ottoman",
-      "cover_img": "afago-e-puf-01",
-      "designer_name": "Tascieny Brandão",
-      "designer_slug": "tascieny-brandao",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna tubular, estofada com enchimento em espuma hipersoft e fibra. Base giratória em alumínio pintado.",
-      "descriptionEn": "Upholstered armchair with internal structure in carbon steel tube. Cushion in hypersoft foam and fiber padding. Swivel base in painted aluminum.",
-      "descriptionEs": "Sillón con estructura interna tubular, tapizado con espuma hypersolft y relleno de fibra. Base giratoria en aluminio pintado.",
-      "measurementsEn": [
-        "Armchair: 33,46 x 31,49 x 37",
-        "Ottoman 16,33 x 25,98 x 17,71"
+      "ambients": [
       ],
-      "measurements": [
-        "Poltrona: 850 x 800 x 940",
-        "Puf: 415 x 660 x 450"
-      ],
-      "measurementsEs": [
-        "Sillón: 850 x 800 x 940",
-        "Puf: 415 x 660 x 450"
-      ],
-      "images": [
-        "afago-e-puf-01",
-        "afago-e-puf-02"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -122,7 +96,8 @@
       "ambients": [
         "arc-amb-01",
         "arc-amb-02",
-        "arc-amb-03"
+        "arc-amb-03",
+        "arc-amb-04"
       ],
       "variations": []
     },
@@ -184,7 +159,9 @@
       "ambients": [
         "coral-polt-amb-01",
         "coral-polt-amb-03",
-        "coral-polt-amb-02"
+        "coral-polt-amb-02",
+        "coral-polt-amb-04",
+        "coral-polt-amb-05"
       ],
       "variations": []
     },
@@ -221,7 +198,9 @@
       ],
       "ambients": [
         "delta-amb-01",
-        "delta-amb-02"
+        "delta-amb-02",
+        "delta-amb-03",
+        "delta-amb-04"
       ],
       "variations": []
     },
@@ -261,7 +240,12 @@
         "dom-amb-02",
         "dom-amb-03",
         "dom-amb-04", 
-        "dom-amb-05"
+        "dom-amb-05",
+        "dom-amb-06",
+        "dom-amb-07",
+        "dom-amb-08",
+        "dom-amb-09",
+        "dom-amb-10"
       ],
       "variations": []
     },
@@ -329,6 +313,77 @@
       "variations": []
     },
     {
+      "ref": "Ref.3041",
+      "slug": "exxo",
+      "name": "exxo",
+      "cover_img": "exxo-01",
+      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em madeira estofada. Base em MDF laminado. Estrutura em madeira maciça tingida.",
+      "descriptionEn": "Armchair with internal upholstered wooden frame. Laminated MDF base. Solid stained wood frame.",
+      "descriptionEs": "Sillón con estructura interna de madera tapizada. Base de MDF laminado. Estructura de madera maciza teñida.",
+      "concept":"Inspirada nos imponentes pináculos da arquitetura gótica, a poltrona Exxo traz o uso da madeira escultural como elemento central para conferir caráter e identidade. Assim como os pináculos, as hastes verticais em madeira se destacam por seu traço ascendente e alongado, criando um ritmo contínuo ao redor do corpo. Essa estrutura aparente sustenta e tensiona volumes estofados robustos que proporcionam conforto e convidam ao uso.",
+      "conceptEs":"Inspirada en los imponentes pináculos de la arquitectura gótica, la butaca Exxo utiliza la madera escultórica como elemento central para conferirle carácter e identidad. Al igual que los pináculos, las varillas verticales de madera destacan por sus líneas ascendentes y alargadas, creando un ritmo continuo alrededor del cuerpo. Esta estructura a la vista sostiene y tensa los robustos volúmenes tapizados que brindan comodidad e invitan a su uso.",
+      "conceptEn":"Inspired by the imposing pinnacles of Gothic architecture, the Exxo armchair uses sculptural wood as a central element to confer character and identity. Like the pinnacles, the vertical wooden rods stand out for their ascending and elongated lines, creating a continuous rhythm around the body. This exposed structure supports and tensions robust upholstered volumes that provide comfort and invite use.",
+      "measurementsEn": [
+        "27.56 x 35.04 x 29.92"
+      ],
+      "measurements": [
+        "700 x 890 x 760"
+      ],
+      "measurementsEs": [
+        "700 x 890 x 760"
+      ],
+      "images": [
+        "exxo-01",
+        "exxo-02",
+        "exxo-03"
+        ],
+      "ambients": [
+        "exxo-amb-01",
+        "exxo-amb-02"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3039",
+      "slug": "ferrero",
+      "name": "ferrero",
+      "cover_img": "ferrero-01",
+      "designer_name": "fabricio ronca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado curvo e madeira estofada. Base fixa madeira maciça tingida.",
+      "descriptionEn": "Armchair with internal structure in curved multi-layered wood and upholstered wood. Fixed base in stained solid wood.",
+      "descriptionEs": "Sillón con estructura interna de madera curvada multicapa y tapizado de madera. Base fija de madera maciza teñida.",
+      "concept":"A poltrona Ferrero é um tributo absoluto a mais nobre das inspirações, a anatomia equestre. \n O estofado envolvido pela estrutura em madeira transformam a peça em uma obra única, forte e elegante. \n \n Cada linha da peça remete as formas e aos movimentos do cavalo, a madeira torneada com excelência traz um conforto impar ao braço e ao sentar. Os arcos esculpidos em madeira maciça recriam a forma da ferradura, um símbolo de estabilidade e potência.",
+      "conceptEs":"El sillón Ferrero es un homenaje absoluto a la más noble de las inspiraciones: la anatomía ecuestre. \n Su tapicería, enmarcada en madera, transforma la pieza en una obra de arte única, robusta y elegante. \n \n Cada línea evoca las formas y movimientos del caballo; la madera, torneada con maestría, proporciona una comodidad inigualable tanto para los brazos como para el asiento. Los arcos tallados en madera maciza recrean la forma de la herradura, símbolo de estabilidad y poder.",
+      "conceptEn":"The Ferrero armchair is an absolute tribute to the noblest of inspirations, equestrian anatomy. \n The upholstery encased in a wooden frame transforms the piece into a unique, strong, and elegant work of art. \n \n Each line of the piece evokes the shapes and movements of the horse, and the expertly turned wood provides unparalleled comfort to the arm and to the seated area. Os arcos esculpidos em madeira maciça recriam a forma da ferradura, um símbolo de estabilidade e potência.",
+      "measurementsEn": [
+        "30.71 x 33.07 x 33.86"
+      ],
+      "measurements": [
+        "780 x 840 x 860"
+      ],
+      "measurementsEs": [
+        "780 x 840 x 860"
+      ],
+      "images": [
+        "ferrero-01",
+        "ferrero-02",
+        "ferrero-03",
+        "ferrero-04",
+        "ferrero-05",
+        "ferrero-06"
+        ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
       "ref": "Ref.3023",
       "slug": "forza",
       "name": "forza",
@@ -357,7 +412,10 @@
         "forza-02",
         "forza-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "forza-amb-01",
+        "forza-amb-02"
+      ],
       "variations": []
     },
     {
@@ -391,7 +449,120 @@
         "gamboa-04",
         "gamboa-05"
       ],
-      "ambients": [],
+      "ambients": [
+        "gamboa-amb-01",
+        "gamboa-amb-02",
+        "gamboa-amb-03",
+        "gamboa-amb-04",
+        "gamboa-amb-05"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3045",
+      "slug": "goat",
+      "name": "goat",
+      "cover_img": "goat-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado curvo e madeira estofada. Base madeira maciça tingida.",
+      "descriptionEn": "Armchair with internal structure in curved multi-layered wood and upholstered wood. Solid wood base with stained finish.",
+      "descriptionEs": "Sillón con estructura interna de madera curvada multicapa y tapizado en madera. Base de madera maciza con acabado teñido.",
+      "concept":"Inspirada pela beleza das formas que passam despercebidas no cotidiano, a Poltrona GOAT nasce de um olhar atento e curioso. Ao pesquisar o termo “Greatest of All Time” (GOAT), a imagem de uma cabra de chifres retorcidos despertou uma conexão imediata com o universo da madeira, seus contornos lembravam os pés e braços de uma poltrona usinada em madeira. A partir desse instante, a ideia tomou forma: transformar uma simples observação em um produto icônico. GOAT é o resultado de um gesto criativo que transforma o comum cotidiano em extraordinário.",
+      "conceptEs":"Inspirada en la belleza de las formas que pasan desapercibidas en la vida cotidiana, la butaca GOAT nació de una mirada atenta y curiosa. Al investigar el término 'Greatest of All Time' (GOAT), la imagen de una cabra con cuernos retorcidos evocó de inmediato una conexión con el mundo de la madera; sus contornos recordaban las patas y los brazos de una butaca de madera artesanal. A partir de ese momento, la idea tomó forma: transformar una simple observación en un producto icónico. GOAT es el resultado de un gesto creativo que transforma lo ordinario en extraordinario.",
+      "conceptEn":"Inspired by the beauty of shapes that often go unnoticed in daily life, the GOAT Lounge Chair is born from an attentive and curious gaze. While researching the term 'Greatest of All Time' (GOAT), the image of a goat with twisted horns sparked an immediate connection to the world of woodworking; its contours mirrored the legs and armrests of a machined wood chair. From that moment, the idea took shape: transforming a simple observation into an iconic product. GOAT is the result of a creative gesture that turns the everyday ordinary into the extraordinary.",
+      "measurementsEn": [
+        "31,50 x 35,83 x 30,71"
+      ],
+      "measurements": [
+        "800 x 910 x 780"
+      ],
+      "measurementsEs": [
+        "800 x 910 x 780"
+      ],
+      "images": [
+        "goat-01",
+        "goat-02",
+        "goat-03",
+        "goat-04",
+        "goat-05"
+      ],
+      "ambients": [
+        "goat-amb-01",
+        "goat-amb-02",
+        "goat-amb-03",
+        "goat-amb-04",
+        "goat-amb-05"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3043",
+      "slug": "goofy",
+      "name": "goofy",
+      "cover_img": "goofy-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna em multilaminado curvo e madeira estofada. Base tubular pintada.",
+      "descriptionEn": "Armchair with internal structure in curved multi-layered wood and upholstered wood. Painted tubular base.",
+      "descriptionEs": "Sillón con estructura interna de madera curvada multicapa y tapizado en madera. Base tubular pintada.",
+      "concept":"Projetada para transitar naturalmente entre o lar e o ambiente corporativo, a Poltrona Goofy combina conforto, resistência e estilo. Sua estrutura metálica reforça robustez, enquanto o estofamento orgânico e acolhedor convida ao descanso. O nome vem do universo do skate, inspirado nos tênis com colar acolchoado que envolvem e protegem o tornozelo. Essa ideia foi reinterpretada nos braços da poltrona, que abraçam o usuário com suavidade e elegância. Goofy é a fusão entre o descontraído e o sofisticado, criada para espaços que pedem personalidade e conforto.",
+      "conceptEs":"Diseñado para integrarse a la perfección tanto en el hogar como en la oficina, el sillón Goofy combina comodidad, durabilidad y estilo. Su estructura metálica refuerza su robustez, mientras que su tapizado orgánico y acogedor invita a la relajación. Su nombre proviene del mundo del skateboarding, inspirado en las zapatillas con cuello acolchado que envuelven y protegen el tobillo. Esta idea se ha reinterpretado en los brazos del sillón, que abrazan al usuario con suavidad y elegancia. Goofy es la fusión de lo casual y lo sofisticado, creado para espacios que exigen personalidad y confort.",
+      "conceptEn":"Designed to seamlessly transition between home and corporate environments, the Goofy Armchair combines comfort, durability, and style. Its metal frame reinforces its robustness, while the organic and inviting upholstery invites relaxation. The name comes from the world of skateboarding, inspired by shoes with padded collars that envelop and protect the ankle. This idea has been reinterpreted in the armchair's arms, which embrace the user with softness and elegance. Goofy is the fusion of casual and sophisticated, created for spaces that demand personality and comfort.",
+      "measurementsEn": [
+        "27.17 x 32.68 x 29.53"
+      ],
+      "measurements": [
+        "690 x 830 x 750"
+      ],
+      "measurementsEs": [
+        "690 x 830 x 750"
+      ],
+      "images": [
+        "goofy-01",
+        "goofy-02"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3052",
+      "slug": "infinity",
+      "name": "infinity",
+      "cover_img": "infinity-01",
+      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna hibrida, estofada. Base em MDF laminada. Estrutura em madeira maciça tingida.",
+      "descriptionEn": "Armchair with hybrid internal structure, upholstered. Laminated MDF base. Solid wood frame with stained finish.",
+      "descriptionEs": "Sillón con estructura interna híbrida, tapizado. Base de MDF laminado. Estructura de madera maciza con acabado teñido.",
+      "concept":"Nascida do desejo de dar corpo ao imponderável, a poltrona Infinity é a materialização de um gesto que rompeu o papel para ganhar o mundo. Entre curvas contínuas e braços de madeira que desenham o eterno, o projeto transita da abstração de um cubo esculpido à precisão da engenharia, transformando o traço livre em um abraço tridimensional que não tem fim.",
+      "conceptEs":"Nacida del deseo de dar forma a lo inconmensurable, la butaca Infinity es la materialización de un gesto que trascendió las páginas para conquistar el mundo. Entre curvas continuas y brazos de madera que representan lo eterno, el diseño transita desde la abstracción de un cubo esculpido hasta la precisión de la ingeniería, transformando la línea libre en un abrazo tridimensional sin fin.",
+      "conceptEn":"Born from the desire to give form to the imponderable, the Infinity armchair is the materialization of a gesture that broke through the page to conquer the world. Between continuous curves and wooden arms that depict the eternal, the design transitions from the abstraction of a sculpted cube to the precision of engineering, transforming the free line into a three-dimensional embrace that has no end.",
+      "measurementsEn": [
+        "29.13 x 30.31 x 32.68"
+      ],
+      "measurements": [
+        "740 x 770 x 830"
+      ],
+      "measurementsEs": [
+        "740 x 770 x 830"
+      ],
+      "images": [
+        "infinity-01",
+        "infinity-02",
+        "infinity-03"
+      ],
+      "ambients": [
+        "infinity-amb-01",
+        "infinity-amb-02"
+      ],
       "variations": []
     },
     {
@@ -415,8 +586,8 @@
         "Puf: 435 x 615 x 490 "
       ],
       "measurementsEs": [
-        "Sillón: 1080x800x845",
-        "Soplo: 435x615x490"
+        "Sillón: 1080 x 800 x 845",
+        "Soplo: 435 x 615 x 490"
       ],
       "images": [
         "jangada-01-",
@@ -427,38 +598,9 @@
         "jangada-amb-01",
         "jangada-amb-02",
         "jangada-amb-03",
-        "jangada-amb-04"
+        "jangada-amb-04",
+        "jangada-amb-05"
       ],
-      "variations": []
-    },
-    {
-      "ref": "CA.3003/3012",
-      "slug": "maia",
-      "name": "maia",
-      "cover_img": "maia-01",
-      "designer_name": "Tascieny Brandão",
-      "designer_slug": "tascieny-brandao",
-      "category_slug": "poltronas",
-      "category_name": "poltronas",
-      "description": "Poltrona com estrutura interna híbrida estofada. Base da estrutura fixa em MDF pintada. Encosto pode ser lado esquerdo ou direito.",
-      "descriptionEn": "Upholstered armchair with hybrid internal structure. Base in painted MDF. Option: Left and right side.",
-      "descriptionEs": "Sillón con estructura interna híbrida tapizada. Base de estructura fija en MDF pintado. El respaldo puede ser del lado izquierdo o derecho.",
-      "measurementsEn": [
-        "29,92 x 38,97 x 35,03"
-      ],
-      "measurements": [
-        "760 x 990 x 890"
-      ],
-      "measurementsEs": [
-        "760 x 990 x 890"
-      ],
-      "images": [
-        "maia-01",
-        "maia-02",
-        "maia-03",
-        "maia-04"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -493,7 +635,43 @@
         "muar-02",
         "muar-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "muar-amb-01",
+        "muar-amb-02"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3040",
+      "slug": "musk",
+      "name": "musk",
+      "cover_img": "musk-01",
+      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna híbrida, estofada. Base em madeira maciça tingida.",
+      "descriptionEn": "Armchair with hybrid internal structure, upholstered. Base in stained solid wood.",
+      "descriptionEs": "Sillón con estructura interna híbrida, tapizado. Base de madera maciza teñida.",
+      "concept":"Musk (ou almíscar) é uma nota olfativa base da perfumaria, conhecida por ser envolvente, quente e sensual, sem exageros. Refletindo essas características, a poltrona Musk se destaca por seu perfil lateral bem trabalhado, evidenciando o traço característico do designer Ibanez Razzera nas transições fluidas entre formas e volumes. Cada detalhe contribui para uma presença marcante, com personalidade forte, conferindo identidade e sofisticação aos ambientes em que se insere.",
+      "conceptEs":"El almizcle es una nota olfativa básica en perfumería, conocida por ser envolvente, cálida y sensual, sin resultar empalagosa. Reflejando estas características, el sillón Musk destaca por su perfil lateral cuidadosamente elaborado, que resalta el toque distintivo del diseñador Ibanez Razzera en las fluidas transiciones entre formas y volúmenes. Cada detalle contribuye a una presencia impactante con una fuerte personalidad, aportando identidad y sofisticación a los ambientes en los que se ubica.",
+      "conceptEn":"Musk is a base olfactory note in perfumery, known for being enveloping, warm, and sensual, without being overpowering. Reflecting these characteristics, the Musk armchair stands out for its well-crafted side profile, highlighting the characteristic touch of designer Ibanez Razzera in the fluid transitions between shapes and volumes. Every detail contributes to a striking presence with a strong personality, lending identity and sophistication to the environments in which it is placed.",
+      "measurementsEn": [
+        "30,31 x 30,31 x 29,13"
+      ],
+      "measurements": [
+        "770 x 770 x 740"
+      ],
+      "measurementsEs": [
+        "770 x 770 x 740"
+      ],
+      "images": [
+        "musk-01",
+        "musk-02"
+      ],
+      "ambients": [
+        "musk-amb-01"
+      ],
       "variations": []
     },
     {
@@ -522,7 +700,9 @@
         "nara-polt-02",
         "nara-polt-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "nara-polt-amb-01"
+      ],
       "variations": []
     },
     {
@@ -587,7 +767,48 @@
         "savoi-01",
         "savoi-02"
       ],
-      "ambients": [],
+      "ambients": [
+          "savoi-amb-01",
+          "savoi-amb-02"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "REF.3047/1135",
+      "slug": "stella",
+      "name": "poltrona e puf stella",
+      "nameEn": "stella armchair and ottoman",
+      "nameEs": "sillón y puf stella",
+      "cover_img": "stella-01",
+      "designer_name": "fabricio ronca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna hibrida, estofada. Base giratória em alumínio pintada, com relax.",
+      "descriptionEn": "Armchair with hybrid internal structure, upholstered. Swivel base in painted aluminum, with reclining function.",
+      "descriptionEs": "Sillón con estructura interna híbrida, tapizado. Base giratoria de aluminio pintado, con función reclinable.",
+      "concept":"Uma peça elegante e escultural. Peça que pode ser usada em ambientes office, estar e lounges. Com sua forma que se destaca, com linhas orgânicas e aconchegantes convidam a um sentar relaxante, seus pés em forma de estrela em metal contrastam com estofado, gerando uma peça única e atemporal.",
+      "conceptEs":"Una pieza elegante y escultural. Ideal para oficinas, salas de estar y salones. Su llamativa forma, con líneas orgánicas y acogedoras, invita a la relajación. Sus patas metálicas en forma de estrella contrastan con la tapicería, creando una pieza única y atemporal.",
+      "conceptEn":"An elegant and sculptural piece. A piece that can be used in offices, living rooms, and lounges. Its striking shape, with organic and inviting lines, creates a relaxing sitting position. Its star-shaped metal legs contrast with the upholstery, resulting in a unique and timeless piece.",
+      "measurementsEn": [
+        "armchair: 38,18 x 32,67 x 31,49",
+        "Ottoman: 16,53 x 25,98 x 18,11"
+      ],
+      "measurements": [
+        "poltrona: 970 x 830 x 800",
+        "puf: 420 x 660 x 460"
+      ],
+      "measurementsEs": [
+        "sillón: 970 x 830 x 800",
+        "puf: 420 x 660 x 460"
+      ],
+      "images": [
+        "stella-01",
+        "stella-02",
+        "stella-03"
+      ],
+      "ambients": [
+      ],
       "variations": []
     },
     {
@@ -621,7 +842,16 @@
         "toro-04",
         "toro-05"
       ],
-      "ambients": [],
+      "ambients": [
+        "toro-amb-01",
+        "toro-amb-02",
+        "toro-amb-03",
+        "toro-amb-04",
+        "toro-amb-05",
+        "toro-amb-06",
+        "toro-amb-07",
+        "toro-amb-08"
+      ],
       "variations": []
     },
     {
@@ -657,66 +887,49 @@
         "trenta-01",
         "trenta-04"
       ],
-      "ambients": [],
+      "ambients": [
+        "trenta-amb-01",
+        "trenta-amb-02",
+        "trenta-amb-03",
+        "trenta-amb-04"
+      ],
       "variations": []
     },
     {
-      "ref": "CA.2992",
-      "slug": "alma",
-      "name": "alma",
-      "cover_img": "alma-02",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico, estofada. Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico, tapizada. Base de madera maciza teñida.",
+      "ref": "Ref.3048",
+      "slug": "vereda",
+      "name": "vereda",
+      "cover_img": "vereda-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
+      "category_slug": "poltronas",
+      "category_name": "poltronas",
+      "description": "Poltrona com estrutura interna hibrida, estofada. Encosto com detalhe usinado em madeira maciça.  Base fixa madeira maciça tingida.",
+      "descriptionEn": "Armchair with hybrid internal structure, upholstered. Backrest with machined detail in solid wood. Fixed base in stained solid wood.",
+      "descriptionEs": "Sillón con estructura interna híbrida, tapizado. Respaldo con detalle mecanizado en madera maciza. Base fija de madera maciza teñida.",
+      "concept":"Um tributo à elegância modernista dos anos 1960. A Poltrona Vereda é um mergulho poético na essência do design e da arquitetura brasileira, período em que pilotis, contrastes de volume e formas torneadas marcaram uma geração. Inspirada pela pergunta “E se eu tivesse sido um designer nos anos 60, o que eu criaria?”, nasce uma peça que dialoga com a memória e a cultura nacional. O nome remete à obra de Guimarães Rosa e traduz sua alma: uma jornada entre o racional e o poético, entre o brutalismo e a delicadeza das formas que atravessam o tempo.",
+      "conceptEs":"Un homenaje a la elegancia modernista de los años sesenta. El sillón Vereda es una inmersión poética en la esencia del diseño y la arquitectura brasileños, un periodo en el que los pilotis, los contrastes de volumen y las formas esculpidas marcaron a una generación. Inspirada por la pregunta '¿Qué habría creado si hubiera sido diseñador en los años sesenta?', nace una pieza que dialoga con la memoria y la cultura nacionales. Su nombre alude a la obra de Guimarães Rosa y refleja su esencia: un viaje entre lo racional y lo poético, entre el brutalismo y la delicadeza de formas que trascienden el tiempo.",
+      "conceptEn":" A tribute to the modernist elegance of the 1960s. The Vereda Armchair is a poetic dive into the essence of Brazilian design and architecture, a period in which pilotis, contrasts of volume, and sculpted forms marked a generation. Inspired by the question 'What would I have created if I had been a designer in the 60s?', a piece is born that dialogues with national memory and culture. The name refers to the work of Guimarães Rosa and translates its soul: a journey between the rational and the poetic, between brutalism and the delicacy of forms that transcend time.",
       "measurementsEn": [
-        "32,67 x 19,68 x 26,77"
+        "Armchair: 31,10 x 34,25 x 29,92"
       ],
       "measurements": [
-        "830 x500 x 680"
+        "Poltrona: 790 x 870 x 760"
       ],
       "measurementsEs": [
-        "830 x500 x 680"
+        "Sillón: 790 x 870 x 760"
       ],
       "images": [
-        "alma-02",
-        "alma-01"
+        "vereda-01",
+        "vereda-02",
+        "vereda-03",
+        "vereda-04",
+        "vereda-05",
+        "vereda-06",
+        "vereda-07"
       ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "Ref.3020",
-      "slug": "alva",
-      "name": "alva",
-      "cover_img": "alva-01",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofa. Base tubular pintada.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Painted carbon steel tube legs.",
-      "descriptionEs": "Silla con estructura interna en tapizado anatómico multilaminado. Base tubular pintada.",
-      "concept":"A cadeira Alva remete à leveza e pureza, traduzidas em suas linhas limpas e proporções equilibradas. Sua estrutura metálica desenha um arco sutil que conecta assento e encosto, transmitindo harmonia e delicadeza. O assento acolchoado e curvado oferece apoio ergonômico, enquanto seus detalhes minimalistas exaltam um design elegante e duradouro.",
-      "conceptEs":"La silla Alva remite a la ligereza y la pureza, traducida en sus líneas limpias y proporciones equilibradas. Su estructura metálica dibuja un sutil arco que conecta asiento y respaldo, transmitiendo armonía y delicadeza. El asiento curvo y acolchado ofrece soporte ergonómico, mientras que sus detalles minimalistas mejoran un diseño elegante y duradero.",
-      "conceptEn":"The Alva chair evokes lightness and purity, translated in its clean lines and balanced proportions. Its metal frame forms a subtle arch that connects the seat and backrest, conveying harmony and delicacy. The upholstered and curved seat provides ergonomic support, while its minimalist details highlight an elegant and lasting design.",
-      "measurementsEn": [
-        "31,88 x 17,12 x 23,62"
+      "ambients": [
       ],
-      "measurements": [
-        "810 x 435 x 600"
-      ],
-      "measurementsEs": [
-        "810 x 435 x 600"
-      ],
-      "images": [
-        "alva-01",
-        "alva-02"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -741,9 +954,7 @@
       ],
       "images": [
         "amelie-cad-04",
-        "amelie-cad-02",
-        "amelie-cad-03",
-        "amelie-cad-01"
+        "amelie-cad-02"
       ],
       "ambients": [
         "amelie-cad-amb-01",
@@ -784,36 +995,76 @@
         "arc-02",
         "arc-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "arc-cad-amb-01",
+        "arc-cad-amb-02",
+        "arc-cad-amb-03",
+        "arc-cad-amb-04"
+      ],
       "variations": []
     },
     {
-      "ref": "CA.2972",
-      "slug": "aurora",
-      "name": "Aurora",
-      "cover_img": "aurora-01",
-      "designer_name": "Studio T92",
-      "designer_slug": "studio-t92",
+      "ref": "Ref.3034",
+      "slug": "aura-plissada-cadeira",
+      "name": "aura plissada",
+      "nameEs:": "aura plisada",
+      "nameEn": "aura pleated",
+      "cover_img": "aura-cad-pli-02",
+      "designer_name": "",
+      "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada.  Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base en madera maciza teñida.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
+      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered multi-layered wood. Painted tubular base.",
+      "descriptionEs": "Silla con estructura interna de madera multicapa tapizada con forma anatómica. Base tubular pintada.",
       "measurementsEn": [
-        "33.85 x 18.30 x 24.40"
+        "32,67 x 23,22 x 22,83"
       ],
       "measurements": [
-        "860 x 465 x 620"
+        "830 x 590 x 580"
       ],
       "measurementsEs": [
-        "860 x 465 x 620"
+        "830 x 590 x 580"
       ],
       "images": [
-        "aurora-01",
-        "aurora-02",
-        "aurora-03"
+        "aura-cad-pli-02",
+        "aura-cad-pli-01",
+        "aura-cad-pli-03",
+        "aura-cad-pli-04",
+        "aura-cad-pli-05"
       ],
-      "ambients": [],
+      "ambients": [
+        "aura-cad-pli-amb-01",
+        "aura-cad-pli-amb-02"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3034",
+      "slug": "aura-lisa-cadeira",
+      "name": "aura lisa",
+      "cover_img": "aura-cad-lisa-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
+      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered multi-layered wood. Painted tubular base.",
+      "descriptionEs": "Silla con estructura interna de madera multicapa tapizada con forma anatómica. Base tubular pintada.",
+      "measurementsEn": [
+        "32,67 x 23,22 x 22,83"
+      ],
+      "measurements": [
+        "830 x 590 x 580"
+      ],
+      "measurementsEs": [
+        "830 x 590 x 580"
+      ],
+      "images": [
+        "aura-cad-lisa-01"
+      ],
+      "ambients": [
+      ],
       "variations": []
     },
     {
@@ -842,7 +1093,12 @@
       "images": [
         "bella-01"
       ],
-      "ambients": [],
+      "ambients": [
+        "bella-amb-01",
+        "bella-amb-02",
+        "bella-amb-03",
+        "bella-amb-04"
+      ],
       "variations": []
     },
     {
@@ -873,37 +1129,12 @@
         "bella-03",
         "bella-02"
       ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2978",
-      "slug": "bliss",
-      "name": "Bliss",
-      "cover_img": "bliss-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Detalhe nas costas em chapa de aço pintada. Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs. Detail in carbon steel sheet bent on the back.",
-      "descriptionEs": "Silla con asiento y respaldo en laminado anatómico, tapizada. Detalle en la parte trasera en chapa de acero pintada. Base en madera maciza teñida.",
-      "measurementsEn": [
-        "33.85 x 18.89 x 25.19"
+      "ambients": [
+        "bella-amb-01",
+        "bella-amb-02",
+        "bella-amb-03",
+        "bella-amb-04"
       ],
-      "measurements": [
-        "860 x 480 x 640"
-      ],
-      "measurementsEs": [
-        "860 x 480 x 640"
-      ],
-      "images": [
-        "bliss-01",
-        "bliss-02",
-        "bliss-03",
-        "bliss-04"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -935,38 +1166,76 @@
         "bodo-02",
         "bodo-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "bodo-amb-01",
+        "bodo-amb-02",
+        "bodo-amb-03"
+      ],
       "variations": []
     },
     {
-      "ref": "Ref.3018",
-      "slug": "bucco",
-      "name": "bucco",
-      "cover_img": "bucco-01",
+      "ref": "Ref.3038",
+      "slug": "carena-cad",
+      "name": "carena",
+      "cover_img": "carena-cad-01",
       "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
       "designer_slug": "razzera",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base fixa em madeira tingida.",
-      "descriptionEn": "Upholstered chair with anatomical plywood shell. Stained wooden machined legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base fija en madera teñida.",
-      "concept":"O assento contínuo e multilaminado, suspenso e levemente apoiado na estrutura de madeira, tem no elemento vazado a principal característica e identidade da cadeira BUCCO - BURACO, traduzido do dialeto Talian, falado na serra gaúcha.",
-      "conceptEs":"El asiento continuo y multilaminado, suspendido y ligeramente apoyado sobre la estructura de madera, tiene en el elemento hueco la principal característica e identidad de la silla BUCCO - BURACO, traducido del dialecto taliano, hablado en las montañas de Rio Grande do Sul.",
-      "conceptEn":"The continuous seat, suspended and lightly supported by the wooden frame, features the cut-out element as the main characteristic and identity of the BUCCO chair: HOLE, which translates from the Talian dialect spoken in the Serra Gaúcha region.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada, Base fixa madeira maciça, tingida.",
+      "descriptionEn": "Chair with an anatomical plywood inner shell, upholstered; fixed solid wood base, stained.",
+      "descriptionEs": "Silla con estructura interna de madera contrachapada tapizada con forma anatómica, base fija de madera maciza con acabado teñido.",
+      "concept":"A cadeira Carena nasce da exploração das propriedades físicas da madeira, buscando leveza, equilíbrio e precisão estrutural. Seu desenho desafia os limites do material, explorando espessuras mínimas e detalhes precisos, e organizando as linhas em um movimento contínuo e fluido. Assim como a carena de um barco conduz o fluxo da água com estabilidade, as linhas da cadeira conduzem o olhar e o toque, guiando a experiência de forma natural e envolvente.",
+      "conceptEs":"La silla Carena nace de la exploración de las propiedades físicas de la madera, buscando ligereza, equilibrio y precisión estructural. Su diseño desafía los límites del material, explorando grosores mínimos y detalles precisos, y organizando las líneas en un movimiento continuo y fluido. Así como el casco de un barco guía el flujo del agua con estabilidad, las líneas de la silla guían la vista y el tacto, ofreciendo una experiencia natural y cautivadora.",
+      "conceptEn":"The Carena chair is born from the exploration of wood’s physical properties, seeking lightness, balance, and structural precision. Its design challenges the material's limits, exploring minimal thicknesses and precise details while organizing lines into a continuous, fluid movement. Just as a ship’s hull (carena) directs the flow of water with stability, the chair's lines guide the eye and the touch, leading the experience in a natural and engaging way.",            
       "measurementsEn": [
-        "31,49 x 19,68 x 24,60"
+        "32,28 x 22,44 x 23,62"
       ],
       "measurements": [
-        "800 x 500 x 625"
+        "820 x 570 x 600"
       ],
       "measurementsEs": [
-        "800 x 500 x 625"
+        "820 x 570 x 600"
       ],
       "images": [
-        "bucco-01",
-        "bucco-02"
+        "carena-cad-01",
+        "carena-cad-02",
+        "carena-cad-03",
+        "carena-cad-04"
       ],
-      "ambients": [],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3035",
+      "slug": "cloe-cadeira",
+      "name": "cloe",
+      "cover_img": "cloe-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Braço em madeira maciça. Base tubular pintada.",
+      "measurements": ["850 x 560 x 600"],
+      "descriptionEn": "Upholstered chair with an anatomical plywood inner shell. Solid wood armrests. Painted tubular base.",
+      "descriptionEs": "Silla con estructura interna de madera contrachapada tapizada y con forma anatómica. Reposabrazos de madera maciza. Base tubular pintada.",
+      "measurementsEn": ["33.46 x 22.05 x 23.62"],
+      "measurementsEs": [
+        "850 x 560 x 600"
+      ],
+      "images": [
+        "cloe-01",
+        "cloe-02",
+        "cloe-03",
+        "cloe-04",
+        "cloe-05",
+        "cloe-06"
+      ],
+      "ambients": [
+        "cloe-amb-01",
+        "cloe-amb-02"
+      ],
       "variations": []
     },
     {
@@ -998,33 +1267,37 @@
       "variations": []
     },
     {
-      "ref": "CA.2956",
-      "slug": "fiji",
-      "name": "fiji",
-      "cover_img": "fiji-01",
-      "designer_name": "emerson borges",
-      "designer_slug": "emerson-borges",
+      "ref": "Ref.3033",
+      "slug": "evora-cadeira",
+      "name": "evora",
+      "cover_img": "evora-06",
+      "designer_name": "",
+      "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura em madeira, assento e encosto em multilaminado estofado com costas em lâmina natural.",
-      "measurements": [
-        "800 x 620 x 595"
-      ],
-      "descriptionEn": "Wooden chair, upholstered plywood seat and backrest, back detail in natural wood veneer.",
-      "descriptionEs": "Silla con estructura de madera, asiento y respaldo tapizado en multilaminado con respaldo en chapa natural.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
+      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered multi-layered wood. Painted tubular base.",
+      "descriptionEs": "Silla con estructura interna de madera multicapa tapizada con forma anatómica. Base tubular pintada.",
       "measurementsEn": [
-        "31.49 x 24.40 x 23.42"
+        "31.10 x 25.59 x 22.04"
+      ],
+      "measurements": [
+        "790 x 650 x 560"
       ],
       "measurementsEs": [
-        "800 x 620 x 595"
+        "790 x 650 x 560"
       ],
       "images": [
-        "fiji-01",
-        "fiji-03",
-        "fiji-04"
+        "evora-06",
+        "evora-02",
+        "evora-03",
+        "evora-04",
+        "evora-05",
+        "evora-01"
       ],
       "ambients": [
-        "fiji-amb-01"
+        "evora-amb-01",
+        "evora-amb-02"
       ],
       "variations": []
     },
@@ -1033,8 +1306,8 @@
       "slug": "fit",
       "name": "fit",
       "cover_img": "fit-02",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
+      "designer_name": "",
+      "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
       "description": "Cadeira assento e encosto em multilaminado estofado, estrutura tubular pintada.",
@@ -1063,33 +1336,69 @@
       "variations": []
     },
     {
-      "ref": "CA.2932",
-      "slug": "illy",
-      "name": "illy",
-      "cover_img": "illy-01",
-      "designer_slug": "",
+      "ref": "Ref.3044",
+      "slug": "fly-cadeira",
+      "name": "fly",
+      "cover_img": "fly-01",
+      "designer_name": "bruno faucz",
+      "designer_slug": "bruno-faucz",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminada, estofada. Base fixa em madeira conificada tingida com opção de ponteira pintada.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden legs with painted detail or not.",
-      "descriptionEs": "Silla con carcasa de multilaminado, tapizada. Base fija en madera en forma de cono teñida con opción de punta pintada.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base em MDF laminado, com giro de 180º.",
+      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered multi-layered wood. Base in laminated MDF, with 180º rotation.",
+      "descriptionEs": "Silla con estructura interna de madera multicapa tapizada con forma anatómica. Base de MDF laminado con rotación de 180º.",
+      "concept":"A Fly nasce de uma provocação: desenhar uma cadeira com base, mas ao mesmo tempo leve. O desafio se transformou na busca por uma poesia visual. As curvas da peça evocam delicadeza, equilíbrio e feminilidade, inspiradas na leveza das asas de uma borboleta. O encosto, com formas suaves e elegantes, remete a um decote elegante e discreto, traduzindo harmonia entre estrutura e leveza. Fly é o resultado da busca por uma beleza serena, uma peça que parece flutuar no espaço.",
+      "conceptEs":"Fly nació de una provocación: diseñar una silla con una base sólida, pero ligera. El reto se transformó en una búsqueda de poesía visual. Las curvas de la pieza evocan delicadeza, equilibrio y feminidad, inspiradas en la ligereza de las alas de una mariposa. El respaldo, con sus formas suaves y elegantes, sugiere un escote sutil y discreto, reflejando la armonía entre estructura y ligereza. Fly es el resultado de una búsqueda de belleza serena, una pieza que parece flotar en el espacio.",
+      "conceptEn":"The Fly chair is born from a provocation: to design a chair with a solid base that remains weightless. This challenge evolved into a quest for visual poetry. The piece's curves evoke delicacy, balance, and femininity, inspired by the lightness of butterfly wings. The backrest, with its soft and elegant forms, suggests a refined and discreet neckline, translating the harmony between structure and lightness. Fly is the result of a search for serene beauty—a piece that seems to float in space.",            
       "measurementsEn": [
-        "33.07 x 22.24 x 22.83"
+        "31,49 x 23,62 x 24,40"
       ],
       "measurements": [
-        "840 x 565 x 580"
+        "800 x 600 x 620"
       ],
       "measurementsEs": [
-        "840 x 565 x 580"
+        "800 x 600 x 620"
       ],
       "images": [
-        "illy-01",
-        "illy-02",
-        "illy-03"
+        "fly-01",
+        "fly-02",
+        "fly-03"
       ],
       "ambients": [
-        "illy-amb-01",
-        "illy-amb-10"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3042",
+      "slug": "foz-cadeira",
+      "name": "foz",
+      "cover_img": "foz-02",
+      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com assento estofado e encosto usinado em madeira maciça, tingido. Base tubular pintada.",
+      "descriptionEn": "Chair with upholstered seat and backrest crafted from solid wood, stained finish. Painted tubular base.",
+      "descriptionEs": "Silla con asiento y respaldo tapizados, fabricada en madera maciza con acabado teñido. Base tubular pintada.",
+      "concept":"Foz se refere ao encontro das águas, o ponto onde o curso de um rio termina e outro se inicia. A partir dessa ideia, nasce a cadeira Foz, inspirada na fluidez dos encontros e na continuidade das transições. Sua estrutura metálica esbelta se estende e se integra ao espaldar em madeira maciça que envolve e conduz o corpo com curvas contínuas e expressivas. Sua silhueta esguia revela o equilíbrio entre rigidez e fluidez, resultando em uma peça que mescla diferentes materiais de maneira harmônica em um visual leve e contemporâneo.",
+      "conceptEs":"Foz alude al encuentro de las aguas, al punto donde un río termina y otro comienza. De esta idea nace la silla Foz, inspirada en la fluidez de estos encuentros y la continuidad de las transiciones. Su esbelta estructura metálica se extiende y se integra con el respaldo de madera maciza que envuelve y guía el cuerpo con curvas continuas y expresivas. Su silueta estilizada revela el equilibrio entre rigidez y fluidez, dando como resultado una pieza que combina armoniosamente diferentes materiales en un diseño ligero y contemporáneo.",
+      "conceptEn":"Foz refers to the meeting of waters, the point where one river ends and another begins. From this idea, the Foz chair is born, inspired by the fluidity of these encounters and the continuity of transitions. Its slender metal structure extends and integrates with the solid wood backrest that envelops and guides the body with continuous and expressive curves. Its slender silhouette reveals the balance between rigidity and fluidity, resulting in a piece that harmoniously blends different materials in a light and contemporary design.",            
+      "measurementsEn": [
+        "31,49 x 19,29 x 21,65"
+      ],
+      "measurements": [
+        "800 x 490 x 550"
+      ],
+      "measurementsEs": [
+        "800 x 490 x 550"
+      ],
+      "images": [
+        "foz-02",
+        "foz-01",
+        "foz-03"
+      ],
+      "ambients": [
+        "foz-amb-01"
       ],
       "variations": []
     },
@@ -1151,7 +1460,15 @@
         "kore-2",
         "kore-3"
       ],
-      "ambients": [],
+      "ambients": [
+        "kore-amb-01",
+        "kore-amb-02",
+        "kore-amb-03",
+        "kore-amb-04",
+        "kore-amb-05",
+        "kore-amb-06",
+        "kore-amb-07"
+      ],
       "variations": []
     },
     {
@@ -1184,7 +1501,10 @@
         "levi-03",
         "levi-04"
       ],
-      "ambients": [],
+      "ambients": [
+        "levi-amb-01",
+        "levi-amb-02"
+      ],
       "variations": []
     },
     {
@@ -1214,62 +1534,9 @@
         "levi2-01",
         "levi2-02"
       ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2996",
-      "slug": "lui",
-      "name": "lui",
-      "cover_img": "lui-01",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Base em madeira maciça tingida.",
-      "descriptionEn": "Upholstered chair with plywood internal structure. Stained wooden machined legs.",
-      "descriptionEs": "Silla con asiento y respaldo en multilaminado anatómico, tapizado. Base de madera maciza teñida.",
-      "measurementsEn": [
-        "33,46 x 19,48 x 23,62"
-      ],
-      "measurements": [
-        "850 x 495 x 600"
-      ],
-      "measurementsEs": [
-        "850 x 495 x 600"
-      ],
-      "images": [
-        "lui-01",
-        "lui-02"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2923",
-      "slug": "malu",
-      "name": "Malu",
-      "cover_img": "malu-01",
-      "designer_slug": "",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado anatômico estofada, com detalhe em filete pintada. Base fixa em madeira tingida.",
-      "descriptionEn": "Upholstered chair with internal structure in anatomical plywood. Wooden legs with metallic painted detail.",
-      "descriptionEs": "Silla con carcasa anatómica tapizada en multilaminado, con detalle de filete pintado. Base fija en madera teñida.",
-      "measurementsEn": [
-        "34.25 x 17.32 x 23.62"
-      ],
-      "measurements": [
-        "870 x 440 x 600"
-      ],
-      "measurementsEs": [
-        "870 x 440 x 600"
-      ],
-      "images": [
-        "malu-01",
-        "malu-02"
-      ],
       "ambients": [
+        "levi2-amb-01",
+        "levi2-amb-02"
       ],
       "variations": []
     },
@@ -1278,8 +1545,8 @@
       "slug": "mia",
       "name": "mia",
       "cover_img": "mia-01",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
+      "designer_name": "",
+      "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
       "description": "Cadeira com assento e encosto em multilaminado anatômico, estofada. Base tubular pintada.",
@@ -1370,6 +1637,42 @@
         "mitti-01"
       ],
       "ambients": [
+        "mitti-amb-01",
+        "mitti-amb-02"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.3037",
+      "slug": "noah-cadeira",
+      "name": "noah",
+      "cover_img": "noah-01",
+      "designer_name": "fabricio ronca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Braço em madeira maciça tingido. Base tubular pintada.",
+      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered plywood. Armrest in stained solid wood. Painted tubular base.",
+      "descriptionEs": "Silla con estructura interna de madera contrachapada tapizada y con forma anatómica. Reposabrazos de madera maciza teñida. Base tubular pintada.",
+      "concept":"Uma peça híbrida, elegante e muito confortável. A ideia surgiu de uma reação sensorial, uma alquimia, onde a madeira se transforma em metal. Como o carvão que com o tempo se transforma em diamante. A peça tem uma concha estofada nas costas que cria um conforto aconchegante ao sentar. Um detalhe esculpido em madeira no braço gera uma brincadeira de toque sensorial.",
+      "conceptEs":"Una pieza híbrida, elegante y muy cómoda. La idea surgió de una reacción sensorial, una alquimia, donde la madera se transforma en metal. Como el carbón que, con el tiempo, se transforma en diamante. La pieza cuenta con un respaldo tapizado que proporciona una comodidad acogedora al sentarse. Un detalle de madera esculpida en el brazo crea una experiencia sensorial lúdica.",
+      "conceptEn":"A hybrid piece, elegant and very comfortable. The idea arose from a sensory reaction, an alchemy, where wood transforms into metal. Like coal that, over time, transforms into a diamond. The piece has an upholstered shell on the back that creates a cozy comfort when sitting. A sculpted wooden detail on the arm creates a playful sensory experience.",            
+      "measurementsEn": [
+        "32,28 x 22,44 x 24,01"
+      ],
+      "measurements": [
+        "820 x 570 x 610"
+      ],
+      "measurementsEs": [
+        "820 x 570 x 610"
+      ],
+      "images": [
+        "noah-01",
+        "noah-02",
+        "noah-03",
+        "noah-04"
+      ],
+      "ambients": [
       ],
       "variations": []
     },
@@ -1398,34 +1701,6 @@
         "olivia-03",
         "olivia-02",
         "olivia-01"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "Ref.3016",
-      "slug": "palla-cadeira",
-      "name": "palla",
-      "cover_img": "palla-cad-01",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base fixa em madeira maciça tingida. Detalhe em metal pintado.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs. Metal detail between backrest and legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base fija de madera maciza teñida. Detalle de metal pintado.",
-      "measurementsEn": [
-        "34,44 x 19,68 x 24,40"
-      ],
-      "measurements": [
-        "875 x 500 x 620"
-      ],
-      "measurementsEs": [
-        "875 x 500 x 620"
-      ],
-      "images": [
-        "palla-cad-01",
-        "palla-cad-02"
       ],
       "ambients": [],
       "variations": []
@@ -1467,8 +1742,8 @@
       "slug": "petit",
       "name": "petit",
       "cover_img": "petit-01",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
+      "designer_name": "",
+      "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
       "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
@@ -1549,65 +1824,9 @@
         "skin-02",
         "skin-03"
       ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "Ref.3031",
-      "slug": "siena",
-      "name": "siena",
-      "cover_img": "siena-01",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
-      "descriptionEn": "Upholstered stool with plywood seat and backrest. Painted carbon steel tube legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base tubular pintada.",
-      "measurementsEn": [
-        "32,08 x 22,04 x 27,16"
+      "ambients": [
+        "skin-amb-01"
       ],
-      "measurements": [
-        "815 x 560 x 690"
-      ],
-      "measurementsEs": [
-        "815 x 560 x 690"
-      ],
-      "images": [
-        "siena-01",
-        "siena-02",
-        "siena-03"
-      ],
-      "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "CA.2959",
-      "slug": "sofi",
-      "name": "sofi",
-      "cover_img": "sofi-01",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com concha em multilaminado anatômico, estofada. Base fixa em madeira tingida.",
-      "descriptionEn": "Upholstered chair with plywood shell. Stained wooden machined legs.",
-      "descriptionEs": "Silla con carcasa en multilaminado anatómico, tapizada. Base fija en madera teñida.",
-      "measurementsEn": [
-        "33.26 x 19.68 x 23.22"
-      ],
-      "measurements": [
-        "845 x 500 x 590"
-      ],
-      "measurementsEs": [
-        "845 x 500 x 590"
-      ],
-      "images": [
-        "sofi-01",
-        "sofi-02",
-        "sofi-03"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -1641,19 +1860,14 @@
         "soie-amb-40",
         "soie-amb-01",
         "soie-amb-20",
-        "soie-amb-03",
-        "soie-amb-04",
         "soie-amb-05",
         "soie-amb-06",
-        "soie-amb-07",
-        "soie-amb-08",
         "soie-amb-09",
         "soie-amb-10",
         "soie-amb-11",
-        "soie-amb-12",
         "soie-amb-13",
         "soie-amb-14",
-        "tie-amb-01"
+        "soie-amb-22"
       ],
       "variations": []
     },
@@ -1719,7 +1933,10 @@
         "sotille-amb-01",
         "sotille-amb-02",
         "sotille-amb-03",
-        "sotille-amb-04"
+        "sotille-amb-04",
+        "sotille-amb-05",
+        "sotille-amb-06",
+        "sotille-amb-07"
       ],
       "variations": []
     },
@@ -1905,41 +2122,32 @@
         "amelie-banqueta-amb-01",
         "amelie-banqueta-amb-02",
         "amelie-banqueta-amb-03",
-        "amelie-banqueta-amb-05"
+        "amelie-banqueta-amb-05",
+        "amelie-ban-amb-10"
       ],
       "variations": []
     },
     {
-      "ref": "BA.1431",
-      "slug": "box",
-      "name": "box",
-      "cover_img": "box-02",
+      "ref": "Ref.1447 - Lisa / Ref.1448 - Plissada",
+      "slug": "aura-banqueta",
+      "name": "aura",
+      "cover_img": "aura-ban-01",
       "designer_slug": "",
       "category_slug": "banquetas",
       "category_name": "banquetas",
-      "description": "Banqueta com estrutura interna em multilaminado anatômico, estofado, detalhe com filete pintado, detalhe com filete pintado.",
-      "descriptionEn": "Upholstered stool with internal structure in anatomical plywood. Wooden legs with metallic painted detail.",
-      "descriptionEs": "Taburete con estructura interna en multilaminado anatómico, tapizado, detalle filete pintado, detalle filete pintado.",
-      "measurementsEn": [
-        "High: 41.53 x 16.53 x 21.06 from seat to floor 29.92",
-        "Medium: 37.59 x 16.53 x 21.06 from seat to floor 25.98"
-      ],
-      "measurements": [
-        "Alta: 1055 x 420 x 535 assento ao chão 760",
-        "Média: 955 x 420 x 535 assento ao chão 660"
-      ],
+      "description": "Banqueta com estrutura interna em multilaminado anatômico estofada. Estrutura tubular pintada.",
+      "descriptionEn": "Bar stool with internal structure made of anatomically shaped, upholstered plywood. Painted tubular frame.",
+      "descriptionEs": "Taburete de bar con estructura interna de madera contrachapada tapizada y con forma anatómica. Estructura tubular pintada.",
+      "measurementsEn": ["High: 41,73 x 20,07 x 19,68", "Average: 37,79 x 20,07 x 19,68"],
+      "measurements": ["Alta: 1060 x 510 x 500mm", "Média: 960 x 510 x 500mm"],
       "measurementsEs": [
-        "Alto: 1055 x 420 x 535 asiento a piso 760",
-        "Promedio: 955 x 420 x 535 asiento a piso 660"
+        "Alto: 1060 x 510 x 500mm", "Promedio: 960 x 510 x 500mm"
       ],
       "images": [
-        "box-01",
-        "box-02"
+        "aura-ban-01",
+        "aura-ban-02"
       ],
       "ambients": [
-        "box-amb-03",
-        "box-amb-04",
-        "box-amb-10"
       ],
       "variations": []
     },
@@ -1948,8 +2156,8 @@
       "slug": "banqueta-fit",
       "name": "fit",
       "cover_img": "fit-04",
-      "designer_name": "studio t92",
-      "designer_slug": "studio-t92",
+      "designer_name": "",
+      "designer_slug": "",
       "category_slug": "banquetas",
       "category_name": "banquetas",
       "description": "Banqueta com assento e encosto em multilaminado estofada. Base tubular com pintura.",
@@ -2040,7 +2248,11 @@
         "mis-ban-01",
         "mis-ban-02"
       ],
-      "ambients": [],
+      "ambients": [
+          "mis-ban-amb-01",
+          "mis-ban-amb-02",
+          "mis-ban-amb-03"
+      ],
       "variations": []
     },
     {
@@ -2048,8 +2260,8 @@
       "slug": "banqueta-petala",
       "name": "pétala",
       "cover_img": "petala-01",
-      "designer_slug": "fabricio-ronca",
-      "designer_name": "fabricio roncca",
+      "designer_slug": "fabricio-roncca",
+      "designer_name": "fabricio ronca",
       "category_slug": "banquetas",
       "category_name": "banquetas",
       "description": "Banqueta com estrutura interna em multilaminado anatômico estofada. Detalhe nas costas com esfera de madeira maciça tingida. Base tubular pintada. Opções alta e média.",
@@ -2072,7 +2284,10 @@
         "petala-01",
         "petala-02"
       ],
-      "ambients": [],
+      "ambients": [
+          "petala-amb-01",
+          "petala-amb-02"
+      ],
       "variations": []
     },
     {
@@ -2104,7 +2319,9 @@
         "sotile-ban-02",
         "sotile-ban-01"
       ],
-      "ambients": [],
+      "ambients": [
+          "sotile-ban-amb-01"
+      ],
       "variations": []
     },
     {
@@ -2175,6 +2392,7 @@
         "torii-ban-03"
       ],
       "ambients": [
+          "torii-ban-amb-01"
       ],
       "variations": []
     },
@@ -2339,12 +2557,12 @@
       "designer_slug": "fabricio-roncca",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base e tampo em madeira maciça tingida. Estrutura central tubular. Esfera usinada. Tampo pode ser em madeira maciça ou mármore. Opção de base e tampo em concreto.",
-      "descriptionEn": "ide table with base options: machined solid MDF coated with natural wood veneer or solid concrete. Table top options: MDF coated with natural wood veneer; marble or concrete. Painted carbon steel tube structure. Stained wooden machined sphere detail. Option: high and medium size",
-      "descriptionEs": "Mesa auxiliar con base y tapa de madera maciza teñida. Estructura central tubular. Esfera mecanizada. La tapa puede ser de madera maciza o de mármol.Opción de base y tapa de hormigón.",
-      "concept":"Inspirada na biomimética onde elementos da natureza se fundem ao design, as mesas Anthera remetem ao florescimento das plantas, os tampos orgânicos criam efeitos inusitados de composição de acordo com a posição das peças. Os acabamentos podem ser em madeira, concreto ou pedra.",
-      "conceptEs":"Inspiradas en el biomímesis donde los elementos de la naturaleza se fusionan con el diseño, las mesas Anthera hacen referencia al florecimiento de las plantas, las tapas orgánicas crean efectos compositivos inusuales según la posición de las piezas. Los acabados pueden ser en madera, hormigón o piedra.",
-      "conceptEn":"Inspired by biomimicry, where elements of nature blend with design, the Antera tables evoke the blooming of plants, with organic tops creating unique compositional effects depending on their positioning. Finishes can be in wood, concrete or stone",
+      "description": "Mesa lateral com base e tampo em madeira maciça tingida. Estrutura central tubular. Esfera usinada. Tampo pode ser em madeira maciça ou mármore.",
+      "descriptionEn": "ide table with base options: machined solid MDF coated with natural wood veneer. Table top options: MDF coated with natural wood veneer or marble. Painted carbon steel tube structure. Stained wooden machined sphere detail. Option: high and medium size",
+      "descriptionEs": "Mesa auxiliar con base y tapa de madera maciza teñida. Estructura central tubular. Esfera mecanizada. Opción de base y tapa de hormigón.",
+      "concept":"Inspirada na biomimética onde elementos da natureza se fundem ao design, as mesas Anthera remetem ao florescimento das plantas, os tampos orgânicos criam efeitos inusitados de composição de acordo com a posição das peças. Os acabamentos podem ser em madeira ou pedra.",
+      "conceptEs":"Inspiradas en el biomímesis donde los elementos de la naturaleza se fusionan con el diseño, las mesas Anthera hacen referencia al florecimiento de las plantas, las tapas orgánicas crean efectos compositivos inusuales según la posición de las piezas. Los acabados pueden ser en madera o piedra.",
+      "conceptEn":"Inspired by biomimicry, where elements of nature blend with design, the Antera tables evoke the blooming of plants, with organic tops creating unique compositional effects depending on their positioning. Finishes can be in wood or stone",
       "measurementsEn": ["High: 25,59 x 25,98 x 14,96","Medium: 21,25 x 17,12 x 12,99"],
       "measurements": ["Alto 650 x 660 x 380","Medio 540 x 435 x 330"],
       "measurementsEs": [
@@ -2360,6 +2578,41 @@
       "variations": []
     },
     {
+      "ref": "Ref.2579/2580/2581",
+      "slug": "bass",
+      "name": "bass",
+      "cover_img": "bass-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral com base em MDF laminado. O tampo pode ser todo laminado, laminado com aplique em mármore ou todo em mármore.",
+      "descriptionEn": "Side table with laminated MDF base. The top can be entirely laminated, laminated with a marble accent, or entirely marble.",
+      "descriptionEs": "Mesa auxiliar con base de MDF laminado. La superficie puede ser totalmente laminada, laminada con un detalle de mármol o totalmente de mármol.",
+      "measurementsEn": [
+        "2,95 inches diameter: 24,01 x 29,13 x 29,13",
+        "1,57 inches diameter: 25,89 x 15,74 x 15,74",
+        "1,57 inches diameter: 21,65 x 15,74 x 15,74"
+      ],
+      "measurements": [
+        "75cm diâmetro: 610 x 740 x 740mm",
+        "40cm diâmetro: 650 x 400 x 400mm",
+        "40cm diâmetro: 550 x 400 x 400mm"
+      ],
+      "measurementsEs": [
+        "75cm diámetro: 610 x 740 x 740mm",
+        "40cm diámetro: 650 x 400 x 400mm",
+        "40cm diámetro: 550 x 400 x 400mm"
+      ],
+      "images": [
+        "bass-01",
+        "bass-02",
+        "bass-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "Ref.2571 | 2569 | 2568",
       "slug": "brut",
       "name": "brut",
@@ -2368,9 +2621,9 @@
       "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base em madeira usinada, tingida. Tampo em MDF laminado.",
-      "descriptionEn": "Side table with stained wooden machined legs. Table top in MDF coated with natural wood veneer.",
-      "descriptionEs": "Mesa auxiliar con base de madera mecanizada teñida. Tapa en MDF laminado.",
+      "description": "Mesa lateral com base em madeira usinada, tingida. Opção de tampo em MDF laminado ou mármore. ",
+      "descriptionEn": "Side table with stained wooden machined legs. Table top in MDF coated with natural wood veneer or marble.",
+      "descriptionEs": "Mesa auxiliar con base de madera mecanizada teñida. Tapa en MDF laminado o mármol.",
       "concept":"O design brasileiro sempre foi reconhecido pela qualidade da marcenaria, a mesa Brutt busca essa essência. Os pés robustos com detalhes de encaixe em usinagem mais orgânicas criam o equilíbrio de percepção visual que arrematam o desenho.",
       "conceptEs":"El diseño brasileño siempre ha sido reconocido por la calidad de sus carpinterías, la mesa Brutt busca esa esencia. Los pies robustos con detalles de ajuste mecanizados más orgánicos crean un equilibrio de percepción visual que completa el diseño.",
       "conceptEn":"Brazilian design has always been recognized for its quality craftsmanship, and the Brutt table seeks to capture that essence. The robust legs with organic joinery details create a visual balance, completing the design.",
@@ -2379,7 +2632,8 @@
       "measurementsEs": ["Tablero 800mm: 655 x 800 x 800","Tablero 700mm: 655 x 700 x 700","Tablero 600mm: 555 x 600 x 600"],
       "images": [
         "brut-02",
-        "brut-01"
+        "brut-01",
+        "brut-03"
       ],
       "ambients": [],
       "variations": []
@@ -2442,52 +2696,19 @@
       ],
       "images": [
         "domus-02",
-        "domus-01"
+        "domus-01",
+        "domus-03",
+        "domus-04"
       ],
       "ambients": [],
       "variations": []
     },
     {
-      "ref": "MES.2551/2553",
-      "slug": "doppio",
-      "name": "doppio concreto",
-      "nameEs:": "doppio concreto",
-      "nameEn": "doppio concrete",
-      "cover_img": "doppio-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Opções altas e medias.",
-      "descriptionEn": "Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Option: high and medium size",
-      "descriptionEs": "Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Opciones altas y medias.",
-      "measurementsEn": [
-        "High: 23,62 x 13,77 x 13,77",
-        "Medium: 27,55 x 15,74 x 15,74"
-      ],
-      "measurements": [
-        "Alta: 600 x 350 x 350",
-        "Média: 700 x 400 x 400"
-      ],
-      "measurementsEs": [
-        "Alto: 600 x 350 x 350",
-        "Medio: 700 x 400 x 400"
-      ],
-      "images": [
-        "doppio-01",
-        "doppio-02",
-        "doppio-03"
-      ],
-      "ambients": [
-      ],
-      "variations": []
-    },
-    {
       "ref": "MES.2552/2554",
       "slug": "doppio-madeira",
-      "name": "doppio madeira",
-      "nameEs": "doppio madera",
-      "nameEn": "doppio wood",
+      "name": "doppio",
+      "nameEs": "doppio",
+      "nameEn": "doppio",
       "cover_img": "doppio-04",
       "designer_name": "bruno faucz",
       "designer_slug": "bruno-faucz",
@@ -2512,11 +2733,45 @@
         "doppio-04",
         "doppio-05",
         "doppio-06",
-        "doppio-07"
+        "doppio-07",
+        "doppio-09"
       ],
       "ambients": [
         "doppio-amb-01",
-        "doppio-08"
+        "doppio-08",
+        "doppio-amb-02",
+        "doppio-amb-03",
+        "doppio-amb-04",
+        "doppio-amb-05",
+        "doppio-amb-06"
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.2554",
+      "slug": "eixo",
+      "name": "eixo",
+      "cover_img": "eixo-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral com base em madeira maciça, tingida. Tampo inferior em MDF laminado e tampo superior giratório, podendo ser em MDF laminado ou mármore.",
+      "descriptionEn": "Side table with a solid wood base, stained finish. Lower top in laminated MDF and rotating upper top, which can be in laminated MDF or marble.",
+      "descriptionEs": "Mesa auxiliar con base de madera maciza y acabado teñido. Tablero inferior de MDF laminado y tablero superior giratorio, que puede ser de MDF laminado o mármol.",
+      "concept":"Eixo é uma resposta sensível a um momento cotidiano: o simples ato de sentar-se e apoiar uma xícara de café com conforto. A observação se transformou em solução. Funcional e essencial, a mesa Eixo foi pensada para se integrar naturalmente ao gesto de relaxar em uma poltrona, com equilíbrio entre forma, praticidade e elegância.",
+      "conceptEs":"Eixo es una respuesta sensible a un momento cotidiano: el simple acto de sentarse y disfrutar cómodamente de una taza de café. Esta observación se transformó en una solución. Funcional y esencial, la mesa Eixo fue diseñada para integrarse de forma natural con el gesto de relajarse en un sillón, logrando un equilibrio entre forma, practicidad y elegancia.",
+      "conceptEn":"Eixo is a sensitive response to an everyday moment: the simple act of sitting down and comfortably resting a cup of coffee. This observation transformed into a solution. Functional and essential, the Eixo table was designed to integrate naturally with the gesture of relaxing in an armchair, striking a balance between form, practicality, and elegance.",
+      "measurementsEn": ["23,22 x 18,11 x 18,11"],
+      "measurements": ["590 x 460 x 460"],
+      "measurementsEs": [
+        "590 x 460 x 460"
+      ],
+      "images": [
+        "eixo-01",
+        "eixo-02"
+      ],
+      "ambients": [
       ],
       "variations": []
     },
@@ -2548,6 +2803,80 @@
       "variations": []
     },
     {
+      "ref": "Ref.2574/2575/2576",
+      "slug": "fusion-centro",
+      "name": "mesa centro fusion",
+      "nameEs": "mesa centro fusion",
+      "nameEn": "Fusion coffee table",
+      "cover_img": "fusion-centro-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa de centro com estrutura tubular pintada. Opções de tampo, MDF laminado, vidro método fusing ou mármore.",
+      "descriptionEn": "Coffee table with painted tubular frame. Tabletop options: laminated MDF, fused glass, or marble.",
+      "descriptionEs": "Mesa de centro con estructura tubular pintada. Opciones de tablero: MDF laminado, vidrio fusionado o mármol.",
+      "measurementsEn": [
+        "High: 15,35 x 32,08 x 28,54",
+        "Average: 12,59 x 40,55 x 26,18",
+        "Low: 10,23 x 39,76 x 29,13"
+      ],
+      "measurements": [
+        "Alta: 390 x 815 x 725",
+        "Média: 320 x 1030 x 665",
+        "Baixa: 260 x 1010 x 740"
+      ],
+      "measurementsEs": [
+        "Alto: 390 x 815 x 725",
+        "Promedio: 320 x 1030 x 665",
+        "Bajo: 260 x 1010 x 740"
+      ],
+      "images": [
+        "fusion-centro-01",
+        "fusion-centro-02"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
+      "ref": "Ref.2572/2573",
+      "slug": "fusion-lateral",
+      "name": "mesa lateral fusion",
+      "nameEs": "mesa auxiliar fusion",
+      "nameEn": "Fusion side table",
+      "cover_img": "fusion-lateral-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "mesas-laterais-centro",
+      "category_name": "mesas laterais e centro",
+      "description": "Mesa lateral com estrutura tubular pintada. Opções de tampo, MDF laminado, vidro método fusing ou mármore.",
+      "descriptionEn": "Side table with painted tubular frame. Tabletop options: laminated MDF, fused glass, or marble.",
+      "descriptionEs": "Mesa auxiliar con estructura tubular pintada. Opciones de tablero: MDF laminado, vidrio fusionado o mármol.",
+      "measurementsEn": [
+        "High: 22,04 x 20,66 x 17,12",
+        "Average: 19,68 x 19,68 x 14,96"
+      ],
+      "measurements": [
+        "Alta: 560 x 525 x 435",
+        "Média: 500 x 500 x 380"
+      ],
+      "measurementsEs": [
+        "Alto: 560 x 525 x 435",
+        "Promedio: 500 x 500 x 380"
+      ],
+      "images": [
+        "fusion-lateral-01",
+        "fusion-lateral-02",
+        "fusion-lateral-03",
+        "fusion-lateral-04",
+        "fusion-lateral-05"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
       "ref": "MES.2557/2558",
       "slug": "gota",
       "name": "gota",
@@ -2568,13 +2897,14 @@
         "gota-01",
         "gota-02",
         "gota-03",
-        "gota-04"
+        "gota-04",
+        "gota-05"
       ],
       "ambients": [],
       "variations": []
     },
     {
-      "ref": "MES.2546/2547/2548/2549",
+      "ref": "MES.2547/2548",
       "slug": "lina",
       "name": "lina",
       "cover_img": "lina-01",
@@ -2582,9 +2912,9 @@
       "designer_slug": "bruno-faucz",
       "category_slug": "mesas-laterais-centro",
       "category_name": "mesas laterais e centro",
-      "description": "- LINA CONCRETO: Mesa lateral com base e tampo em concreto moldado. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. \n- LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. \n- LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. \n- LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
-      "descriptionEn": "- LINA CONCRETE: Side table with base and table top molded in concrete. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. \n- LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
-      "descriptionEs": "- LINA CONCRETO: Mesa auxiliar con base y tapa de hormigón moldeado. Estructura central tubular pintada. Detalle con esfera de madera maciza. \n- LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. \n- LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. \n- LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
+      "description": "- LINA BASE MADEIRA: Mesa lateral com base em madeira maciça tingida. Estrutura central tubular pintada. Detalhe com esfera em madeira maciça. Tampo em madeira maciça ou mármore. \n- LINA REDONDA: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso. \n- LINA RETANGULAR: Mesa de centro com estrutura tubular pintada. Detalhe com esfera em madeira maciça. Tampo em marchetaria ou liso.",
+      "descriptionEn": "- LINA WOOD: Side table with base machined in solid wood. Table top options: machined solid wood or marble. Painted carbon steel tubular structure. Stained wooden machined sphere detail. \n- LINA ROUND: Round coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry. \n- LINA RECTANGULAR: Rectangular coffee table with carbon steel tube structure and stained wooden machined sphere detail. MDF top coated with natural wood veneer, with option of marquetry.",
+      "descriptionEs": "- LINA BASE MADERA: Mesa auxiliar con base de madera maciza teñida. Estructura central tubular pintada. Detalle con esfera de madera maciza. Tapa de madera maciza o mármol. \n- LINA REDONDA: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa. \n- LINA RECTANGULAR: Mesa de centro con estructura tubular pintada. Detalle con esfera de madera maciza. Tapa de marquetería o lisa.",
       "concept":"A linha de mesas Lina, homenageia a arquiteta Ítalo-brasileira Lina Bo Bardi. O projeto da destaque à madeira marchetada, forte identidade do design brasileiro, junto a elementos metálicos, comuns no desenho italiano. Como detalhe e arremate final, a esfera em madeira traz a essência do movimento modernista das décadas de 50 e 70.",
       "conceptEs":"La línea de mesas Lina rinde homenaje a la arquitecta ítalo-brasileña Lina Bo Bardi. El proyecto destaca la madera con incrustaciones, fuerte identidad del diseño brasileño, junto con elementos metálicos, comunes en el diseño italiano. Como detalle y acabado final, la esfera de madera trae la esencia del movimiento modernista de los años 50 y 70.",
       "conceptEn":"The Lina table collection honors the Italian-Brazilian architect Lina Bo Bardi. The design highlights marquetry wood, a strong element of Brazilian design, alongside metallic elements common in Italian design. A wooden sphere detail finalizes the piece, reflecting the essence of modernist movements from the 1950s and 1970s.",
@@ -2605,41 +2935,6 @@
       ],
       "images": ["lina-01", "lina-02", "lina-03"],
       "ambients": [],
-      "variations": []
-    },
-    {
-      "ref": "MES.2514/2515/2516",
-      "slug": "maria",
-      "name": "maria",
-      "cover_img": "maria-02",
-      "designer_name": "fabricio ronca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com estrutura e tampo em madeira maciça, com detalhe em metal pintado.",
-      "descriptionEn": "Side table with machined solid wood base and top, carbon steel tube detail.",
-      "descriptionEs": "Mesa auxiliar con estructura y tapa de madera maciza, con detalle de metal pintado.",
-      "measurementsEn": ["High: 25.98 x 14.17 x 14.17", "Medium: 22.83 x 16.53 x 16.53", "Low: 19.68 x 19.68 x 19.68"],
-      "measurements": ["Alta: 660 x 360 x 360", "Média: 580 x 420 x 420", "Baixa: 500 x 500 x 500"],
-      "measurementsEs": [
-        "Alto: 660 x 360 x 360", "Promedio: 580 x 420 x 420", "Bajo: 500 x 500 x 500"
-      ],
-      "images": [
-        "maria-01",
-        "maria-02",
-        "maria-03"
-      ],
-      "ambients": [
-        "maria-amb-01",
-        "maria-amb-02",
-        "maria-amb-03",
-        "maria-amb-04",
-        "maria-amb-05",
-        "maria-amb-06",
-        "maria-amb-07",
-        "maria-amb-08",
-        "maria-amb-09"
-      ],
       "variations": []
     },
     {
@@ -2677,40 +2972,6 @@
       "ambients": [
         "orbe-amb-01"
       ],
-      "variations": []
-    },
-    {
-      "ref": "-Ref.2528 /2529 /2530",
-      "slug": "orbe-murano",
-      "name": "orbe - murano",
-      "cover_img": "orbe-murano-02",
-      "designer_name": "emerson borges",
-      "designer_slug": "emerson-borges",
-      "category_slug": "mesas-laterais-centro",
-      "category_name": "mesas laterais e centro",
-      "description": "Mesa lateral com base em madeira maciça tingida de preto, haste em metal, tampo em vidro com técnica de murano. Opções de vidro: martelado, micro esferas de vidrobranco ou fumê.",
-      "descriptionEn": "Side table with base in solid wood, stained black, metal rod, glass top with Murano technique. Glass options: hammered, white or smoked glass microbead. \n \n  Low Murano: Side table with base in solid wood, stained black, metal rod, glass top with Murano technique. Glass options: hammered, white or smoked glass microbead.",
-      "descriptionEs": "Mesa auxiliar con base en madera maciza, teñida de negro, varilla de metal, tapa de cristal con técnica de Murano. Opciones de vidrio: microperla de vidrio martillado, blanco o ahumado. \n \n Murano Media: Mesa auxiliar con base de madera maciza, teñida de negro, varilla y disco en metal, tapa de cristal con técnica de Murano. Opciones de vidrio: microperla de vidrio martillado, blanco o ahumado",
-      "measurementsEn": [
-        "High - 21.65 x 11.81 x 11.81",
-        "Medium – 19.68 x 11.81 x 11.81",
-        "Low – 17.71 x 11.81 x 11.81"
-      ],
-      "measurements": [
-        "Alta - 550 x 300 x 300 ",
-        "Média – 500 x 300 x 300 ",
-        "Baixa – 450 x 300 x 300"
-      ],
-      "measurementsEs": [
-        "Alto - 550 x 300 x 300 ",
-        "Promedio – 500 x 300 x 300 ",
-        "Baja – 450 x 300 x 300"
-      ],
-      "images": [
-        "orbe-murano-02",
-        "orbe-murano"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -2797,8 +3058,11 @@
         "taos-03"
       ],
       "ambients": [
-        "taos-amb-01",
-        "taos-amb-02"
+        "taos-amb-02",
+        "taos-amb-03",
+        "taos-amb-04",
+        "taos-amb-05",
+        "taos-amb-06"
       ],
       "variations": []
     },
@@ -2826,6 +3090,41 @@
         "baru-02",
         "baru-01",
         "baru-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
+      "ref": "PU.1136/1137/1138 MES.2577/2578/2583",
+      "slug": "allure-puff",
+      "name": "allure",
+      "cover_img": "firenze-puff-04",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "mesa-puff",
+      "category_name": "mesas e puffs",
+      "description": "Puf ou mesa, com estrutura interna hibrida estofada, na opção de mesa com tampo em lâmina natural.",
+      "descriptionEn": "Ottoman or table, with a hybrid upholstered internal structure, with the option of a table with a natural veneer top.",
+      "descriptionEs": "Otomana o mesa, con estructura interna híbrida tapizada, con la opción de una mesa con tablero de chapa de madera natural.",
+      "measurementsEn": [
+        "Small: 16,98 x 21,25 x 24,01",
+        "Average: 13,77 x 41,33 x 41,33",
+        "Big: 12,99 x 52,36 x 52,36"
+      ],
+      "measurements": [
+        "Pequeno: 430 x 540 x 610",
+        "Médio: 350 x 1050 x 1050",
+        "Grande: 330 x 1330 x 1330"
+      ],
+      "measurementsEs": [
+        "Pequeno: 430 x 540 x 610",
+        "Promedio: 350 x 1050 x 1050",
+        "Grande: 330 x 1330 x 1330"
+      ],
+      "images": [
+        "allure-01",
+        "allure-02",
+        "allure-03"
       ],
       "ambients": [],
       "variations": []
@@ -2972,6 +3271,9 @@
         "duo-03"
       ],
       "ambients": [
+        "duo-amb-01",
+        "duo-amb-02",
+        "duo-amb-03"
       ],
       "variations": []
     },
@@ -3001,46 +3303,9 @@
         "moon-puff-02"
       ],
       "ambients": [
-        "moon-puff-amb-01",
         "moon-puff-amb-02",
-        "moon-puff-amb-03",
-        "moon-puff-amb-04",
         "moon-puff-amb-05",
         "moon-puff-amb-06"
-      ],
-      "variations": []
-    },
-    {
-      "ref": "PU.1108",
-      "slug": "otto",
-      "name": "otto",
-      "cover_img": "otto-01",
-      "designer_slug": "",
-      "category_slug": "puffs",
-      "category_name": "puffs",
-      "description": "Puf com estrutura interna em madeira estofado. Base em ferro maciço com pintura.",
-      "descriptionEn": "Upholstered ottoman with wooden internal structure and legs in painted carbon steel tube.",
-      "descriptionEs": "Soplo con estructura interna en madera tapizada. Base de hierro macizo pintado.",
-      "measurementsEn": [
-        "25,59 diameter: with base - 18.89 x 25.59 x 25.59 | without base - 17.32 x 25.59 x 25.59"     
-      ],
-      "measurements": [
-        "65cm diâmetro: com base 480 x 650 x 650 | sem base 440 x 650 x 650"     
-      ],
-      "measurementsEs": [
-        "65cm diámetro: con base 480 x 650 x 650 | sin base 440 x 650 x 650"
-      ],
-      "images": [
-        "otto-01",
-        "otto-02"
-      ],
-      "ambients": [
-        "otto-amb-01",
-        "otto-amb-02",
-        "otto-amb-03",
-        "otto-amb-04",
-        "otto-amb-05",
-        "otto-amb-06"
       ],
       "variations": []
     },
@@ -3105,7 +3370,8 @@
       "ambients": [
         "up-amb-01",
         "up-amb-02",
-        "up-amb-03"
+        "up-amb-03",
+        "up-amb-04"
       ],
       "variations": []
     },
@@ -3181,6 +3447,39 @@
       "variations": []
     },
     {
+      "ref": "Ref.1452/1451",
+      "slug": "torii-banco",
+      "name": "torii",
+      "cover_img": "torii-banco-01",
+      "designer_name": "fabricio ronca",
+      "designer_slug": "fabricio-roncca",
+      "category_slug": "banco-e-recamier",
+      "category_name": "banco e recamier",
+      "description": "Banco com estrutura em madeira maciça tingida. Assentos com estrutura em MDF estofado. Opção todos assentos estofados ou com bandeja.",
+      "descriptionEn": "Bench with a solid stained wood frame. Seats with upholstered MDF frame. Option for all seats upholstered or with a tray.",
+      "descriptionEs": "Banco con estructura de madera maciza teñida. Asientos con estructura de MDF tapizada. Opción de asientos tapizados o con bandeja.",
+      "concept":"A referência da arquitetura japonesa através de seus templos e do portal Torii. As linhas arquitetônicas e suas formas exuberantes foram os elementos de inspiração para a peça. O banco multifuncional tem versões com bandeja e estofado, podendo ser usado em quartos, salas e hall de entrada.",
+      "conceptEs":"El diseño se inspira en la arquitectura japonesa, en particular en sus templos y puertas Torii. Las líneas arquitectónicas y las formas exuberantes sirvieron de inspiración para la pieza. El banco multifuncional está disponible en versiones con bandeja y asientos tapizados, ideales para dormitorios, salas de estar y recibidores.",
+      "conceptEn":"The design draws inspiration from Japanese architecture, particularly its temples and Torii gates. The architectural lines and exuberant forms served as inspiration for the piece. The multifunctional bench is available in versions with a tray and upholstered seats, suitable for bedrooms, living rooms, and entry halls.",
+      "measurementsEn": [
+        "16,73 x 69,68 x 19,68"
+      ],
+      "measurements": [
+        "425 x 1770 x 500"
+      ],
+      "measurementsEs": [
+        "425 x 1770 x 500"
+      ],
+      "images": [
+        "torii-banco-01",
+        "torii-banco-02",
+        "torii-banco-03"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
       "ref": "BANC.1447/1448",
       "slug": "varial",
       "name": "varial",
@@ -3233,7 +3532,10 @@
         "clave-bar-02",
         "clave-bar-03"
       ],
-      "ambients": [],
+      "ambients": [
+        "clave-bar-amb-01",
+        "clave-bar-amb-02"
+      ],
       "variations": []
     },
     {
@@ -3260,7 +3562,9 @@
         "copa-01",
         "copa-02"
       ],
-      "ambients": [],
+      "ambients": [
+        "copa-amb-01"
+      ],
       "variations": []
     },
     {
@@ -3289,7 +3593,8 @@
         "donatela-carro-amb-01",
         "donatela-carro-amb-02",
         "donatela-carro-amb-03",
-        "donatela-carro-amb-04"
+        "donatela-carro-amb-04",
+        "donatela-carro-amb-06"
       ],
       "variations": []
     },
@@ -3304,9 +3609,9 @@
       "designer_slug": "fabricio-roncca",
       "category_slug": "carro-bar",
       "category_name": "carro bar",
-      "description": "Carro chá com estrutura tubular pintado. Tampo superior em madeira usinada, com acabamento em courissimo. Tampo inferior e rodas em MDF laminado.",
-      "descriptionEn": "Tea cart with painted carbon steel tube structure. Stained wooden machined table top with synthetic leather finish. Lower shelf and wheels in MDF coated with natural wood veneer.",
-      "descriptionEs": "Vagón de té con estructura tubular pintada. Tapa superior en madera mecanizada, con acabado en cuero. Tapa inferior y ruedas en MDF laminado.",
+      "description": "Carro chá com estrutura tubular pintado. Tampo superior em madeira usinada, com acabamento em couríssimo ou tampo de mármore",
+      "descriptionEn": "Tea cart with painted carbon steel tube structure. Stained wooden machined table top with synthetic leather finish or marble top",
+      "descriptionEs": "Vagón de té con estructura tubular pintada. Tapa superior en madera mecanizada, con acabado en cuero o tapa de mármol",
       "concept":"Carro mini da versão Donatela, uma peça multifuncional para ser usada como mesa lateral, apoio, carro de chá e muito versátil para varandas e churrasqueiras.",
       "conceptEs":"Mini carrito versión Donatela, una pieza multifuncional para usar como mesa auxiliar, mesa auxiliar, carrito de té y muy versátil para balcones y parrillas.",
       "conceptEn":"Mini version of the Donatela bar cart, Donatela tea cart is a multifunctional piece that can be used as a side table or sideboard.",
@@ -3321,10 +3626,6 @@
         "donatela-cha-03"
       ],
       "ambients": [
-        "donatela-carro-amb-01",
-        "donatela-carro-amb-02",
-        "donatela-carro-amb-03",
-        "donatela-carro-amb-04"
       ],
       "variations": []
     },
@@ -3360,63 +3661,7 @@
       "variations": [""] 
     },
     {
-      "ref": "-Ref.4002",
-      "slug": "remo",
-      "name": "remo",
-      "cover_img": "remo-01",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "luminarias",
-      "category_name": "luminarias",
-      "description": "Luminária com estrutura em metal, acessórios em madeira maciça usinada, tingida. Luz em Led neon flex Alpertone.",
-      "descriptionEn": "Floor lamp with carbon steel sheet and tube structure, machined solid wood accessories, with position adjustment. Light in Neon Flex Alperton LED.",
-      "descriptionEs": "Luminaria con estructura de metal, accesorios en madera maciza mecanizada, teñida. Luz LED flexible de neón Alpertone.",
-      "concept":"A luminária Remo, apresenta uma referência à ferramenta utilizada para navegar em canoas e pequenos barcos. Uma peça simples e elegante, que permite um controle versátil dos ângulos de luz.",
-      "conceptEs":"La lámpara Remo es una referencia a la herramienta utilizada para navegar en canoas y pequeñas embarcaciones. Una pieza sencilla y elegante que permite un control versátil de los ángulos de luz.",
-      "conceptEn":"The Remo lamp references the oar, tool used to row canoes and small boats. A simple and elegant piece that allows versatile control of light angles.",
-      "measurementsEn": ["66.92 x 24.01 x 24.01"],
-      "measurements": ["1700 x 907 x 410"],
-      "measurementsEs": [
-        "1700 x 907 x 410"
-      ],
-      "images": [
-        "remo-01",
-        "remo-02",
-        "remo-03",
-        "remo-04"
-      ],
-      "ambients": [],
-      "variations": [""] 
-    },
-    {
-      "ref": "Ref.1000",
-      "slug": "vaso-domo",
-      "name": "domo",
-      "cover_img": "domo-01",
-      "designer_name": "bruno faucz",
-      "designer_slug": "bruno-faucz",
-      "category_slug": "complemento",
-      "category_name": "complemento",
-      "description": "Vaso em vidro técnica de murano, com base em madeira maciça usinado. Detalhe em metal com pintura.",
-      "descriptionEn": "Murano technique glass sphere vase with solid wood machined base and painted metal detail.",
-      "descriptionEs": "Jarrón de cristal técnico de Murano, con base de madera maciza mecanizada. Detalle de metal pintado.",
-      "concept":"Com traços leves e produzida artesanalmente pela técnica de Murano, a peça garante um décor elegante e atemporal.",
-      "conceptEs":"De características luminosas y realizada a mano con la técnica de Murano, la pieza garantiza una decoración elegante y atemporal.",
-      "conceptEn":"With light lines and handcrafted using Murano glass techniques, this piece ensures an elegant and timeless decor.",
-      "measurementsEn": ["12.79 x 9.05 x 9.64"],
-      "measurements": ["325 x 230 x 245"],
-      "measurementsEs": [
-        "325 x 230 x 245"
-      ],
-      "images": [
-        "domo-01",
-        "domo-02"
-      ],
-      "ambients": [],
-      "variations": [""] 
-    },
-    {
-      "ref": "Ref.1001 | 1002 | 1003",
+      "ref": "Ref.1001 | 1003",
       "slug": "metamorfose",
       "name": "espelho metamorfose",
       "nameEs:": "Espejo Metamorfose",
@@ -3429,76 +3674,14 @@
       "description": "Espelho decorativo na cor prata, com moldura em MDF revestido em lâmina natural. Prateleira em madeira maciça tingida.",
       "descriptionEn": "Decorative mirror with an MDF frame covered in natural veneer. Shelf in stained machined wood.",
       "descriptionEs": "Espejo decorativo en color plata, con marco de MDF revestido en chapa natural. Estante de madera maciza teñida.",
-      "measurementsEn": ["Small set: 22,44 x 28,93 x 6,29 unit measure","Medium: 29,52 x 39,37 x 6,29","Large set: 65,94 x 58,66 x 9,44"],
-      "measurements": ["Conjunto P: 570 x 735 x 160 medida unitária", "M: 750 x 1000 x 160", "G: 1675 x 1490 x240"],
+      "measurementsEn": ["Medium: 29,52 x 39,37 x 6,29","Large set: 65,94 x 58,66 x 9,44"],
+      "measurements": ["M: 750 x 1000 x 160", "G: 1675 x 1490 x240"],
       "measurementsEs": [
-        "Conjunto P: 570 x 735 x 160 medida unitária", "M: 750 x 1000 x 160", "G: 1675 x 1490 x240"
+        "M: 750 x 1000 x 160", "G: 1675 x 1490 x240"
       ],
       "images": [
         "metamorfose-01",
-        "metamorfose-02",
-        "metamorfose-03",
-        "metamorfose-04"
-      ],
-      "ambients": [],
-      "variations": [""] 
-    },
-    {
-      "ref": "Ref.1000 | 1001",
-      "slug": "escrivaninha-sarai",
-      "name": "escrivaninha sarai",
-      "nameEs:": "escritorio sarai",
-      "nameEn": "sarai Writing desk",
-      "cover_img": "sarai-esc-01",
-      "designer_name": "fabricio ronca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "complemento",
-      "category_name": "complemento",
-      "description": "Escrivaninha com estrutura em madeira maciça, tingida. Tampo e bandeja em MDF revestido em lâmina natural. Detalhes com aplique em courissimo. Frente da gaveta opção laminada ou palha natural.",
-      "descriptionEn": "Writing desk with hybrid structure, stained solid wood legs and carbon steel tube frame. Table top and tray in MDF covered with natural wood veneer. Drawer front finishes: laminated or with natural straw detail. Synthetic leather finish.",
-      "descriptionEs": "Escritorio con estructura de madera maciza, teñida. Tapa y bandeja en MDF revestido de chapa natural. Detalles con aplique de piel. Opción frente de cajón laminado o paja natural.",
-      "concept":"Sarai, uma peça com elementos da marcenaria tradicional brasileira em harmonia com elementos contemporâneos.",
-      "conceptEs":"Sarai, una pieza con elementos de carpintería tradicional brasileña en armonía con elementos contemporáneos.",
-      "conceptEn":"Sarai is a piece that blends elements of traditional Brazilian woodworking with contemporary details.",
-      "measurementsEn": ["29,13 x 59,05 x 20,66"],
-      "measurements": ["740 x 1500 x 525"],
-      "measurementsEs": [
-        "740 x 1500 x 525"
-      ],
-      "images": [
-        "sarai-esc-01",
-        "sarai-esc-02",
-        "sarai-esc-03"
-      ],
-      "ambients": [],
-      "variations": [""] 
-    },
-    {
-      "ref": "Ref.1000 | 1001",
-      "slug": "penteadeira-sarai",
-      "name": "penteadeira sarai",
-      "nameEs:": "tocador sarai",
-      "nameEn": "sarai dressing table",
-      "cover_img": "sarai-pent-01",
-      "designer_name": "fabricio ronca",
-      "designer_slug": "fabricio-roncca",
-      "category_slug": "complemento",
-      "category_name": "complemento",
-      "description": "Penteadeira com estrutura em madeira maciça tingida. Tampo e bandejas em MDF laminado. Detalhes com aplique em corissimo. Frente da gaveta opção laminada ou palha natural. Espelho com opção de led touch dimerizavel ou sem led.",
-      "descriptionEn": "Dressing table with hybrid structure, stained solid wood legs and carbon steel tube frame. Table top and tray in MDF covered with natural wood veneer. Drawer front finishes: laminated or with natural straw detail. Synthetic leather finish. Mirror options: with or without dimmable LED with touch activation.",
-      "descriptionEs": "Tocador con estructura de madera maciza teñida. Tapa y bandejas en MDF laminado. Detalles con aplique corissimo. Opción frente de cajón laminado o paja natural. Espejo con opción de LED táctil regulable o sin LED.",
-      "concept":"Sarai , uma peça com elementos da marcenaria tradicional brasileira em harmonia com elementos contemporâneos.",
-      "conceptEs":"Sarai, una pieza con elementos de carpintería tradicional brasileña en armonía con elementos contemporáneos.",
-      "conceptEn":"Sarai is a piece that blends elements of traditional Brazilian woodworking with contemporary details.",
-      "measurementsEn": ["50,39 x 59,05 x 20,66"],
-      "measurements": ["1280 x 1500 x 525"],
-      "measurementsEs": [
-        "1280 x 1500 x 525"
-      ],
-      "images": [
-        "sarai-pent-01",
-        "sarai-pent-02",
-        "sarai-pent-03"
+        "metamorfose-03"
       ],
       "ambients": [],
       "variations": [""] 

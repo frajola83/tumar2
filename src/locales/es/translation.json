@@ -17,7 +17,8 @@
     "naturalStraw": "Paja Natural",
     "metallicPainting": "Pintura Metal",
     "reconstitutedLeather": "Recuperación",
-    "paintedGlass": "Vidrio pintado"
+    "paintedGlass": "Vidrio pintado",
+    "glass": "Vidrio"
   },
   "categories": {
     "banquetas": "taburetes",

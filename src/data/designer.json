@@ -9,13 +9,6 @@
     "descriptionEs": "Tumar firma una alianza con el Diseñador Emerson Borges, quien exalta nuevos lenguajes de consumo que se vienen intensificando en el mercado de la alta decoración. <br /><br />La mirada atenta del diseñador a los movimientos sociales y las nuevas formas de ver la vida está presente en cada detalle de sus piezas.<br /><br /> En toda su obra, está la búsqueda constante de temas, materiales y soluciones constructivas, un repertorio que brinda al profesional la combinación ideal entre calidad estética y condiciones técnicas de producción.",
     "products": [
       {
-        "name": "Cadeira Fiji",
-        "nameEn": "Fiji Chair",
-        "nameEs": "Silla Fiji",
-        "src": "fiji-01",
-        "link": "/produtos/cadeiras/fiji"
-      },
-      {
         "name": "Mesa de Jantar Nebula",
         "nameEn": "Nebula Table",
         "nameEs": "Mesa de Comedor Nebula",
@@ -42,13 +35,6 @@
         "nameEs": "Mesa Lateral Orbe",
         "src": "orbe-01",
         "link": "/produtos/mesas-laterais-centro/orbe"
-      },
-      {
-        "name": "Mesa Lateral Orbe - Técnica de Murano",
-        "nameEn": "Orbe Side Table Murano Technique",
-        "nameEs": "Mesa Lateral Orbe - Técnica de Murano",
-        "src": "orbe-murano-02",
-        "link": "/produtos/mesas-laterais-centro/orbe-murano"
       },
       {
         "name": "Mesa Lateral Taos",
@@ -97,6 +83,13 @@
         "link": "/produtos/banco-e-recamier/nantai-banco"
       },
       {
+        "name": "Banco torii",
+        "nameEn": "torii Bench",
+        "nameEs": "Banco torii",
+        "src": "torii-banco-01",
+        "link": "/produtos/banco-e-recamier/torii-banco"
+      },
+      {
         "name": "Banco varial",
         "nameEn": "varial Bench",
         "nameEs": "Banco varial",
@@ -116,6 +109,13 @@
         "nameEs": "Taburete torii",
         "src": "torii-ban-01",
         "link": "/produtos/banquetas/banqueta-torii"
+      },
+      {
+        "name": "cadeira noah",
+        "nameEn": "noah chair",
+        "nameEs": "silla noah",
+        "src": "noah-01",
+        "link": "/produtos/cadeiras/noah-cadeira"
       },
       {
         "name": "cadeira torii",
@@ -195,13 +195,6 @@
         "link": "/produtos/mesas-laterais-centro/domus"
       },
       {
-        "name": "Mesa Lateral maria",
-        "nameEn": "Maria Side Table",
-        "nameEs": "Mesa Lateral maria",
-        "src": "maria-02",
-        "link": "/produtos/mesas-laterais-centro/maria"
-      },
-      {
         "name": "Mesa Lateral Rhodes",
         "nameEn": "Rhodes Side Table",
         "nameEs": "Mesa Lateral Rhodes",
@@ -221,6 +214,27 @@
         "nameEs": "mesa y puf firenze",
         "src": "firenze-puff-04",
         "link": "/produtos/mesa-puff/firenze-puff"
+      },
+      {
+        "name": "poltrona ambar",
+        "nameEn": "Ambar Armchair",
+        "nameEs": "Sillón ambar",
+        "src": "ambar-01",
+        "link": "/produtos/poltronas/ambar"
+      },
+      {
+        "name": "poltrona ferrero",
+        "nameEn": "Ferrero Armchair",
+        "nameEs": "Sillón ferrero",
+        "src": "ferrero-01",
+        "link": "/produtos/poltronas/ferrero"
+      },
+      {
+        "name": "poltrona stella",
+        "nameEn": "Stella Armchair",
+        "nameEs": "Sillón stella",
+        "src": "stella-01",
+        "link": "/produtos/poltronas/stella"
       }
     ]
   },
@@ -248,20 +262,6 @@
         "link": "/produtos/banquetas/banqueta-tie"
       },
       {
-        "name": "Cadeira alma",
-        "nameEn": "alma Chair",
-        "nameEs": "Silla alma",
-        "src": "alma-01",
-        "link": "/produtos/cadeiras/alma"
-      },
-      {
-        "name": "Cadeira alva",
-        "nameEn": "alva Chair",
-        "nameEs": "Silla alva",
-        "src": "alva-01",
-        "link": "/produtos/cadeiras/alva"
-      },
-      {
         "name": "Cadeira arc",
         "nameEn": "Arc Chair",
         "nameEs": "Silla arc",
@@ -276,11 +276,11 @@
         "link": "/produtos/cadeiras/bodo"
       },
       {
-        "name": "Cadeira bucco",
-        "nameEn": "bucco Chair",
-        "nameEs": "Silla bucco",
-        "src": "bucco-01",
-        "link": "/produtos/cadeiras/bucco"
+        "name": "Cadeira carena",
+        "nameEn": "Carena Chair",
+        "nameEs": "Silla carena",
+        "src": "carena-cad-01",
+        "link": "/produtos/cadeiras/carena-cad"
       },
       {
         "name": "Cadeira coral",
@@ -288,6 +288,13 @@
         "nameEs": "Silla coral",
         "src": "coral-cad-01",
         "link": "/produtos/cadeiras/coral-cadeira"
+      },
+      {
+        "name": "Cadeira foz",
+        "nameEn": "Foz Chair",
+        "nameEs": "Silla foz",
+        "src": "foz-02",
+        "link": "/produtos/cadeiras/foz-cadeira"
       },
       {
         "name": "Cadeira kahlo",
@@ -325,13 +332,6 @@
         "link": "/produtos/cadeiras/mitti"
       },
       {
-        "name": "Cadeira palla",
-        "nameEn": "palla Chair",
-        "nameEs": "Silla palla",
-        "src": "palla-cad-01",
-        "link": "/produtos/cadeiras/palla-cadeira"
-      },
-      {
         "name": "Cadeira senda",
         "nameEn": "senda Chair",
         "nameEs": "Silla senda",
@@ -351,13 +351,6 @@
         "nameEs": "Silla Sela",
         "src": "sela-04",
         "link": "/produtos/cadeiras/sela"
-      },
-      {
-        "name": "Cadeira sofi",
-        "nameEn": "Sofi Chair",
-        "nameEs": "Silla sofi",
-        "src": "sofi-01",
-        "link": "/produtos/cadeiras/sofi"
       },
       {
         "name": "Cadeira sotille",
@@ -416,6 +409,13 @@
         "link": "/produtos/poltronas/coral-poltrona"
       },
       {
+        "name": "Poltrona exxo",
+        "nameEn": "Exxo Armchair",
+        "nameEs": "Sillón exxo",
+        "src": "exxo-01",
+        "link": "/produtos/poltronas/exxo"
+      },
+      {
         "name": "Poltrona forza",
         "nameEn": "forza Armchair",
         "nameEs": "Sillón forza",
@@ -428,6 +428,20 @@
         "nameEs": "Sillón gamboa",
         "src": "gamboa-01",
         "link": "/produtos/poltronas/gamboa"
+      },
+      {
+        "name": "Poltrona infinity",
+        "nameEn": "Infinity Armchair",
+        "nameEs": "Sillón Infinity",
+        "src": "infinity-01",
+        "link": "/produtos/poltronas/infinity"
+      },
+      {
+        "name": "Poltrona musk",
+        "nameEn": "Musk Armchair",
+        "nameEs": "Sillón Musk",
+        "src": "musk-01",
+        "link": "/produtos/poltronas/musk"
       },
       {
         "name": "Poltrona palla",
@@ -524,11 +538,11 @@
     "descriptionEs": "El diseño es la materialización de la información. Miro desde la información técnica hasta cómo impactará el producto en el usuario, desde la ergonomía hasta las percepciones vinculadas a la emoción. El proceso creativo va de lo tangible a lo intangible hasta llegar al producto final.",
     "products": [
       {
-        "name": "Cadeira Bliss",
-        "nameEn": "Bliss Chair",
-        "nameEs": "Silla Bliss",
-        "src": "bliss-01",
-        "link": "/produtos/cadeiras/bliss"
+        "name": "Cadeira fly",
+        "nameEn": "fly Chair",
+        "nameEs": "Silla fly",
+        "src": "fly-01",
+        "link": "/produtos/cadeiras/fly-cadeira"
       },
       {
         "name": "Cadeira olivia",
@@ -552,16 +566,9 @@
         "link": "/produtos/mesas-laterais-centro/brut"
       },
       {
-        "name": "Mesa Lateral doppio concreto",
-        "nameEn": "doppio concrete Side Table",
-        "nameEs": "Mesa Lateral doppio concreto",
-        "src": "doppio-01",
-        "link": "/produtos/mesas-laterais-centro/doppio"
-      },
-      {
-        "name": "Mesa Lateral doppio madeira",
-        "nameEn": "doppio wood Side Table",
-        "nameEs": "Mesa Lateral doppio madera",
+        "name": "Mesa Lateral doppio",
+        "nameEn": "doppio Side Table",
+        "nameEs": "Mesa Lateral doppio",
         "src": "doppio-04",
         "link": "/produtos/mesas-laterais-centro/doppio-madeira"
       },
@@ -601,11 +608,32 @@
         "link": "/produtos/poltronas/dot"
       },
       {
+        "name": "Poltrona goat",
+        "nameEn": "goat Armchair",
+        "nameEs": "Sillón goat",
+        "src": "goat-01",
+        "link": "/produtos/poltronas/goat"
+      },
+      {
+        "name": "Poltrona goofy",
+        "nameEn": "goofy Armchair",
+        "nameEs": "Sillón goofy",
+        "src": "goofy-01",
+        "link": "/produtos/poltronas/goofy"
+      },
+      {
         "name": "Poltrona e Puf Muar",
         "nameEn": "Muar Armchair and Ottoman",
         "nameEs": "Sillón y puf muar",
         "src": "muar-01",
         "link": "/produtos/poltronas/muar"
+      },
+      {
+        "name": "Poltrona vereda",
+        "nameEn": "Vereda Armchair",
+        "nameEs": "Sillón vereda",
+        "src": "vereda-01",
+        "link": "/produtos/poltronas/vereda"
       },
       {
         "name": "Vaso Domo",
@@ -647,25 +675,11 @@
         "link": "/produtos/poltronas/savoi"
       },
       {
-        "name": "Cadeira Aurora",
-        "nameEn": "Aurora Chair",
-        "nameEs": "Silla Aurora",
-        "src": "aurora-01",
-        "link": "/produtos/cadeiras/aurora"
-      },
-      {
         "name": "Cadeira Fit",
         "nameEn": "Fit Chair",
         "nameEs": "Silla Fit",
         "src": "fit-02",
         "link": "/produtos/cadeiras/fit"
-      },
-      {
-        "name": "Cadeira lui",
-        "nameEn": "lui Chair",
-        "nameEs": "Silla lui",
-        "src": "lui-01",
-        "link": "/produtos/cadeiras/lui"
       },
       {
         "name": "Cadeira mia",
@@ -680,20 +694,6 @@
         "nameEs": "Silla Petit",
         "src": "petit-01",
         "link": "/produtos/cadeiras/petit"
-      },
-      {
-        "name": "Cadeira siena",
-        "nameEn": "siena Chair",
-        "nameEs": "Silla siena",
-        "src": "siena-01",
-        "link": "/produtos/cadeiras/siena"
-      },
-      {
-        "name": "Banqueta Fit",
-        "nameEn": "Fit Stool",
-        "nameEs": "Taburete Fit",
-        "src": "fit-04",
-        "link": "/produtos/banquetas/banqueta-fit"
       },
       {
         "name": "Puf duo",

@@ -19,6 +19,11 @@ const Block = styled.div<BlockProps>`
   flex-direction: column;
   ${breakpoints("flex-direction", ["column", "column", "row", "row"])};
 `
+const VerticalImageBlock = styled(Block)`
+  align-self: center;
+  width: 62%;
+  ${breakpoints("width", ["62%", "62%", "100%", "100%"])};
+`
 const TitleContainer = styled.div`
   display: flex;
   flex-direction: column;
@@ -57,32 +62,24 @@ const TextContainer = styled.div`
   margin-bottom: ${props => props.theme.gap * 2}px;
 `
 
-export const SobrePage: React.FC = ({ }) => {
-  const {t} = useTranslation();
+export const SobrePage: React.FC = ({}) => {
+  const { t } = useTranslation()
 
   return (
     <Container>
       <TitleContainer>
-        <Title style={{ textTransform: "uppercase" }}>{t("pages.home.about.title")}</Title>
+        <Title style={{ textTransform: "uppercase" }}>
+          {t("pages.home.about.title")}
+        </Title>
         <SubTitle>{t("pages.about.subtitle")}</SubTitle>
       </TitleContainer>
 
       <TextContainer>
-        <ParagraphCenter>
-          {t("pages.about.text")}
-        </ParagraphCenter>
-        <ParagraphCenter>
-          {t("pages.about.text2")}
-        </ParagraphCenter>
-        <ParagraphCenter>
-          {t("pages.about.text3")}
-        </ParagraphCenter>
-        <ParagraphCenter>
-          {t("pages.about.text4")}
-        </ParagraphCenter>
-        <ParagraphCenter>
-          {t("pages.about.text5")}
-        </ParagraphCenter>
+        <ParagraphCenter>{t("pages.about.text")}</ParagraphCenter>
+        <ParagraphCenter>{t("pages.about.text2")}</ParagraphCenter>
+        <ParagraphCenter>{t("pages.about.text3")}</ParagraphCenter>
+        <ParagraphCenter>{t("pages.about.text4")}</ParagraphCenter>
+        <ParagraphCenter>{t("pages.about.text5")}</ParagraphCenter>
       </TextContainer>
 
       <Block basis="100%" style={{ width: `${100}%` }}>
@@ -96,14 +93,14 @@ export const SobrePage: React.FC = ({ }) => {
       <Block gap="20px">
         <Block basis="40%">
           <ImgProvider
-            fileName="about-touch.jpg"
+            fileName="33.PNG"
             alt="Analizando um projeto"
             style={{ width: "100%" }}
           />
         </Block>
         <Block
           basis="60%"
-          style={{ flexDirection: "column", justifyContent: "flex-end" }}
+          style={{ flexDirection: "column", justifyContent: "center" }}
         >
           <ImgProvider
             fileName="machine-power.jpg"
@@ -113,23 +110,33 @@ export const SobrePage: React.FC = ({ }) => {
         </Block>
       </Block>
       <Block gap="20px" style={{ marginTop: -20 }}>
-        <Block basis="50%">
+        <Block basis="38%">
           <ImgProvider
-            fileName="women-power.jpg"
+            fileName="34.PNG"
             alt="Analizando um projeto"
             style={{ width: "100%" }}
           />
         </Block>
         <Block
-          basis="50%"
+          basis="38%"
           style={{ flexDirection: "column", justifyContent: "flex-end" }}
         >
           <ImgProvider
-            fileName="chair.jpg"
+            fileName="35.PNG"
             alt="Toque"
             style={{ width: "100%" }}
           />
         </Block>
+        <VerticalImageBlock
+          basis="24%"
+          style={{ flexDirection: "column", justifyContent: "flex-end" }}
+        >
+          <ImgProvider
+            fileName="36.jpeg"
+            alt="Toque"
+            style={{ width: "100%" }}
+          />
+        </VerticalImageBlock>
       </Block>
     </Container>
   )
