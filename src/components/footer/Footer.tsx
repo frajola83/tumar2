@@ -2,6 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import { FooterDesktopContent } from "./FooterDesktopContent"
 import { FooterMobileContent } from "./FooterMobileContent"
+import thmtLogo from "../../images/thmt-logo.png"
 
 const StyledFooterContainer = styled.div`
   width: 100%;
@@ -20,13 +21,18 @@ const CopyRight = styled.div`
   padding: 10px 0;
 `
 const CopyRightText = styled.p`
-  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
   color: #999;
   line-height: 22px;
 `
 
 const ThmtLogo = styled.img`
-  margin-top: -5px;
+  width: 56px;
+  height: auto;
+  vertical-align: middle;
   filter: grayscale(100%);
   &:hover {
     filter: none;
@@ -34,8 +40,9 @@ const ThmtLogo = styled.img`
 `
 const ThmtLink = styled.a`
   text-decoration: none;
-  display: inline-block;
-  margin-left: 5px;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 10px;
 `
 
 export const Footer: React.FC = () => {
@@ -48,7 +55,7 @@ export const Footer: React.FC = () => {
           <CopyRightText>
             © Copyright 2021 Tumar Design. Por
             <ThmtLink href="http://thematica.com.br">
-              <ThmtLogo src="https://newmoveis.com.br/images/logo-thmt.png" />
+              <ThmtLogo src={thmtLogo} />
             </ThmtLink>
           </CopyRightText>
         </CopyRight>
