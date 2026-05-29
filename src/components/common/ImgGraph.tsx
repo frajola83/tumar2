@@ -6,6 +6,7 @@ interface ImgProviderProps {
   fileName: string
   alt: string | undefined
   style?: CSSProperties
+  imgStyle?: CSSProperties
 }
 
 /**
@@ -16,6 +17,7 @@ export const ImgProvider: React.FC<ImgProviderProps> = ({
   fileName,
   alt = "",
   style,
+  imgStyle,
 }) => {
   const { allImageSharp } = useStaticQuery(graphql`
     query {
@@ -38,7 +40,7 @@ export const ImgProvider: React.FC<ImgProviderProps> = ({
       return false
     })
     if (fluid) {
-      return <Img fluid={fluid.fluid} alt={alt} style={style} />
+      return <Img fluid={fluid.fluid} alt={alt} style={style} imgStyle={imgStyle} />
     }
   }
   console.log("Nenhuma imagem encontrada")

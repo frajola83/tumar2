@@ -21,8 +21,8 @@ const Block = styled.div<BlockProps>`
 `
 const VerticalImageBlock = styled(Block)`
   align-self: center;
-  width: 62%;
-  ${breakpoints("width", ["62%", "62%", "100%", "100%"])};
+  width: 64%;
+  ${breakpoints("width", ["64%", "64%", "100%", "100%"])};
 `
 const TitleContainer = styled.div`
   display: flex;
@@ -100,12 +100,13 @@ export const SobrePage: React.FC = ({}) => {
         </Block>
         <Block
           basis="60%"
-          style={{ flexDirection: "column", justifyContent: "center" }}
+          style={{ flexDirection: "column", justifyContent: "flex-start" }}
         >
           <ImgProvider
             fileName="machine-power.jpg"
             alt="Toque"
-            style={{ width: "100%" }}
+            style={{ width: "100%", height: "100%" }}
+            imgStyle={{ objectFit: "cover", objectPosition: "center" }}
           />
         </Block>
       </Block>
@@ -114,27 +115,30 @@ export const SobrePage: React.FC = ({}) => {
           <ImgProvider
             fileName="34.PNG"
             alt="Analizando um projeto"
-            style={{ width: "100%" }}
+            style={{ width: "100%", height: "100%" }}
+            imgStyle={{ objectFit: "cover", objectPosition: "center" }}
           />
         </Block>
         <Block
-          basis="38%"
-          style={{ flexDirection: "column", justifyContent: "flex-end" }}
+          basis="37%"
+          style={{ flexDirection: "column", justifyContent: "flex-start" }}
         >
           <ImgProvider
             fileName="35.PNG"
             alt="Toque"
-            style={{ width: "100%" }}
+            style={{ width: "100%", height: "100%" }}
+            imgStyle={{ objectFit: "cover", objectPosition: "center" }}
           />
         </Block>
         <VerticalImageBlock
-          basis="24%"
-          style={{ flexDirection: "column", justifyContent: "flex-end" }}
+          basis="25%"
+          style={{ flexDirection: "column", justifyContent: "flex-start" }}
         >
           <ImgProvider
             fileName="36.jpeg"
             alt="Toque"
-            style={{ width: "100%" }}
+            style={{ width: "100%", height: "100%" }}
+            imgStyle={{ objectFit: "cover", objectPosition: "center" }}
           />
         </VerticalImageBlock>
       </Block>

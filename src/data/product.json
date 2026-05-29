@@ -34,7 +34,7 @@
       "variations": []
     },
     {
-      "ref": "Ref.3049",
+      "ref": "Ref.3046",
       "slug": "ambar",
       "name": "ambar",
       "cover_img": "ambar-01",
@@ -633,7 +633,8 @@
       "images": [
         "muar-01",
         "muar-02",
-        "muar-03"
+        "muar-03",
+        "muar-04"
       ],
       "ambients": [
         "muar-amb-01",
@@ -1040,7 +1041,7 @@
       "variations": []
     },
     {
-      "ref": "Ref.3034",
+      "ref": "Ref.3049",
       "slug": "aura-lisa-cadeira",
       "name": "aura lisa",
       "cover_img": "aura-cad-lisa-01",
@@ -1638,7 +1639,9 @@
       ],
       "ambients": [
         "mitti-amb-01",
-        "mitti-amb-02"
+        "mitti-amb-02",
+        "mitti-amb-03",
+        "mitti-amb-04"
       ],
       "variations": []
     },
@@ -2549,7 +2552,7 @@
       "variations": []
     },
     {
-      "ref": "Ref. 2566 | 2564 | 2565 | 2563",
+      "ref": "Ref.2565 | 2563",
       "slug": "antera",
       "name": "antera",
       "cover_img": "antera-02",
@@ -2748,7 +2751,7 @@
       "variations": []
     },
     {
-      "ref": "Ref.2554",
+      "ref": "Ref.2582",
       "slug": "eixo",
       "name": "eixo",
       "cover_img": "eixo-01",
@@ -3098,7 +3101,7 @@
       "ref": "PU.1136/1137/1138 MES.2577/2578/2583",
       "slug": "allure-puff",
       "name": "allure",
-      "cover_img": "firenze-puff-04",
+      "cover_img": "allure-01",
       "designer_name": "",
       "designer_slug": "",
       "category_slug": "mesa-puff",
