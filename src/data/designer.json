@@ -167,20 +167,6 @@
         "link": "/produtos/mesa-puff/petra"
       },
       {
-        "name": "escrivaninha sarai",
-        "nameEn": "sarai Writing desk",
-        "nameEs": "escritorio sarai",
-        "src": "sarai-esc-01",
-        "link": "/produtos/complemento/escrivaninha-sarai"
-      },
-      {
-        "name": "penteadeira sarai",
-        "nameEn": "sarai dressing table",
-        "nameEs": "tocador sarai",
-        "src": "sarai-pent-01",
-        "link": "/produtos/complemento/penteadeira-sarai"
-      },
-      {
         "name": "Mesa Lateral antera",
         "nameEn": "Maria Side Table",
         "nameEs": "Mesa Lateral antera",
@@ -381,13 +367,6 @@
         "link": "/produtos/luminarias/oroboro"
       },
       {
-        "name": "Luminária Remo",
-        "nameEn": "Remo Lighting",
-        "nameEs": "Luminaria Remo",
-        "src": "remo-01",
-        "link": "/produtos/luminarias/remo"
-      },
-      {
         "name": "Poltrona Abbraccio",
         "nameEn": "Abbraccio Armchair",
         "nameEs": "Sillón Abbraccio",
@@ -476,27 +455,6 @@
     "descriptionEn": "Tumar signs a partnership with the Architect Tascieny Brandão who has great inspiration in Brazilian Design. Praising the fine and elegant features, always seeking to contemplate the timelessness of the furniture. <br /><br />In all her work, she seeks the varied use of organic and geometric shapes, showing all the beauty and harmony of national furniture, resulting in the balance of form andfunction of each piece.",
     "descriptionEs": "Tumar firma una sociedad con el Arquitecto Tascieny Brandão, quien tiene gran inspiración en el Diseño Brasileño. Alabando los rasgos finos y elegantes, busca siempre contemplar la atemporalidad de los muebles.<br /><br /> En toda su obra busca el uso variado de formas orgánicas y geométricas, mostrando toda la belleza y armonía del mobiliario nacional, dando como resultado el equilibrio de forma y función de cada pieza.",
     "products": [
-      {
-        "name": "Poltrona Suspensa Afago",
-        "nameEn": "Afago Suspended Armchair",
-        "nameEs": "Sillón Suspendido Afago",
-        "src": "afago-02",
-        "link": "/produtos/poltronas/afago"
-      },
-      {
-        "name": "Poltrona afago e puf",
-        "nameEn": "Afago and ottoman Armchair",
-        "nameEs": "Sillón afago y puf",
-        "src": "afago-e-puf-01",
-        "link": "/produtos/poltronas/afago-e-puf"
-      },
-      {
-        "name": "Poltrona maia",
-        "nameEn": "maia Armchair",
-        "nameEs": "Sillón maia",
-        "src": "maia-01",
-        "link": "/produtos/poltronas/maia"
-      },
       {
         "name": "Poltrona Nara",
         "nameEn": "Nara Armchair",
@@ -634,13 +592,6 @@
         "nameEs": "Sillón vereda",
         "src": "vereda-01",
         "link": "/produtos/poltronas/vereda"
-      },
-      {
-        "name": "Vaso Domo",
-        "nameEn": "Domo Vase",
-        "nameEs": "Jarrón Domo",
-        "src": "domo-01",
-        "link": "/produtos/complemento/vaso-domo"
       }
     ]
   },
@@ -673,27 +624,6 @@
         "nameEs": "Sillón savói",
         "src": "savoi-01",
         "link": "/produtos/poltronas/savoi"
-      },
-      {
-        "name": "Cadeira Fit",
-        "nameEn": "Fit Chair",
-        "nameEs": "Silla Fit",
-        "src": "fit-02",
-        "link": "/produtos/cadeiras/fit"
-      },
-      {
-        "name": "Cadeira mia",
-        "nameEn": "mia Chair",
-        "nameEs": "Silla mia",
-        "src": "mia-01",
-        "link": "/produtos/cadeiras/mia"
-      },
-      {
-        "name": "Cadeira Petit",
-        "nameEn": "Petit Chair",
-        "nameEs": "Silla Petit",
-        "src": "petit-01",
-        "link": "/produtos/cadeiras/petit"
       },
       {
         "name": "Puf duo",

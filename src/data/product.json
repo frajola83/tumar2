@@ -1005,6 +1005,34 @@
       "variations": []
     },
     {
+      "ref": "Ref.3049",
+      "slug": "aura-lisa-cadeira",
+      "name": "aura lisa",
+      "cover_img": "aura-cad-lisa-01",
+      "designer_name": "",
+      "designer_slug": "",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
+      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered multi-layered wood. Painted tubular base.",
+      "descriptionEs": "Silla con estructura interna de madera multicapa tapizada con forma anatómica. Base tubular pintada.",
+      "measurementsEn": [
+        "32,67 x 23,22 x 22,83"
+      ],
+      "measurements": [
+        "830 x 590 x 580"
+      ],
+      "measurementsEs": [
+        "830 x 590 x 580"
+      ],
+      "images": [
+        "aura-cad-lisa-01"
+      ],
+      "ambients": [
+      ],
+      "variations": []
+    },
+    {
       "ref": "Ref.3034",
       "slug": "aura-plissada-cadeira",
       "name": "aura plissada",
@@ -1041,30 +1069,38 @@
       "variations": []
     },
     {
-      "ref": "Ref.3049",
-      "slug": "aura-lisa-cadeira",
-      "name": "aura lisa",
-      "cover_img": "aura-cad-lisa-01",
+      "ref": "Ref.2990",
+      "slug": "bella2",
+      "name": "Bella com Braço",
+      "nameEs:": "Bella con brazos",
+      "nameEn": "Bella with arms",
+      "cover_img": "bella-04",
       "designer_name": "",
       "designer_slug": "",
       "category_slug": "cadeiras",
       "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base tubular pintada.",
-      "descriptionEn": "Chair with internal structure in anatomically shaped, upholstered multi-layered wood. Painted tubular base.",
-      "descriptionEs": "Silla con estructura interna de madera multicapa tapizada con forma anatómica. Base tubular pintada.",
+      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base fixa em madeira tingida.",
+      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
+      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base fija en madera teñida.",
       "measurementsEn": [
-        "32,67 x 23,22 x 22,83"
+        "33,26 x 24,60 x 23,22"
       ],
       "measurements": [
-        "830 x 590 x 580"
+        "845 x 625 x 590"
       ],
       "measurementsEs": [
-        "830 x 590 x 580"
+        "845 x 625 x 590"
       ],
       "images": [
-        "aura-cad-lisa-01"
+        "bella-04",
+        "bella-03",
+        "bella-02"
       ],
       "ambients": [
+        "bella-amb-01",
+        "bella-amb-02",
+        "bella-amb-03",
+        "bella-amb-04"
       ],
       "variations": []
     },
@@ -1093,42 +1129,6 @@
       ],
       "images": [
         "bella-01"
-      ],
-      "ambients": [
-        "bella-amb-01",
-        "bella-amb-02",
-        "bella-amb-03",
-        "bella-amb-04"
-      ],
-      "variations": []
-    },
-    {
-      "ref": "Ref.2990",
-      "slug": "bella2",
-      "name": "Bella com Braço",
-      "nameEs:": "Bella con brazos",
-      "nameEn": "Bella with arms",
-      "cover_img": "bella-04",
-      "designer_name": "",
-      "designer_slug": "",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira com estrutura interna em multilaminado anatômico estofada. Base fixa em madeira tingida.",
-      "descriptionEn": "Upholstered chair with plywood seat and backrest. Stained wooden machined legs.",
-      "descriptionEs": "Silla con estructura interna en multilaminado anatómico tapizado. Base fija en madera teñida.",
-      "measurementsEn": [
-        "33,26 x 24,60 x 23,22"
-      ],
-      "measurements": [
-        "845 x 625 x 590"
-      ],
-      "measurementsEs": [
-        "845 x 625 x 590"
-      ],
-      "images": [
-        "bella-04",
-        "bella-03",
-        "bella-02"
       ],
       "ambients": [
         "bella-amb-01",
@@ -1770,6 +1770,39 @@
       "variations": []
     },
     {
+      "ref": "Ref.2963",
+      "slug": "sela",
+      "name": "sela",
+      "cover_img": "sela-04",
+      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
+      "designer_slug": "razzera",
+      "category_slug": "cadeiras",
+      "category_name": "cadeiras",
+      "description": "Cadeira estofada com estrutura interna do encosto hibrida e assento em multilaminado estofado. Base em madeira maciça tingida ",
+      "descriptionEn": "Upholstered chair with hybrid internal structure, plywood seat. Stained wooden machined legs.",
+      "descriptionEs": "Silla tapizada con estructura interna de respaldo híbrido y asiento tapizado en multilaminado. Base de madera maciza teñida.",
+      "concept":"Premiada no Salão de Design, a cadeira Sela faz um resgate do trabalho em couro, tradicional do homem do pampa gaúcho. A peça apresenta um desenho elegante sobre uma fina estrutura de aço com encosto em couro e pés em madeira maciça. A peça utiliza o couro como forma de valorizar o trabalho de selaria e mão de obra artesanal.",
+      "conceptEs":"Premiada en el Salón de Diseño, la silla Sela revive el trabajo en cuero, tradicional del hombre de la región pampeana de Rio Grande do Sul. La pieza presenta un diseño elegante sobre una fina estructura de acero con respaldo de cuero y patas de madera maciza. La pieza utiliza el cuero como forma de realzar la talabartería y el trabajo artesanal.",
+      "conceptEn":"Awarded at the Salão de Design, the Sela chair revives the traditional leatherworking of the Gaucho’s Pampas. The piece features an elegant design over a thin steel frame, with a leather backrest and solid wood legs. The leather is used to highlight saddlework and skilled craftsmanship.",
+      "measurementsEn": [
+        "31.10 x 25.78 x 23.81"
+      ],
+      "measurements": [
+        "790 x 655 x 605"
+      ],
+      "measurementsEs": [
+        "790 x 655 x 605"
+      ],
+      "images": [
+        "sela-04",
+        "sela-01",
+        "sela-02",
+        "sela-03"
+      ],
+      "ambients": [],
+      "variations": []
+    },
+    {
       "ref": "Ref.3022",
       "slug": "senda",
       "name": "senda",
@@ -1872,39 +1905,6 @@
         "soie-amb-14",
         "soie-amb-22"
       ],
-      "variations": []
-    },
-    {
-      "ref": "Ref.2963",
-      "slug": "sela",
-      "name": "sela",
-      "cover_img": "sela-04",
-      "designer_name": "Estúdio Razzera Ibanez + Lorenzo",
-      "designer_slug": "razzera",
-      "category_slug": "cadeiras",
-      "category_name": "cadeiras",
-      "description": "Cadeira estofada com estrutura interna do encosto hibrida e assento em multilaminado estofado. Base em madeira maciça tingida ",
-      "descriptionEn": "Upholstered chair with hybrid internal structure, plywood seat. Stained wooden machined legs.",
-      "descriptionEs": "Silla tapizada con estructura interna de respaldo híbrido y asiento tapizado en multilaminado. Base de madera maciza teñida.",
-      "concept":"Premiada no Salão de Design, a cadeira Sela faz um resgate do trabalho em couro, tradicional do homem do pampa gaúcho. A peça apresenta um desenho elegante sobre uma fina estrutura de aço com encosto em couro e pés em madeira maciça. A peça utiliza o couro como forma de valorizar o trabalho de selaria e mão de obra artesanal.",
-      "conceptEs":"Premiada en el Salón de Diseño, la silla Sela revive el trabajo en cuero, tradicional del hombre de la región pampeana de Rio Grande do Sul. La pieza presenta un diseño elegante sobre una fina estructura de acero con respaldo de cuero y patas de madera maciza. La pieza utiliza el cuero como forma de realzar la talabartería y el trabajo artesanal.",
-      "conceptEn":"Awarded at the Salão de Design, the Sela chair revives the traditional leatherworking of the Gaucho’s Pampas. The piece features an elegant design over a thin steel frame, with a leather backrest and solid wood legs. The leather is used to highlight saddlework and skilled craftsmanship.",
-      "measurementsEn": [
-        "31.10 x 25.78 x 23.81"
-      ],
-      "measurements": [
-        "790 x 655 x 605"
-      ],
-      "measurementsEs": [
-        "790 x 655 x 605"
-      ],
-      "images": [
-        "sela-04",
-        "sela-01",
-        "sela-02",
-        "sela-03"
-      ],
-      "ambients": [],
       "variations": []
     },
     {
@@ -2100,7 +2100,7 @@
       "variations": []
     },
     {
-      "ref": "BA.1435/1436",
+      "ref": "BA.1435",
       "slug": "amelie-banqueta",
       "name": "amelie",
       "cover_img": "amelie-banqueta-01",
@@ -2907,7 +2907,7 @@
       "variations": []
     },
     {
-      "ref": "MES.2547/2548",
+      "ref": "MES.2546/2547/2548",
       "slug": "lina",
       "name": "lina",
       "cover_img": "lina-01",
@@ -3002,7 +3002,7 @@
       "variations": []
     },
     {
-      "ref": "MES.2479",
+      "ref": "MES.2480",
       "slug": "starck",
       "name": "starck",
       "cover_img": "starck-02",
