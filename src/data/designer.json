@@ -630,7 +630,7 @@
         "nameEn": "fusion coffee Table",
         "nameEs": "Mesa centro fusion",
         "src": "fusion-centro-01",
-        "link": "/produtos/mesas-de-jantar/fusion-centro"
+        "link": "/produtos/mesas-laterais-centro/fusion-centro"
       },
       {
         "name": "Mesa de Jantar Turin",
@@ -644,14 +644,14 @@
         "nameEn": "allure table and Ottoman",
         "nameEs": "Puf y mesa allure",
         "src": "allure-01",
-        "link": "/produtos/puffs/allure-puff"
+        "link": "/produtos/mesa-puff/allure-puff"
       },
       {
         "name": "Mesa lateral fusion",
         "nameEn": "fusion side Table",
         "nameEs": "Mesa auxiliar fusion",
         "src": "fusion-lateral-01",
-        "link": "/produtos/mesas-de-jantar/fusion-lateral"
+        "link": "/produtos/mesas-laterais-centro/fusion-lateral"
       },
       {
         "name": "Poltrona brisa",
