@@ -118,18 +118,18 @@
         "link": "/produtos/cadeiras/noah-cadeira"
       },
       {
-        "name": "cadeira torii",
-        "nameEn": "torii chair",
-        "nameEs": "silla torii",
-        "src": "torii-cad-01",
-        "link": "/produtos/cadeiras/cadeira-torii"
-      },
-      {
         "name": "cadeira pétala",
         "nameEn": "pétala chair",
         "nameEs": "silla pétala",
         "src": "petala-cad-02",
         "link": "/produtos/cadeiras/petala-cadeira"
+      },
+      {
+        "name": "cadeira torii",
+        "nameEn": "torii chair",
+        "nameEs": "silla torii",
+        "src": "torii-cad-01",
+        "link": "/produtos/cadeiras/cadeira-torii"
       },
       {
         "name": "Carro Bar clave",
@@ -167,6 +167,20 @@
         "link": "/produtos/mesa-puff/petra"
       },
       {
+        "name": "mesa e puf cedro",
+        "nameEn": "cedro Ottoman and Table",
+        "nameEs": "mesa y puf cedro",
+        "src": "cedro-01",
+        "link": "/produtos/mesa-puff/cedro-puff"
+      },
+      {
+        "name": "mesa e puf firenze",
+        "nameEn": "Firenze Ottoman and Table",
+        "nameEs": "mesa y puf firenze",
+        "src": "firenze-puff-04",
+        "link": "/produtos/mesa-puff/firenze-puff"
+      },
+      {
         "name": "Mesa Lateral antera",
         "nameEn": "Maria Side Table",
         "nameEs": "Mesa Lateral antera",
@@ -186,20 +200,6 @@
         "nameEs": "Mesa Lateral Rhodes",
         "src": "rhodes-01",
         "link": "/produtos/mesas-laterais-centro/rhodes"
-      },
-      {
-        "name": "mesa e puf cedro",
-        "nameEn": "cedro Ottoman and Table",
-        "nameEs": "mesa y puf cedro",
-        "src": "cedro-01",
-        "link": "/produtos/mesa-puff/cedro-puff"
-      },
-      {
-        "name": "mesa e puf firenze",
-        "nameEn": "Firenze Ottoman and Table",
-        "nameEs": "mesa y puf firenze",
-        "src": "firenze-puff-04",
-        "link": "/produtos/mesa-puff/firenze-puff"
       },
       {
         "name": "poltrona ambar",
@@ -325,6 +325,13 @@
         "link": "/produtos/cadeiras/mitti"
       },
       {
+        "name": "Cadeira Sela",
+        "nameEn": "Sela Chair",
+        "nameEs": "Silla Sela",
+        "src": "sela-04",
+        "link": "/produtos/cadeiras/sela"
+      },
+      {
         "name": "Cadeira senda",
         "nameEn": "senda Chair",
         "nameEs": "Silla senda",
@@ -337,13 +344,6 @@
         "nameEs": "Silla Skin",
         "src": "skin-02",
         "link": "/produtos/cadeiras/skin"
-      },
-      {
-        "name": "Cadeira Sela",
-        "nameEn": "Sela Chair",
-        "nameEs": "Silla Sela",
-        "src": "sela-04",
-        "link": "/produtos/cadeiras/sela"
       },
       {
         "name": "Cadeira sotille",
@@ -372,6 +372,13 @@
         "nameEs": "Luminaria Oroboro",
         "src": "oroboro-1",
         "link": "/produtos/luminarias/oroboro"
+      },
+      {
+        "name": "Poltrona /Puf Trenta",
+        "nameEn": "Trenta Armchair /Puf",
+        "nameEs": "Sillón trenta",
+        "src": "trenta-03",
+        "link": "/produtos/poltronas/trenta"
       },
       {
         "name": "Poltrona Abbraccio",
@@ -442,13 +449,6 @@
         "nameEs": "Sillón toro",
         "src": "toro-01",
         "link": "/produtos/poltronas/toro"
-      },
-      {
-        "name": "Poltrona /Puf Trenta",
-        "nameEn": "Trenta Armchair /Puf",
-        "nameEs": "Sillón trenta",
-        "src": "trenta-03",
-        "link": "/produtos/poltronas/trenta"
       }
     ]
   },
@@ -463,6 +463,20 @@
     "descriptionEs": "Tumar firma una sociedad con el Arquitecto Tascieny Brandão, quien tiene gran inspiración en el Diseño Brasileño. Alabando los rasgos finos y elegantes, busca siempre contemplar la atemporalidad de los muebles.<br /><br /> En toda su obra busca el uso variado de formas orgánicas y geométricas, mostrando toda la belleza y armonía del mobiliario nacional, dando como resultado el equilibrio de forma y función de cada pieza.",
     "products": [
       {
+        "name": "espelho metamorfose",
+        "nameEn": "Metamorfose mirror",
+        "nameEs": "Espejo Metamorfose",
+        "src": "metamorfose-01",
+        "link": "/produtos/complemento/metamorfose"
+      },
+      {
+        "name": "Mesa de Centro gota",
+        "nameEn": "gota coffee Table",
+        "nameEs": "Mesa de Centro gota",
+        "src": "gota-01",
+        "link": "/produtos/mesas-laterais-centro/gota"
+      },
+      {
         "name": "Poltrona Nara",
         "nameEn": "Nara Armchair",
         "nameEs": "Sillón Nara",
@@ -475,20 +489,6 @@
         "nameEs": "Puf Moon",
         "src": "moon-puff-01",
         "link": "/produtos/puffs/moon"
-      },
-      {
-        "name": "Mesa de Centro gota",
-        "nameEn": "gota coffee Table",
-        "nameEs": "Mesa de Centro gota",
-        "src": "gota-01",
-        "link": "/produtos/mesas-laterais-centro/gota"
-      },
-      {
-        "name": "espelho metamorfose",
-        "nameEn": "Metamorfose mirror",
-        "nameEs": "Espejo Metamorfose",
-        "src": "metamorfose-01",
-        "link": "/produtos/complemento/metamorfose"
       }
     ]
   },
@@ -522,6 +522,13 @@
         "nameEs": "Silla su",
         "src": "su-01",
         "link": "/produtos/cadeiras/su"
+      },
+      {
+        "name": "Mesa de Jantar leme",
+        "nameEn": "leme Table",
+        "nameEs": "Mesa de Comedor leme",
+        "src": "leme-01",
+        "link": "/produtos/mesas-de-jantar/leme"
       },
       {
         "name": "Mesa Lateral bass",
@@ -559,13 +566,6 @@
         "link": "/produtos/mesas-laterais-centro/lina"
       },
       {
-        "name": "Mesa de Jantar leme",
-        "nameEn": "leme Table",
-        "nameEs": "Mesa de Comedor leme",
-        "src": "leme-01",
-        "link": "/produtos/mesas-de-jantar/leme"
-      },
-      {
         "name": "Poltrona delta",
         "nameEn": "delta Armchair",
         "nameEs": "Sillón delta",
@@ -587,6 +587,13 @@
         "link": "/produtos/poltronas/dot"
       },
       {
+        "name": "Poltrona e Puf Muar",
+        "nameEn": "Muar Armchair and Ottoman",
+        "nameEs": "Sillón y puf muar",
+        "src": "muar-01",
+        "link": "/produtos/poltronas/muar"
+      },
+      {
         "name": "Poltrona goat",
         "nameEn": "goat Armchair",
         "nameEs": "Sillón goat",
@@ -599,13 +606,6 @@
         "nameEs": "Sillón goofy",
         "src": "goofy-01",
         "link": "/produtos/poltronas/goofy"
-      },
-      {
-        "name": "Poltrona e Puf Muar",
-        "nameEn": "Muar Armchair and Ottoman",
-        "nameEs": "Sillón y puf muar",
-        "src": "muar-01",
-        "link": "/produtos/poltronas/muar"
       },
       {
         "name": "Poltrona vereda",
@@ -626,39 +626,11 @@
     "descriptionEs": "Creatividad, talento y foco en la creación, Studio T92, idealiza piezas con diseño, esencia y pluralidad.",
     "products": [
       {
-        "name": "Poltrona e Puf Jangada",
-        "nameEn": "Jangada Armchair and Ottoman",
-        "nameEs": "Sillón/Puf Jangada",
-        "src": "jangada-01-",
-        "link": "/produtos/poltronas/jangada"
-      },
-      {
-        "name": "Poltrona brisa",
-        "nameEn": "brisa Armchair",
-        "nameEs": "Sillón brisa",
-        "src": "brisa-01",
-        "link": "/produtos/poltronas/brisa"
-      },
-      {
-        "name": "Poltrona savói",
-        "nameEn": "savói Armchair",
-        "nameEs": "Sillón savói",
-        "src": "savoi-01",
-        "link": "/produtos/poltronas/savoi"
-      },
-      {
-        "name": "Mesa e Puf Allure",
-        "nameEn": "allure table and Ottoman",
-        "nameEs": "Puf y mesa allure",
-        "src": "allure-01",
-        "link": "/produtos/puffs/allure-puff"
-      },
-      {
-        "name": "Puf duo",
-        "nameEn": "duo Ottoman",
-        "nameEs": "Puf duo",
-        "src": "duo-01",
-        "link": "/produtos/puffs/duo"
+        "name": "Mesa centro fusion",
+        "nameEn": "fusion coffee Table",
+        "nameEs": "Mesa centro fusion",
+        "src": "fusion-centro-01",
+        "link": "/produtos/mesas-de-jantar/fusion-centro"
       },
       {
         "name": "Mesa de Jantar Turin",
@@ -668,11 +640,11 @@
         "link": "/produtos/mesas-de-jantar/turin"
       },
       {
-        "name": "Mesa centro fusion",
-        "nameEn": "fusion coffee Table",
-        "nameEs": "Mesa centro fusion",
-        "src": "fusion-centro-01",
-        "link": "/produtos/mesas-de-jantar/fusion-centro"
+        "name": "Mesa e Puf Allure",
+        "nameEn": "allure table and Ottoman",
+        "nameEs": "Puf y mesa allure",
+        "src": "allure-01",
+        "link": "/produtos/puffs/allure-puff"
       },
       {
         "name": "Mesa lateral fusion",
@@ -680,6 +652,34 @@
         "nameEs": "Mesa auxiliar fusion",
         "src": "fusion-lateral-01",
         "link": "/produtos/mesas-de-jantar/fusion-lateral"
+      },
+      {
+        "name": "Poltrona brisa",
+        "nameEn": "brisa Armchair",
+        "nameEs": "Sillón brisa",
+        "src": "brisa-01",
+        "link": "/produtos/poltronas/brisa"
+      },
+      {
+        "name": "Poltrona e Puf Jangada",
+        "nameEn": "Jangada Armchair and Ottoman",
+        "nameEs": "Sillón/Puf Jangada",
+        "src": "jangada-01-",
+        "link": "/produtos/poltronas/jangada"
+      },
+      {
+        "name": "Poltrona savói",
+        "nameEn": "savói Armchair",
+        "nameEs": "Sillón savói",
+        "src": "savoi-01",
+        "link": "/produtos/poltronas/savoi"
+      },
+      {
+        "name": "Puf duo",
+        "nameEn": "duo Ottoman",
+        "nameEs": "Puf duo",
+        "src": "duo-01",
+        "link": "/produtos/puffs/duo"
       }
     ]
   }
