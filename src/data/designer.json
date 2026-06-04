@@ -276,6 +276,13 @@
         "link": "/produtos/cadeiras/coral-cadeira"
       },
       {
+        "name": "Cadeira evora",
+        "nameEn": "evora Chair",
+        "nameEs": "Silla evora",
+        "src": "evora-06",
+        "link": "/produtos/cadeiras/evora-cadeira"
+      },
+      {
         "name": "Cadeira foz",
         "nameEn": "Foz Chair",
         "nameEs": "Silla foz",
@@ -517,6 +524,13 @@
         "link": "/produtos/cadeiras/su"
       },
       {
+        "name": "Mesa Lateral bass",
+        "nameEn": "bass Side Table",
+        "nameEs": "Mesa Lateral bass",
+        "src": "bass-01",
+        "link": "/produtos/mesas-laterais-centro/bass"
+      },
+      {
         "name": "Mesa Lateral brut",
         "nameEn": "brut Side Table",
         "nameEs": "Mesa Lateral brut",
@@ -529,6 +543,13 @@
         "nameEs": "Mesa Lateral doppio",
         "src": "doppio-04",
         "link": "/produtos/mesas-laterais-centro/doppio-madeira"
+      },
+      {
+        "name": "Mesa Lateral eixo",
+        "nameEn": "eixo Side Table",
+        "nameEs": "Mesa Lateral eixo",
+        "src": "eixo-01",
+        "link": "/produtos/mesas-laterais-centro/eixo"
       },
       {
         "name": "Mesa Lateral lina",
@@ -626,6 +647,13 @@
         "link": "/produtos/poltronas/savoi"
       },
       {
+        "name": "Puf Mesa Allure",
+        "nameEn": "allure table and Ottoman",
+        "nameEs": "Puf y mesa allure",
+        "src": "allure-01",
+        "link": "/produtos/puffs/allure-puff"
+      },
+      {
         "name": "Puf duo",
         "nameEn": "duo Ottoman",
         "nameEs": "Puf duo",
@@ -638,6 +666,20 @@
         "nameEs": "Mesa de Comedor Turin",
         "src": "turin-01",
         "link": "/produtos/mesas-de-jantar/turin"
+      },
+      {
+        "name": "Mesa centro fusion",
+        "nameEn": "fusion coffee Table",
+        "nameEs": "Mesa centro fusion",
+        "src": "fusion-centro-01",
+        "link": "/produtos/mesas-de-jantar/fusion-centro"
+      },
+      {
+        "name": "Mesa lateral fusion",
+        "nameEn": "fusion side Table",
+        "nameEs": "Mesa auxiliar fusion",
+        "src": "fusion-lateral-01",
+        "link": "/produtos/mesas-de-jantar/fusion-lateral"
       }
     ]
   }
