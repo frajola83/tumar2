@@ -10,4 +10,4 @@ export const StyledLogoImg = styled.img`
   width: 150px;
   /* ${breakpoints("width", ["150px", "150px", "150px", "214px"])} */
 `
-export const LogoImg = () => <StyledLogoImg src={logoImg} alt="Tumar Design" />
+export const LogoImg = () => <StyledLogoImg src={logoImg} alt="Tumar" />

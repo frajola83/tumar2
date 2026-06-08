@@ -20,7 +20,7 @@ class SlideShowComponent extends React.Component<SlideShowComponentProps> {
         <div key={productImage}>
           <ImgProvider
             fileName={`${productImage}.jpg`}
-            alt="Tumar design"
+            alt="Tumar"
             style={{ width: "100%", display: "block" }}
           />
         </div>

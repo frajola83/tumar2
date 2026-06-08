@@ -53,7 +53,7 @@ export const Footer: React.FC = () => {
         <FooterDesktopContent />
         <CopyRight>
           <CopyRightText>
-            © Copyright 2021 Tumar Design. Por
+            © Copyright 2021 Tumar. Por
             <ThmtLink href="http://thematica.com.br">
               <ThmtLogo src={thmtLogo} />
             </ThmtLink>

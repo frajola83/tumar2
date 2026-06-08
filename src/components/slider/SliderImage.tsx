@@ -8,7 +8,7 @@ interface SliderImageProps {
 }
 
 export const SliderImage: React.FC<SliderImageProps> = ({
-  alt = "Tumar Design - todos os direitos reservados",
+  alt = "Tumar - todos os direitos reservados",
 }) => {
   return (
     <StaticQuery
