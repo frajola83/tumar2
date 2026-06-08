@@ -72,6 +72,30 @@ export const plugins = [
       display: "swap",
     },
   },
+  {
+    resolve: `gatsby-plugin-sitemap`,
+    options: {
+      output: `/sitemap.xml`,
+      query: `{
+        site {
+          siteMetadata {
+            siteUrl
+          }
+        }
+        allSitePage {
+          nodes {
+            path
+          }
+        }
+      }`,
+      serialize: ({ site, allSitePage }) =>
+        allSitePage.nodes.map(node => ({
+          url: `${site.siteMetadata.siteUrl}${node.path}`,
+          changefreq: `weekly`,
+          priority: 0.7,
+        })),
+    },
+  },
   // this (optional) plugin enables Progressive Web App + Offline functionality
   // To learn more, visit: https://gatsby.dev/offline
   // `gatsby-plugin-offline`,

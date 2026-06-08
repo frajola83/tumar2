@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+Disallow: /.cache/
+Disallow: /node_modules/
+
+Sitemap: https://www.tumar.com.br/sitemap.xml
