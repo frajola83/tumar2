@@ -1,8 +1,8 @@
 export const siteMetadata = {
-  title: `Gatsby Default Starter`,
+  title: `Tumar`,
   description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
   author: `@gatsbyjs`,
-  siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+  siteUrl: `https://www.tumar.com.br`,
 }
 
 export const plugins = [
@@ -36,8 +36,8 @@ export const plugins = [
   {
     resolve: `gatsby-plugin-manifest`,
     options: {
-      name: `gatsby-starter-default`,
-      short_name: `starter`,
+      name: `Tumar`,
+      short_name: `Tumar`,
       start_url: `/`,
       background_color: `#663399`,
       // This will impact how browsers show your PWA/website
