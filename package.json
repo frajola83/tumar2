@@ -35,7 +35,8 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.25",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "ts-node": "^10.9.2"
   },
   "keywords": [
     "gatsby"
