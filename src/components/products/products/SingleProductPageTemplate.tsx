@@ -33,6 +33,10 @@ const RefContainer = styled.span`
   font-size: 18px;
   margin-left: 10px;
   display: inline-block;
+
+  @media screen and (min-width: 576px) {
+    margin-left: 0;
+  }
 `
 
 interface AmbientProps {
