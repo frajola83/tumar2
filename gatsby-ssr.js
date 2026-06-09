@@ -25,3 +25,37 @@ exports.onRenderBody = ({ setHeadComponents }) => {
 		React.createElement("link", { key: "canonical", rel: "canonical", href: siteUrl }),
 	])
 }
+
+// Remove alternate language hreflang links injected by gatsby-plugin-react-i18next
+exports.onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents, pathname }) => {
+	const filteredHeadComponents = getHeadComponents().filter(
+		(node) => !(node.type === "link" && node.props && node.props.rel === "alternate" && node.props.hrefLang)
+	)
+
+	const allowedPaths = [
+		/^\/$/, // home
+		/^\/[a-z]{2}\/?$/, // home translations like /en/ or /es/
+		/^\/produtos\/?$/,
+		/^\/sobre-a-tumar\/?$/,
+		/^\/contato\/?$/,
+		/^\/[a-z]{2}\/produtos\/?$/,
+		/^\/[a-z]{2}\/sobre-a-tumar\/?$/,
+		/^\/[a-z]{2}\/contato\/?$/,
+	]
+
+	const isAllowedPage = allowedPaths.some((pattern) => pattern.test(pathname))
+
+	const finalHeadComponents = [...filteredHeadComponents]
+
+	if (!isAllowedPage) {
+		finalHeadComponents.push(
+			React.createElement("meta", {
+				key: "robots-noindex",
+				name: "robots",
+				content: "noindex",
+			})
+		)
+	}
+
+	replaceHeadComponents(finalHeadComponents)
+}

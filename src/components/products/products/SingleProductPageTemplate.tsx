@@ -31,6 +31,8 @@ import { ProductConcept } from "./ProductConcept"
 const RefContainer = styled.span`
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
+  margin-left: 10px;
+  display: inline-block;
 `
 
 interface AmbientProps {

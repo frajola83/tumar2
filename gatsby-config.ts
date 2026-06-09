@@ -76,6 +76,39 @@ export const plugins = [
     resolve: `gatsby-plugin-sitemap`,
     options: {
       output: `/sitemap.xml`,
+      query: `
+        {
+          site {
+            siteMetadata {
+              siteUrl
+            }
+          }
+          allSitePage(filter: { path: { in: [
+            "/",
+            "/produtos/",
+            "/sobre-a-tumar/",
+            "/contato/",
+            "/en/",
+            "/en/produtos/",
+            "/en/sobre-a-tumar/",
+            "/en/contato/",
+            "/es/",
+            "/es/produtos/",
+            "/es/sobre-a-tumar/",
+            "/es/contato/"
+          ] } }) {
+            nodes {
+              path
+            }
+          }
+        }
+      `,
+      serialize: ({ site, allSitePage }) =>
+        allSitePage.nodes.map((node: { path: string }) => ({
+          url: `${site.siteMetadata.siteUrl}${node.path}`,
+          changefreq: `weekly`,
+          priority: 0.7,
+        })),
     },
   },
   // this (optional) plugin enables Progressive Web App + Offline functionality

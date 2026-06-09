@@ -36,8 +36,12 @@ const InfoContainer = styled(Flex)`
 `
 
 const ProductTitleContainerMobile = styled(Flex)`
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 16px;
   ${breakpoints("display", ["flex", "none", "none", "none"])}
+  ${breakpoints("flex-direction", ["column", "row", "row", "row"])}
+  ${breakpoints("gap", ["16px", "0", "0", "0"])}
+  ${breakpoints("justify-content", ["flex-start", "space-between", "space-between", "space-between"])}
 `
 
 const ProductTitleContainerDesktop = styled(Flex)`
@@ -64,6 +68,7 @@ const ProductTitle = styled.h1`
   font-size: 18px;
   margin-bottom: ${props => props.theme.gap / 2}px;
   ${breakpoints("font-size", ["22px", "28px", "28px", "34px"])}
+  ${breakpoints("margin-bottom", ["12px", "10px", "10px", "10px"])}
 `
 const Designer = styled(LinkCta)`
   padding: 10px;
@@ -78,6 +83,8 @@ const Designer = styled(LinkCta)`
 
 const DesignerContainer = styled(Flex)`
   height: 33px;
+  margin-bottom: 20px;
+  ${breakpoints("margin-bottom", ["0", "0", "0", "0"])}
 `
 
 const DescriptionTitle = styled.h3`
