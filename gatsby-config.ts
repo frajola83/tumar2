@@ -83,32 +83,34 @@ export const plugins = [
               siteUrl
             }
           }
-          allSitePage(filter: { path: { in: [
-            "/",
-            "/produtos/",
-            "/sobre-a-tumar/",
-            "/contato/",
-            "/en/",
-            "/en/produtos/",
-            "/en/sobre-a-tumar/",
-            "/en/contato/",
-            "/es/",
-            "/es/produtos/",
-            "/es/sobre-a-tumar/",
-            "/es/contato/"
-          ] } }) {
+          allSitePage {
             nodes {
               path
             }
           }
         }
       `,
-      serialize: ({ site, allSitePage }) =>
-        allSitePage.nodes.map((node: { path: string }) => ({
-          url: `${site.siteMetadata.siteUrl}${node.path}`,
-          changefreq: `weekly`,
-          priority: 0.7,
-        })),
+      resolvePages: (data: any) => {
+        const allowedPaths = new Set([
+          "/",
+          "/produtos/",
+          "/sobre-a-tumar/",
+          "/contato/",
+          "/en/",
+          "/en/produtos/",
+          "/en/sobre-a-tumar/",
+          "/en/contato/",
+          "/es/",
+          "/es/produtos/",
+          "/es/sobre-a-tumar/",
+          "/es/contato/",
+        ])
+
+        return data.allSitePage.nodes.filter((node: { path: string }) => {
+          const path = node.path.endsWith("/") ? node.path : `${node.path}/`
+          return allowedPaths.has(path)
+        })
+      },
     },
   },
   // this (optional) plugin enables Progressive Web App + Offline functionality
