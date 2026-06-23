@@ -14,6 +14,16 @@ import {
 
 interface ProductQueryResult {}
 
+export const createSchemaCustomization: GatsbyNode["createSchemaCustomization"] = ({
+  actions,
+}) => {
+  actions.createTypes(`
+    type ProductJson implements Node {
+      warehouseUrl: String
+    }
+  `)
+}
+
 export const createPages: GatsbyNode["createPages"] = async ({
   actions,
   graphql,

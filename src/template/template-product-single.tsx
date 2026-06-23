@@ -37,6 +37,7 @@ export const pageQuery = graphql`
       concept
       conceptEs
       conceptEn
+      warehouseUrl
     }
     locales: allLocale(filter: { language: { eq: $language } }) {
       edges {

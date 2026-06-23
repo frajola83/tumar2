@@ -64,6 +64,7 @@ export interface Product {
   concept?: string
   conceptEn?: string
   conceptEs?: string
+  warehouseUrl?: string
 }
 
 export type CategoryNode = {

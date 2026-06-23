@@ -123,6 +123,40 @@ const MeasurementHelp = styled.p`
   /* opacity: .6; */
 `
 
+const ProductExternalLink = styled.a`
+  align-self: flex-start;
+  background: transparent;
+  border: 1px solid ${props => props.theme.colors.darkGrey};
+  border-radius: 16px;
+  color: ${props => props.theme.colors.darkGrey};
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  height: 36px;
+  line-height: 1;
+  margin-top: ${props => props.theme.gap}px;
+  padding: 0 24px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.3s all ease-in-out;
+  width: 230px;
+  max-width: 100%;
+  cursor: pointer;
+  &:hover {
+    background-color: #111;
+    color: #fff;
+  }
+
+  img {
+    display: block;
+    width: 26px;
+    height: auto;
+  }
+`
+
 const AmbientsWrapper = styled(Flex)`
   flex-direction: column;
   margin-top: ${props => props.theme.gap * 2}px;
@@ -164,5 +198,6 @@ export {
   ProductTitleContent,
   Designative,
   ProductTitle,
-  MeasurementHelp
+  MeasurementHelp,
+  ProductExternalLink
 }

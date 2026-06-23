@@ -2,6 +2,7 @@ import { I18nextContext, useTranslation } from "gatsby-plugin-react-i18next"
 import React, { useContext } from "react"
 import styled from "styled-components"
 import { Product } from "../../../interfaces"
+import WarehouseIcon from "../../../images/3dwarehouse.png"
 import { Container } from "../../common/layout/Boxes"
 import { ProductComponentSimple } from "./ProductComponentSimple"
 import ProductSlideShow from "./ProductSlider"
@@ -19,6 +20,7 @@ import {
   MeasurementsSubTitle,
   MeasurementsText,
   PageWrapper,
+  ProductExternalLink,
   ProductTitle,
   ProductTitleContainerDesktop,
   ProductTitleContainerMobile,
@@ -82,6 +84,7 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
     nameEs_,
     ref,
     slug,
+    warehouseUrl,
   } = product
 
   const { t } = useTranslation()
@@ -191,6 +194,16 @@ export const SingleProcuctPageTemplate:React.FC<Props> = ({product}) => {
             <MeasurementHelp>
               {t("pages.productSingle.measurementsCaption")}.
             </MeasurementHelp>
+            {warehouseUrl ? (
+              <ProductExternalLink
+                href={warehouseUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span>3D WAREHOUSE</span>
+                <img src={WarehouseIcon} alt="" />
+              </ProductExternalLink>
+            ) : null}
           </InfoContainer>
         </TopWrapper>
         {!!product.concept && <div>
