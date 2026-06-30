@@ -127,7 +127,7 @@ const ProductExternalLink = styled.a`
   align-self: flex-start;
   background: transparent;
   border: 1px solid ${props => props.theme.colors.darkGrey};
-  border-radius: 16px;
+  border-radius: 0;
   color: ${props => props.theme.colors.darkGrey};
   display: flex;
   align-items: center;
